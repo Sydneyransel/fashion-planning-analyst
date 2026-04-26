@@ -1,0 +1,5 @@
+pytrends==4.9.2
+snowflake-connector-python==3.12.2
+pandas==2.2.2
+dbt-snowflake==1.8.2
+python-dotenv==1.0.1
