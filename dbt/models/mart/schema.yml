@@ -1,0 +1,41 @@
+version: 2
+
+models:
+  - name: dim_category
+    description: "SKIMS product categories with group classification"
+    columns:
+      - name: category_key
+        tests:
+          - unique
+          - not_null
+      - name: keyword
+        tests:
+          - not_null
+
+  - name: dim_date
+    description: "Date dimension by week"
+    columns:
+      - name: date_key
+        tests:
+          - unique
+          - not_null
+      - name: week_start
+        tests:
+          - not_null
+
+  - name: fact_weekly_interest
+    description: "Weekly Google Trends interest scores for SKIMS-related keywords"
+    columns:
+      - name: interest_key
+        tests:
+          - unique
+          - not_null
+      - name: category_key
+        tests:
+          - not_null
+      - name: date_key
+        tests:
+          - not_null
+      - name: interest_score
+        tests:
+          - not_null
