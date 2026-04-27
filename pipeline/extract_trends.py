@@ -17,15 +17,6 @@ KEYWORD_BATCHES = [
     ["skims", "loungewear", "pajamas", "swim"],
 ]
 
-CREATE_TABLE_SQL = """
-CREATE TABLE IF NOT EXISTS GOOGLE_TRENDS_WEEKLY (
-    keyword        VARCHAR,
-    week_start     DATE,
-    interest_score INTEGER,
-    loaded_at      TIMESTAMP_NTZ
-)
-"""
-
 
 def fetch_batch(keywords: list) -> pd.DataFrame:
     pytrends = TrendReq(hl="en-US", tz=360)
@@ -42,7 +33,7 @@ def fetch_batch(keywords: list) -> pd.DataFrame:
     return df
 
 
-def load_to_snowflake(conn, df: pd.DataFrame) -> int:
+def load_to_snowflake(conn, df: pd.DataFrame, table: str) -> int:
     loaded_at = datetime.now(timezone.utc)
     rows = [
         (row["keyword"], str(row["week_start"]), int(row["interest_score"]), loaded_at)
@@ -50,7 +41,7 @@ def load_to_snowflake(conn, df: pd.DataFrame) -> int:
     ]
     cur = conn.cursor()
     cur.executemany(
-        "INSERT INTO GOOGLE_TRENDS_WEEKLY (keyword, week_start, interest_score, loaded_at) "
+        f"INSERT INTO {table} (keyword, week_start, interest_score, loaded_at) "
         "VALUES (%s, %s, %s, %s)",
         rows,
     )
@@ -59,13 +50,26 @@ def load_to_snowflake(conn, df: pd.DataFrame) -> int:
 
 
 def main():
+    db = os.environ["SNOWFLAKE_DATABASE"]
+    schema = os.environ["SNOWFLAKE_SCHEMA"]
+    table = f"{db}.{schema}.GOOGLE_TRENDS_WEEKLY"
+
     print("Setting up Snowflake infrastructure...")
     setup_snowflake()
 
     conn = get_connection()
     cur = conn.cursor()
-    cur.execute(CREATE_TABLE_SQL)
-    cur.execute("TRUNCATE TABLE IF EXISTS GOOGLE_TRENDS_WEEKLY")
+    cur.execute(f"USE DATABASE {db}")
+    cur.execute(f"USE SCHEMA {db}.{schema}")
+    cur.execute(f"""
+        CREATE TABLE IF NOT EXISTS {table} (
+            keyword        VARCHAR,
+            week_start     DATE,
+            interest_score INTEGER,
+            loaded_at      TIMESTAMP_NTZ
+        )
+    """)
+    cur.execute(f"TRUNCATE TABLE IF EXISTS {table}")
     cur.close()
 
     all_frames = []
@@ -82,7 +86,7 @@ def main():
 
     combined = pd.concat(all_frames, ignore_index=True)
     print(f"Loading {len(combined)} rows to Snowflake...")
-    nrows = load_to_snowflake(conn, combined)
+    nrows = load_to_snowflake(conn, combined, table)
     conn.close()
     print(f"Done. Loaded {nrows} rows.")
 
