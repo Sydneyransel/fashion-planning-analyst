@@ -3,3 +3,4 @@ snowflake-connector-python>=3.0
 pandas>=2.0
 dbt-snowflake>=1.8
 python-dotenv>=1.0
+requests>=2.31
