@@ -31,6 +31,7 @@ PRESS_SEARCHES = [
     ("SKIMS store expansion retail", "wwd.com", "wwd.com"),
     ("SKIMS Kim Kardashian billion dollar brand", "forbes.com", "forbes.com"),
     ("SKIMS shapewear brand review", "harpersbazaar.com", "harpersbazaar.com"),
+    ("SKIMS shapewear brand", "whowhatwear.com", "whowhatwear.com"),
     ("SKIMS", "reddit.com/r/skims", "reddit"),
 ]
 
@@ -75,12 +76,15 @@ def search_and_scrape(query: str, site: str, source_type: str) -> dict | None:
         return None
     top = results[0]
     url = top.get("url", "")
-    return {
-        "url": url,
-        "title": top.get("metadata", {}).get("title", top.get("title", "")),
-        "markdown": top.get("markdown", ""),
-        "source_type": source_type,
-    }
+    if not url:
+        return None
+    # Search results don't include body — scrape the URL directly
+    scraped = scrape_url(url)
+    if not scraped.get("markdown", "").strip():
+        print(f"  Empty content (likely paywalled): {url}")
+        return None
+    scraped["source_type"] = source_type
+    return scraped
 
 
 def save(result: dict, source_type: str):
