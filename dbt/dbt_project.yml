@@ -1,0 +1,16 @@
+name: skims_analytics
+version: "1.0.0"
+config-version: 2
+
+profile: skims_analytics
+
+model-paths: ["models"]
+test-paths: ["tests"]
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  skims_analytics:
+    staging:
+      +materialized: view
+    mart:
+      +materialized: table
