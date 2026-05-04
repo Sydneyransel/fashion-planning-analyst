@@ -77,7 +77,7 @@ erDiagram
 
 ## Dashboard Preview
 
-*Screenshot — see live URL below.*
+![Dashboard Preview](docs/dashboard-preview.png)
 
 ## Key Insights
 
