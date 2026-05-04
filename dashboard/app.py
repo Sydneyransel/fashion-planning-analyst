@@ -36,7 +36,6 @@ CHART_LAYOUT = dict(
 )
 
 
-@st.cache_resource
 def get_connection():
     try:
         creds = st.secrets
@@ -74,6 +73,7 @@ def load_data() -> pd.DataFrame:
     rows = cur.fetchall()
     cols = [desc[0].lower() for desc in cur.description]
     cur.close()
+    conn.close()
     df = pd.DataFrame(rows, columns=cols)
     df["week_start"] = pd.to_datetime(df["week_start"])
     return df
