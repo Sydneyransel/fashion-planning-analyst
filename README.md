@@ -81,11 +81,11 @@ erDiagram
 
 ## Key Insights
 
-**Descriptive (what happened?):** Shapewear drives the highest sustained demand of all SKIMS categories — consistently 2–3x the interest score of swim and loungewear, with a clear November peak every year.
+**Descriptive (what happened?):** Swim leads all SKIMS categories at 47/100 average interest — peaking at 66/100 in summer, 74% above its winter baseline. Dress is SKIMS' fastest-growing category, rising from 32/100 in 2021 to 56/100 in 2026 — a 75% increase over five years.
 
-**Diagnostic (why did it happen?):** Q4 shapewear spikes align with holiday gifting cycles, not individual campaigns — the pattern repeats identically across 5 years regardless of marketing activity, indicating structural seasonal demand.
+**Diagnostic (why did it happen?):** Swim demand is calendar-driven, not campaign-driven: Spring 55 → Summer 66 → Fall 29 → Winter 38. The pattern repeats each year, making it highly forecastable. Dress growth is structural — trending upward year-round — signaling that SKIMS' ready-to-wear expansion is gaining lasting traction beyond seasonal cycles.
 
-**Recommendation:** Front-load shapewear inventory builds by October → capture full Q4 demand without stockouts during the highest-revenue window.
+**Recommendation:** Build swim inventory by March to capture the Spring-to-Summer surge (55→66/100) → eliminate summer stockout risk during the peak demand window. Increase dress open-to-buy annually to track the category's 5-year structural growth trajectory.
 
 ## Live Dashboard
 
