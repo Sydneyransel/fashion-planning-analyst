@@ -81,11 +81,11 @@ erDiagram
 
 ## Key Insights
 
-**Descriptive (what happened?):** Swim leads all SKIMS categories at 47/100 average interest — peaking at 66/100 in summer, 74% above its winter baseline. Dress is SKIMS' fastest-growing category, rising from 32/100 in 2021 to 56/100 in 2026 — a 75% increase over five years.
+**Descriptive (what happened?):** Swim is the demand leader across all tracked categories — averaging 47/100 and peaking at 66/100 in summer. The same spike appears in the same window for 5 consecutive years, driven by weather and vacation cycles rather than any single campaign.
 
-**Diagnostic (why did it happen?):** Swim demand is calendar-driven, not campaign-driven: Spring 55 → Summer 66 → Fall 29 → Winter 38. The pattern repeats each year, making it highly forecastable. Dress growth is structural — trending upward year-round — signaling that SKIMS' ready-to-wear expansion is gaining lasting traction beyond seasonal cycles.
+**Diagnostic (why did it happen?):** Swim demand is calendar-driven, not campaign-driven: Winter 38 → Spring 55 → Summer 66 → Fall 29. The 74% swing from winter baseline to summer peak repeats on the same schedule every year, making it highly forecastable. Note: scores reflect market-level search demand, not SKIMS-specific sales data.
 
-**Recommendation:** Build swim inventory by March to capture the Spring-to-Summer surge (55→66/100) → eliminate summer stockout risk during the peak demand window. Increase dress open-to-buy annually to track the category's 5-year structural growth trajectory.
+**Recommendation:** Build swim inventory by March to capture the Spring-to-Summer surge (55→66/100) → eliminate stockout risk during the highest-demand window of the year.
 
 ## Live Dashboard
 
