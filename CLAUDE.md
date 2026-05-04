@@ -86,7 +86,7 @@ The `knowledge/` folder contains raw scraped sources and Claude Code-generated w
 ### How to Query the Knowledge Base
 
 When answering questions about this project's domain, follow these conventions:
-1. Read `knowledge/wiki/index.md` first to find the relevant wiki page(s)
+1. Read `knowledge/index.md` first to find the relevant wiki page(s)
 2. Read the relevant wiki page(s) for synthesized insights
 3. If more detail is needed, read the supporting raw sources listed in the wiki page
 4. Cite which wiki page or raw source your answer draws from

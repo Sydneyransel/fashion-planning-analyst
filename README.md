@@ -89,11 +89,11 @@ erDiagram
 
 ## Live Dashboard
 
-**URL:** *(add after Streamlit Community Cloud deployment)*
+https://fashion-planning-analyst.streamlit.app/
 
 ## Knowledge Base
 
-A Claude Code-curated wiki built from 15 scraped sources across skims.com, vogue.com, wwd.com, forbes.com, whowhatwear.com, and harpersbazaar.com. Wiki pages live in `knowledge/wiki/`, raw sources in `knowledge/raw/`. Browse `knowledge/index.md` to see all pages.
+A Claude Code-curated wiki built from 15 scraped sources across skims.com, vogue.com, wwd.com, forbes.com, whowhatwear.com, and harpersbazaar.com. Wiki pages live in `knowledge/wiki/`, raw sources in `knowledge/raw/`. Browse [`knowledge/index.md`](knowledge/index.md) to see all pages.
 
 **Query it:** Open Claude Code in this repo and ask questions like:
 
