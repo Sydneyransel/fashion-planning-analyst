@@ -26,8 +26,12 @@ CHART_LAYOUT = dict(
     font_color="#1A1A1A",
     legend_title_text="",
     hovermode="x unified",
+    hoverdistance=-1,
+    spikedistance=-1,
     margin=dict(l=0, r=0, t=24, b=0),
-    xaxis=dict(showgrid=False, showline=True, linecolor="#D4B896"),
+    xaxis=dict(showgrid=False, showline=True, linecolor="#D4B896",
+               showspikes=True, spikecolor="#8B6F5E", spikethickness=1,
+               spikedash="dot", spikemode="across"),
     yaxis=dict(showgrid=True, gridcolor="#F0EAE2", showline=False),
 )
 
@@ -168,6 +172,7 @@ with tab1:
             "keyword": "Keyword",
         },
     )
+    fig1.update_traces(hovertemplate="%{y:.0f}")
     fig1.update_layout(**CHART_LAYOUT)
     st.plotly_chart(fig1, use_container_width=True)
 
