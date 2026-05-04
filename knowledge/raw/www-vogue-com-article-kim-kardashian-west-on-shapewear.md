@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-04-27T18:49:51.752848+00:00
+scraped_at: 2026-05-04T07:56:09.379539+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -18,6 +18,26 @@ In business terms, it’s worked out pretty well. In June, Kardashian West sold 
 The first hint of a move into the shapewear market dates back to January 2019 when Kardashian West flew to Miami for a Met Gala fitting with designer Manfred Thierry Mugler. An Instagram post of herself, with Mugler, showed her wearing nothing but a nude tank top and cycling shorts. What the 1.8 million people who liked the post didn’t know was that Kardashian West was wearing early samples of Skims.
 
 The brand has signalled a buzzy new era for shapewear. It features nine shades and sizing from XXS to XXXXXL, all wrapped around the alluring marketing clout of one of the world’s top media celebrities (count those 190 million Instagram followers) — attracting a broader audience than a typical shapewear brand. Skims has built an Instagram following of 2.1 million in double-quick time.
+
+LATEST ON VOGUE
+
+[![What’s Going On at Ganni?](https://assets.vogue.com/photos/69eb43b0fe6902ae555685f7/1:1/w_640%2Cc_limit/undefined)\\
+\\
+What’s Going On at Ganni?](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1 "What’s Going On at Ganni?")
+
+[![How to Tell a Sustainability Story Today](https://assets.vogue.com/photos/69e8c7e64c39ced2ca3a792e/1:1/w_640%2Cc_limit/undefined)\\
+\\
+How to Tell a Sustainability Story Today](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1 "How to Tell a Sustainability Story Today")
+
+[![How to Get Fashion to Change Its Ways](https://assets.vogue.com/photos/69d685f207672c8f82667374/1:1/w_640%2Cc_limit/undefined)\\
+\\
+How to Get Fashion to Change Its Ways](https://www.vogue.com/article/how-to-get-fashion-to-change-its-ways#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1 "How to Get Fashion to Change Its Ways")
+
+[![Independent Designers Need More Support Than Ever. Can Fashion Trust US Help?](https://assets.vogue.com/photos/69d648a993bcb550c0259277/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Independent Designers Need More Support Than Ever. Can Fashion Trust US Help?](https://www.vogue.com/article/independent-designers-need-more-support-than-ever-can-fashion-trust-us-help#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1 "Independent Designers Need More Support Than Ever. Can Fashion Trust US Help?")
+
+ArrowArrow
 
 Kardashian West is keen to focus on the design qualities of the collection as much as her marketing appeal. “In the past, people might assume that shapewear is more like girdles — something that’s extremely uncomfortable,” she says. “I’ve worn corsets for events, I know how uncomfortable it is. That’s not the vibe of what I wanted.”
 
@@ -50,7 +70,92 @@ For shapewear brands, business remains challenging. Shapewear new arrivals at US
 
 Shapewear has tended to change little from year to year in design terms. That’s where Skims’s use of the drop model has changed the parameters — drawing on the similar model of KKW Beauty. Skims products sell out more rapidly than other players, says Marci. Discounting has proven unnecessary.
 
+#### Content
+
+To honor your privacy preferences, this content can only be viewed on the site it [originates](https://www.youtube-nocookie.com/embed/Ws05I4vZKOM) from.
+
 Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skims one year anniversary campaign.
+
+Most Popular
+
+- [![Inside the Wedding Guest Economy](https://assets.vogue.com/photos/69f2266d505c96205ff2b275/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-wedding-guest-economy#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[Inside the Wedding Guest Economy](https://www.vogue.com/article/inside-the-wedding-guest-economy#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+
+
+
+
+
+
+
+By Maliha Shoaib
+
+- [![The New Face of Foundation](https://assets.vogue.com/photos/69f37a8ccbffb43849c81280/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-new-face-of-foundation#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+
+
+
+
+
+
+
+
+
+Skincare
+
+
+
+
+
+[The New Face of Foundation](https://www.vogue.com/article/the-new-face-of-foundation#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+
+
+
+
+
+
+
+By Hikmat Mohammed
+
+- [![Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://assets.vogue.com/photos/69f36f4f9cb008c5f1ce1d94/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+
+
+
+
+
+
+
+
+
+Beauty
+
+
+
+
+
+[Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+
+
+
+
+
+
+
+By Peter Bevan
+
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
 
@@ -77,6 +182,87 @@ Not so long ago, shapewear was not considered particularly body positive or femi
 Skims launched bridal and maternity Solutionwear lines in September.
 Skims
 
+Most Popular
+
+- [![Inside the Wedding Guest Economy](https://assets.vogue.com/photos/69f2266d505c96205ff2b275/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-wedding-guest-economy#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[Inside the Wedding Guest Economy](https://www.vogue.com/article/inside-the-wedding-guest-economy#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+
+
+
+
+
+
+
+By Maliha Shoaib
+
+- [![The New Face of Foundation](https://assets.vogue.com/photos/69f37a8ccbffb43849c81280/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-new-face-of-foundation#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+
+
+
+
+
+
+
+
+
+Skincare
+
+
+
+
+
+[The New Face of Foundation](https://www.vogue.com/article/the-new-face-of-foundation#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+
+
+
+
+
+
+
+By Hikmat Mohammed
+
+- [![Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://assets.vogue.com/photos/69f36f4f9cb008c5f1ce1d94/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+
+
+
+
+
+
+
+
+
+Beauty
+
+
+
+
+
+[Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+
+
+
+
+
+
+
+By Peter Bevan
+
+
 Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
 
 For its one-year anniversary campaign, Kardashian West enlisted Gen Z favourites like TikToker Addison Rae alongside fans of Skims to pose in individual billboard campaigns showing the product on people of all ages, sizes and ethnicities.
@@ -100,34 +286,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![What’s Going On at Ganni?](https://assets.vogue.com/photos/69eb43b0fe6902ae555685f7/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_d1082210-51cc-41ad-a09e-c21ea7c47172_text2vec1_fallback_roberta-similarity1)
+[![What’s Going On at Ganni?](https://assets.vogue.com/photos/69eb43b0fe6902ae555685f7/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
 
 Companies
 
-[What’s Going On at Ganni?](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_d1082210-51cc-41ad-a09e-c21ea7c47172_text2vec1_fallback_roberta-similarity1)
+[What’s Going On at Ganni?](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
 
 By Maliha Shoaib
 
-[![PVH CEO Says Calvin Klein Is Feeling the Love Story Effect](https://assets.vogue.com/photos/69cd1ef194bb9e8fc2bcdeda/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/pvh-ceo-says-calvin-klein-is-feeling-the-love-story-effect#intcid=_vogue-article-bottom-recirc_d1082210-51cc-41ad-a09e-c21ea7c47172_text2vec1_fallback_roberta-similarity1)
-
-Earnings
-
-[PVH CEO Says Calvin Klein Is Feeling the _Love Story_ Effect](https://www.vogue.com/article/pvh-ceo-says-calvin-klein-is-feeling-the-love-story-effect#intcid=_vogue-article-bottom-recirc_d1082210-51cc-41ad-a09e-c21ea7c47172_text2vec1_fallback_roberta-similarity1)
-
-By Madeleine Schulz
-
-[![How to Tell a Sustainability Story Today](https://assets.vogue.com/photos/69e8c7e64c39ced2ca3a792e/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_d1082210-51cc-41ad-a09e-c21ea7c47172_text2vec1_fallback_roberta-similarity1)
+[![How to Tell a Sustainability Story Today](https://assets.vogue.com/photos/69e8c7e64c39ced2ca3a792e/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
 
 Sustainability
 
-[How to Tell a Sustainability Story Today](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_d1082210-51cc-41ad-a09e-c21ea7c47172_text2vec1_fallback_roberta-similarity1)
+[How to Tell a Sustainability Story Today](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
 
 By Sophie Benson
 
-[![How to Get Fashion to Change Its Ways](https://assets.vogue.com/photos/69d685f207672c8f82667374/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-get-fashion-to-change-its-ways#intcid=_vogue-article-bottom-recirc_d1082210-51cc-41ad-a09e-c21ea7c47172_text2vec1_fallback_roberta-similarity1)
+[![How to Get Fashion to Change Its Ways](https://assets.vogue.com/photos/69d685f207672c8f82667374/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-get-fashion-to-change-its-ways#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
 
 Sustainability
 
-[How to Get Fashion to Change Its Ways](https://www.vogue.com/article/how-to-get-fashion-to-change-its-ways#intcid=_vogue-article-bottom-recirc_d1082210-51cc-41ad-a09e-c21ea7c47172_text2vec1_fallback_roberta-similarity1)
+[How to Get Fashion to Change Its Ways](https://www.vogue.com/article/how-to-get-fashion-to-change-its-ways#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
 
 By Bella Webb
+
+[![Independent Designers Need More Support Than Ever. Can Fashion Trust US Help?](https://assets.vogue.com/photos/69d648a993bcb550c0259277/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/independent-designers-need-more-support-than-ever-can-fashion-trust-us-help#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
+
+Fashion
+
+[Independent Designers Need More Support Than Ever. Can Fashion Trust US Help?](https://www.vogue.com/article/independent-designers-need-more-support-than-ever-can-fashion-trust-us-help#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
+
+By Madeleine Schulz

@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/
 source_type: wwd.com
 title: Kim Kardashian's Skims Hits $5B Valuation With New Funding Round
-scraped_at: 2026-04-27T18:50:01.338305+00:00
+scraped_at: 2026-05-04T07:56:15.832178+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/#pagetop)
 
+Accessories
+
+### [Coherence Is the Real Luxury for Executives at Watches and Wonders 2026](https://wwd.com/accessories-news/watches/watches-and-wonders-2025-executives-coherence-scarcity-1238928721/)
+
 Fashion
 
-### [Demna Revisits Palazzo Gucci](https://wwd.com/fashion-news/designer-luxury/demna-revisits-palazzo-gucci-cultural-project-1238928647/)
+### [Formula 1’s Fashion Fever at the 2026 Miami Grand Prix Weekend](https://wwd.com/fashion-news/fashion-features/2026-miami-grand-prix-formula-1-activations-fashion-beauty-1238930678/)
 
-Business
+Accessories
 
-### [Les Deux Delivers Double-digit Growth Amid Physical Retail Push](https://wwd.com/business-news/financial/les-deux-2025-growth-retail-expansion-wholesale-focus-1238924745/)
-
-Beauty
-
-### [EXCLUSIVE: Formula 1 Driver Charles Leclerc Joins L’Oréal Paris](https://wwd.com/beauty-industry-news/beauty-features/formula-1-driver-charles-leclerc-joins-loreal-paris-1238928678/)
+### [Five Trends and Details That Popped at Watches and Wonders 2026](https://wwd.com/accessories-news/watches/five-trends-details-top-watches-and-wonders-2026-1238924697/)
 
 ![NEW YORK, NEW YORK - SEPTEMBER 24: NikeSKIMS dancers perform at the NikeSKIMS "Bodies at Work" event at the New York Public Library on September 24, 2025 in New York City. (Photo by Valerie Terranova/Getty Images)](https://wwd.com/wp-content/uploads/2025/09/skims-presentation-photosc.jpg?w=800&h=533&crop=1)
 
@@ -59,17 +59,17 @@ The new money came from Goldman Sachs Alternatives and BDT & MSD Partners.
 
 ### Related Articles
 
-![two women floating on circular skims x funboy pool float; a woman floating on swan-shaped pink skims x funboy float ](https://wwd.com/wp-content/uploads/2026/04/skims-funboy-pool-float-collection-release.jpg?w=225&h=225&crop=1)
+![NEW YORK, NEW YORK - MAY 16: Kim Kardashian visits the Skims Summer Pop-Up Shop in the Channel Gardens at Rockefeller Center on May 16, 2023 in New York City. (Photo by Kevin Mazur/Getty Images for SKIMS)](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+
+[Business Features](https://wwd.com/business-news/business-features/)
+
+### [Fashion's New Wave of Digital Darlings Are Built Different](https://wwd.com/business-news/business-features/fashions-new-wave-digital-skims-quince-1238930332/)
+
+![two women floating on circular skims x funboy pool float; a woman floating on swan-shaped pink skims x funboy float ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 [Home](https://wwd.com/business-news/shop-home/)
 
 ### [The Pool Brand Behind Taylor Swift's Summer Parties Partnered With Skims -- Bringing Its Signature Shades and Silhouettes Into the Water](https://wwd.com/shop/shop-home/skims-funboy-pool-accessories-collection-shop-floats-tubes-1238871185/)
-
-![Kim Kardashian attends the 2026 Vanity Fair Oscar Party hosted by Mark Guiducci at Los Angeles County Museum of Art on March 15, 2026 in Los Angeles, California.](https://wwd.com/wp-content/uploads/2026/03/Kim-Kardashian-1.jpg?w=225&h=225&crop=1)
-
-[Shoe Trends](https://wwd.com/business-news/shoe-trends/)
-
-### [Kim Kardashian's Pleaser Platforms Take Her Look to New Heights at Vanity Fair's Oscar Party](https://wwd.com/footwear-news/shoe-trends/kim-kardashian-pleaser-heels-vanity-fair-oscar-party-1238678719/)
 
 [Skims](https://wwd.com/shop/shop-fashion/nike-skims-spring-2026-athleisure-collection-shop-online-1238664584/) got its start in shapewear, but has been branching out in apparel and looking more into beauty, recently [hiring Diarrha N’Diaye](https://wwd.com/beauty-industry-news/color-cosmetics/kim-kardashian-skims-ami-cole-founder-hire-1238331656/) to be executive vice president of beauty and fragrance.
 
@@ -109,7 +109,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://cloud.email.wwd.com/signup/)
 
-- [![A braided olfactory piece from Lemaire rose concern among Chinese netizens for its campaign that resembled a 19th century hair style during the Qing Dynasty.](https://wwd.com/wp-content/uploads/2026/04/%E6%8B%BC%E5%9B%BE_%E7%BE%8E%E5%9B%BE%E8%AE%BE%E8%AE%A1%E5%AE%A4.jpg?w=1024)](https://wwd.com/fashion-news/fashion-scoops/lemaire-online-controversy-china-braid-design-1238929485/)
+- [![two peat-cut east-west diamond pinky rings](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/fashion-news/fashion-scoops/diamond-pinky-ring-trend-1238934304/)
 
 
 
@@ -119,7 +119,7 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Lemaire Draws Online Controversy in China Over Triggering Braid Design](https://wwd.com/fashion-news/fashion-scoops/lemaire-online-controversy-china-braid-design-1238929485/)
+### [The Diamond Ring Isn’t Just About Engagement Anymore](https://wwd.com/fashion-news/fashion-scoops/diamond-pinky-ring-trend-1238934304/)
 
 
 
@@ -128,32 +128,10 @@ Sign up for WWD news straight to your inbox every day
   - By
 
 
-    [Denni Hu](https://wwd.com/wwd-masthead/denni-hu/)
+    [Lauren Fisher](https://wwd.com/wwd-masthead/lfisher.ext@fairchildfashion.com/)
 
 
-- [![MARIE ANTOINETTE, Mary Nighy, Kirsten Dunst, Judy Davis, 2006. ©Sony Pictures/courtesy Everett Collection](https://wwd.com/wp-content/uploads/2026/04/MCDMAAN_EC023.jpg?w=1024)](https://wwd.com/eye/lifestyle/marie-antoinette-fashion-muse-spring-2026-runways-1238870194/)
-
-
-
-
-
-
-
-
-
-### [This Spring, All Roads Lead to Marie Antoinette](https://wwd.com/eye/lifestyle/marie-antoinette-fashion-muse-spring-2026-runways-1238870194/)
-
-
-
-  - [Lifestyle](https://wwd.com/business-news/lifestyle/)
-
-  - By
-
-
-    [Joelle Diderich](https://wwd.com/wwd-masthead/joelle-diderich/)
-
-
-- [![Karolina Kurkova](https://wwd.com/wp-content/uploads/2026/04/Karolina-Kurkova-robb-report.jpg?w=1024)](https://wwd.com/eye/lifestyle/karolina-kurkova-favorite-miami-restaurants-shops-1238921325/)
+- [![CEO Luca de Meo during a question-and-answer session with senior group executives at Kering's Capital Markets Day in Florence, Italy.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/financial/kering-capital-markets-day-2026-1238917775/)
 
 
 
@@ -163,19 +141,41 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Karolína Kurková’s Favorite Miami Hot Spots](https://wwd.com/eye/lifestyle/karolina-kurkova-favorite-miami-restaurants-shops-1238921325/)
+### [Inside Luca de Meo’s Kering Turnaround Plan](https://wwd.com/business-news/financial/kering-capital-markets-day-2026-1238917775/)
 
 
 
-  - [Lifestyle](https://wwd.com/business-news/lifestyle/)
+  - [Financial](https://wwd.com/business-news/financial/)
 
   - By
 
 
-    [WWD Staff](https://wwd.com/wwd-masthead/wwd-staff/)
+    [Joelle Diderich](https://wwd.com/wwd-masthead/joelle-diderich/) and [Miles Socha](https://wwd.com/wwd-masthead/miles-socha/)
 
 
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/uploads/2026/02/nicky.png?crop=0px%2C0px%2C2678px%2C1499px&resize=910%2C511)](https://wwd.com/video/getting-ready-for-marc-jacobs-2026-with-nicky-hilton/)
+- [![Anne Hathaway wears Iris Van Herpen at a special screening of "Mother Mary" on April 23 in London.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/pop-culture/celebrity-news/anne-hathaway-iris-van-herpen-dress-mother-mary-london-1238928704/)
+
+
+
+
+
+
+
+
+
+### [Anne Hathaway Goes Gothic in Iris Van Herpen for ‘Mother Mary’](https://wwd.com/pop-culture/celebrity-news/anne-hathaway-iris-van-herpen-dress-mother-mary-london-1238928704/)
+
+
+
+  - [Celebrity News](https://wwd.com/business-news/celebrity-news/)
+
+  - By
+
+
+    [Julia Teti](https://wwd.com/wwd-masthead/julia-teti/)
+
+
+[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/getting-ready-for-marc-jacobs-2026-with-nicky-hilton/)
 
 ### Getting Ready for Marc Jacobs 2026 with Nicky Hilton
 

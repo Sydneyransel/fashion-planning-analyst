@@ -2,14 +2,14 @@
 url: https://wwd.com/sourcing-journal/industry-news/skims-first-stores-georgetown-miami-nationwide-expansion-kim-kardashian-1238837613/
 source_type: wwd.com
 title: Skims Opens First Stores, Eyes Nationwide Expansion
-scraped_at: 2026-04-27T18:50:06.474240+00:00
+scraped_at: 2026-05-04T07:56:19.790533+00:00
 ---
 
 [Skip to main content](https://wwd.com/sourcing-journal/industry-news/skims-first-stores-georgetown-miami-nationwide-expansion-kim-kardashian-1238837613/#pagetop)
 
 - [Trade](https://wwd.com/sourcing-journal/trade/)
 
-### [Tariff Ticker](https://wwd.com/sourcing-journal/trade/usmca-mexico-canada-trade-agreements-trump-sheinbaum-carney-tariffs-1238924530/)
+### [Tariff Ticker](https://wwd.com/sourcing-journal/trade/cbp-ieepa-tariff-refund-cape-ace-cit-importers-entries-1238934302/)
 
 
 
@@ -17,7 +17,7 @@ scraped_at: 2026-04-27T18:50:06.474240+00:00
 
 
 
-[![Greer, left, met with Sheinbaum, middle, this week.](https://wwd.com/wp-content/uploads/2026/04/sheinbaumgreer.jpg?w=225&h=225&crop=1)](https://wwd.com/sourcing-journal/trade/usmca-mexico-canada-trade-agreements-trump-sheinbaum-carney-tariffs-1238924530/)
+[![Shipping containers.](https://wwd.com/wp-content/uploads/2024/10/lotsofcontainers.jpg?w=225&h=225&crop=1)](https://wwd.com/sourcing-journal/trade/cbp-ieepa-tariff-refund-cape-ace-cit-importers-entries-1238934302/)
 
 - [Sustainability](https://wwd.com/sourcing-journal/sustainability/)
 
@@ -84,23 +84,23 @@ The 3,501-square-foot store features [Skims](https://api.swiftype.com/api/v1/pub
 
 ### Related Stories
 
-![SPANXsupersmooth Authentic 360 Lightweight Denim](https://wwd.com/wp-content/uploads/2026/04/spanx1.jpg?w=225&h=225&crop=1)
+![NYDJ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+
+[SJ Denim](https://wwd.com/sourcing-journal/sj-denim/)
+
+### [The Shape of Denim: Jeans That Lift, Smooth and Enhance](https://wwd.com/sourcing-journal/sj-denim/denim-jeans-that-lift-smooth-enhance-spanx-nydj-halara-1238931676/)
+
+![SPANXsupersmooth Authentic 360 Lightweight Denim](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 [SJ Denim](https://wwd.com/sourcing-journal/sj-denim/)
 
 ### [Spanx Targets Summer Comfort with New Lightweight Denim Line](https://wwd.com/sourcing-journal/sj-denim/spanx-targets-summer-comfort-new-lightweight-denim-line-1238922931/)
 
-![Shoppers browse Crossgates Mall in New York. ](https://wwd.com/wp-content/uploads/2026/03/GettyImages-2053584554.jpg?w=225&h=225&crop=1)
-
-[SJ Denim](https://wwd.com/sourcing-journal/sj-denim/)
-
-### [Gen Z Shopping Habits: Young Consumers Still Love Brick-and-Mortar Stores](https://wwd.com/sourcing-journal/sj-denim/gen-z-shopping-habits-yougov-love-brick-and-mortar-stores-1238864150/)
-
 “As this is [Skims](https://api.swiftype.com/api/v1/public/analytics/pc?engine_key=iU6o6j2FXcJr_2awoLDB&doc_id=6584176964441f81e4014f87&_st_url=https%3A%2F%2Fwwd.com%2Ftopics%2Fbusiness-news%2Fkim-kardashian-west-shapewear-skims-launch-sold-out-2-million-169120%2F&q=skims)’ first permanent store…we’ve been so meticulous with every detail to ensure that our customers are immersed into the Skims universe,” said Kardashian. “Launching our own store is a major achievement for Skims, so we’re incredibly excited to welcome everyone to shop and experience our best-selling products in person.”
 
-Shortly after opening its Georgetown location, the [Hollywood](https://api.swiftype.com/api/v1/public/analytics/pc?engine_key=iU6o6j2FXcJr_2awoLDB&doc_id=631f9bd928ccbcc7ac59e6ff&_st_url=https%3A%2F%2Fwwd.com%2Fdenim%2Fdenim-brands%2Fmadewell-when-the-fit-hits-lukas-gage-chase-sui-wonders-charlbi-dean-366794%2F&q=hollywood)-headquartered brand planted roots over 1,000 miles away in [Miami](https://wwd.com/menswear-news/mens-sportswear/williams-racing-new-era-miami-grand-prix-formula-1-collection-1238928196/). Like the D.C. location, the 3,721-square-foot store will also feature a mix of Skims’ signature neutral shades and fixtures.
+Shortly after opening its Georgetown location, the [Hollywood](https://api.swiftype.com/api/v1/public/analytics/pc?engine_key=iU6o6j2FXcJr_2awoLDB&doc_id=631f9bd928ccbcc7ac59e6ff&_st_url=https%3A%2F%2Fwwd.com%2Fdenim%2Fdenim-brands%2Fmadewell-when-the-fit-hits-lukas-gage-chase-sui-wonders-charlbi-dean-366794%2F&q=hollywood)-headquartered brand planted roots over 1,000 miles away in [Miami](https://wwd.com/beauty-industry-news/skin-care/elemis-formula-one-miami-grand-prix-1238934892/). Like the D.C. location, the 3,721-square-foot store will also feature a mix of Skims’ signature neutral shades and fixtures.
 
-![Skims Miami](https://wwd.com/wp-content/uploads/2024/07/SkimsMiami.jpg?w=300)
+![Skims Miami](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 Skims’ Miami location.Courtesy
 
@@ -126,41 +126,41 @@ Receive Our Daily Newsletter & Special Offers
 
 ## Related
 
-[![](https://wwd.com/wp-content/uploads/2022/04/vfregenerativecottonfund.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/liz-hershfield-on-the-future-of-u-s-cotton-trust-protocol-1238930319/)
+[![](https://wwd.com/wp-content/uploads/2026/05/EverydayExtended.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/shuffle-board-executive-moves-solbari-1238937545/)
 
 [Industry News](https://wwd.com/sourcing-journal/industry-news/)
 
-### [The New Standard of Trust: Liz Hershfield on the Future of US Cotton](https://wwd.com/sourcing-journal/industry-news/liz-hershfield-on-the-future-of-u-s-cotton-trust-protocol-1238930319/)
+### [Shuffle Board: Solbari Builds Wholesale, TrueCommerce Eyes Growth](https://wwd.com/sourcing-journal/industry-news/shuffle-board-executive-moves-solbari-1238937545/)
 
-April 27, 2026
+May 1, 2026
 
-The Executive Director of Cotton USA discusses how data-backed transparency and technical innovation are redefining the “U.S. Cotton Difference” for a modern, conscious market.<br>
+Australian brand Solbari enters the wholesale market while TrueCommerce appoints its next CRO to support its product-led, AI-forward growth strategy.
 
-[Read Article](https://wwd.com/sourcing-journal/industry-news/liz-hershfield-on-the-future-of-u-s-cotton-trust-protocol-1238930319/)
+[Read Article](https://wwd.com/sourcing-journal/industry-news/shuffle-board-executive-moves-solbari-1238937545/)
 
-[![](https://wwd.com/wp-content/uploads/2025/08/ORITAIN-DUNEDIN-LAB-HIGH-RES-3239.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/next-level-apparel-oritain-verification-program-gold-level-1238930047/)
-
-[Industry News](https://wwd.com/sourcing-journal/industry-news/)
-
-### [Next Level Apparel Joins Oritain Verification Program at Gold Level](https://wwd.com/sourcing-journal/industry-news/next-level-apparel-oritain-verification-program-gold-level-1238930047/)
-
-April 27, 2026
-
-Oritain’s program can verify where a product was grown, harvested or produced.
-
-[Read Article](https://wwd.com/sourcing-journal/industry-news/next-level-apparel-oritain-verification-program-gold-level-1238930047/)
-
-[![](https://wwd.com/wp-content/uploads/2026/04/FashionPlanning.jpeg?w=300)](https://wwd.com/sourcing-journal/industry-news/how-ai-enhances-fashion-planning-protects-margins-aptean-1238929256/)
+[![](https://wwd.com/wp-content/uploads/2026/05/turkeyprotests.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/international-workers-day-asia-turkey-indonesia-india-bangladesh-1238937766/)
 
 [Industry News](https://wwd.com/sourcing-journal/industry-news/)
 
-### [How AI Can Help Planners Avoid the ‘Guessing Game’ and Respond to Real-Time Performance](https://wwd.com/sourcing-journal/industry-news/how-ai-enhances-fashion-planning-protects-margins-aptean-1238929256/)
+### [Workers Clash, Speak Out and Negotiate Across Asia on International Workers’ Day](https://wwd.com/sourcing-journal/industry-news/international-workers-day-asia-turkey-indonesia-india-bangladesh-1238937766/)
 
-April 27, 2026
+May 1, 2026
 
-On a recent Sourcing Journal webinar, speakers explained how to take planning from a purely predictive activity to an adaptive one by using AI.
+Workers rallies across Asia resounded with a similar message on Friday, as protests, marches, and discussions marked International Workers' Day.
 
-[Read Article](https://wwd.com/sourcing-journal/industry-news/how-ai-enhances-fashion-planning-protects-margins-aptean-1238929256/)
+[Read Article](https://wwd.com/sourcing-journal/industry-news/international-workers-day-asia-turkey-indonesia-india-bangladesh-1238937766/)
+
+[![](https://wwd.com/wp-content/uploads/2025/09/Academy_Sports_Outdoors.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/academy-sports-outdoors-taps-ai-for-retail-pricing-1238937541/)
+
+[Industry News](https://wwd.com/sourcing-journal/industry-news/)
+
+### [Major Sports Retailer Taps AI To Help Set Retail Prices](https://wwd.com/sourcing-journal/industry-news/academy-sports-outdoors-taps-ai-for-retail-pricing-1238937541/)
+
+May 1, 2026
+
+From setting base prices to markdowns and promotions across hundreds of stores, AI is the newest driving force behind pricing strategies.
+
+[Read Article](https://wwd.com/sourcing-journal/industry-news/academy-sports-outdoors-taps-ai-for-retail-pricing-1238937541/)
 
 WWD and Women's Wear Daily are part of Penske Media Corporation. © 2026 Fairchild Publishing, LLC. All Rights Reserved.
 

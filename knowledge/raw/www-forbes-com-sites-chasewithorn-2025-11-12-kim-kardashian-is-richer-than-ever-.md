@@ -2,7 +2,7 @@
 url: https://www.forbes.com/sites/chasewithorn/2025/11/12/kim-kardashian-is-richer-than-ever-after-new-skims-funding-round/
 source_type: forbes.com
 title: Kim Kardashian Is Richer Than Ever After New Skims Funding Round
-scraped_at: 2026-04-27T18:50:11.876568+00:00
+scraped_at: 2026-05-04T07:56:22.913239+00:00
 ---
 
 [Billionaires](https://www.forbes.com/worlds-billionaires/)
@@ -32,6 +32,52 @@ Kim K is now worth $1.9 billion, according to [_Forbes_’ estimates](https://ww
 “This milestone reflects continued confidence in our long-term vision and coupled with disciplined execution, positions Skims to unlock its next phase of growth,” said Jens Grede, the company’s cofounder and CEO, in a press release.
 
 Launched in 2019 by Kardashian, Grede and [Emma Grede](https://www.forbes.com/sites/jemimamcevoy/2022/06/14/keeping-up-with-the-kardashians-meet-the-woman-who-made-a-fortune-helping-build-the-familys-billion-dollar-business-empire/?sh=3f9df887d90b "https://www.forbes.com/sites/jemimamcevoy/2022/06/14/keeping-up-with-the-kardashians-meet-the-woman-who-made-a-fortune-helping-build-the-familys-billion-dollar-business-empire/?sh=3f9df887d90b") as an online, direct-to-consumer brand, Skims has grown into a brick-and-mortar retail success, with 20 stores across the U.S. and Mexico. The brand says it hopes to become a "predominantly physical business” in the next few years, and plans to use the new investor money to build new stores and launch new products. In February, it launched NikeSkims, an activewear-for-woman collaboration with the apparel giant. The partners are dropping a new NikeSkims line—including socks, waist packs and training gloves—on Thursday.
+
+Subscribe to Continue Reading
+
+Become a member and unlock unlimited digital access, expert analysis and exclusive member benefits.
+
+Already a member?Sign In
+
+Monthly
+
+Digital Membership
+
+$9.99
+
+Billed monthly
+
+Subscribe
+
+Annual
+
+LESS THAN $1.50/WEEK
+
+Digital Membership
+
+$74.99
+
+Billed annually
+
+Subscribe
+
+Two Year
+
+Digital Membership
+
+$145
+
+Billed biennially
+
+Subscribe
+
+Subscriptions renew automatically. You may cancel your subscription at any time.
+
+Premium access to exclusive events, thought-provoking conversations with global leaders and more, all available on-demand.
+
+Elevated browsing experience with fewer ads and unlimited article saving power an enhanced reading experience.
+
+[Back to the Home page](https://www.forbes.com/)
 
 “We can’t wait to take Skims to the next level as we continue to innovate and set the standard for our industry,” Kardashian, who serves as chief creative officer, said in Wednesday’s press release.
 
@@ -67,11 +113,13 @@ Read our community guidelineshere.
 
 See All Comments (0)
 
-Less than $1.50/week.
+halfway-hardwall
 
-Become a Forbes Member. Unlock limitless insights and exclusive benefits.
+R8W03AS
 
-[Subscribe Now](https://account.forbes.com/subscribe?eventSource=banner1&redirect=%20https%3A%2F%2Fwww.forbes.com%2Fsites%2Fchasewithorn%2F2025%2F11%2F12%2Fkim-kardashian-is-richer-than-ever-after-new-skims-funding-round%2F)
+base
+
+article
 
 auto
 PREMIUM
@@ -107,21 +155,3 @@ Join the waitlist for early access to our expert-curated, limited first shipment
 [Join The Waitlist](https://wineclub.forbes.com/) No Thanks
 
 reCAPTCHA
-
-Select all images with **crosswalks** Click verify once there are none left.
-
-|     |     |     |
-| --- | --- | --- |
-| ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA5LLNo089yN9f8l0-x6X0gHe632RBA8R0AHW1ZnWiYOPIscfbALd7TmVttLaEWKsnCI-KIWrpXnFWH6dSANqLFWg2gg9eFShEBNh5qoKawcdw7Trwu6uWy9A47qiO8Gc8g6d5DP00jLjy8v1IIvylb2d398Sp9TA2H-wIXGJjjmtOjTST05jLF4wvZTLJ_Blef0J2e8&k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) | ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA5LLNo089yN9f8l0-x6X0gHe632RBA8R0AHW1ZnWiYOPIscfbALd7TmVttLaEWKsnCI-KIWrpXnFWH6dSANqLFWg2gg9eFShEBNh5qoKawcdw7Trwu6uWy9A47qiO8Gc8g6d5DP00jLjy8v1IIvylb2d398Sp9TA2H-wIXGJjjmtOjTST05jLF4wvZTLJ_Blef0J2e8&k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) | ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA5LLNo089yN9f8l0-x6X0gHe632RBA8R0AHW1ZnWiYOPIscfbALd7TmVttLaEWKsnCI-KIWrpXnFWH6dSANqLFWg2gg9eFShEBNh5qoKawcdw7Trwu6uWy9A47qiO8Gc8g6d5DP00jLjy8v1IIvylb2d398Sp9TA2H-wIXGJjjmtOjTST05jLF4wvZTLJ_Blef0J2e8&k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) |
-| ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA5LLNo089yN9f8l0-x6X0gHe632RBA8R0AHW1ZnWiYOPIscfbALd7TmVttLaEWKsnCI-KIWrpXnFWH6dSANqLFWg2gg9eFShEBNh5qoKawcdw7Trwu6uWy9A47qiO8Gc8g6d5DP00jLjy8v1IIvylb2d398Sp9TA2H-wIXGJjjmtOjTST05jLF4wvZTLJ_Blef0J2e8&k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) | ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA5LLNo089yN9f8l0-x6X0gHe632RBA8R0AHW1ZnWiYOPIscfbALd7TmVttLaEWKsnCI-KIWrpXnFWH6dSANqLFWg2gg9eFShEBNh5qoKawcdw7Trwu6uWy9A47qiO8Gc8g6d5DP00jLjy8v1IIvylb2d398Sp9TA2H-wIXGJjjmtOjTST05jLF4wvZTLJ_Blef0J2e8&k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) | ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA5LLNo089yN9f8l0-x6X0gHe632RBA8R0AHW1ZnWiYOPIscfbALd7TmVttLaEWKsnCI-KIWrpXnFWH6dSANqLFWg2gg9eFShEBNh5qoKawcdw7Trwu6uWy9A47qiO8Gc8g6d5DP00jLjy8v1IIvylb2d398Sp9TA2H-wIXGJjjmtOjTST05jLF4wvZTLJ_Blef0J2e8&k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) |
-| ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA5LLNo089yN9f8l0-x6X0gHe632RBA8R0AHW1ZnWiYOPIscfbALd7TmVttLaEWKsnCI-KIWrpXnFWH6dSANqLFWg2gg9eFShEBNh5qoKawcdw7Trwu6uWy9A47qiO8Gc8g6d5DP00jLjy8v1IIvylb2d398Sp9TA2H-wIXGJjjmtOjTST05jLF4wvZTLJ_Blef0J2e8&k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) | ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA5LLNo089yN9f8l0-x6X0gHe632RBA8R0AHW1ZnWiYOPIscfbALd7TmVttLaEWKsnCI-KIWrpXnFWH6dSANqLFWg2gg9eFShEBNh5qoKawcdw7Trwu6uWy9A47qiO8Gc8g6d5DP00jLjy8v1IIvylb2d398Sp9TA2H-wIXGJjjmtOjTST05jLF4wvZTLJ_Blef0J2e8&k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) | ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA5LLNo089yN9f8l0-x6X0gHe632RBA8R0AHW1ZnWiYOPIscfbALd7TmVttLaEWKsnCI-KIWrpXnFWH6dSANqLFWg2gg9eFShEBNh5qoKawcdw7Trwu6uWy9A47qiO8Gc8g6d5DP00jLjy8v1IIvylb2d398Sp9TA2H-wIXGJjjmtOjTST05jLF4wvZTLJ_Blef0J2e8&k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) |
-
-Please try again.
-
-Please select all matching images.
-
-Please also check the new images.
-
-Please select around the object, or reload if there are none.
-
-Verify

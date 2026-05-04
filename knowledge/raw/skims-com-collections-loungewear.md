@@ -2,7 +2,7 @@
 url: https://skims.com/collections/loungewear
 source_type: skims.com
 title: Women's Loungewear & Comfortable Lounge Sets | SKIMS
-scraped_at: 2026-04-27T18:45:53.522713+00:00
+scraped_at: 2026-05-04T07:55:55.814532+00:00
 ---
 
 [Skip to main content](https://skims.com/collections/loungewear#main-content)
@@ -39,9 +39,9 @@ sortSizeTypeColorCollectionMaterialSleeve Length
 
 best seller
 
-[![COTTON FLEECE CLASSIC HOODIE | LIGHT HEATHER GREY CAMPAIGN IMAGE  @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONT_FACING_PDP_MDY_071.webp?v=1771462333&auto=format&w=600&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![COTTON FLEECE CLASSIC HOODIE | LIGHT HEATHER GREY CAMPAIGN IMAGE  @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONT_FACING_PDP_MDY_071.webp?v=1771462333&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![COTTON FLEECE CLASSIC HOODIE | LIGHT HEATHER GREY (HOODIES, TOPS) LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-PLO-4475-LHG.jpg?v=1735590743&auto=format&w=600&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-classic-hoodie-light-heather-grey "")
+![COTTON FLEECE CLASSIC HOODIE | LIGHT HEATHER GREY (HOODIES, TOPS) LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-PLO-4475-LHG.jpg?v=1735590743&auto=format&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-classic-hoodie-light-heather-grey "")
 
 - light heather grey
 
@@ -59,6 +59,8 @@ best seller
 
 barely pink angel sketch
 
+- washed red
+
 
 [COTTON FLEECE\\
 **CLASSIC HOODIE** \\
@@ -66,9 +68,9 @@ $88](https://skims.com/products/cotton-fleece-classic-hoodie-light-heather-grey 
 
 best seller
 
-[![COTTON FLEECE CLASSIC JOGGER | LIGHT HEATHER GREY ON A MODEL FRONT VIEW | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/JO-JOG-8364W-LHG_4279-FR.jpg?v=1760122625&auto=format&w=600&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![COTTON FLEECE CLASSIC JOGGER | LIGHT HEATHER GREY ON A MODEL FRONT VIEW | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/JO-JOG-8364W-LHG_4279-FR.jpg?v=1760122625&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![COTTON FLEECE JOGGER | LIGHT HEATHER GREY (JOGGERS, BOTTOMS) LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BO-JOG-4168-LHG-2.jpg?v=1735590772&auto=format&w=600&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-classic-jogger-light-heather-grey "")
+![COTTON FLEECE JOGGER | LIGHT HEATHER GREY (JOGGERS, BOTTOMS) LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BO-JOG-4168-LHG-2.jpg?v=1735590772&auto=format&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-classic-jogger-light-heather-grey "")
 
 - light heather grey
 
@@ -80,6 +82,8 @@ best seller
 
 - halite
 
+- washed red
+
 
 [COTTON FLEECE\\
 **CLASSIC JOGGER** \\
@@ -87,9 +91,9 @@ $88](https://skims.com/products/cotton-fleece-classic-jogger-light-heather-grey 
 
 best seller
 
-[![COTTON JERSEY T-SHIRT | SOOT ON A MODEL FRONT VIEW @ | FOCUS: 0.9, 0.1, 0.7](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-TSH-0638-SOT-MA-SKIMS-LOUNGEWEAR_0102-FR.webp?v=1767650642&auto=format&w=600&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![COTTON JERSEY T-SHIRT | SOOT ON A MODEL FRONT VIEW @ | FOCUS: 0.9, 0.1, 0.7](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-TSH-0638-SOT-MA-SKIMS-LOUNGEWEAR_0102-FR.webp?v=1767650642&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![COTTON JERSEY T-SHIRT | SOOT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-SOT-FLT_337890eb-b813-4d8c-b4fd-b94fb1ae7e59.jpg?v=1767136369&auto=format&w=600&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-t-shirt-soot "")
+![COTTON JERSEY T-SHIRT | SOOT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-SOT-FLT_337890eb-b813-4d8c-b4fd-b94fb1ae7e59.jpg?v=1767136369&auto=format&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-t-shirt-soot "")
 
 - soot
 
@@ -101,6 +105,8 @@ best seller
 
 - kyanite
 
+- stone
+
 - cherry blossom
 
 - navy
@@ -109,6 +115,10 @@ best seller
 
 powder blue bandana
 
+- ![SIENNA NATURAL LEOPARD](https://cdn.sanity.io/images/hfqi0zm0/production/2971cf0413a443f8d6b2affdaa40fd3d49601af5-1372x1394.jpg)
+
+sienna natural leopard
+
 
 [COTTON JERSEY\\
 **T-SHIRT** \\
@@ -116,13 +126,15 @@ $48](https://skims.com/products/cotton-jersey-t-shirt-soot "")
 
 best seller
 
-[![COTTON JERSEY FOLDOVER PANT | SOOT CAMPAIGN IMAGE @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONT_FACING_PDP_MDY_051.webp?v=1771461997&auto=format&w=600&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![COTTON JERSEY FOLDOVER PANT | SOOT CAMPAIGN IMAGE @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONT_FACING_PDP_MDY_051.webp?v=1771461997&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![COTTON JERSEY FOLDOVER PANT | SOOT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-SOT-FLT.jpg?v=1739822020&auto=format&w=600&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-foldover-pant-soot "")
+![COTTON JERSEY FOLDOVER PANT | SOOT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-SOT-FLT.jpg?v=1739822020&auto=format&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-foldover-pant-soot "")
 
 - soot
 
 - light heather grey
+
+- stone
 
 - brick
 
@@ -139,9 +151,9 @@ $68](https://skims.com/products/cotton-jersey-foldover-pant-soot "")
 
 best seller
 
-[![COTTON RIB TANK | LIGHT HEATHER GREY CAMPAIGN IMAGE @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/72624-25-014_FINAL_11.webp?v=1771462044&auto=format&w=600&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![COTTON RIB TANK | LIGHT HEATHER GREY CAMPAIGN IMAGE @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/72624-25-014_FINAL_11.webp?v=1771462044&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![COTTON RIB TANK | LIGHT HEATHER GREY (TANKS, TOPS) LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TNK-0038-HEG-FL.jpg?v=1621644689&auto=format&w=600&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-tank-light-heather-grey "")
+![COTTON RIB TANK | LIGHT HEATHER GREY (TANKS, TOPS) LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TNK-0038-HEG-FL.jpg?v=1621644689&auto=format&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-tank-light-heather-grey "")
 
 - light heather grey
 
@@ -151,13 +163,15 @@ best seller
 
 - soot
 
+- marble
+
 - bone
+
+- stone
 
 - cherry blossom
 
 - navy
-
-- water
 
 - ![OCHRE HORSESHOE PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/75f8e1d6b26e0129a85c2e14ce35a575d8c8fb89-100x100.jpg)
 
@@ -168,13 +182,73 @@ ochre horseshoe print
 **TANK** \\
 $38](https://skims.com/products/cotton-rib-tank-light-heather-grey "")
 
-new color
-
-[![COTTON JERSEY MATERNITY T-SHIRT | NAVY ON A MODEL FRONT VIEW](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SS-STT-8046W-NVY-LB-SKIMS-LOUNGEWEAR_0073-FR.webp?v=1776448380&auto=format&w=600&fp-z=1.1666666666666665&fp-y=0.45&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![COTTON FLEECE CLASSIC ZIP UP HOODIE | LIGHT HEATHER GREY ON A MODEL FRONT VIEW | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/ZU-ZUP-8366W-LHG-MB-SKIMS-LOUNGEWEAR_0004-BK-2.jpg?v=1735590863&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![COTTON JERSEY MATERNITY T-SHIRT | NAVY FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-MATERNITY-SS-STT-8046W-NVY-FLT.jpg?v=1776448380&auto=format&w=600&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-maternity-t-shirt-navy "")
+![COTTON FLEECE CLASSIC ZIP UP HOODIE | LIGHT HEATHER GREY (ZIP UPS, TOPS) LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-ZUP-4476-LHG-CLOSED.jpg?v=1735590863&auto=format&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-classic-zip-up-hoodie-light-heather-grey "")
+
+- light heather grey
+
+- onyx
+
+- marble
+
+- oatmeal heather
+
+- halite
+
+- ![BARELY PINK HEART](https://cdn.sanity.io/images/hfqi0zm0/production/655884c47b39d299ee5e738e2fd808bae8be07a0-100x100.jpg)
+
+barely pink heart
+
+- washed red
+
+
+[COTTON FLEECE\\
+**CLASSIC ZIP UP HOODIE** \\
+$94](https://skims.com/products/cotton-fleece-classic-zip-up-hoodie-light-heather-grey "")
+
+best seller
+
+[![COTTON JERSEY T-SHIRT | SIENNA NATURAL LEOPARD ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SS-STT-9004W-SIN-MD-SKIMS-LOUNGEWEAR_3164-FR.webp?v=1777482396&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+\\
+![COTTON JERSEY T-SHIRT | SIENNA NATURAL LEOPARD FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-SS-STT-9004W-SIN-FLT.jpg?v=1777409639&auto=format&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-t-shirt-sienna-natural-leopard "")
+
+- ![SIENNA NATURAL LEOPARD](https://cdn.sanity.io/images/hfqi0zm0/production/2971cf0413a443f8d6b2affdaa40fd3d49601af5-1372x1394.jpg)
+
+sienna natural leopard
+
+- marble
+
+- light heather grey
+
+- mineral
+
+- kyanite
+
+- soot
+
+- stone
+
+- cherry blossom
 
 - navy
+
+- ![POWDER BLUE BANDANA](https://cdn.sanity.io/images/hfqi0zm0/production/d5e4603838ccca911e7a743caf7f270f231e1d97-100x100.jpg)
+
+powder blue bandana
+
+
+[COTTON JERSEY\\
+**T-SHIRT** \\
+$48](https://skims.com/products/cotton-jersey-t-shirt-sienna-natural-leopard "")
+
+best seller
+
+[![COTTON RIB T-SHIRT | STONE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-TSH-0815-STO-MA-SKIMS-LOUNGEWEAR_0009-FR.webp?v=1777483502&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+\\
+![COTTON RIB T-SHIRT | STONE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0815-STO-FLT.jpg?v=1777411323&auto=format&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-t-shirt-stone "")
+
+- stone
 
 - marble
 
@@ -184,194 +258,194 @@ new color
 
 - cherry blossom
 
+- navy
 
-[COTTON JERSEY\\
-**MATERNITY T-SHIRT** \\
-$54](https://skims.com/products/cotton-jersey-maternity-t-shirt-navy "")
+- ![OCHRE HORSESHOE PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/75f8e1d6b26e0129a85c2e14ce35a575d8c8fb89-100x100.jpg)
 
-new color
+ochre horseshoe print
 
-[![SKIMS SLEEP LONG SLEEVE BUTTON UP SET | SNOW DELICATE FLORAL PRINT ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/ST-PNS-5752W-SWD-LD-SKIMS-LOUNGEWEAR_0063-FR.webp?v=1776444706&auto=format&w=600&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+
+[COTTON RIB\\
+**T-SHIRT** \\
+$46](https://skims.com/products/cotton-rib-t-shirt-stone "")
+
+best seller
+
+[![COTTON RIB TANK | STONE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-TNK-0038-STO-MC-SKIMS-LOUNGEWEAR_0013-FR.webp?v=1777483501&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![SKIMS SLEEP LONG SLEEVE BUTTON UP SET | SNOW DELICATE FLORAL PRINT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-PNS-5752W-SWD-FLT.jpg?v=1776444706&auto=format&w=600&ixlib=react-9.11.0)](https://skims.com/products/skims-sleep-long-sleeve-button-up-set-snow-delicate-floral-print "")
+![COTTON RIB TANK | STONE(TANKS, TOPS) FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TNK-0038-STO.jpg?v=1714002880&auto=format&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-tank-stone "")
 
-- ![SNOW DELICATE FLORAL PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/0574fe5b3ba78366ad9ad1abdbe5aff0e547ec64-100x100.jpg)
-
-snow delicate floral print
+- stone
 
 - light heather grey
 
-- onyx
+- mineral
+
+- kyanite
+
+- soot
+
+- marble
+
+- bone
+
+- cherry blossom
 
 - navy
 
-- ![BLOOM MINI MULTI ANIMAL](https://cdn.sanity.io/images/hfqi0zm0/production/a00431189127e10d6fb5df6feba5ec0fe89e6b4a-100x100.jpg)
+- ![OCHRE HORSESHOE PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/75f8e1d6b26e0129a85c2e14ce35a575d8c8fb89-100x100.jpg)
 
-bloom mini multi animal
-
-- bloom
-
-- ![MARBLE COOL BUNNY](https://cdn.sanity.io/images/hfqi0zm0/production/91ce026b5d6608f62931e511d8f521852797f66a-100x100.jpg)
-
-marble cool bunny
+ochre horseshoe print
 
 
-[SKIMS SLEEP\\
-**LONG SLEEVE BUTTON UP SET** \\
-$88](https://skims.com/products/skims-sleep-long-sleeve-button-up-set-snow-delicate-floral-print "")
+[COTTON RIB\\
+**TANK** \\
+$38](https://skims.com/products/cotton-rib-tank-stone "")
 
 new color
 
-[![COTTON JERSEY MATERNITY FOLDOVER PANT | NAVY ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/PT-PNT-8029W-NVY-LB-SKIMS-LOUNGEWEAR_0004-FR.webp?v=1776443544&auto=format&w=600&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![COTTON JERSEY SCOOP NECK CAMI | SIENNA NATURAL LEOPARD @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONTFACINGPLP_05_042826_COTTON_JERSEY_SIENNA_NATURAL_LEOPARD_CAMI_TOP_SET.webp?v=1777504779&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![COTTON JERSEY MATERNITY FOLDOVER PANT | NAVY FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-MATERNITY-PT-PNT-8029W-NVY-FLT.jpg?v=1776443544&auto=format&w=600&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-maternity-foldover-pant-navy "")
+![COTTON JERSEY SCOOP NECK CAMI | SIENNA NATURAL LEOPARD FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-TNK-12293W-SIN-FLT.jpg?v=1777409755&auto=format&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-scoop-neck-cami-sienna-natural-leopard "")
 
-- navy
+- ![SIENNA NATURAL LEOPARD](https://cdn.sanity.io/images/hfqi0zm0/production/2971cf0413a443f8d6b2affdaa40fd3d49601af5-1372x1394.jpg)
+
+sienna natural leopard
+
+- marble
 
 - light heather grey
 
 - soot
 
+- stone
+
 - cherry blossom
-
-
-[COTTON JERSEY\\
-**MATERNITY FOLDOVER PANT** \\
-$74](https://skims.com/products/cotton-jersey-maternity-foldover-pant-navy "")
-
-new color
-
-[![SOFT LOUNGE TANK SLEEP SET | MORGANITE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/ST-SET-10155W-MGI-LC-SKIMS-LOUNGEWEAR_0014-FR.webp?v=1776444842&auto=format&w=600&ixlib=react-9.11.0)](https://skims.com/products/soft-lounge-tank-sleep-set-morganite "")
-
-- morganite
-
-- onyx
-
-- cocoa
-
-
-[SOFT LOUNGE\\
-**TANK SLEEP SET** \\
-$120](https://skims.com/products/soft-lounge-tank-sleep-set-morganite "")
-
-new color
-
-[![SKIMS SLEEP CAMI SET | SNOW DELICATE FLORAL PRINT ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/ST-SST-7819W-SWD-LD-SKIMS-LOUNGEWEAR_0002-FR.webp?v=1776449023&auto=format&w=600&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![SKIMS SLEEP CAMI SET | SNOW DELICATE FLORAL PRINT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-SST-7819W-SWD-FLT.jpg?v=1776449023&auto=format&w=600&ixlib=react-9.11.0)](https://skims.com/products/skims-sleep-cami-set-snow-delicate-floral-print "")
-
-- ![SNOW DELICATE FLORAL PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/0574fe5b3ba78366ad9ad1abdbe5aff0e547ec64-100x100.jpg)
-
-snow delicate floral print
-
-- zen blue
 
 - navy
 
+- sugar plum
 
-[SKIMS SLEEP\\
-**CAMI SET** \\
-$68](https://skims.com/products/skims-sleep-cami-set-snow-delicate-floral-print "")
+- ash
+
+- water
+
+- ![POWDER BLUE BANDANA](https://cdn.sanity.io/images/hfqi0zm0/production/d5e4603838ccca911e7a743caf7f270f231e1d97-100x100.jpg)
+
+powder blue bandana
+
+
+[COTTON JERSEY\\
+**SCOOP NECK CAMI** \\
+$48](https://skims.com/products/cotton-jersey-scoop-neck-cami-sienna-natural-leopard "")
 
 new color
 
-[![SOFT LOUNGE SLEEP SET | MORGANITE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-SET-0600-MGI-LC-SKIMS-LOUNGEWEAR_0001-FR.webp?v=1776444929&auto=format&w=600&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![COTTON RIB SCOOP NECK TANK | STONE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SL-TNK-6094W-STO-MB-SKIMS-LOUNGEWEAR_0002-FR.webp?v=1777483502&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![SOFT LOUNGE SLEEP SET | MORGANITE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-SET-0600-MGI-FLT_6a437f64-8993-4add-84c9-23a32171b77c.jpg?v=1776444929&auto=format&w=600&ixlib=react-9.11.0)](https://skims.com/products/soft-lounge-sleep-set-morganite "")
+![COTTON RIB SCOOP NECK TANK | STONE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-SL-TNK-6094W-STO-FLT_f15512ef-f61e-41f5-a2d8-cf253841e289.jpg?v=1777503444&auto=format&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-scoop-neck-tank-stone "")
 
-- morganite
+- stone
 
 - marble
 
-- heather grey
+- light heather grey
 
-- onyx
+- cherry blossom
 
-- cocoa
-
-- cherry
-
-- ![IVORY PEARL BOWS PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/2d18c92c2491b4f4df4d04c4dec812f4bc8407d6-250x260.png)
-
-ivory pearl bows print
-
-- ![MICA MINI HEART HALFDROP](https://cdn.sanity.io/images/hfqi0zm0/production/cf72e09aac30eed839f8c9da64665b6cc12cafd1-100x100.jpg)
-
-mica mini heart halfdrop
+- soot
 
 
-[SOFT LOUNGE\\
-**SLEEP SET** \\
-$128](https://skims.com/products/soft-lounge-sleep-set-morganite "")
+[COTTON RIB\\
+**SCOOP NECK TANK** \\
+$38](https://skims.com/products/cotton-rib-scoop-neck-tank-stone "")
 
-new color
+best seller
 
-[![SOFT LOUNGE SHORT SLEEP SET | MORGANITE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-SET-2519-MGI-LC-SKIMS-LOUNGEWEAR_0003-FR.webp?v=1776444916&auto=format&w=600&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![COTTON JERSEY TUBE TOP | SIENNA NATURAL LEOPARD ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SL-TNK-9005W-SIN-MD-SKIMS-LOUNGEWEAR_3044-FR.webp?v=1777482393&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![SOFT LOUNGE SHORT SLEEP SET | MORGANITE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-SET-2519-MGI-FLT_a08fe9e7-24ae-4181-884b-4ad944ea3e99.jpg?v=1776444916&auto=format&w=600&ixlib=react-9.11.0)](https://skims.com/products/soft-lounge-short-sleep-set-morganite "")
+![COTTON JERSEY TUBE TOP | SIENNA NATURAL LEOPARD FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-SL-TNK-9005W-SIN-FLT.jpg?v=1777409638&auto=format&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-tube-top-sienna-natural-leopard "")
 
-- morganite
+- ![SIENNA NATURAL LEOPARD](https://cdn.sanity.io/images/hfqi0zm0/production/2971cf0413a443f8d6b2affdaa40fd3d49601af5-1372x1394.jpg)
 
-- heather grey
+sienna natural leopard
 
-- onyx
+- marble
 
-- cocoa
+- stone
 
-- cherry
+- cherry blossom
 
-- ![IVORY PEARL BOWS PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/2d18c92c2491b4f4df4d04c4dec812f4bc8407d6-250x260.png)
+- navy
 
-ivory pearl bows print
+- sugar plum
 
-- baby blue
+- soot
 
-- ![MICA MINI HEART HALFDROP](https://cdn.sanity.io/images/hfqi0zm0/production/cf72e09aac30eed839f8c9da64665b6cc12cafd1-100x100.jpg)
+- water
 
-mica mini heart halfdrop
+- ![POWDER BLUE BANDANA](https://cdn.sanity.io/images/hfqi0zm0/production/d5e4603838ccca911e7a743caf7f270f231e1d97-100x100.jpg)
+
+powder blue bandana
 
 
-[SOFT LOUNGE\\
-**SHORT SLEEP SET** \\
-$110](https://skims.com/products/soft-lounge-short-sleep-set-morganite "")
+[COTTON JERSEY\\
+**TUBE TOP** \\
+$48](https://skims.com/products/cotton-jersey-tube-top-sienna-natural-leopard "")
 
-[Load More](https://skims.com/collections/loungewear?direction=next&cursor=eyJsYXN0X3ZhbHVlIjoiMTEiLCJsYXN0X2lkIjoxMDI0NjgzNzc2NDQ0OSwib2Zmc2V0IjoxMX0%3D)
+[Load More](https://skims.com/collections/loungewear?direction=next&cursor=eyJsYXN0X3ZhbHVlIjoiMTEiLCJsYXN0X2lkIjoxMDI0NzAzMzg4MDkyOSwib2Zmc2V0IjoxMX0%3D)
 
 ## WE THINK YOU'D LIKE
 
-1/2
+1/3
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SIGNATURESWIM-BB-TNG-8472W-MLN-FLT_grande.jpg?v=1774643141&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SHOES-FW-FTW-8652W-CLY-1_7e9d7a78-f10c-447c-8397-9d9a982b3e9e_grande.jpg?v=1775069557&auto=format&ixlib=react-9.11.0)\\
 \\
-SIGNATURE SWIM\\
+ACCESSORIES\\
 \\
-**TANGA BIKINI BOTTOM** \\
+**JELLY SHOE** \\
 \\
-$42](https://skims.com/products/signature-swim-tanga-bikini-bottom-melon "")
+$58](https://skims.com/products/jelly-shoe-clay "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-2293-ONX_grande.jpg?v=1691774652&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BAN-3151-MCA_grande.jpg?v=1714671215&auto=format&ixlib=react-9.11.0)\\
 \\
 FITS EVERYBODY\\
 \\
-**UNLINED DEMI BRA** \\
+**STRAPLESS BRA** \\
 \\
-$46](https://skims.com/products/fits-everybody-unlined-demi-bra-onyx "")
+$54](https://skims.com/products/fits-everybody-strapless-bra-mica "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-DTH-0027-ONX-FL_grande.jpg?v=1624298354&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/BR-BND-0026-ONX-FL_grande.jpg?v=1624297830&auto=format&ixlib=react-9.11.0)\\
 \\
 FITS EVERYBODY\\
 \\
-**DIPPED FRONT THONG** \\
+**BANDEAU** \\
 \\
-$18](https://skims.com/products/fits-everybody-dipped-front-thong-onyx "")
+$28](https://skims.com/products/fits-everybody-bandeau-onyx "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-PUS-10645W-CCR-FLT_12f25204-9a69-4be8-88ef-44a24f790d0d_grande.jpg?v=1770817955&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-THG-0028-ONX-FL_grande.jpg?v=1697138190&auto=format&ixlib=react-9.11.0)\\
 \\
-EVERYDAY COTTON\\
+FITS EVERYBODY\\
 \\
-**ULTIMATE TEARDROP PUSH-UP BRA** \\
+**THONG** \\
 \\
-$64](https://skims.com/products/everyday-cotton-ultimate-teardrop-push-up-bra-cocoa-heather "")
+$18](https://skims.com/products/fits-everybody-thong-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHORT-SH-SHO-0299-SIE-FL-FRONT_grande.jpg?v=1740083603&auto=format&ixlib=react-9.11.0)\\
+\\
+SHEER SCULPT\\
+\\
+**LOW BACK SHORT** \\
+\\
+$58](https://skims.com/products/sheer-sculpt-low-back-short-sienna "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-SOT-FLT_2781d3b4-eded-4093-ba43-0d16b1ad2c56_grande.jpg?v=1767136370&auto=format&ixlib=react-9.11.0)\\
+\\
+COTTON JERSEY\\
+\\
+**LONG SLEEVE T-SHIRT** \\
+\\
+$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot "")
 
 [![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BX-BOX-6320W-OHO-FLT_grande.jpg?v=1775252924&auto=format&ixlib=react-9.11.0)\\
 \\
@@ -381,6 +455,86 @@ COTTON RIB\\
 \\
 $36](https://skims.com/products/cotton-rib-boxer-ochre-horseshoe-print "")
 
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5957W-SDF-FLT_d5e21efd-bec1-4502-9d8f-f474d50202ae_grande.jpg?v=1775689939&auto=format&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**LACE THONG** \\
+\\
+$12](https://skims.com/products/lightweight-cotton-lace-thong-surf-dainty-floral-print "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SHAPEWEAR-BD-THG-5949W-RUBY-FLT_grande.jpg?v=1769017488&auto=format&ixlib=react-9.11.0)\\
+\\
+SEAMLESS SCULPT\\
+\\
+**DEEP PLUNGE THONG BODYSUIT** \\
+\\
+$70$49](https://skims.com/products/seamless-sculpt-deep-plunge-thong-bodysuit-ruby "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-8779W-DLP-SW_ac280a62-2ffc-4f6a-a457-645f0399c8c0_grande.jpg?v=1756930547&auto=format&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**STRING THONG** \\
+\\
+$10](https://skims.com/products/lightweight-cotton-string-thong-delta-leopard "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-LS-LSL-1209W-CMB-FLT_grande.jpg?v=1767136934&auto=format&ixlib=react-9.11.0)\\
+\\
+COTTON JERSEY\\
+\\
+**LONG SLEEVE BOATNECK TOP** \\
+\\
+$58$40](https://skims.com/products/cotton-jersey-long-sleeve-boatneck-top-cherry-blossom "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9221-ARC-FLT_grande.jpg?v=1775077549&auto=format&ixlib=react-9.11.0)\\
+\\
+FITS EVERYBODY\\
+\\
+**T-SHIRT BRA** \\
+\\
+$54](https://skims.com/products/fits-everybody-t-shirt-bra-arctic "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BODYSUIT-BD-THG-3286-ONX_b4ff4bcf-9b9a-4670-b1db-4dd5bd1dc042_grande.jpg?v=1753895259&auto=format&ixlib=react-9.11.0)\\
+\\
+SKIMS BODY\\
+\\
+**UNLINED PLUNGE THONG BODYSUIT** \\
+\\
+$88](https://skims.com/products/skims-body-unlined-plunge-thong-bodysuit-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-SET-11846W-BYP-FLT_281_29_grande.jpg?v=1775677811&auto=format&ixlib=react-9.11.0)\\
+\\
+SKIMS SLEEP\\
+\\
+**LACE CAMI AND PANT SET** \\
+\\
+$84](https://skims.com/products/skims-sleep-lace-cami-and-pant-set-barely-pink "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-CLY-FLT_grande.jpg?v=1739333853&auto=format&ixlib=react-9.11.0)\\
+\\
+SKIMS ULTIMATE\\
+\\
+**BALCONETTE PUSH-UP BRA** \\
+\\
+$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-SOT-FLT_grande.jpg?v=1739822020&auto=format&ixlib=react-9.11.0)\\
+\\
+COTTON JERSEY\\
+\\
+**FOLDOVER PANT** \\
+\\
+$68](https://skims.com/products/cotton-jersey-foldover-pant-soot "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10655W-SNO-FLT_39a90ea7-2438-4e65-a2a3-e6e4e0543937_grande.jpg?v=1775673227&auto=format&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**WIDE LACE THONG** \\
+\\
+$12](https://skims.com/products/lightweight-cotton-wide-lace-thong-snow "")
+
 [![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-SOT-FLT_337890eb-b813-4d8c-b4fd-b94fb1ae7e59_grande.jpg?v=1767136369&auto=format&ixlib=react-9.11.0)\\
 \\
 COTTON JERSEY\\
@@ -388,38 +542,6 @@ COTTON JERSEY\\
 **T-SHIRT** \\
 \\
 $48](https://skims.com/products/cotton-jersey-t-shirt-soot "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-10627W-CMB_grande.jpg?v=1772696418&auto=format&ixlib=react-9.11.0)\\
-\\
-SIGNATURE SWIM\\
-\\
-**TRIANGLE BIKINI TOP** \\
-\\
-$44](https://skims.com/products/signature-swim-triangle-bikini-top-cherry-blossom-contrast "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SIGNATURESWIM-BB-THG-8471W-ALB-FLT_grande.jpg?v=1774643044&auto=format&ixlib=react-9.11.0)\\
-\\
-SIGNATURE SWIM\\
-\\
-**THONG BIKINI BOTTOM** \\
-\\
-$40](https://skims.com/products/signature-swim-thong-bikini-bottom-almond-bandana "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-OS-ONS-8492W-OBD-FLT_4f246177-730f-4937-8835-e109210a958e_grande.jpg?v=1745865679&auto=format&ixlib=react-9.11.0)\\
-\\
-SMOOTH LAYERS\\
-\\
-**CAPRI CATSUIT** \\
-\\
-$88](https://skims.com/products/smooth-layers-capri-catsuit-obsidian "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0650-ONX-FL_eff52af7-a691-4535-9651-502207485741_grande.jpg?v=1708556288&auto=format&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**LONG SLEEVE T-SHIRT** \\
-\\
-$58](https://skims.com/products/fits-everybody-long-sleeve-t-shirt-onyx "")
 
 ![SKIMS LOUNGEWEAR](https://skims-sanity.imgix.net/images/hfqi0zm0/production/702bc1683b13c83a0227756dccfbf5084cd6b3da-800x470.jpg?auto=format&ixlib=react-9.11.0)
 
@@ -441,85 +563,85 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-ST-SST-5759W-MHM-FLT_1_grande.jpg?v=1768614306&auto=format&ixlib=react-9.11.0)\\
-\\
-SOFT LOUNGE\\
-\\
-**SHORT SLEEP SET** \\
-\\
-$110$77](https://skims.com/products/soft-lounge-short-sleep-set-mica-mini-heart-halfdrop "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-8779W-DLP-SW_ac280a62-2ffc-4f6a-a457-645f0399c8c0_grande.jpg?v=1756930547&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**STRING THONG** \\
-\\
-$10](https://skims.com/products/lightweight-cotton-string-thong-delta-leopard "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-SET-9793W-ONX-FLT_grande.jpg?v=1773088674&auto=format&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY LACE\\
-\\
-**TRIANGLE CAMI AND BOY SHORT SET** \\
-\\
-$74](https://skims.com/products/fits-everybody-lace-triangle-cami-and-boy-short-set-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-DTH-0027-ONX-FL_grande.jpg?v=1624298354&auto=format&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**DIPPED FRONT THONG** \\
-\\
-$18](https://skims.com/products/fits-everybody-dipped-front-thong-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BRL-11488W-SNO-FLT_grande.jpg?v=1776882911&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**STRAIGHT NECK BRALETTE** \\
-\\
-$24](https://skims.com/products/lightweight-cotton-straight-neck-bralette-snow "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-SOT-FLT_grande.jpg?v=1739822020&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-SOT-FLT_2781d3b4-eded-4093-ba43-0d16b1ad2c56_grande.jpg?v=1767136370&auto=format&ixlib=react-9.11.0)\\
 \\
 COTTON JERSEY\\
 \\
-**FOLDOVER PANT** \\
+**LONG SLEEVE T-SHIRT** \\
 \\
-$68](https://skims.com/products/cotton-jersey-foldover-pant-soot "")
+$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BK-BIK-5960W-SNO-FLT_grande.jpg?v=1775667519&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BR-BRF-5963W-BTRT-FLT_6fec5496-f549-4a10-954a-cd299e302add_grande.jpg?v=1775689596&auto=format&ixlib=react-9.11.0)\\
 \\
 LIGHTWEIGHT COTTON\\
 \\
-**LOGO PICOT STRING BIKINI** \\
+**LACE BRIEF** \\
 \\
-$14](https://skims.com/products/lightweight-cotton-logo-picot-string-bikini-snow "")
+$14](https://skims.com/products/lightweight-cotton-lace-brief-butter-tonal "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-BRF-3370-ONX_grande.jpg?v=1742584261&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SIGNATURESWIM-BT-TRI-8466W-ALB-FLT_grande.jpg?v=1774643196&auto=format&ixlib=react-9.11.0)\\
 \\
-SEAMLESS SCULPT\\
+SIGNATURE SWIM\\
 \\
-**BRIEF BODYSUIT** \\
+**TRIANGLE BIKINI TOP** \\
 \\
-$72](https://skims.com/products/seamless-sculpt-brief-bodysuit-onyx "")
+$44](https://skims.com/products/signature-swim-triangle-bikini-top-almond-bandana "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BAN-3151-CLY_grande.jpg?v=1714671252&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-BYS-0030-ONX-FL_grande.jpg?v=1620253345&auto=format&ixlib=react-9.11.0)\\
 \\
 FITS EVERYBODY\\
 \\
-**STRAPLESS BRA** \\
+**BOY SHORT** \\
 \\
-$54](https://skims.com/products/fits-everybody-strapless-bra-clay "")
+$22](https://skims.com/products/fits-everybody-boy-short-onyx "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BODYSUIT-BD-THG-3286-ONX_b4ff4bcf-9b9a-4670-b1db-4dd5bd1dc042_grande.jpg?v=1753895259&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9221-ARC-FLT_grande.jpg?v=1775077549&auto=format&ixlib=react-9.11.0)\\
 \\
-SKIMS BODY\\
+FITS EVERYBODY\\
 \\
-**UNLINED PLUNGE THONG BODYSUIT** \\
+**T-SHIRT BRA** \\
 \\
-$88](https://skims.com/products/skims-body-unlined-plunge-thong-bodysuit-onyx "")
+$54](https://skims.com/products/fits-everybody-t-shirt-bra-arctic "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-ZUP-4476-LHG-CLOSED_grande.jpg?v=1735590863&auto=format&ixlib=react-9.11.0)\\
+\\
+COTTON FLEECE\\
+\\
+**CLASSIC ZIP UP HOODIE** \\
+\\
+$94](https://skims.com/products/cotton-fleece-classic-zip-up-hoodie-light-heather-grey "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TSH-0649-ONX-FL_grande.jpg?v=1615492274&auto=format&ixlib=react-9.11.0)\\
+\\
+FITS EVERYBODY\\
+\\
+**T-SHIRT** \\
+\\
+$48](https://skims.com/products/fits-everybody-t-shirt-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BX-BOX-6320W-OHO-FLT_grande.jpg?v=1775252924&auto=format&ixlib=react-9.11.0)\\
+\\
+COTTON RIB\\
+\\
+**BOXER** \\
+\\
+$36](https://skims.com/products/cotton-rib-boxer-ochre-horseshoe-print "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5957W-SDF-FLT_d5e21efd-bec1-4502-9d8f-f474d50202ae_grande.jpg?v=1775689939&auto=format&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**LACE THONG** \\
+\\
+$12](https://skims.com/products/lightweight-cotton-lace-thong-surf-dainty-floral-print "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-SH-BST-0200-ONX_9b794cfd-c2d1-4f6f-866b-3843d70503ba_grande.jpg?v=1742587566&auto=format&ixlib=react-9.11.0)\\
+\\
+SEAMLESS SCULPT\\
+\\
+**THONG BODYSUIT** \\
+\\
+$70](https://skims.com/products/seamless-sculpt-thong-bodysuit-onyx "")
 
 New
 
