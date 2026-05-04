@@ -58,22 +58,20 @@ fashion-planning-analyst/
 
 ## Star Schema
 
-**Fact table:** `fact_weekly_interest`
-- `category_key`, `date_key`, `region_key`
-- `interest_score` (0–100)
-- `week_over_week_change`
+**Fact table:** `SKIMS_ANALYTICS.MART.fact_weekly_interest`
+- `interest_key` (PK), `category_key` (FK), `date_key` (FK)
+- `interest_score` (0–100), `loaded_at`
 
 **Dimensions:**
-- `dim_category` — category name, category group (intimates / ready-to-wear / swim)
-- `dim_date` — week, month, quarter, year, season
-- `dim_region` — region name, country
+- `SKIMS_ANALYTICS.MART.dim_category` — keyword, category_group (intimates / lounge / swim / brand / ready-to-wear)
+- `SKIMS_ANALYTICS.MART.dim_date` — week_start, month, quarter, year, season
 
 ## Business Questions
 
 - Which SKIMS product categories have the highest demand right now?
 - Which categories are growing or declining over time?
 - What seasonal patterns exist across product groups?
-- How do demand trends compare across US regions?
+- How does interest in the "skims" brand term compare to individual category keywords?
 
 ## Credentials & Security
 

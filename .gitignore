@@ -208,3 +208,10 @@ __marimo__/
 
 # Project-specific docs
 docs/project-requirements-README.md
+
+# Slides script and output (private, submitted to Brightspace as PDF)
+docs/generate_slides.py
+docs/*.pptx
+
+# Streamlit local secrets
+.streamlit/secrets.toml
