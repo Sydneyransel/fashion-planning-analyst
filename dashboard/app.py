@@ -202,11 +202,12 @@ with tab2:
                 "category_group": "Category",
             },
         )
+        fig2.update_traces(hovertemplate="%{fullData.name}: %{y:.0f}")
         fig2.update_layout(
             **{
                 **CHART_LAYOUT,
-                "hovermode": "closest",
-                "xaxis": dict(showgrid=False),
+                "hovermode": "x unified",
+                "xaxis": dict(showgrid=False, showspikes=False),
             }
         )
         st.plotly_chart(fig2, use_container_width=True)
@@ -245,10 +246,11 @@ with tab2:
 
     st.markdown("---")
     st.info(
-        "**Q4 (November–December) drives the highest shapewear and intimates interest every year** — "
-        "the pattern repeats consistently regardless of campaign timing, pointing to holiday gifting "
-        "cycles as the primary demand driver. Swim peaks sharply in June–July; "
-        "loungewear holds elevated interest through winter months."
+        "**Swim peaks sharply in Summer (66/100) — 74% above its Winter baseline of 38/100.** "
+        "The seasonal swing repeats every year and is calendar-driven, not campaign-dependent, "
+        "making it highly forecastable for inventory planning. "
+        "**Dress is SKIMS' fastest-growing category**, rising from 32/100 in 2021 to 56/100 in 2026 "
+        "— structural growth that warrants increasing open-to-buy allocation each year."
     )
 
 # ── Footer ────────────────────────────────────────────────────────────────────
