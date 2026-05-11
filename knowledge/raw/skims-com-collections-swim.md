@@ -2,7 +2,7 @@
 url: https://skims.com/collections/swim
 source_type: skims.com
 title: Swimwear | SKIMS
-scraped_at: 2026-05-04T07:55:51.711499+00:00
+scraped_at: 2026-05-11T09:27:48.037824+00:00
 ---
 
 [Skip to main content](https://skims.com/collections/swim#main-content)
@@ -70,37 +70,35 @@ $58](https://skims.com/products/iconic-swim-string-bikini-bottom-cobalt "")
 
 new
 
-[![SHEER COVER-UPS PANT | OBSIDIAN ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-BTM-12185W-OBD-LE-SKIMS-LOUNGEWEAR_3983-FR.webp?v=1777072105&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![COTTON COVER-UPS SHORT DRESS | SNOW ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-DRS-12292W-SNO-LC-SKIMS-DRESS_4101-FR.webp?v=1777071665&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![SHEER COVER-UPS PANT | OBSIDIAN FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-CU-BTM-12185W-OBD-FLT.jpg?v=1777071007&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-sheer-pant-obsidian "")
+![COTTON COVER-UPS SHORT DRESS | SNOW LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-CU-DRS-12292W-SNO-SW_aeca7f87-42b2-4f5c-baad-123e2ad1b031.jpg?v=1777070348&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-cotton-off-the-shoulder-mini-dress-snow "")
 
-- obsidian
+- snow
 
-- ![CARMINE ZEBRA PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/88f5df8df5550a7da4153745960f60ca8254027e-100x100.jpg)
-
-carmine zebra print
+- carmine
 
 
 [SWIM COVER-UPS\\
-**SHEER PANT** \\
-$108](https://skims.com/products/swim-cover-ups-sheer-pant-obsidian "")
+**COTTON OFF THE SHOULDER MINI DRESS** \\
+$88](https://skims.com/products/swim-cover-ups-cotton-off-the-shoulder-mini-dress-snow "")
 
-new
+new color
 
-[![SHEER COVER-UPS SARONG | CARMINE ZEBRA PRINT ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-ONE-10711W-CZBP-LC-SKIMS-LOUNGEWEAR_4282-FR.webp?v=1777072108&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![COTTON COVER-UPS SARONG DRESS | CARMINE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-DRS-11608W-CMN-LC-SKIMS-DRESS_4155-FR.webp?v=1777071666&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![SHEER COVER-UPS SARONG | CARMINE ZEBRA PRINT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-CU-ONE-10711W-CZBP-FLT.jpg?v=1777067787&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-sheer-open-front-sarong-carmine-zebra-print "")
+![COTTON COVER-UPS SARONG DRESS | CARMINE LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-CU-DRS-11608W-CMN-SW_44949e29-02ea-4090-be7d-3ac98a3087b9.jpg?v=1777070354&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-cotton-sarong-dress-carmine "")
 
-- ![CARMINE ZEBRA PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/88f5df8df5550a7da4153745960f60ca8254027e-100x100.jpg)
+- carmine
 
-carmine zebra print
+- snow
 
-- obsidian
+- onyx
 
 
 [SWIM COVER-UPS\\
-**SHEER OPEN FRONT SARONG** \\
-$110](https://skims.com/products/swim-cover-ups-sheer-open-front-sarong-carmine-zebra-print "")
+**COTTON SARONG DRESS** \\
+$98](https://skims.com/products/swim-cover-ups-cotton-sarong-dress-carmine "")
 
 new
 
@@ -138,18 +136,20 @@ $58](https://skims.com/products/iconic-swim-high-leg-bikini-bottom-cobalt "")
 
 new
 
-[![COTTON COVER-UPS SHORT DRESS | CARMINE CAMPAIGN @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONT_FACING_PLP_07_042826_COTTON_COVERUPS_CARMINE_DRESSES_CLOTHING.webp?v=1777236079&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![SHEER COVER-UPS SHORT KAFTAN | CARMINE ZEBRA PRINT ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-DRS-11600W-CZBP-LC-SKIMS-LOUNGEWEAR_4323-FR.webp?v=1777072107&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![COTTON COVER-UPS SHORT DRESS | CARMINE LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-CU-DRS-12292W-CMN-SW_3fd192a0-868e-4677-906e-3461a45700c3.jpg?v=1777070355&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-cotton-off-the-shoulder-mini-dress-carmine "")
+![SHEER COVER-UPS SHORT KAFTAN | CARMINE ZEBRA PRINT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-CU-DRS-11600W-CZBP-FLT.jpg?v=1777067783&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-sheer-mini-kaftan-carmine-zebra-print "")
 
-- carmine
+- ![CARMINE ZEBRA PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/88f5df8df5550a7da4153745960f60ca8254027e-100x100.jpg)
 
-- snow
+carmine zebra print
+
+- obsidian
 
 
 [SWIM COVER-UPS\\
-**COTTON OFF THE SHOULDER MINI DRESS** \\
-$88](https://skims.com/products/swim-cover-ups-cotton-off-the-shoulder-mini-dress-carmine "")
+**SHEER MINI KAFTAN** \\
+$118](https://skims.com/products/swim-cover-ups-sheer-mini-kaftan-carmine-zebra-print "")
 
 new
 
@@ -165,38 +165,6 @@ new
 [ICONIC SWIM\\
 **PLUNGE ONE PIECE** \\
 $128](https://skims.com/products/iconic-swim-plunge-one-piece-carmine "")
-
-new
-
-[![COTTON COVER-UPS SHORT DRESS | SNOW ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-DRS-12292W-SNO-LC-SKIMS-DRESS_4101-FR.webp?v=1777071665&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![COTTON COVER-UPS SHORT DRESS | SNOW LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-CU-DRS-12292W-SNO-SW_aeca7f87-42b2-4f5c-baad-123e2ad1b031.jpg?v=1777070348&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-cotton-off-the-shoulder-mini-dress-snow "")
-
-- snow
-
-- carmine
-
-
-[SWIM COVER-UPS\\
-**COTTON OFF THE SHOULDER MINI DRESS** \\
-$88](https://skims.com/products/swim-cover-ups-cotton-off-the-shoulder-mini-dress-snow "")
-
-new color
-
-[![COTTON COVER-UPS SARONG DRESS | CARMINE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-DRS-11608W-CMN-LC-SKIMS-DRESS_4155-FR.webp?v=1777071666&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![COTTON COVER-UPS SARONG DRESS | CARMINE LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-CU-DRS-11608W-CMN-SW_44949e29-02ea-4090-be7d-3ac98a3087b9.jpg?v=1777070354&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-cotton-sarong-dress-carmine "")
-
-- carmine
-
-- snow
-
-- onyx
-
-
-[SWIM COVER-UPS\\
-**COTTON SARONG DRESS** \\
-$98](https://skims.com/products/swim-cover-ups-cotton-sarong-dress-carmine "")
 
 new
 
@@ -232,19 +200,109 @@ new
 **MICRO BANDEAU BIKINI TOP** \\
 $58](https://skims.com/products/iconic-swim-micro-bandeau-bikini-top-carmine "")
 
-[Load More](https://skims.com/collections/swim?direction=next&cursor=eyJsYXN0X3ZhbHVlIjoiMTEiLCJsYXN0X2lkIjoxMDI0NzA0MjY2Mjc1Mywib2Zmc2V0IjoxMX0%3D)
+new
+
+[![ICONIC SWIM CROP TOP | CARMINE ON A MODEL SIDE VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TS-BIK-11457W-CMN-LB-SKIMS-SWIM_2165-SD.webp?v=1777311495&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+\\
+![ICONIC SWIM CROP TOP | CARMINE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-11457W-CMN-FLT.jpg?v=1777066914&auto=format&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-tank-bikini-top-carmine "")
+
+- carmine
+
+- cobalt
+
+- obsidian
+
+
+[ICONIC SWIM\\
+**TANK BIKINI TOP** \\
+$74](https://skims.com/products/iconic-swim-tank-bikini-top-carmine "")
+
+new
+
+[![SHEER COVER-UPS LONG KAFTAN | OBSIDIAN ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-DRS-9627W-OBD-LB-SKIMS-LOUNGEWEAR_2699-FR.webp?v=1777072109&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+\\
+![SHEER COVER-UPS LONG KAFTAN | OBSIDIAN FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-CU-DRS-9627W-OBD-FLT_9d986154-d178-41ab-b3ec-989ab350f3ad.jpg?v=1777071005&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-sheer-long-kaftan-obsidian "")
+
+- obsidian
+
+- ![CARMINE ZEBRA PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/88f5df8df5550a7da4153745960f60ca8254027e-100x100.jpg)
+
+carmine zebra print
+
+
+[SWIM COVER-UPS\\
+**SHEER LONG KAFTAN** \\
+$118](https://skims.com/products/swim-cover-ups-sheer-long-kaftan-obsidian "")
+
+[Load More](https://skims.com/collections/swim?direction=next&cursor=eyJsYXN0X3ZhbHVlIjoiMTEiLCJsYXN0X2lkIjoxMDI0Njg1NzcyMDE2MSwib2Zmc2V0IjoxMX0%3D)
 
 ## WE THINK YOU'D LIKE
 
-1/2
+1/3
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UNL-10812W-LHG-FLT_grande.jpg?v=1771368791&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-10627W-CMB_grande.jpg?v=1772696418&auto=format&ixlib=react-9.11.0)\\
 \\
-EVERYDAY COTTON\\
+SIGNATURE SWIM\\
 \\
-**UNLINED DEMI BRA** \\
+**TRIANGLE BIKINI TOP** \\
 \\
-$48](https://skims.com/products/everyday-cotton-unlined-demi-bra-light-heather-grey "")
+$44](https://skims.com/products/signature-swim-triangle-bikini-top-cherry-blossom-contrast "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-BRF-10656W-BTRT-FLT_grande.jpg?v=1775689918&auto=format&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**WIDE LACE BRIEF** \\
+\\
+$14](https://skims.com/products/lightweight-cotton-wide-lace-brief-butter-tonal "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BODYSUIT-BD-THG-3286-ONX_b4ff4bcf-9b9a-4670-b1db-4dd5bd1dc042_grande.jpg?v=1753895259&auto=format&ixlib=react-9.11.0)\\
+\\
+SKIMS BODY\\
+\\
+**UNLINED PLUNGE THONG BODYSUIT** \\
+\\
+$88](https://skims.com/products/skims-body-unlined-plunge-thong-bodysuit-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-DRS-0596-ONX-FL_grande.jpg?v=1708554715&auto=format&ixlib=react-9.11.0)\\
+\\
+SOFT LOUNGE\\
+\\
+**LONG SLIP DRESS** \\
+\\
+$80](https://skims.com/products/soft-lounge-long-slip-dress-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-LG-SET-10606W-SDF-FLT-COMP_grande.jpg?v=1775689861&auto=format&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**LACE CAMI AND BOY SHORT SET** \\
+\\
+$48](https://skims.com/products/lightweight-cotton-lace-cami-and-boy-short-set-surf-dainty-floral-print "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10655W-SNO-FLT_39a90ea7-2438-4e65-a2a3-e6e4e0543937_grande.jpg?v=1775673227&auto=format&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**WIDE LACE THONG** \\
+\\
+$12](https://skims.com/products/lightweight-cotton-wide-lace-thong-snow "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-MDT-2914-SIENNAcopy_grande.jpg?v=1682107011&auto=format&ixlib=react-9.11.0)\\
+\\
+SEAMLESS SCULPT\\
+\\
+**STRAPLESS SHORTIE BODYSUIT** \\
+\\
+$74](https://skims.com/products/seamless-sculpt-strapless-shortie-bodysuit-sienna "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRAS-BR-TRI-0024-OCH-FL_grande.jpg?v=1711845802&auto=format&ixlib=react-9.11.0)\\
+\\
+FITS EVERYBODY\\
+\\
+**TRIANGLE BRALETTE** \\
+\\
+$34$23](https://skims.com/products/fits-everybody-triangle-bralette-ochre "")
 
 [![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-2294-CLY_993ba1d0-2313-4db6-95e0-92f430bc657d_grande.jpg?v=1713977415&auto=format&ixlib=react-9.11.0)\\
 \\
@@ -254,13 +312,37 @@ FITS EVERYBODY\\
 \\
 $54](https://skims.com/products/fits-everybody-plunge-bra-clay "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BA-DEM-9062-BGT-FLT_grande.jpg?v=1774392125&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-PNS-5752W-BMMA_grande.jpg?v=1768675042&auto=format&ixlib=react-9.11.0)\\
+\\
+SKIMS SLEEP\\
+\\
+**LONG SLEEVE BUTTON UP SET** \\
+\\
+$88$61](https://skims.com/products/skims-sleep-long-sleeve-button-up-set-bloom-mini-multi-animal "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PN-THG-9371-BGT-FLT_grande.jpg?v=1774392324&auto=format&ixlib=react-9.11.0)\\
 \\
 FITS EVERYBODY LACE\\
 \\
-**UNLINED SCOOP BRA** \\
+**DIPPED THONG** \\
 \\
-$54](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-bubble-gum-tonal "")
+$20](https://skims.com/products/fits-everybody-lace-dipped-thong-bubble-gum-tonal "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-CLY-FLT_grande.jpg?v=1739333853&auto=format&ixlib=react-9.11.0)\\
+\\
+SKIMS ULTIMATE\\
+\\
+**BALCONETTE PUSH-UP BRA** \\
+\\
+$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-10321W-DLP-SW_986b64ae-4088-40fd-afac-44c870d8bfec_grande.jpg?v=1756930627&auto=format&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**THONG** \\
+\\
+$12](https://skims.com/products/lightweight-cotton-thong-delta-leopard "")
 
 [![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-1881-CLY_d367fbfd-1b41-43ab-802e-592ed06a79dc_grande.jpg?v=1752524627&auto=format&ixlib=react-9.11.0)\\
 \\
@@ -270,53 +352,37 @@ SKIMS ULTIMATE\\
 \\
 $64](https://skims.com/products/skims-ultimate-teardrop-push-up-bra-clay "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SIGNATURESWIM-BB-BRF-8474W-MLN-FLT_grande.jpg?v=1774934930&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BO-PNT-8432W-NMG-FLT_grande.jpg?v=1777069449&auto=format&ixlib=react-9.11.0)\\
 \\
-SIGNATURE SWIM\\
+SMOOTH LAYERS\\
 \\
-**HIGH-WAISTED BIKINI BOTTOM** \\
+**HIGH-WAISTED CAPRI** \\
 \\
-$44](https://skims.com/products/signature-swim-high-waisted-bikini-bottom-melon "")
+$48](https://skims.com/products/smooth-layers-high-waisted-capri-nutmeg "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5957W-SDF-FLT_d5e21efd-bec1-4502-9d8f-f474d50202ae_grande.jpg?v=1775689939&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-11112W-BDFP-FLT_grande.jpg?v=1775689995&auto=format&ixlib=react-9.11.0)\\
 \\
 LIGHTWEIGHT COTTON\\
 \\
-**LACE THONG** \\
+**POINTELLE LACE STRING THONG** \\
 \\
-$12](https://skims.com/products/lightweight-cotton-lace-thong-surf-dainty-floral-print "")
+$10](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-bloom-dainty-floral "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9221-ARC-FLT_grande.jpg?v=1775077549&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-SET-11846W-BYP-FLT_281_29_grande.jpg?v=1775677811&auto=format&ixlib=react-9.11.0)\\
+\\
+SKIMS SLEEP\\
+\\
+**LACE CAMI AND PANT SET** \\
+\\
+$84](https://skims.com/products/skims-sleep-lace-cami-and-pant-set-barely-pink "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-DTH-0027-ONX-FL_grande.jpg?v=1624298354&auto=format&ixlib=react-9.11.0)\\
 \\
 FITS EVERYBODY\\
 \\
-**T-SHIRT BRA** \\
+**DIPPED FRONT THONG** \\
 \\
-$54](https://skims.com/products/fits-everybody-t-shirt-bra-arctic "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SIGNATURESWIM-BT-TRI-8466W-ALB-FLT_grande.jpg?v=1774643196&auto=format&ixlib=react-9.11.0)\\
-\\
-SIGNATURE SWIM\\
-\\
-**TRIANGLE BIKINI TOP** \\
-\\
-$44](https://skims.com/products/signature-swim-triangle-bikini-top-almond-bandana "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-SOT-FLT_2781d3b4-eded-4093-ba43-0d16b1ad2c56_grande.jpg?v=1767136370&auto=format&ixlib=react-9.11.0)\\
-\\
-COTTON JERSEY\\
-\\
-**LONG SLEEVE T-SHIRT** \\
-\\
-$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SIGNATURESWIM-BT-PLG-7500W-MLN-FLT_grande.jpg?v=1774936033&auto=format&ixlib=react-9.11.0)\\
-\\
-SIGNATURE SWIM\\
-\\
-**PLUNGE BIKINI TOP** \\
-\\
-$44](https://skims.com/products/signature-swim-plunge-bikini-top-melon "")
+$18](https://skims.com/products/fits-everybody-dipped-front-thong-onyx "")
 
 ![](https://skims-sanity.imgix.net/images/hfqi0zm0/production/2a77aeeb62ae7cb081ed1f3e6c1838c1f2895b35-959x840.webp?auto=format&ixlib=react-9.11.0)
 
@@ -336,37 +402,13 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-DRS-0596-ONX-FL_grande.jpg?v=1708554715&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAN-3208-SIE_1_grande.jpg?v=1749833700&auto=format&ixlib=react-9.11.0)\\
 \\
-SOFT LOUNGE\\
+SKIMS ULTIMATE\\
 \\
-**LONG SLIP DRESS** \\
+**STRAPLESS PUSH-UP BRA** \\
 \\
-$80](https://skims.com/products/soft-lounge-long-slip-dress-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BOXER-BO-BBR-5303M-ONX_COMPOSITE_e87fc299-f789-4732-966d-bbf85fa4b6e5_grande.jpg?v=1730860559&auto=format&ixlib=react-9.11.0)\\
-\\
-SKIMS COTTON\\
-\\
-**MENS 5" BOXER BRIEF 3-PACK** \\
-\\
-$46](https://skims.com/products/skims-cotton-mens-5-inch-boxer-brief-3-pack-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SSL-11852W-SNOW-SKIMS-ANGEL-FLT_grande.jpg?v=1768686600&auto=format&ixlib=react-9.11.0)\\
-\\
-WORN IN JERSEY\\
-\\
-**T-SHIRT** \\
-\\
-$58$40](https://skims.com/products/worn-in-jersey-t-shirt-snow-skims-angel "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-11112W-STT-FLT_grande.jpg?v=1775161412&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**POINTELLE LACE STRING THONG** \\
-\\
-$10](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-soot-tonal "")
+$64](https://skims.com/products/skims-ultimate-strapless-push-up-bra-sienna "")
 
 [![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMSRift_01_FINAL.webp?v=1772556600&auto=format&ixlib=react-9.11.0)\\
 \\
@@ -376,45 +418,69 @@ NikeSKIMS FOOTWEAR\\
 \\
 $150](https://skims.com/products/nikeskims-footwear-rift-mesh-lt-bone "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-MDT-2914-SIENNAcopy_grande.jpg?v=1682107011&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-SCP-2690-ONX_219d1370-2212-40d1-a169-928b12961a2b_grande.jpg?v=1705537516&auto=format&ixlib=react-9.11.0)\\
+\\
+FITS EVERYBODY LACE\\
+\\
+**SCOOP BRALETTE** \\
+\\
+$38](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TNK-0038-HEG-FL_grande.jpg?v=1621644689&auto=format&ixlib=react-9.11.0)\\
+\\
+COTTON RIB\\
+\\
+**TANK** \\
+\\
+$38](https://skims.com/products/cotton-rib-tank-light-heather-grey "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-MDT-3372-ONXcopy_grande.jpg?v=1742584779&auto=format&ixlib=react-9.11.0)\\
 \\
 SEAMLESS SCULPT\\
 \\
-**STRAPLESS SHORTIE BODYSUIT** \\
+**MID THIGH BODYSUIT** \\
 \\
-$74](https://skims.com/products/seamless-sculpt-strapless-shortie-bodysuit-sienna "")
+$74](https://skims.com/products/seamless-sculpt-mid-thigh-bodysuit-onyx "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-CLY-FLT_grande.jpg?v=1739333853&auto=format&ixlib=react-9.11.0)\\
-\\
-SKIMS ULTIMATE\\
-\\
-**BALCONETTE PUSH-UP BRA** \\
-\\
-$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/BR-BND-0026-ONX-FL_grande.jpg?v=1624297830&auto=format&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**BANDEAU** \\
-\\
-$28](https://skims.com/products/fits-everybody-bandeau-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAN-3208-SIE_1_grande.jpg?v=1749833700&auto=format&ixlib=react-9.11.0)\\
-\\
-SKIMS ULTIMATE\\
-\\
-**STRAPLESS PUSH-UP BRA** \\
-\\
-$64](https://skims.com/products/skims-ultimate-strapless-push-up-bra-sienna "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5957W-SDF-FLT_d5e21efd-bec1-4502-9d8f-f474d50202ae_grande.jpg?v=1775689939&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BK-BIK-5960W-MLTN-FLT_grande.jpg?v=1775689972&auto=format&ixlib=react-9.11.0)\\
 \\
 LIGHTWEIGHT COTTON\\
 \\
-**LACE THONG** \\
+**LOGO PICOT STRING BIKINI** \\
 \\
-$12](https://skims.com/products/lightweight-cotton-lace-thong-surf-dainty-floral-print "")
+$14](https://skims.com/products/lightweight-cotton-logo-picot-string-bikini-melon-tonal "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-LS-LSL-1209W-CMB-FLT_grande.jpg?v=1767136934&auto=format&ixlib=react-9.11.0)\\
+\\
+COTTON JERSEY\\
+\\
+**LONG SLEEVE BOATNECK TOP** \\
+\\
+$58$40](https://skims.com/products/cotton-jersey-long-sleeve-boatneck-top-cherry-blossom "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-SOT-FLT_2781d3b4-eded-4093-ba43-0d16b1ad2c56_grande.jpg?v=1767136370&auto=format&ixlib=react-9.11.0)\\
+\\
+COTTON JERSEY\\
+\\
+**LONG SLEEVE T-SHIRT** \\
+\\
+$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-10627W-CMB_grande.jpg?v=1772696418&auto=format&ixlib=react-9.11.0)\\
+\\
+SIGNATURE SWIM\\
+\\
+**TRIANGLE BIKINI TOP** \\
+\\
+$44](https://skims.com/products/signature-swim-triangle-bikini-top-cherry-blossom-contrast "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5958W-STT-FLT_grande.jpg?v=1739556586&auto=format&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**LOGO PICOT THONG** \\
+\\
+$12](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot "")
 
 New
 
@@ -583,85 +649,3 @@ Terry
 
 
 View 12+ Items
-
-![Company Logo](https://cdn.cookielaw.org/logos/e2c47f8f-4a65-434c-899f-d520e15d7e6f/e546379a-c1cc-4e50-9188-8e33bc073563/49b61741-7974-4965-b7a1-338cac284eef/SKIMS_Logo.png)
-
-## Your Privacy Choices
-
-Overview: When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is used to make the site work as you expect it to and to provide a more personalized web experience. We also share information about your use of our site with our social media, advertising and analytics partners. However, you can choose not to allow certain types of cookies by using the toggles below, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference.
-
-Do Not Sell or Share My Personal Information: Under certain privacy laws, to the extent applicable to our processing of your personal information, you have the right to direct us not to: (i) sell your personal information; or (ii) share your personal information for targeted advertising and cross-contextual behavioral advertising purposes through the following methods:
-
-You can use the tools on this page to opt-out of our “selling” and “sharing” of your personal information collected through our use of cookies by opting-out of “Targeting Cookies”, “Performance Cookies” and “Social Media” cookies using these toggles and clicking the “Confirm My Choices” button. You cannot opt-out of our Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website.
-
-You can also opt-out by emailing us at [privacy@skims.com](mailto:privacy@skims.com). For more information, please see the “Selling and Sharing” section of our [Privacy Policy.](https://skims.com/pages/privacy-policy)
-
-Please note that, regardless of the method you choose to opt-out, this is a limited opt-out that does not apply to information sold or shared prior to our receipt of your request.
-
-Allow All
-
-### Manage Consent Preferences
-
-#### Strictly Necessary Cookies
-
-Required
-
-These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
-
-#### Opt Out of Third-Party Targeting Cookies
-
-Opt Out of Third-Party Targeting Cookies
-
-Under certain US State Laws , you have the right to opt-out of the sale of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale of personal information by using this toggle switch. If you opt out we will not be able to offer you personalised ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a consumer by using this Exercise My Rights link.
-
-If you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.
-
-- ##### Performance Cookies
-
-
-
-
-Switch Labellabel
-
-
-
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
-
-
-- ##### Targeting Cookies
-
-
-
-
-Switch Labellabel
-
-
-
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
-
-
-Back Button
-
-### Cookie List
-
-Search Icon
-
-Filter Icon
-
-Clear
-
-checkbox labellabel
-
-ApplyCancel
-
-ConsentLeg.Interest
-
-checkbox labellabel
-
-checkbox labellabel
-
-checkbox labellabel
-
-Confirm My Choices
-
-[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)

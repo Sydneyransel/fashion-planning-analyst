@@ -2,7 +2,7 @@
 url: https://skims.com/collections/dresses
 source_type: skims.com
 title: SKIMS | SKIMS
-scraped_at: 2026-05-04T07:55:58.887960+00:00
+scraped_at: 2026-05-11T09:27:54.936267+00:00
 ---
 
 [Skip to main content](https://skims.com/collections/dresses#main-content)
@@ -25,85 +25,85 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BAN-3151-MCA_grande.jpg?v=1714671215&auto=format&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**STRAPLESS BRA** \\
-\\
-$54](https://skims.com/products/fits-everybody-strapless-bra-mica "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5957W-SDF-FLT_d5e21efd-bec1-4502-9d8f-f474d50202ae_grande.jpg?v=1775689939&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BR-BRF-5963W-BTRT-FLT_6fec5496-f549-4a10-954a-cd299e302add_grande.jpg?v=1775689596&auto=format&ixlib=react-9.11.0)\\
 \\
 LIGHTWEIGHT COTTON\\
 \\
-**LACE THONG** \\
+**LACE BRIEF** \\
 \\
-$12](https://skims.com/products/lightweight-cotton-lace-thong-surf-dainty-floral-print "")
+$14](https://skims.com/products/lightweight-cotton-lace-brief-butter-tonal "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SIGNATURESWIM-BT-TRI-8466W-ALB-FLT_grande.jpg?v=1774643196&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-LG-SET-10606W-SDF-FLT-COMP_grande.jpg?v=1775689861&auto=format&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**LACE CAMI AND BOY SHORT SET** \\
+\\
+$48](https://skims.com/products/lightweight-cotton-lace-cami-and-boy-short-set-surf-dainty-floral-print "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-THG-0028-ONX-FL_grande.jpg?v=1697138190&auto=format&ixlib=react-9.11.0)\\
+\\
+FITS EVERYBODY\\
+\\
+**THONG** \\
+\\
+$18](https://skims.com/products/fits-everybody-thong-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TNK-0038-HEG-FL_grande.jpg?v=1621644689&auto=format&ixlib=react-9.11.0)\\
+\\
+COTTON RIB\\
+\\
+**TANK** \\
+\\
+$38](https://skims.com/products/cotton-rib-tank-light-heather-grey "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-BRF-10656W-BTRT-FLT_grande.jpg?v=1775689918&auto=format&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**WIDE LACE BRIEF** \\
+\\
+$14](https://skims.com/products/lightweight-cotton-wide-lace-brief-butter-tonal "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-10627W-CMB_grande.jpg?v=1772696418&auto=format&ixlib=react-9.11.0)\\
 \\
 SIGNATURE SWIM\\
 \\
 **TRIANGLE BIKINI TOP** \\
 \\
-$44](https://skims.com/products/signature-swim-triangle-bikini-top-almond-bandana "")
+$44](https://skims.com/products/signature-swim-triangle-bikini-top-cherry-blossom-contrast "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SIGNATURESWIM-BB-THG-8471W-ALB-FLT_grande.jpg?v=1774643044&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-LEG-0039-HEG-FL_ba476484-a994-4ef5-a921-235c5ab61801_grande.jpg?v=1709751464&auto=format&ixlib=react-9.11.0)\\
 \\
-SIGNATURE SWIM\\
+COTTON RIB\\
 \\
-**THONG BIKINI BOTTOM** \\
+**LEGGING** \\
 \\
-$40](https://skims.com/products/signature-swim-thong-bikini-bottom-almond-bandana "")
+$56](https://skims.com/products/cotton-rib-legging-light-heather-grey "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PN-THG-9370-BGT-FLT_grande.jpg?v=1774392244&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TSH-0649-ONX-FL_grande.jpg?v=1615492274&auto=format&ixlib=react-9.11.0)\\
 \\
-FITS EVERYBODY LACE\\
-\\
-**STRING THONG** \\
-\\
-$18](https://skims.com/products/fits-everybody-lace-string-thong-bubble-gum-tonal "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SSL-11852W-SNOW-SKIMS-ANGEL-FLT_grande.jpg?v=1768686600&auto=format&ixlib=react-9.11.0)\\
-\\
-WORN IN JERSEY\\
+FITS EVERYBODY\\
 \\
 **T-SHIRT** \\
 \\
-$58$40](https://skims.com/products/worn-in-jersey-t-shirt-snow-skims-angel "")
+$48](https://skims.com/products/fits-everybody-t-shirt-onyx "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-11112W-STT-FLT_grande.jpg?v=1775161412&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**POINTELLE LACE STRING THONG** \\
-\\
-$10](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-soot-tonal "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PN-THG-9371-BGT-FLT_grande.jpg?v=1774392324&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BA-DEM-9062-BGT-FLT_grande.jpg?v=1774392125&auto=format&ixlib=react-9.11.0)\\
 \\
 FITS EVERYBODY LACE\\
 \\
-**DIPPED THONG** \\
+**UNLINED SCOOP BRA** \\
 \\
-$20](https://skims.com/products/fits-everybody-lace-dipped-thong-bubble-gum-tonal "")
+$54](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-bubble-gum-tonal "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-8495W-SOT-SW_9cc648f9-29eb-47aa-973a-c2b37bd2990c_grande.jpg?v=1768671970&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**POINTELLE LACE THONG** \\
-\\
-$12](https://skims.com/products/lightweight-cotton-pointelle-lace-thong-soot-tonal "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10647W-ONX-FLT_de74e74b-0169-4881-a79c-8d9a0cc5dabc_grande.jpg?v=1774284532&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10646W-ONX-FLT_51565f8a-33ca-4eb6-8ff6-27595fe79018_grande.jpg?v=1774285068&auto=format&ixlib=react-9.11.0)\\
 \\
 EVERYDAY COTTON\\
 \\
-**THONG** \\
+**STRING THONG** \\
 \\
-$18](https://skims.com/products/everyday-cotton-thong-onyx "")
+$16](https://skims.com/products/everyday-cotton-string-thong-onyx "")
 
 New
 

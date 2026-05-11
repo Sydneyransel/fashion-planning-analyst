@@ -2,14 +2,14 @@
 url: https://wwd.com/sourcing-journal/industry-news/skims-first-stores-georgetown-miami-nationwide-expansion-kim-kardashian-1238837613/
 source_type: wwd.com
 title: Skims Opens First Stores, Eyes Nationwide Expansion
-scraped_at: 2026-05-04T07:56:19.790533+00:00
+scraped_at: 2026-05-11T09:28:15.128890+00:00
 ---
 
 [Skip to main content](https://wwd.com/sourcing-journal/industry-news/skims-first-stores-georgetown-miami-nationwide-expansion-kim-kardashian-1238837613/#pagetop)
 
 - [Trade](https://wwd.com/sourcing-journal/trade/)
 
-### [Tariff Ticker](https://wwd.com/sourcing-journal/trade/cbp-ieepa-tariff-refund-cape-ace-cit-importers-entries-1238934302/)
+### [Tariff Ticker](https://wwd.com/sourcing-journal/trade/eu-us-trade-deal-g7-europe-trump-tariffs-turnberry-agreement-1238945502/)
 
 
 
@@ -17,11 +17,11 @@ scraped_at: 2026-05-04T07:56:19.790533+00:00
 
 
 
-[![Shipping containers.](https://wwd.com/wp-content/uploads/2024/10/lotsofcontainers.jpg?w=225&h=225&crop=1)](https://wwd.com/sourcing-journal/trade/cbp-ieepa-tariff-refund-cape-ace-cit-importers-entries-1238934302/)
+[![European Commissioner for Trade and Economic Security Maros Sefcovic, Germany's Economy Minister Katherina Reiche, Britain's Secretary of State for Business and Trade Peter Kyle, US Trade Representative Jamieson Greer, France's junior Minister in charge of external trade Nicolas Forissier, Canada's International Trade Minister Maninder Sidhu, Italy's Undersecretary of State for Foreign Affairs Maria Tripodi, Japan's Minister of Economy and Trade Akazawa Ryosei and Japan's State Minister for Foreign Affairs Horii Iwao pose for a group photo upon arrival for a meeting of the G7 countries in preparation for the summit of heads of State and government to be held in June in Evian, in Paris on May 6, 2026.](https://wwd.com/wp-content/uploads/2026/05/g7.jpg?w=225&h=225&crop=1)](https://wwd.com/sourcing-journal/trade/eu-us-trade-deal-g7-europe-trump-tariffs-turnberry-agreement-1238945502/)
 
 - [Sustainability](https://wwd.com/sourcing-journal/sustainability/)
 
-### [Material World](https://wwd.com/sourcing-journal/sustainability/material-world-fit-for-duty-innovate-responsibly-1238919016/)
+### [Material World](https://wwd.com/sourcing-journal/sustainability/material-world-tydra-labs-microban-karl-mayer-guy-harvey-1238943854/)
 
 
 
@@ -29,11 +29,11 @@ scraped_at: 2026-05-04T07:56:19.790533+00:00
 
 
 
-[![Lenzing at China International Occupational Safety & Health Goods Expo (CIOSH) Shanghai.](https://wwd.com/wp-content/uploads/2026/04/LenzingWorkwear1_a7c308.jpg?w=225&h=225&crop=1)](https://wwd.com/sourcing-journal/sustainability/material-world-fit-for-duty-innovate-responsibly-1238919016/)
+[![Athanasios Kritharis and Jaiya Varshney.](https://wwd.com/wp-content/uploads/2026/05/TydraTeam.jpeg?w=225&h=225&crop=1)](https://wwd.com/sourcing-journal/sustainability/material-world-tydra-labs-microban-karl-mayer-guy-harvey-1238943854/)
 
 - [Industry News](https://wwd.com/sourcing-journal/industry-news/)
 
-### [Exec Moves](https://wwd.com/sourcing-journal/industry-news/shuffle-board-puma-continues-hiring-boohoo-1238928186/)
+### [Exec Moves](https://wwd.com/sourcing-journal/industry-news/shuffle-board-tracking-footwear-executive-steps-1238947236/)
 
 
 
@@ -41,7 +41,7 @@ scraped_at: 2026-05-04T07:56:19.790533+00:00
 
 
 
-[![LONDON, ENGLAND - DECEMBER 9: People pass a Puma store on December 9, 2025 in London, England. Chinese firm, Anta Sports is exploring a potential bid for the German sportswear group Puma, hiring an advisor to evaluate the deal. (Photo by Carl Court/Getty Images)](https://wwd.com/wp-content/uploads/2026/04/SBpuma.jpg?w=225&h=225&crop=1)](https://wwd.com/sourcing-journal/industry-news/shuffle-board-puma-continues-hiring-boohoo-1238928186/)
+[![Rack Room Shoes partnered with Sneaker Impact to recycle used shoes.](https://wwd.com/wp-content/uploads/2023/01/rack-room-sneaker-impact.jpg?w=225&h=225&crop=1)](https://wwd.com/sourcing-journal/industry-news/shuffle-board-tracking-footwear-executive-steps-1238947236/)
 
 
 ![From Georgetown to Miami, Skims is quickly expanding its retail footprint.](https://wwd.com/wp-content/uploads/2024/07/Skims.jpg?w=910&h=511&crop=1)
@@ -98,7 +98,7 @@ The 3,501-square-foot store features [Skims](https://api.swiftype.com/api/v1/pub
 
 “As this is [Skims](https://api.swiftype.com/api/v1/public/analytics/pc?engine_key=iU6o6j2FXcJr_2awoLDB&doc_id=6584176964441f81e4014f87&_st_url=https%3A%2F%2Fwwd.com%2Ftopics%2Fbusiness-news%2Fkim-kardashian-west-shapewear-skims-launch-sold-out-2-million-169120%2F&q=skims)’ first permanent store…we’ve been so meticulous with every detail to ensure that our customers are immersed into the Skims universe,” said Kardashian. “Launching our own store is a major achievement for Skims, so we’re incredibly excited to welcome everyone to shop and experience our best-selling products in person.”
 
-Shortly after opening its Georgetown location, the [Hollywood](https://api.swiftype.com/api/v1/public/analytics/pc?engine_key=iU6o6j2FXcJr_2awoLDB&doc_id=631f9bd928ccbcc7ac59e6ff&_st_url=https%3A%2F%2Fwwd.com%2Fdenim%2Fdenim-brands%2Fmadewell-when-the-fit-hits-lukas-gage-chase-sui-wonders-charlbi-dean-366794%2F&q=hollywood)-headquartered brand planted roots over 1,000 miles away in [Miami](https://wwd.com/beauty-industry-news/skin-care/elemis-formula-one-miami-grand-prix-1238934892/). Like the D.C. location, the 3,721-square-foot store will also feature a mix of Skims’ signature neutral shades and fixtures.
+Shortly after opening its Georgetown location, the [Hollywood](https://api.swiftype.com/api/v1/public/analytics/pc?engine_key=iU6o6j2FXcJr_2awoLDB&doc_id=631f9bd928ccbcc7ac59e6ff&_st_url=https%3A%2F%2Fwwd.com%2Fdenim%2Fdenim-brands%2Fmadewell-when-the-fit-hits-lukas-gage-chase-sui-wonders-charlbi-dean-366794%2F&q=hollywood)-headquartered brand planted roots over 1,000 miles away in [Miami](https://wwd.com/home-design/interior-design/gulla-jonsdottir-miami-new-unframed-hotel-design-marvel-1238947442/). Like the D.C. location, the 3,721-square-foot store will also feature a mix of Skims’ signature neutral shades and fixtures.
 
 ![Skims Miami](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
@@ -126,41 +126,41 @@ Receive Our Daily Newsletter & Special Offers
 
 ## Related
 
-[![](https://wwd.com/wp-content/uploads/2026/05/EverydayExtended.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/shuffle-board-executive-moves-solbari-1238937545/)
+[![](https://wwd.com/wp-content/uploads/2026/05/nikestore.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/nike-class-action-ieepa-tariff-refunds-costco-lululemon-1238948853/)
 
 [Industry News](https://wwd.com/sourcing-journal/industry-news/)
 
-### [Shuffle Board: Solbari Builds Wholesale, TrueCommerce Eyes Growth](https://wwd.com/sourcing-journal/industry-news/shuffle-board-executive-moves-solbari-1238937545/)
+### [Nike Faces Class Action Over Tariff Refunds](https://wwd.com/sourcing-journal/industry-news/nike-class-action-ieepa-tariff-refunds-costco-lululemon-1238948853/)
 
-May 1, 2026
+May 8, 2026
 
-Australian brand Solbari enters the wholesale market while TrueCommerce appoints its next CRO to support its product-led, AI-forward growth strategy.
+Nike is the latest brand to come under fire from consumers seeking payback for the tariffs they say they paid in the form of higher prices at retail.
 
-[Read Article](https://wwd.com/sourcing-journal/industry-news/shuffle-board-executive-moves-solbari-1238937545/)
+[Read Article](https://wwd.com/sourcing-journal/industry-news/nike-class-action-ieepa-tariff-refunds-costco-lululemon-1238948853/)
 
-[![](https://wwd.com/wp-content/uploads/2026/05/turkeyprotests.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/international-workers-day-asia-turkey-indonesia-india-bangladesh-1238937766/)
-
-[Industry News](https://wwd.com/sourcing-journal/industry-news/)
-
-### [Workers Clash, Speak Out and Negotiate Across Asia on International Workers’ Day](https://wwd.com/sourcing-journal/industry-news/international-workers-day-asia-turkey-indonesia-india-bangladesh-1238937766/)
-
-May 1, 2026
-
-Workers rallies across Asia resounded with a similar message on Friday, as protests, marches, and discussions marked International Workers' Day.
-
-[Read Article](https://wwd.com/sourcing-journal/industry-news/international-workers-day-asia-turkey-indonesia-india-bangladesh-1238937766/)
-
-[![](https://wwd.com/wp-content/uploads/2025/09/Academy_Sports_Outdoors.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/academy-sports-outdoors-taps-ai-for-retail-pricing-1238937541/)
+[![](https://wwd.com/wp-content/uploads/2023/01/rack-room-sneaker-impact.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/shuffle-board-tracking-footwear-executive-steps-1238947236/)
 
 [Industry News](https://wwd.com/sourcing-journal/industry-news/)
 
-### [Major Sports Retailer Taps AI To Help Set Retail Prices](https://wwd.com/sourcing-journal/industry-news/academy-sports-outdoors-taps-ai-for-retail-pricing-1238937541/)
+### [Shuffle Board: Tracking Footwear’s Executive Steps and AGM Board Elects](https://wwd.com/sourcing-journal/industry-news/shuffle-board-tracking-footwear-executive-steps-1238947236/)
 
-May 1, 2026
+May 8, 2026
 
-From setting base prices to markdowns and promotions across hundreds of stores, AI is the newest driving force behind pricing strategies.
+Rack Room Shoes names outgoing CEO Mark Lardies’ successor and Genesco promotes company vet to VP while H&M and Polygiene share post AGM updates.
 
-[Read Article](https://wwd.com/sourcing-journal/industry-news/academy-sports-outdoors-taps-ai-for-retail-pricing-1238937541/)
+[Read Article](https://wwd.com/sourcing-journal/industry-news/shuffle-board-tracking-footwear-executive-steps-1238947236/)
+
+[![](https://wwd.com/wp-content/uploads/2026/05/Lenzing2026Q1.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/lenzing-gets-back-in-the-black-earnings-q1-1238948272/)
+
+[Industry News](https://wwd.com/sourcing-journal/industry-news/)
+
+### [Lenzing Gets Back in the Black](https://wwd.com/sourcing-journal/industry-news/lenzing-gets-back-in-the-black-earnings-q1-1238948272/)
+
+May 8, 2026
+
+The Austrian fiber firm doubled free cash flow in Q1, signaling a turnaround even as revenue fell 10.8 percent amid “highly volatile” markets.
+
+[Read Article](https://wwd.com/sourcing-journal/industry-news/lenzing-gets-back-in-the-black-earnings-q1-1238948272/)
 
 WWD and Women's Wear Daily are part of Penske Media Corporation. © 2026 Fairchild Publishing, LLC. All Rights Reserved.
 

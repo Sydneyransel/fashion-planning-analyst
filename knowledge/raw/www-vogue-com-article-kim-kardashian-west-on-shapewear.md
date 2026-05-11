@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-05-04T07:56:09.379539+00:00
+scraped_at: 2026-05-11T09:28:02.767798+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -23,19 +23,19 @@ LATEST ON VOGUE
 
 [![What’s Going On at Ganni?](https://assets.vogue.com/photos/69eb43b0fe6902ae555685f7/1:1/w_640%2Cc_limit/undefined)\\
 \\
-What’s Going On at Ganni?](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1 "What’s Going On at Ganni?")
+What’s Going On at Ganni?](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1 "What’s Going On at Ganni?")
 
 [![How to Tell a Sustainability Story Today](https://assets.vogue.com/photos/69e8c7e64c39ced2ca3a792e/1:1/w_640%2Cc_limit/undefined)\\
 \\
-How to Tell a Sustainability Story Today](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1 "How to Tell a Sustainability Story Today")
+How to Tell a Sustainability Story Today](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1 "How to Tell a Sustainability Story Today")
 
-[![How to Get Fashion to Change Its Ways](https://assets.vogue.com/photos/69d685f207672c8f82667374/1:1/w_640%2Cc_limit/undefined)\\
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
 \\
-How to Get Fashion to Change Its Ways](https://www.vogue.com/article/how-to-get-fashion-to-change-its-ways#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1 "How to Get Fashion to Change Its Ways")
+The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1 "The Vogue Business People Moves Tracker")
 
-[![Independent Designers Need More Support Than Ever. Can Fashion Trust US Help?](https://assets.vogue.com/photos/69d648a993bcb550c0259277/1:1/w_640%2Cc_limit/undefined)\\
+[![Should Barneys Come Back?](https://assets.vogue.com/photos/69e12c90157cd135f7688649/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Independent Designers Need More Support Than Ever. Can Fashion Trust US Help?](https://www.vogue.com/article/independent-designers-need-more-support-than-ever-can-fashion-trust-us-help#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1 "Independent Designers Need More Support Than Ever. Can Fashion Trust US Help?")
+Should Barneys Come Back?](https://www.vogue.com/article/should-barneys-come-back#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1 "Should Barneys Come Back?")
 
 ArrowArrow
 
@@ -78,7 +78,7 @@ Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skim
 
 Most Popular
 
-- [![Inside the Wedding Guest Economy](https://assets.vogue.com/photos/69f2266d505c96205ff2b275/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-wedding-guest-economy#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+- [![Understanding Luxury in Germany](https://assets.vogue.com/photos/69fb62a24527a4684c6b6ac8/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
 
 
 
@@ -88,13 +88,13 @@ Most Popular
 
 
 
-Fashion
+Executive Reports
 
 
 
 
 
-[Inside the Wedding Guest Economy](https://www.vogue.com/article/inside-the-wedding-guest-economy#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+[Understanding Luxury in Germany](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
 
 
 
@@ -104,33 +104,7 @@ Fashion
 
 By Maliha Shoaib
 
-- [![The New Face of Foundation](https://assets.vogue.com/photos/69f37a8ccbffb43849c81280/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-new-face-of-foundation#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
-
-
-
-
-
-
-
-
-
-Skincare
-
-
-
-
-
-[The New Face of Foundation](https://www.vogue.com/article/the-new-face-of-foundation#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
-
-
-
-
-
-
-
-By Hikmat Mohammed
-
-- [![Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://assets.vogue.com/photos/69f36f4f9cb008c5f1ce1d94/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+- [![Is Haircare About to Become a Big Deal?](https://assets.vogue.com/photos/69fcc4bd83af71c48ff23a2c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
 
 
 
@@ -146,7 +120,7 @@ Beauty
 
 
 
-[Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+[Is Haircare About to Become a Big Deal?](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
 
 
 
@@ -154,7 +128,33 @@ Beauty
 
 
 
-By Peter Bevan
+By Hikmat Mohammed
+
+- [![The 2026 Met Gala by the Numbers](https://assets.vogue.com/photos/69fcbf5bc5fe86738947f8ba/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[The 2026 Met Gala by the Numbers](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
+
+
+
+
+
+
+
+By Madeleine Schulz
 
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
@@ -184,7 +184,7 @@ Skims
 
 Most Popular
 
-- [![Inside the Wedding Guest Economy](https://assets.vogue.com/photos/69f2266d505c96205ff2b275/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-wedding-guest-economy#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+- [![Understanding Luxury in Germany](https://assets.vogue.com/photos/69fb62a24527a4684c6b6ac8/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
 
 
 
@@ -194,13 +194,13 @@ Most Popular
 
 
 
-Fashion
+Executive Reports
 
 
 
 
 
-[Inside the Wedding Guest Economy](https://www.vogue.com/article/inside-the-wedding-guest-economy#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+[Understanding Luxury in Germany](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
 
 
 
@@ -210,33 +210,7 @@ Fashion
 
 By Maliha Shoaib
 
-- [![The New Face of Foundation](https://assets.vogue.com/photos/69f37a8ccbffb43849c81280/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-new-face-of-foundation#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
-
-
-
-
-
-
-
-
-
-Skincare
-
-
-
-
-
-[The New Face of Foundation](https://www.vogue.com/article/the-new-face-of-foundation#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
-
-
-
-
-
-
-
-By Hikmat Mohammed
-
-- [![Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://assets.vogue.com/photos/69f36f4f9cb008c5f1ce1d94/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+- [![Is Haircare About to Become a Big Deal?](https://assets.vogue.com/photos/69fcc4bd83af71c48ff23a2c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
 
 
 
@@ -252,7 +226,7 @@ Beauty
 
 
 
-[Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity#intcid=_vogue-right-rail_b6deb5de-584c-4d99-a941-c392cadbbdcb_popular4-2)
+[Is Haircare About to Become a Big Deal?](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
 
 
 
@@ -260,7 +234,33 @@ Beauty
 
 
 
-By Peter Bevan
+By Hikmat Mohammed
+
+- [![The 2026 Met Gala by the Numbers](https://assets.vogue.com/photos/69fcbf5bc5fe86738947f8ba/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[The 2026 Met Gala by the Numbers](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
+
+
+
+
+
+
+
+By Madeleine Schulz
 
 
 Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
@@ -286,34 +286,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![What’s Going On at Ganni?](https://assets.vogue.com/photos/69eb43b0fe6902ae555685f7/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
+[![What’s Going On at Ganni?](https://assets.vogue.com/photos/69eb43b0fe6902ae555685f7/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
 
 Companies
 
-[What’s Going On at Ganni?](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
+[What’s Going On at Ganni?](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
 
 By Maliha Shoaib
 
-[![How to Tell a Sustainability Story Today](https://assets.vogue.com/photos/69e8c7e64c39ced2ca3a792e/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
+[![How to Tell a Sustainability Story Today](https://assets.vogue.com/photos/69e8c7e64c39ced2ca3a792e/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
 
 Sustainability
 
-[How to Tell a Sustainability Story Today](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
+[How to Tell a Sustainability Story Today](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
 
 By Sophie Benson
 
-[![How to Get Fashion to Change Its Ways](https://assets.vogue.com/photos/69d685f207672c8f82667374/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-get-fashion-to-change-its-ways#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
 
-Sustainability
+Companies
 
-[How to Get Fashion to Change Its Ways](https://www.vogue.com/article/how-to-get-fashion-to-change-its-ways#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
 
-By Bella Webb
+By Vogue Business Team
 
-[![Independent Designers Need More Support Than Ever. Can Fashion Trust US Help?](https://assets.vogue.com/photos/69d648a993bcb550c0259277/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/independent-designers-need-more-support-than-ever-can-fashion-trust-us-help#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
+[![Should Barneys Come Back?](https://assets.vogue.com/photos/69e12c90157cd135f7688649/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/should-barneys-come-back#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
 
-Fashion
+Business
 
-[Independent Designers Need More Support Than Ever. Can Fashion Trust US Help?](https://www.vogue.com/article/independent-designers-need-more-support-than-ever-can-fashion-trust-us-help#intcid=_vogue-article-bottom-recirc_579d53b2-66c4-45d8-872c-cce4971ff23a_text2vec1_fallback_roberta-similarity1)
+[Should Barneys Come Back?](https://www.vogue.com/article/should-barneys-come-back#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
 
 By Madeleine Schulz
