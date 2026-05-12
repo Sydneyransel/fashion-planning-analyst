@@ -4,7 +4,7 @@
 
 ## What SKIMS Is
 
-SKIMS is a solutions-oriented apparel brand founded in 2018 by Kim Kardashian and co-founder/CEO Jens Grede. It launched as a shapewear brand with a direct-to-consumer model and has since expanded into underwear, bras, loungewear, swim, dresses, and menswear. As of 2024, SKIMS is valued at **$5 billion** following a $225 million capital raise from Goldman Sachs Alternatives and BDT & MSD Partners.
+SKIMS is a solutions-oriented apparel brand founded in 2019 by Kim Kardashian, Jens Grede, and Emma Grede. It launched as a shapewear brand with a direct-to-consumer model and has since expanded into underwear, bras, loungewear, swim, dresses, and menswear. As of 2024, SKIMS is valued at **$5 billion** following a $225 million capital raise from Goldman Sachs Alternatives and BDT & MSD Partners.
 
 ## Founding Philosophy
 
@@ -14,14 +14,16 @@ SKIMS positions itself as a "solutions-oriented brand creating the next generati
 
 - **Valuation:** $5 billion (2024 funding round)
 - **Net sales:** Expected to top $1 billion in the funding year
-- **Stores:** 18 owned U.S. locations + 2 franchise doors in Mexico
+- **Stores:** 20 owned U.S. locations + franchise doors in Mexico (as of late 2025)
+- **Retail expansion pipeline:** First stores opened in Georgetown (DC) and Miami; next cities identified as Austin, Houston, and Atlanta; NYC and LA flagships announced
 - **Strategic direction:** Targeting a "predominantly physical business over the next few years" — shifting from DTC-first to omnichannel
 - **Investors:** Goldman Sachs Alternatives, BDT & MSD Partners, Wellington Management (earlier round)
 
 ## Leadership
 
-- **Kim Kardashian** — Founder and face of the brand; 354M Instagram followers; public statements frame SKIMS as a global omnichannel retail brand
+- **Kim Kardashian** — Co-founder and Chief Creative Officer; 354M Instagram followers; oversees all design and campaigns; public statements frame SKIMS as a global omnichannel retail brand
 - **Jens Grede** — Co-founder and CEO; described growth as "a pivotal next step" in the brand's six-year trajectory
+- **Emma Grede** — Co-founder; alongside Jens Grede, provided the business and operational foundation that scaled SKIMS from DTC launch to billion-dollar brand
 
 ## Strategic Priorities (2024–2026)
 
