@@ -2,7 +2,7 @@
 url: https://skims.com/collections/underwear
 source_type: skims.com
 title: Women’s Underwear & Panties | Seamless Underwear | SKIMS
-scraped_at: 2026-05-11T09:27:58.321133+00:00
+scraped_at: 2026-05-18T09:44:09.993194+00:00
 ---
 
 [Skip to main content](https://skims.com/collections/underwear#main-content)
@@ -17,9 +17,12 @@ Bundle & Save](https://skims.com/collections/bundle-and-save "Bundle & Save")
 - [![A MODEL POSES WEARING SKIMS THONG](https://skims-sanity.imgix.net/images/hfqi0zm0/production/f739164fb8994fac53d7556e11b2058cf863e938-320x400.jpg?auto=format&w=150&h=188&q=100&ixlib=react-9.11.0)\\
 \\
 Thongs](https://skims.com/collections/thongs "Thongs")
-- [![A MODEL POSES WEARING CHEEKY UNDERWEAR](https://skims-sanity.imgix.net/images/hfqi0zm0/production/39877f2e5c5152f6cc876964b3ee0e58912e2748-320x400.jpg?auto=format&w=150&h=188&q=100&ixlib=react-9.11.0)\\
+- [![Bikini](https://skims-sanity.imgix.net/images/hfqi0zm0/production/78b4c42f2e5a6b48453a72ce35cb455e9f5a99ad-960x1200.webp?auto=format&w=150&h=188&q=100&ixlib=react-9.11.0)\\
 \\
-Cheeky](https://skims.com/collections/cheeky-underwear "Cheeky")
+Bikini](https://skims.com/collections/bikini-underwear "Bikini")
+- [![Hipsters](https://skims-sanity.imgix.net/images/hfqi0zm0/production/09c4a4a57f882cad34a81651604e5951aada3a5e-960x1200.webp?auto=format&w=150&h=188&q=100&ixlib=react-9.11.0)\\
+\\
+Hipsters](https://skims.com/collections/hipsters "Hipsters")
 - [![A MODEL POSES WEARING SKIMS BRIEFS](https://skims-sanity.imgix.net/images/hfqi0zm0/production/8b55472befcf26397d69279b5b42473bf2fdf063-320x400.jpg?auto=format&w=150&h=188&q=100&ixlib=react-9.11.0)\\
 \\
 Briefs](https://skims.com/collections/briefs "Briefs")
@@ -29,6 +32,12 @@ Boy Shorts](https://skims.com/collections/boy-shorts "Boy Shorts")
 - [![A MODEL POSES WEARING SKIMS BOXERS](https://skims-sanity.imgix.net/images/hfqi0zm0/production/d2abeb354f89b6fb3fb4141c302892ffb5af65d5-320x400.jpg?auto=format&w=150&h=188&q=100&ixlib=react-9.11.0)\\
 \\
 Boxers](https://skims.com/collections/boxers "Boxers")
+- [![Cotton](https://skims-sanity.imgix.net/images/hfqi0zm0/production/4466762547ecbb577cd343b003dd8a3247481eed-960x1200.webp?auto=format&w=150&h=188&q=100&ixlib=react-9.11.0)\\
+\\
+Cotton](https://skims.com/collections/cotton-underwear "Cotton")
+- [![A MODEL POSES WEARING CHEEKY UNDERWEAR](https://skims-sanity.imgix.net/images/hfqi0zm0/production/39877f2e5c5152f6cc876964b3ee0e58912e2748-320x400.jpg?auto=format&w=150&h=188&q=100&ixlib=react-9.11.0)\\
+\\
+Cheeky](https://skims.com/collections/cheeky-underwear "Cheeky")
 - [Underwear Packs](https://skims.com/collections/panty-packs "Underwear Packs")
 
 - [Home](https://skims.com/)
@@ -41,158 +50,22 @@ Filters (0)
 
 sortSizeStyleColorBundle TypeCollectionMaterial
 
-new color
+new
 
 3 for $39
 
-[![EVERYDAY COTTON BOY SHORT | CARMINE CAMPAIGN @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONT_FACING_PLP_14_042826_EVERYDAY_COTTON_BOYSHORT_UNDERWEAR_CARMINE.webp?v=1777236074&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![RAW EDGE COTTON MICRO THONG | SNOW CAMPAIGN @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONT_FACING_PLP_22_042826_RAW_EDGE_COTTON_MICROTHONG_UNDERWEAR_SNOW_WHITE.webp?v=1777236074&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![EVERYDAY COTTON BOY SHORT | CARMINE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-BOY-10650W-CMN-FLT.jpg?v=1777066740&auto=format&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-boy-short-carmine "")
-
-- carmine
+![RAW EDGE COTTON MICRO THONG | SNOW FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10677W-SNO-FLT_0acef3ce-c719-48a8-82cd-690fbf4869af.jpg?v=1777067297&auto=format&ixlib=react-9.11.0)](https://skims.com/products/raw-edge-micro-thong-snow "")
 
 - snow
 
-- light heather grey
-
-- clay heather
-
-- sienna heather
-
-- cocoa heather
-
-- onyx
+- phoenix
 
 
-[EVERYDAY COTTON\\
-**BOY SHORT** \\
-$22](https://skims.com/products/everyday-cotton-boy-short-carmine "")
-
-best seller
-
-3 for $39
-
-[![EVERYDAY COTTON THONG | CARMINE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/UN-THG-10647W-CMN-LC-SKIMS-PANTY_0003-FR.webp?v=1777072085&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![EVERYDAY COTTON THONG | CARMINE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10647W-CMN-FLT.jpg?v=1777066743&auto=format&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-thong-carmine "")
-
-- carmine
-
-- snow
-
-- light heather grey
-
-- clay heather
-
-- sienna heather
-
-- cocoa heather
-
-- onyx
-
-
-[EVERYDAY COTTON\\
-**THONG** \\
-$18](https://skims.com/products/everyday-cotton-thong-carmine "")
-
-5 for $35
-
-[![LIGHTWEIGHT COTTON LACE THONG | SURF DAINTY FLORAL PRINT ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TH-THG-5957W-SDF-ID-SKIMS-PANTY_4165-FR.webp?v=1775689939&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![LIGHTWEIGHT COTTON LACE THONG | SURF DAINTY FLORAL PRINT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5957W-SDF-FLT_d5e21efd-bec1-4502-9d8f-f474d50202ae.jpg?v=1775689939&auto=format&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-lace-thong-surf-dainty-floral-print "")
-
-- ![SURF DAINTY FLORAL PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/e4beb5a6c3d3c5d70c83f16121b1e88aff391a3c-100x100.jpg)
-
-surf dainty floral print
-
-- soot
-
-- snow
-
-- light heather grey
-
-- cherry blossom
-
-- ![PINK ALLOVER LIPSTICK](https://cdn.sanity.io/images/hfqi0zm0/production/8e4235d373f68e803823ecf10d7e41c092d4be89-100x100.jpg)
-
-pink allover lipstick
-
-- butter tonal
-
-- ![CARNATION CONTRAST](https://cdn.sanity.io/images/hfqi0zm0/production/c408012811184cec6e96b3cc110f19aa650e69f6-100x100.jpg)
-
-carnation contrast
-
-
-[LIGHTWEIGHT COTTON\\
-**LACE THONG** \\
-$12](https://skims.com/products/lightweight-cotton-lace-thong-surf-dainty-floral-print "")
-
-5 for $35
-
-[![LIGHTWEIGHT COTTON POINTELLE LACE STRING THONG | BLOOM DAINTY FLORAL ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/UN-THG-11112W-BDFP-IA-SKIMS-PANTY_0018-FR.webp?v=1775689995&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![LIGHTWEIGHT COTTON POINTELLE LACE STRING THONG | BLOOM DAINTY FLORAL FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-11112W-BDFP-FLT.jpg?v=1775689995&auto=format&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-bloom-dainty-floral "")
-
-- ![BLOOM DAINTY FLORAL](https://cdn.sanity.io/images/hfqi0zm0/production/306802a1ecc3d1e21225dd52a61ae5c764012471-100x100.jpg)
-
-bloom dainty floral
-
-- soot tonal
-
-- snow
-
-- marble tonal
-
-- zircon tonal
-
-- light heather grey
-
-- ![BRICK HEART HALFDROP](https://cdn.sanity.io/images/hfqi0zm0/production/b9d51bee0773814d8d68302c236c26f39d88867d-100x100.jpg)
-
-brick heart halfdrop
-
-- melon tonal
-
-- ![SNOW ARROWED HEARTS](https://cdn.sanity.io/images/hfqi0zm0/production/99077a252d0990e80ff661eca84879361383713d-100x100.jpg)
-
-snow arrowed hearts
-
-- ![LIGHT HEATHER GREY PIN DOT](https://cdn.sanity.io/images/hfqi0zm0/production/7e212b80864d1c9f2b015c37c2ddaf8916703acd-100x100.jpg)
-
-light heather grey pin dot
-
-
-[LIGHTWEIGHT COTTON\\
-**POINTELLE LACE STRING THONG** \\
-$10](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-bloom-dainty-floral "")
-
-5 for $35
-
-[![LIGHTWEIGHT COTTON WIDE LACE THONG | BUTTER TONAL ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/UN-THG-10655W-BTRT-IA-SKIMS-PANTY_30821-FR.webp?v=1775690011&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![LIGHTWEIGHT COTTON WIDE LACE THONG | BUTTER TONAL FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10655W-BTRT-FLT.jpg?v=1775690011&auto=format&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-wide-lace-thong-butter-tonal "")
-
-- butter tonal
-
-- snow
-
-- cherry blossom tonal
-
-- soot tonal
-
-- ![CARNATION CONTRAST](https://cdn.sanity.io/images/hfqi0zm0/production/c408012811184cec6e96b3cc110f19aa650e69f6-100x100.jpg)
-
-carnation contrast
-
-- ![SURF DAINTY FLORAL PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/e4beb5a6c3d3c5d70c83f16121b1e88aff391a3c-100x100.jpg)
-
-surf dainty floral print
-
-
-[LIGHTWEIGHT COTTON\\
-**WIDE LACE THONG** \\
-$12](https://skims.com/products/lightweight-cotton-wide-lace-thong-butter-tonal "")
+[RAW EDGE\\
+**MICRO THONG** \\
+$18](https://skims.com/products/raw-edge-micro-thong-snow "")
 
 best seller
 
@@ -285,83 +158,6 @@ $12](https://skims.com/products/lightweight-cotton-wide-lace-thong-snow "")
 
 best seller
 
-3 for $39
-
-[![EVERYDAY COTTON STRING THONG | CARMINE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/UN-THG-10646W-CMN-LC-SKIMS-PANTY_0008-FR.webp?v=1777072082&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![EVERYDAY COTTON STRING THONG | CARMINE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10646W-CMN-FLT.jpg?v=1777066741&auto=format&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-string-thong-carmine "")
-
-- carmine
-
-- snow
-
-- light heather grey
-
-- clay heather
-
-- sienna heather
-
-- cocoa heather
-
-- onyx
-
-
-[EVERYDAY COTTON\\
-**STRING THONG** \\
-$16](https://skims.com/products/everyday-cotton-string-thong-carmine "")
-
-new
-
-3 for $39
-
-[![RAW EDGE COTTON MICRO THONG | SNOW CAMPAIGN @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONT_FACING_PLP_22_042826_RAW_EDGE_COTTON_MICROTHONG_UNDERWEAR_SNOW_WHITE.webp?v=1777236074&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![RAW EDGE COTTON MICRO THONG | SNOW FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10677W-SNO-FLT_0acef3ce-c719-48a8-82cd-690fbf4869af.jpg?v=1777067297&auto=format&ixlib=react-9.11.0)](https://skims.com/products/raw-edge-micro-thong-snow "")
-
-- snow
-
-- phoenix
-
-
-[RAW EDGE\\
-**MICRO THONG** \\
-$18](https://skims.com/products/raw-edge-micro-thong-snow "")
-
-5 for $35
-
-[![LIGHTWEIGHT COTTON LOGO PICOT HIPSTER | ARCTIC GINGHAM ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/HP-HIP-5977W-AGI-IA-SKIMS-PANTY_0029-FR.webp?v=1775689681&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![LIGHTWEIGHT COTTON LOGO PICOT HIPSTER | ARCTIC GINGHAM FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-HP-HIP-5977W-AGI-FLT_c270782a-5870-4aaf-840f-0020369d1516.jpg?v=1775689681&auto=format&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-logo-picot-hipster-arctic-gingham "")
-
-- ![ARCTIC GINGHAM](https://cdn.sanity.io/images/hfqi0zm0/production/bcdb6f1ebecdc864fc682c864e277845ead61f00-100x100.jpg)
-
-arctic gingham
-
-- soot
-
-- snow
-
-- ![SNOW LEOPARD PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/acc425fbaaa25f970266fac8202c2e1d0143d461-100x100.jpg)
-
-snow leopard print
-
-- ![BABY PINK ARROWED HEARTS](https://cdn.sanity.io/images/hfqi0zm0/production/91631f4323842c2d89b1ad0a902226018dcdc589-100x100.jpg)
-
-baby pink arrowed hearts
-
-- butter tonal
-
-- melon tonal
-
-- ruby tonal
-
-
-[LIGHTWEIGHT COTTON\\
-**LOGO PICOT HIPSTER** \\
-$14](https://skims.com/products/lightweight-cotton-logo-picot-hipster-arctic-gingham "")
-
-best seller
-
 5 for $35
 
 [![LIGHTWEIGHT COTTON POINTELLE LACE STRING THONG | SOOT TONAL ON A MODEL FRONT VIEW | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/UN-THG-11112W-STT-MB-SKIMS-PANTY_0013-FR.webp?v=1775161412&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
@@ -401,67 +197,229 @@ light heather grey pin dot
 **POINTELLE LACE STRING THONG** \\
 $10](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-soot-tonal "")
 
-[Load More](https://skims.com/collections/underwear?direction=next&cursor=eyJsYXN0X3ZhbHVlIjoiMTEiLCJsYXN0X2lkIjoxMDI0Njg3MzcxMDk0NSwib2Zmc2V0IjoxMX0%3D)
+best seller
+
+3 for $39
+
+[![EVERYDAY COTTON THONG | CARMINE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/UN-THG-10647W-CMN-LC-SKIMS-PANTY_0003-FR.webp?v=1777072085&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+\\
+![EVERYDAY COTTON THONG | CARMINE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10647W-CMN-FLT.jpg?v=1777066743&auto=format&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-thong-carmine "")
+
+- carmine
+
+- snow
+
+- light heather grey
+
+- clay heather
+
+- sienna heather
+
+- cocoa heather
+
+- onyx
+
+
+[EVERYDAY COTTON\\
+**THONG** \\
+$18](https://skims.com/products/everyday-cotton-thong-carmine "")
+
+5 for $35
+
+[![LIGHTWEIGHT COTTON POINTELLE LACE THONG | SOOT TONAL ON A MODEL FRONT VIEW](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TH-THG-8495W-STT-MB-SKIMS-PANTY_0127-FR.webp?v=1768671970&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+\\
+![LIGHTWEIGHT COTTON POINTELLE LACE THONG | SOOT TONAL FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-8495W-SOT-SW_9cc648f9-29eb-47aa-973a-c2b37bd2990c.jpg?v=1768671970&auto=format&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-pointelle-lace-thong-soot-tonal "")
+
+- soot tonal
+
+- marble tonal
+
+- zircon tonal
+
+- light heather grey
+
+
+[LIGHTWEIGHT COTTON\\
+**POINTELLE LACE THONG** \\
+$12](https://skims.com/products/lightweight-cotton-pointelle-lace-thong-soot-tonal "")
+
+best seller
+
+3 for $39
+
+[![FITS EVERYBODY LACE DIPPED THONG WORN BY A MODEL IN FRONT VIEW | SEE: XXS, XS, S](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-PANTY-PN-THG-2683-BD-ONX_0017_3eb15bcc-f45b-49ac-b87a-6837f6b11a85.jpg?v=1685752456&auto=format&fp-z=1.4&fp-y=0.7&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+\\
+![FITS EVERYBODY LACE DIPPED THONG | ONYX (THONGS, PANTIES) LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-PANTY-PN-TNG-2683-ONX_642013a9-1145-4417-839c-ca908601608c.jpg?v=1685752456&auto=format&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-dipped-thong-onyx "")
+
+- onyx
+
+- espresso
+
+- ![MICA SKETCHED HEARTS](https://cdn.sanity.io/images/hfqi0zm0/production/602960c344167f2d237f934a5e667bb1287b3bd4-100x100.jpg)
+
+mica sketched hearts
+
+- bubble gum tonal
+
+- ![SLATE PIN DOT PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/d239008c9fa3c37700fc7d701699a78ec44284d3-100x100.jpg)
+
+slate pin dot print
+
+
+[FITS EVERYBODY LACE\\
+**DIPPED THONG** \\
+$20](https://skims.com/products/fits-everybody-lace-dipped-thong-onyx "")
+
+5 for $35
+
+[![LIGHTWEIGHT COTTON LACE TRIM BRIEF | SOOT ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BR-BRF-5963W-STT-CC-SKIMS-PANTY_0019-FR.jpg?v=1739571274&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+\\
+![LIGHTWEIGHT COTTON LACE BRIEF | SOOT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BR-BRF-5963W-STT-FLT.jpg?v=1739556467&auto=format&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-lace-brief-soot "")
+
+- soot
+
+- cherry blossom
+
+- snow
+
+- butter tonal
+
+- ![SURF DAINTY FLORAL PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/e4beb5a6c3d3c5d70c83f16121b1e88aff391a3c-100x100.jpg)
+
+surf dainty floral print
+
+
+[LIGHTWEIGHT COTTON\\
+**LACE BRIEF** \\
+$14](https://skims.com/products/lightweight-cotton-lace-brief-soot "")
+
+best seller
+
+3 for $39
+
+[![EVERYDAY COTTON STRING THONG | CARMINE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/UN-THG-10646W-CMN-LC-SKIMS-PANTY_0008-FR.webp?v=1777072082&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+\\
+![EVERYDAY COTTON STRING THONG | CARMINE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10646W-CMN-FLT.jpg?v=1777066741&auto=format&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-string-thong-carmine "")
+
+- carmine
+
+- snow
+
+- light heather grey
+
+- clay heather
+
+- sienna heather
+
+- cocoa heather
+
+- onyx
+
+
+[EVERYDAY COTTON\\
+**STRING THONG** \\
+$16](https://skims.com/products/everyday-cotton-string-thong-carmine "")
+
+best seller
+
+[![COTTON RIB BOXER | STONE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/PN-HWS-0042-STO-MB-SKIMS-LOUNGEWEAR_0016-FR.webp?v=1777483498&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+\\
+![COTTON RIB BOXER | STONE(BOXERS, BOTTOMS) FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-PN-HWS-0042-STO.jpg?v=1714003555&auto=format&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-boxer-stone "")
+
+- stone
+
+- light heather grey
+
+- mineral
+
+- kyanite
+
+- soot
+
+- bone
+
+- cherry blossom
+
+- navy
+
+- ![OCHRE HORSESHOE PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/75f8e1d6b26e0129a85c2e14ce35a575d8c8fb89-100x100.jpg)
+
+ochre horseshoe print
+
+
+[COTTON RIB\\
+**BOXER** \\
+$36](https://skims.com/products/cotton-rib-boxer-stone "")
+
+[Load More](https://skims.com/collections/underwear?direction=next&cursor=eyJsYXN0X3ZhbHVlIjoiMTEiLCJsYXN0X2lkIjo3MjI4NTU2MjQ3MTcyLCJvZmZzZXQiOjExfQ%3D%3D)
 
 ## WE THINK YOU'D LIKE
 
 1/3
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-10321W-DLP-SW_986b64ae-4088-40fd-afac-44c870d8bfec_grande.jpg?v=1756930627&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**THONG** \\
-\\
-$12](https://skims.com/products/lightweight-cotton-thong-delta-leopard "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-DRS-0596-ONX-FL_grande.jpg?v=1708554715&auto=format&ixlib=react-9.11.0)\\
-\\
-SOFT LOUNGE\\
-\\
-**LONG SLIP DRESS** \\
-\\
-$80](https://skims.com/products/soft-lounge-long-slip-dress-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-CLY-FLT_grande.jpg?v=1739333853&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-1881-CLY_d367fbfd-1b41-43ab-802e-592ed06a79dc_grande.jpg?v=1752524627&auto=format&ixlib=react-9.11.0)\\
 \\
 SKIMS ULTIMATE\\
 \\
-**BALCONETTE PUSH-UP BRA** \\
+**TEARDROP PUSH-UP BRA** \\
 \\
-$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay "")
+$64](https://skims.com/products/skims-ultimate-teardrop-push-up-bra-clay "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-PNS-5752W-BMMA_grande.jpg?v=1768675042&auto=format&ixlib=react-9.11.0)\\
-\\
-SKIMS SLEEP\\
-\\
-**LONG SLEEVE BUTTON UP SET** \\
-\\
-$88$61](https://skims.com/products/skims-sleep-long-sleeve-button-up-set-bloom-mini-multi-animal "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-11112W-BDFP-FLT_grande.jpg?v=1775689995&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**POINTELLE LACE STRING THONG** \\
-\\
-$10](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-bloom-dainty-floral "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/BR-BND-0026-ONX-FL_grande.jpg?v=1624297830&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9222-ARC-FLT_grande.jpg?v=1775157915&auto=format&ixlib=react-9.11.0)\\
 \\
 FITS EVERYBODY\\
 \\
-**BANDEAU** \\
+**PUSH-UP BRA** \\
 \\
-$28](https://skims.com/products/fits-everybody-bandeau-onyx "")
+$58](https://skims.com/products/fits-everybody-push-up-bra-arctic "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-OS-MDT-9292-BGT-FLT_a11eefba-24b0-4907-8fa7-c8182f6de614_grande.jpg?v=1774392186&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5958W-STT-FLT_grande.jpg?v=1739556586&auto=format&ixlib=react-9.11.0)\\
 \\
-FITS EVERYBODY LACE\\
+LIGHTWEIGHT COTTON\\
 \\
-**ONESIE** \\
+**LOGO PICOT THONG** \\
 \\
-$78](https://skims.com/products/fits-everybody-lace-onesie-bubble-gum-tonal "")
+$12](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRAS-BR-TRI-0024-OCH-FL_grande.jpg?v=1711845802&auto=format&ixlib=react-9.11.0)\\
+\\
+FITS EVERYBODY\\
+\\
+**TRIANGLE BRALETTE** \\
+\\
+$34$23](https://skims.com/products/fits-everybody-triangle-bralette-ochre "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10646W-ONX-FLT_51565f8a-33ca-4eb6-8ff6-27595fe79018_grande.jpg?v=1774285068&auto=format&ixlib=react-9.11.0)\\
+\\
+EVERYDAY COTTON\\
+\\
+**STRING THONG** \\
+\\
+$16](https://skims.com/products/everyday-cotton-string-thong-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-EVERYDAYSCULPT-SH-SHO-2152-SIE_grande.jpg?v=1740082574&auto=format&ixlib=react-9.11.0)\\
+\\
+SHEER SEAMLESS\\
+\\
+**HIGH-WAISTED MID THIGH SHORT** \\
+\\
+$38](https://skims.com/products/sheer-seamless-high-waisted-mid-thigh-short-sienna "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-ZUP-4476-LHG-CLOSED_grande.jpg?v=1735590863&auto=format&ixlib=react-9.11.0)\\
+\\
+COTTON FLEECE\\
+\\
+**CLASSIC ZIP UP HOODIE** \\
+\\
+$94](https://skims.com/products/cotton-fleece-classic-zip-up-hoodie-light-heather-grey "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BX-BOX-6320W-OHO-FLT_grande.jpg?v=1775252924&auto=format&ixlib=react-9.11.0)\\
+\\
+COTTON RIB\\
+\\
+**BOXER** \\
+\\
+$36](https://skims.com/products/cotton-rib-boxer-ochre-horseshoe-print "")
 
 [![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PN-THG-9371-BGT-FLT_grande.jpg?v=1774392324&auto=format&ixlib=react-9.11.0)\\
 \\
@@ -471,85 +429,77 @@ FITS EVERYBODY LACE\\
 \\
 $20](https://skims.com/products/fits-everybody-lace-dipped-thong-bubble-gum-tonal "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BR-BRF-8499W-SOT_grande.jpg?v=1768612703&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-PNS-5752W-BMMA_grande.jpg?v=1768675042&auto=format&ixlib=react-9.11.0)\\
 \\
-LIGHTWEIGHT COTTON\\
+SKIMS SLEEP\\
 \\
-**POINTELLE LACE BRIEF** \\
+**LONG SLEEVE BUTTON UP SET** \\
 \\
-$14](https://skims.com/products/lightweight-cotton-pointelle-lace-brief-soot-tonal "")
+$88$61](https://skims.com/products/skims-sleep-long-sleeve-button-up-set-bloom-mini-multi-animal "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-SET-9793W-ONX-FLT_grande.jpg?v=1773088674&auto=format&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY LACE\\
-\\
-**TRIANGLE CAMI AND BOY SHORT SET** \\
-\\
-$74](https://skims.com/products/fits-everybody-lace-triangle-cami-and-boy-short-set-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHORT-SH-SHO-0299-SIE-FL-FRONT_grande.jpg?v=1740083603&auto=format&ixlib=react-9.11.0)\\
-\\
-SHEER SCULPT\\
-\\
-**LOW BACK SHORT** \\
-\\
-$58](https://skims.com/products/sheer-sculpt-low-back-short-sienna "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-AP-PNT-1384-SOT_grande.jpg?v=1714002371&auto=format&ixlib=react-9.11.0)\\
-\\
-COTTON JERSEY\\
-\\
-**STRAIGHT LEG PANT** \\
-\\
-$68](https://skims.com/products/cotton-jersey-straight-leg-pant-soot "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BOXER-BO-BTR-5302M-CHK-COMPOSITE-1_a0014373-da55-4fcd-aa93-d5899e89893c_grande.jpg?v=1730861358&auto=format&ixlib=react-9.11.0)\\
-\\
-SKIMS COTTON\\
-\\
-**MENS 3" BOXER BRIEF 3-PACK** \\
-\\
-$46](https://skims.com/products/skims-cotton-mens-3-inch-boxer-brief-3-pack-heather-multi "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-LS-LSL-1209W-CMB-FLT_grande.jpg?v=1767136934&auto=format&ixlib=react-9.11.0)\\
-\\
-COTTON JERSEY\\
-\\
-**LONG SLEEVE BOATNECK TOP** \\
-\\
-$58$40](https://skims.com/products/cotton-jersey-long-sleeve-boatneck-top-cherry-blossom "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-HP-HIP-5977W-AGI-FLT_c270782a-5870-4aaf-840f-0020369d1516_grande.jpg?v=1775689681&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**LOGO PICOT HIPSTER** \\
-\\
-$14](https://skims.com/products/lightweight-cotton-logo-picot-hipster-arctic-gingham "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PN-BOY-9315-BGT-FLT_grande.jpg?v=1774392459&auto=format&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY LACE\\
-\\
-**BOY SHORT** \\
-\\
-$24](https://skims.com/products/fits-everybody-lace-boy-short-bubble-gum-tonal "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-ST-SST-5759W-MHM-FLT_1_grande.jpg?v=1768614306&auto=format&ixlib=react-9.11.0)\\
-\\
-SOFT LOUNGE\\
-\\
-**SHORT SLEEP SET** \\
-\\
-$110$77](https://skims.com/products/soft-lounge-short-sleep-set-mica-mini-heart-halfdrop "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/BR-SCN-0025-ONX-FL_grande.jpg?v=1711846398&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-2294-CLY_993ba1d0-2313-4db6-95e0-92f430bc657d_grande.jpg?v=1713977415&auto=format&ixlib=react-9.11.0)\\
 \\
 FITS EVERYBODY\\
 \\
-**SCOOP BRALETTE** \\
+**PLUNGE BRA** \\
 \\
-$34](https://skims.com/products/fits-everybody-scoop-bralette-onyx "")
+$54](https://skims.com/products/fits-everybody-plunge-bra-clay "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BRL-11450W-SOT-FLT_grande.jpg?v=1768612110&auto=format&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**LOGO PICOT SCOOP BRALETTE** \\
+\\
+$24](https://skims.com/products/lightweight-cotton-logo-picot-scoop-bralette-soot-tonal "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SIGNATURESWIM-BT-PLG-7500W-ONX-FLT_grande.jpg?v=1774935247&auto=format&ixlib=react-9.11.0)\\
+\\
+SIGNATURE SWIM\\
+\\
+**PLUNGE BIKINI TOP** \\
+\\
+$44](https://skims.com/products/signature-swim-plunge-bikini-top-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-BO-STR-4003-LHG-2_4d0eeb73-4486-47e8-b634-21eef5671c01_grande.jpg?v=1735852680&auto=format&ixlib=react-9.11.0)\\
+\\
+COTTON FLEECE\\
+\\
+**CLASSIC STRAIGHT LEG PANT** \\
+\\
+$88](https://skims.com/products/cotton-fleece-classic-straight-leg-pant-light-heather-grey "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-SOT-FLT_337890eb-b813-4d8c-b4fd-b94fb1ae7e59_grande.jpg?v=1767136369&auto=format&ixlib=react-9.11.0)\\
+\\
+COTTON JERSEY\\
+\\
+**T-SHIRT** \\
+\\
+$48](https://skims.com/products/cotton-jersey-t-shirt-soot "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UNL-10812W-LHG-FLT_grande.jpg?v=1771368791&auto=format&ixlib=react-9.11.0)\\
+\\
+EVERYDAY COTTON\\
+\\
+**UNLINED DEMI BRA** \\
+\\
+$48](https://skims.com/products/everyday-cotton-unlined-demi-bra-light-heather-grey "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10655W-SNO-FLT_39a90ea7-2438-4e65-a2a3-e6e4e0543937_grande.jpg?v=1775673227&auto=format&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**WIDE LACE THONG** \\
+\\
+$12](https://skims.com/products/lightweight-cotton-wide-lace-thong-snow "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SIGNATURESWIM-BB-BRRF-8468W-ALB-FLT_grande.jpg?v=1774643129&auto=format&ixlib=react-9.11.0)\\
+\\
+SIGNATURE SWIM\\
+\\
+**DIPPED TIE BIKINI BOTTOM** \\
+\\
+$44](https://skims.com/products/signature-swim-dipped-tie-bikini-bottom-almond-bandana "")
 
 ![SKIMS UNDERWEAR](https://skims-sanity.imgix.net/images/hfqi0zm0/production/75b8e32897be6d1f823897623aedffd21c04f34e-800x470.jpg?auto=format&ixlib=react-9.11.0)
 
@@ -591,13 +541,53 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-8779W-DLP-SW_ac280a62-2ffc-4f6a-a457-645f0399c8c0_grande.jpg?v=1756930547&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-1881-CLY_d367fbfd-1b41-43ab-802e-592ed06a79dc_grande.jpg?v=1752524627&auto=format&ixlib=react-9.11.0)\\
+\\
+SKIMS ULTIMATE\\
+\\
+**TEARDROP PUSH-UP BRA** \\
+\\
+$64](https://skims.com/products/skims-ultimate-teardrop-push-up-bra-clay "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9222-ARC-FLT_grande.jpg?v=1775157915&auto=format&ixlib=react-9.11.0)\\
+\\
+FITS EVERYBODY\\
+\\
+**PUSH-UP BRA** \\
+\\
+$58](https://skims.com/products/fits-everybody-push-up-bra-arctic "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-11112W-STT-FLT_grande.jpg?v=1775161412&auto=format&ixlib=react-9.11.0)\\
 \\
 LIGHTWEIGHT COTTON\\
 \\
-**STRING THONG** \\
+**POINTELLE LACE STRING THONG** \\
 \\
-$10](https://skims.com/products/lightweight-cotton-string-thong-delta-leopard "")
+$10](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-soot-tonal "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-PL-PLG-8711W-ONX-FLT_grande.jpg?v=1751561396&auto=format&ixlib=react-9.11.0)\\
+\\
+SKIMS ULTIMATE\\
+\\
+**SUPER PUSH-UP BRA** \\
+\\
+$68](https://skims.com/products/skims-ultimate-super-push-up-bra-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-BYS-0030-ONX-FL_grande.jpg?v=1620253345&auto=format&ixlib=react-9.11.0)\\
+\\
+FITS EVERYBODY\\
+\\
+**BOY SHORT** \\
+\\
+$22](https://skims.com/products/fits-everybody-boy-short-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-PANTY-PN-THG-2070-ONX_grande.jpg?v=1664306102&auto=format&ixlib=react-9.11.0)\\
+\\
+FITS EVERYBODY\\
+\\
+**T-STRING THONG** \\
+\\
+$16](https://skims.com/products/fits-everybody-t-string-thong-onyx "")
 
 [![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TNK-0038-HEG-FL_grande.jpg?v=1621644689&auto=format&ixlib=react-9.11.0)\\
 \\
@@ -607,69 +597,29 @@ COTTON RIB\\
 \\
 $38](https://skims.com/products/cotton-rib-tank-light-heather-grey "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10646W-ONX-FLT_51565f8a-33ca-4eb6-8ff6-27595fe79018_grande.jpg?v=1774285068&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-BO-STR-4003-LHG-2_4d0eeb73-4486-47e8-b634-21eef5671c01_grande.jpg?v=1735852680&auto=format&ixlib=react-9.11.0)\\
 \\
-EVERYDAY COTTON\\
+COTTON FLEECE\\
 \\
-**STRING THONG** \\
+**CLASSIC STRAIGHT LEG PANT** \\
 \\
-$16](https://skims.com/products/everyday-cotton-string-thong-onyx "")
+$88](https://skims.com/products/cotton-fleece-classic-straight-leg-pant-light-heather-grey "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-2294-CLY_993ba1d0-2313-4db6-95e0-92f430bc657d_grande.jpg?v=1713977415&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEWAR-TP-TSH-9048-CHY-FLT_grande.jpg?v=1768598097&auto=format&ixlib=react-9.11.0)\\
 \\
 FITS EVERYBODY\\
 \\
-**PLUNGE BRA** \\
+**T-SHIRT** \\
 \\
-$54](https://skims.com/products/fits-everybody-plunge-bra-clay "")
+$48$33](https://skims.com/products/fits-everybody-t-shirt-cherry "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BO-PNT-8432W-NMG-FLT_grande.jpg?v=1777069449&auto=format&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BX-BOX-6320W-OHO-FLT_grande.jpg?v=1775252924&auto=format&ixlib=react-9.11.0)\\
 \\
-SMOOTH LAYERS\\
+COTTON RIB\\
 \\
-**HIGH-WAISTED CAPRI** \\
+**BOXER** \\
 \\
-$48](https://skims.com/products/smooth-layers-high-waisted-capri-nutmeg "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BY-BOY-5961W-BTRT-FLT_grande.jpg?v=1775689961&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**LACE BOY SHORT** \\
-\\
-$16](https://skims.com/products/lightweight-cotton-lace-boy-short-butter-tonal "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9221-ARC-FLT_grande.jpg?v=1775077549&auto=format&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**T-SHIRT BRA** \\
-\\
-$54](https://skims.com/products/fits-everybody-t-shirt-bra-arctic "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-SOT-FLT_grande.jpg?v=1739822020&auto=format&ixlib=react-9.11.0)\\
-\\
-COTTON JERSEY\\
-\\
-**FOLDOVER PANT** \\
-\\
-$68](https://skims.com/products/cotton-jersey-foldover-pant-soot "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHORT-SH-SHO-0299-SIE-FL-FRONT_grande.jpg?v=1740083603&auto=format&ixlib=react-9.11.0)\\
-\\
-SHEER SCULPT\\
-\\
-**LOW BACK SHORT** \\
-\\
-$58](https://skims.com/products/sheer-sculpt-low-back-short-sienna "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BY-BOY-8498-LHG_grande.jpg?v=1758925248&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**POINTELLE LACE BOY SHORT** \\
-\\
-$16](https://skims.com/products/lightweight-cotton-pointelle-lace-boy-short-light-heather-grey "")
+$36](https://skims.com/products/cotton-rib-boxer-ochre-horseshoe-print "")
 
 New
 
@@ -914,4 +864,4 @@ Silk
 Stretch
 
 
-View 12+ Items
+View 11+ Items

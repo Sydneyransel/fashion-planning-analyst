@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/what-is-skimss-secret-recipe
 source_type: vogue.com
 title: What is Skims’s Secret Recipe? | Vogue
-scraped_at: 2026-05-04T07:56:12.646537+00:00
+scraped_at: 2026-05-18T09:44:18.946696+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/what-is-skimss-secret-recipe#main-content)
@@ -21,29 +21,21 @@ Six years since its founding, investors are optimistic about Skims’s growth. �
 
 LATEST ON VOGUE
 
+[![A To-Do List for Marc Jacobs’s New Owner](https://assets.vogue.com/photos/6a073b1a10183e8892a021f5/1:1/w_640%2Cc_limit/undefined)\\
+\\
+A To-Do List for Marc Jacobs’s New Owner](https://www.vogue.com/article/a-to-do-list-for-marc-jacobss-new-owner#intcid=_vogue-article-bottom-recirc_3828ad30-89e0-4e54-876b-cacb02333bfd_text2vec1 "A To-Do List for Marc Jacobs’s New Owner")
+
 [![Can Agolde Ride the Denim Wave Into Ready-to-Wear?](https://assets.vogue.com/photos/69f315cde3f0e34711c3ac7c/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Can Agolde Ride the Denim Wave Into Ready-to-Wear?](https://www.vogue.com/article/can-agolde-ride-the-denim-wave-into-ready-to-wear#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1 "Can Agolde Ride the Denim Wave Into Ready-to-Wear?")
+Can Agolde Ride the Denim Wave Into Ready-to-Wear?](https://www.vogue.com/article/can-agolde-ride-the-denim-wave-into-ready-to-wear#intcid=_vogue-article-bottom-recirc_3828ad30-89e0-4e54-876b-cacb02333bfd_text2vec1 "Can Agolde Ride the Denim Wave Into Ready-to-Wear?")
 
-[![Good American to Skims: Emma Grede’s 5 Lessons in Building a Brand](https://assets.vogue.com/photos/69dcc8bdb095cc56468bde6c/1:1/w_640%2Cc_limit/undefined)\\
+[![Do You Have Good Taste? It’s More Important Than Ever](https://assets.vogue.com/photos/6a048c648818274672befe03/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Good American to Skims: Emma Grede’s 5 Lessons in Building a Brand](https://www.vogue.com/article/good-american-to-skims-emma-gredes-5-lessons-in-building-a-brand#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1 "Good American to Skims: Emma Grede’s 5 Lessons in Building a Brand")
+Do You Have Good Taste? It’s More Important Than Ever](https://www.vogue.com/article/do-you-have-good-taste-its-more-important-than-ever#intcid=_vogue-article-bottom-recirc_3828ad30-89e0-4e54-876b-cacb02333bfd_text2vec1 "Do You Have Good Taste? It’s More Important Than Ever")
 
 [![“My Style Is Evolving”: Kylie Jenner Is Refreshing Her Brand Khy](https://assets.vogue.com/photos/69eb739e7fad12ae41b1eb9e/1:1/w_640%2Cc_limit/undefined)\\
 \\
-“My Style Is Evolving”: Kylie Jenner Is Refreshing Her Brand Khy](https://www.vogue.com/article/my-style-is-evolving-kylie-jenner-is-refreshing-her-brand-khy#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1 "“My Style Is Evolving”: Kylie Jenner Is Refreshing Her Brand Khy")
-
-[![Where Should Your Beauty Brand Be After 10 Years?](https://assets.vogue.com/photos/69e1124387d928e45a2c22ba/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Where Should Your Beauty Brand Be After 10 Years?](https://www.vogue.com/article/where-should-your-beauty-brand-be-after-10-years#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1 "Where Should Your Beauty Brand Be After 10 Years?")
-
-[![What’s Going On at Ganni?](https://assets.vogue.com/photos/69eb43b0fe6902ae555685f7/1:1/w_640%2Cc_limit/undefined)\\
-\\
-What’s Going On at Ganni?](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1 "What’s Going On at Ganni?")
-
-[![How CEO Michelle Gass Is Reviving Levi’s With More Than Good Denim](https://assets.vogue.com/photos/69d63c6f86cda7930e39be0e/1:1/w_640%2Cc_limit/undefined)\\
-\\
-How CEO Michelle Gass Is Reviving Levi’s With More Than Good Denim](https://www.vogue.com/article/how-ceo-michelle-gass-is-reviving-levis-with-more-than-good-jeans#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1 "How CEO Michelle Gass Is Reviving Levi’s With More Than Good Denim")
+“My Style Is Evolving”: Kylie Jenner Is Refreshing Her Brand Khy](https://www.vogue.com/article/my-style-is-evolving-kylie-jenner-is-refreshing-her-brand-khy#intcid=_vogue-article-bottom-recirc_3828ad30-89e0-4e54-876b-cacb02333bfd_text2vec1 "“My Style Is Evolving”: Kylie Jenner Is Refreshing Her Brand Khy")
 
 ArrowArrow
 
@@ -79,7 +71,7 @@ Photo: Courtesy of Skims
 
 Most Popular
 
-- [![Inside the Wedding Guest Economy](https://assets.vogue.com/photos/69f2266d505c96205ff2b275/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-wedding-guest-economy#intcid=_vogue-right-rail_41c43e88-b3cb-4fdc-98c1-aa2d11edca2e_popular4-2)
+- [![Do You Have Good Taste? It’s More Important Than Ever](https://assets.vogue.com/photos/6a048c648818274672befe03/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/do-you-have-good-taste-its-more-important-than-ever#intcid=_vogue-right-rail_ffda2346-107b-465a-90e1-251f23c9a320_popular4-2)
 
 
 
@@ -89,13 +81,13 @@ Most Popular
 
 
 
-Fashion
+Fashion Industry Trends
 
 
 
 
 
-[Inside the Wedding Guest Economy](https://www.vogue.com/article/inside-the-wedding-guest-economy#intcid=_vogue-right-rail_41c43e88-b3cb-4fdc-98c1-aa2d11edca2e_popular4-2)
+[Do You Have Good Taste? It’s More Important Than Ever](https://www.vogue.com/article/do-you-have-good-taste-its-more-important-than-ever#intcid=_vogue-right-rail_ffda2346-107b-465a-90e1-251f23c9a320_popular4-2)
 
 
 
@@ -103,9 +95,9 @@ Fashion
 
 
 
-By Maliha Shoaib
+By Amy Francombe
 
-- [![The New Face of Foundation](https://assets.vogue.com/photos/69f37a8ccbffb43849c81280/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-new-face-of-foundation#intcid=_vogue-right-rail_41c43e88-b3cb-4fdc-98c1-aa2d11edca2e_popular4-2)
+- [![Register Now | The Editors’ Table: New York](https://assets.vogue.com/photos/69fe0331c5c9327087cab55a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-editors-table-new-york-2026#intcid=_vogue-right-rail_ffda2346-107b-465a-90e1-251f23c9a320_popular4-2)
 
 
 
@@ -115,13 +107,13 @@ By Maliha Shoaib
 
 
 
-Skincare
+Executive Reports
 
 
 
 
 
-[The New Face of Foundation](https://www.vogue.com/article/the-new-face-of-foundation#intcid=_vogue-right-rail_41c43e88-b3cb-4fdc-98c1-aa2d11edca2e_popular4-2)
+[Register Now \| The Editors’ Table: New York](https://www.vogue.com/article/the-editors-table-new-york-2026#intcid=_vogue-right-rail_ffda2346-107b-465a-90e1-251f23c9a320_popular4-2)
 
 
 
@@ -129,9 +121,9 @@ Skincare
 
 
 
-By Hikmat Mohammed
+By Vogue Business Team
 
-- [![Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://assets.vogue.com/photos/69f36f4f9cb008c5f1ce1d94/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity#intcid=_vogue-right-rail_41c43e88-b3cb-4fdc-98c1-aa2d11edca2e_popular4-2)
+- [![L’Oréal Paris’s Path to €10 Billion](https://assets.vogue.com/photos/6a05db8d788512d7d4528606/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/loreal-pariss-path-to-euro10-billion#intcid=_vogue-right-rail_ffda2346-107b-465a-90e1-251f23c9a320_popular4-2)
 
 
 
@@ -141,13 +133,13 @@ By Hikmat Mohammed
 
 
 
-Beauty
+Executive Interviews
 
 
 
 
 
-[Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity#intcid=_vogue-right-rail_41c43e88-b3cb-4fdc-98c1-aa2d11edca2e_popular4-2)
+[L’Oréal Paris’s Path to €10 Billion](https://www.vogue.com/article/loreal-pariss-path-to-euro10-billion#intcid=_vogue-right-rail_ffda2346-107b-465a-90e1-251f23c9a320_popular4-2)
 
 
 
@@ -155,7 +147,7 @@ Beauty
 
 
 
-By Peter Bevan
+By Laure Guilbault
 
 
 At The Independent’s Luxury’s Great Reset event in January, Romulus spoke about the importance of getting in early, as opposed to joining the conversation once it’s peaked. It’s a priority for Skims, and it’s one that experts agree is a brand strength. “Skims has achieved cultural relevance, community loyalty, and long-term brand equity through marketing that moves at the speed of culture,” says Cait Marron, SVP of creative strategy at marketing agency Billion Dollar Boy. “The brand’s success is rooted in cultural intuition. It has an incredible sense of timing, knowing what its audience is paying attention to and how to turn those conversations into creative, high-impact storytelling that feels smart, intentional. and impossible to ignore.”
@@ -175,7 +167,7 @@ Photo: Courtesy of Skims
 
 Most Popular
 
-- [![Inside the Wedding Guest Economy](https://assets.vogue.com/photos/69f2266d505c96205ff2b275/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-wedding-guest-economy#intcid=_vogue-right-rail_41c43e88-b3cb-4fdc-98c1-aa2d11edca2e_popular4-2)
+- [![Do You Have Good Taste? It’s More Important Than Ever](https://assets.vogue.com/photos/6a048c648818274672befe03/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/do-you-have-good-taste-its-more-important-than-ever#intcid=_vogue-right-rail_ffda2346-107b-465a-90e1-251f23c9a320_popular4-2)
 
 
 
@@ -185,13 +177,13 @@ Most Popular
 
 
 
-Fashion
+Fashion Industry Trends
 
 
 
 
 
-[Inside the Wedding Guest Economy](https://www.vogue.com/article/inside-the-wedding-guest-economy#intcid=_vogue-right-rail_41c43e88-b3cb-4fdc-98c1-aa2d11edca2e_popular4-2)
+[Do You Have Good Taste? It’s More Important Than Ever](https://www.vogue.com/article/do-you-have-good-taste-its-more-important-than-ever#intcid=_vogue-right-rail_ffda2346-107b-465a-90e1-251f23c9a320_popular4-2)
 
 
 
@@ -199,9 +191,9 @@ Fashion
 
 
 
-By Maliha Shoaib
+By Amy Francombe
 
-- [![The New Face of Foundation](https://assets.vogue.com/photos/69f37a8ccbffb43849c81280/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-new-face-of-foundation#intcid=_vogue-right-rail_41c43e88-b3cb-4fdc-98c1-aa2d11edca2e_popular4-2)
+- [![Register Now | The Editors’ Table: New York](https://assets.vogue.com/photos/69fe0331c5c9327087cab55a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-editors-table-new-york-2026#intcid=_vogue-right-rail_ffda2346-107b-465a-90e1-251f23c9a320_popular4-2)
 
 
 
@@ -211,13 +203,13 @@ By Maliha Shoaib
 
 
 
-Skincare
+Executive Reports
 
 
 
 
 
-[The New Face of Foundation](https://www.vogue.com/article/the-new-face-of-foundation#intcid=_vogue-right-rail_41c43e88-b3cb-4fdc-98c1-aa2d11edca2e_popular4-2)
+[Register Now \| The Editors’ Table: New York](https://www.vogue.com/article/the-editors-table-new-york-2026#intcid=_vogue-right-rail_ffda2346-107b-465a-90e1-251f23c9a320_popular4-2)
 
 
 
@@ -225,9 +217,9 @@ Skincare
 
 
 
-By Hikmat Mohammed
+By Vogue Business Team
 
-- [![Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://assets.vogue.com/photos/69f36f4f9cb008c5f1ce1d94/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity#intcid=_vogue-right-rail_41c43e88-b3cb-4fdc-98c1-aa2d11edca2e_popular4-2)
+- [![L’Oréal Paris’s Path to €10 Billion](https://assets.vogue.com/photos/6a05db8d788512d7d4528606/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/loreal-pariss-path-to-euro10-billion#intcid=_vogue-right-rail_ffda2346-107b-465a-90e1-251f23c9a320_popular4-2)
 
 
 
@@ -237,13 +229,13 @@ By Hikmat Mohammed
 
 
 
-Beauty
+Executive Interviews
 
 
 
 
 
-[Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity#intcid=_vogue-right-rail_41c43e88-b3cb-4fdc-98c1-aa2d11edca2e_popular4-2)
+[L’Oréal Paris’s Path to €10 Billion](https://www.vogue.com/article/loreal-pariss-path-to-euro10-billion#intcid=_vogue-right-rail_ffda2346-107b-465a-90e1-251f23c9a320_popular4-2)
 
 
 
@@ -251,7 +243,7 @@ Beauty
 
 
 
-By Peter Bevan
+By Laure Guilbault
 
 
 ## **High ambition**
@@ -280,34 +272,34 @@ How much runway is there for growth? Plenty, experts say, so long as it’s well
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![Can Agolde Ride the Denim Wave Into Ready-to-Wear?](https://assets.vogue.com/photos/69f315cde3f0e34711c3ac7c/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/can-agolde-ride-the-denim-wave-into-ready-to-wear#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1)
+[![A To-Do List for Marc Jacobs’s New Owner](https://assets.vogue.com/photos/6a073b1a10183e8892a021f5/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/a-to-do-list-for-marc-jacobss-new-owner#intcid=_vogue-article-bottom-recirc_3828ad30-89e0-4e54-876b-cacb02333bfd_text2vec1)
+
+Companies
+
+[A To-Do List for Marc Jacobs’s New Owner](https://www.vogue.com/article/a-to-do-list-for-marc-jacobss-new-owner#intcid=_vogue-article-bottom-recirc_3828ad30-89e0-4e54-876b-cacb02333bfd_text2vec1)
+
+By Madeleine Schulz
+
+[![Can Agolde Ride the Denim Wave Into Ready-to-Wear?](https://assets.vogue.com/photos/69f315cde3f0e34711c3ac7c/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/can-agolde-ride-the-denim-wave-into-ready-to-wear#intcid=_vogue-article-bottom-recirc_3828ad30-89e0-4e54-876b-cacb02333bfd_text2vec1)
 
 Business
 
-[Can Agolde Ride the Denim Wave Into Ready-to-Wear?](https://www.vogue.com/article/can-agolde-ride-the-denim-wave-into-ready-to-wear#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1)
+[Can Agolde Ride the Denim Wave Into Ready-to-Wear?](https://www.vogue.com/article/can-agolde-ride-the-denim-wave-into-ready-to-wear#intcid=_vogue-article-bottom-recirc_3828ad30-89e0-4e54-876b-cacb02333bfd_text2vec1)
 
 By Jessica Schiffer
 
-[![Good American to Skims: Emma Grede’s 5 Lessons in Building a Brand](https://assets.vogue.com/photos/69dcc8bdb095cc56468bde6c/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/good-american-to-skims-emma-gredes-5-lessons-in-building-a-brand#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1)
+[![Do You Have Good Taste? It’s More Important Than Ever](https://assets.vogue.com/photos/6a048c648818274672befe03/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/do-you-have-good-taste-its-more-important-than-ever#intcid=_vogue-article-bottom-recirc_3828ad30-89e0-4e54-876b-cacb02333bfd_text2vec1)
 
-Executive Interviews
+Fashion Industry Trends
 
-[Good American to Skims: Emma Grede’s 5 Lessons in Building a Brand](https://www.vogue.com/article/good-american-to-skims-emma-gredes-5-lessons-in-building-a-brand#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1)
+[Do You Have Good Taste? It’s More Important Than Ever](https://www.vogue.com/article/do-you-have-good-taste-its-more-important-than-ever#intcid=_vogue-article-bottom-recirc_3828ad30-89e0-4e54-876b-cacb02333bfd_text2vec1)
 
 By Amy Francombe
 
-[![“My Style Is Evolving”: Kylie Jenner Is Refreshing Her Brand Khy](https://assets.vogue.com/photos/69eb739e7fad12ae41b1eb9e/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/my-style-is-evolving-kylie-jenner-is-refreshing-her-brand-khy#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1)
+[![“My Style Is Evolving”: Kylie Jenner Is Refreshing Her Brand Khy](https://assets.vogue.com/photos/69eb739e7fad12ae41b1eb9e/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/my-style-is-evolving-kylie-jenner-is-refreshing-her-brand-khy#intcid=_vogue-article-bottom-recirc_3828ad30-89e0-4e54-876b-cacb02333bfd_text2vec1)
 
 Fashion
 
-[“My Style Is Evolving”: Kylie Jenner Is Refreshing Her Brand Khy](https://www.vogue.com/article/my-style-is-evolving-kylie-jenner-is-refreshing-her-brand-khy#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1)
+[“My Style Is Evolving”: Kylie Jenner Is Refreshing Her Brand Khy](https://www.vogue.com/article/my-style-is-evolving-kylie-jenner-is-refreshing-her-brand-khy#intcid=_vogue-article-bottom-recirc_3828ad30-89e0-4e54-876b-cacb02333bfd_text2vec1)
 
 By Lucy Maguire
-
-[![Where Should Your Beauty Brand Be After 10 Years?](https://assets.vogue.com/photos/69e1124387d928e45a2c22ba/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/where-should-your-beauty-brand-be-after-10-years#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1)
-
-Beauty
-
-[Where Should Your Beauty Brand Be After 10 Years?](https://www.vogue.com/article/where-should-your-beauty-brand-be-after-10-years#intcid=_vogue-article-bottom-recirc-bkt-a_f35b6068-7f7b-4dd7-8c3d-a598af39475b_text2vec1)
-
-By Jessica Schiffer

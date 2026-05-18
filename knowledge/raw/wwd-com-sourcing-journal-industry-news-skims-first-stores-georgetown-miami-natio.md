@@ -2,7 +2,7 @@
 url: https://wwd.com/sourcing-journal/industry-news/skims-first-stores-georgetown-miami-nationwide-expansion-kim-kardashian-1238837613/
 source_type: wwd.com
 title: Skims Opens First Stores, Eyes Nationwide Expansion
-scraped_at: 2026-05-11T09:28:15.128890+00:00
+scraped_at: 2026-05-18T09:44:27.696354+00:00
 ---
 
 [Skip to main content](https://wwd.com/sourcing-journal/industry-news/skims-first-stores-georgetown-miami-nationwide-expansion-kim-kardashian-1238837613/#pagetop)
@@ -21,7 +21,7 @@ scraped_at: 2026-05-11T09:28:15.128890+00:00
 
 - [Sustainability](https://wwd.com/sourcing-journal/sustainability/)
 
-### [Material World](https://wwd.com/sourcing-journal/sustainability/material-world-tydra-labs-microban-karl-mayer-guy-harvey-1238943854/)
+### [Material World](https://wwd.com/sourcing-journal/sustainability/material-world-sodra-lycra-asahi-kasei-notape-1238954473/)
 
 
 
@@ -29,7 +29,7 @@ scraped_at: 2026-05-11T09:28:15.128890+00:00
 
 
 
-[![Athanasios Kritharis and Jaiya Varshney.](https://wwd.com/wp-content/uploads/2026/05/TydraTeam.jpeg?w=225&h=225&crop=1)](https://wwd.com/sourcing-journal/sustainability/material-world-tydra-labs-microban-karl-mayer-guy-harvey-1238943854/)
+[![Södra Cell Värö](https://wwd.com/wp-content/uploads/2026/05/Sodra2.jpg?w=225&h=225&crop=1)](https://wwd.com/sourcing-journal/sustainability/material-world-sodra-lycra-asahi-kasei-notape-1238954473/)
 
 - [Industry News](https://wwd.com/sourcing-journal/industry-news/)
 
@@ -84,23 +84,23 @@ The 3,501-square-foot store features [Skims](https://api.swiftype.com/api/v1/pub
 
 ### Related Stories
 
-![NYDJ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Vintage Store Day is intended to celebrate the curated, small-business nature of vintage stores as opposed to general thrift outlets. ](https://wwd.com/wp-content/uploads/2026/05/LostGirls1.jpg?w=225&h=225&crop=1)
+
+[Industry News](https://wwd.com/sourcing-journal/industry-news/)
+
+### [Can Vintage Store Day Turn Independent Resale into a Retail Movement?](https://wwd.com/sourcing-journal/industry-news/vintage-store-day-independent-resale-retail-movement-1238955723/)
+
+![NYDJ](https://wwd.com/wp-content/uploads/2026/04/NYDJ.jpg?w=225&h=225&crop=1)
 
 [SJ Denim](https://wwd.com/sourcing-journal/sj-denim/)
 
 ### [The Shape of Denim: Jeans That Lift, Smooth and Enhance](https://wwd.com/sourcing-journal/sj-denim/denim-jeans-that-lift-smooth-enhance-spanx-nydj-halara-1238931676/)
 
-![SPANXsupersmooth Authentic 360 Lightweight Denim](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
-
-[SJ Denim](https://wwd.com/sourcing-journal/sj-denim/)
-
-### [Spanx Targets Summer Comfort with New Lightweight Denim Line](https://wwd.com/sourcing-journal/sj-denim/spanx-targets-summer-comfort-new-lightweight-denim-line-1238922931/)
-
 “As this is [Skims](https://api.swiftype.com/api/v1/public/analytics/pc?engine_key=iU6o6j2FXcJr_2awoLDB&doc_id=6584176964441f81e4014f87&_st_url=https%3A%2F%2Fwwd.com%2Ftopics%2Fbusiness-news%2Fkim-kardashian-west-shapewear-skims-launch-sold-out-2-million-169120%2F&q=skims)’ first permanent store…we’ve been so meticulous with every detail to ensure that our customers are immersed into the Skims universe,” said Kardashian. “Launching our own store is a major achievement for Skims, so we’re incredibly excited to welcome everyone to shop and experience our best-selling products in person.”
 
 Shortly after opening its Georgetown location, the [Hollywood](https://api.swiftype.com/api/v1/public/analytics/pc?engine_key=iU6o6j2FXcJr_2awoLDB&doc_id=631f9bd928ccbcc7ac59e6ff&_st_url=https%3A%2F%2Fwwd.com%2Fdenim%2Fdenim-brands%2Fmadewell-when-the-fit-hits-lukas-gage-chase-sui-wonders-charlbi-dean-366794%2F&q=hollywood)-headquartered brand planted roots over 1,000 miles away in [Miami](https://wwd.com/home-design/interior-design/gulla-jonsdottir-miami-new-unframed-hotel-design-marvel-1238947442/). Like the D.C. location, the 3,721-square-foot store will also feature a mix of Skims’ signature neutral shades and fixtures.
 
-![Skims Miami](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Skims Miami](https://wwd.com/wp-content/uploads/2024/07/SkimsMiami.jpg?w=300)
 
 Skims’ Miami location.Courtesy
 
@@ -126,41 +126,41 @@ Receive Our Daily Newsletter & Special Offers
 
 ## Related
 
-[![](https://wwd.com/wp-content/uploads/2026/05/nikestore.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/nike-class-action-ieepa-tariff-refunds-costco-lululemon-1238948853/)
+[![](https://wwd.com/wp-content/uploads/2026/05/1758873568.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/shuffle-board-executive-moves-true-religion-truewerk-1238957073/)
 
 [Industry News](https://wwd.com/sourcing-journal/industry-news/)
 
-### [Nike Faces Class Action Over Tariff Refunds](https://wwd.com/sourcing-journal/industry-news/nike-class-action-ieepa-tariff-refunds-costco-lululemon-1238948853/)
+### [Shuffle Board: Two ‘True’ Executive Moves](https://wwd.com/sourcing-journal/industry-news/shuffle-board-executive-moves-true-religion-truewerk-1238957073/)
 
-May 8, 2026
+May 15, 2026
 
-Nike is the latest brand to come under fire from consumers seeking payback for the tariffs they say they paid in the form of higher prices at retail.
+True Religion hires Andrew Rauch as SVP of global digital and e-commerce, while Truewerk names Matt Snyder as VP of product and merchandising.
 
-[Read Article](https://wwd.com/sourcing-journal/industry-news/nike-class-action-ieepa-tariff-refunds-costco-lululemon-1238948853/)
+[Read Article](https://wwd.com/sourcing-journal/industry-news/shuffle-board-executive-moves-true-religion-truewerk-1238957073/)
 
-[![](https://wwd.com/wp-content/uploads/2023/01/rack-room-sneaker-impact.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/shuffle-board-tracking-footwear-executive-steps-1238947236/)
-
-[Industry News](https://wwd.com/sourcing-journal/industry-news/)
-
-### [Shuffle Board: Tracking Footwear’s Executive Steps and AGM Board Elects](https://wwd.com/sourcing-journal/industry-news/shuffle-board-tracking-footwear-executive-steps-1238947236/)
-
-May 8, 2026
-
-Rack Room Shoes names outgoing CEO Mark Lardies’ successor and Genesco promotes company vet to VP while H&M and Polygiene share post AGM updates.
-
-[Read Article](https://wwd.com/sourcing-journal/industry-news/shuffle-board-tracking-footwear-executive-steps-1238947236/)
-
-[![](https://wwd.com/wp-content/uploads/2026/05/Lenzing2026Q1.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/lenzing-gets-back-in-the-black-earnings-q1-1238948272/)
+[![](https://wwd.com/wp-content/uploads/2026/05/LostGirls1.jpg?w=300)](https://wwd.com/sourcing-journal/industry-news/vintage-store-day-independent-resale-retail-movement-1238955723/)
 
 [Industry News](https://wwd.com/sourcing-journal/industry-news/)
 
-### [Lenzing Gets Back in the Black](https://wwd.com/sourcing-journal/industry-news/lenzing-gets-back-in-the-black-earnings-q1-1238948272/)
+### [Can Vintage Store Day Turn Independent Resale into a Retail Movement?](https://wwd.com/sourcing-journal/industry-news/vintage-store-day-independent-resale-retail-movement-1238955723/)
 
-May 8, 2026
+May 15, 2026
 
-The Austrian fiber firm doubled free cash flow in Q1, signaling a turnaround even as revenue fell 10.8 percent amid “highly volatile” markets.
+VSD returns on May 16, testing whether a decentralized network of vintage shops can sustain brick-and-mortar resale through cultural momentum.
 
-[Read Article](https://wwd.com/sourcing-journal/industry-news/lenzing-gets-back-in-the-black-earnings-q1-1238948272/)
+[Read Article](https://wwd.com/sourcing-journal/industry-news/vintage-store-day-independent-resale-retail-movement-1238955723/)
+
+[![](https://wwd.com/wp-content/uploads/2025/03/gen-z.jpeg?w=300)](https://wwd.com/sourcing-journal/industry-news/social-commerce-instant-conversion-capital-one-shopping-1238956381/)
+
+[Industry News](https://wwd.com/sourcing-journal/industry-news/)
+
+### [New Era of Fashion Commerce Defined by Instant Conversion as Social Platforms Become the New Storefront](https://wwd.com/sourcing-journal/industry-news/social-commerce-instant-conversion-capital-one-shopping-1238956381/)
+
+May 15, 2026
+
+The role of the influencer has also changed, moving from brand ambassador to a digital-first sales associate.
+
+[Read Article](https://wwd.com/sourcing-journal/industry-news/social-commerce-instant-conversion-capital-one-shopping-1238956381/)
 
 WWD and Women's Wear Daily are part of Penske Media Corporation. © 2026 Fairchild Publishing, LLC. All Rights Reserved.
 
@@ -193,6 +193,7 @@ Log In Sign Up
   - [Handbags](https://wwd.com/accessories-news/handbags/)
 - ### [Business](https://wwd.com/business-news/)Expand business menu
 
+  - [Earnings & Insights](https://wwd.com/p/earnings-and-insights/)
   - [Financial](https://wwd.com/business-news/financial/)
   - [Government & Trade](https://wwd.com/business-news/government-trade/)
   - [Legal](https://wwd.com/business-news/legal/)

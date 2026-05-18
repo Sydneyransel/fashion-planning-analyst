@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-05-11T09:28:02.767798+00:00
+scraped_at: 2026-05-18T09:44:15.087106+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -23,19 +23,19 @@ LATEST ON VOGUE
 
 [![What’s Going On at Ganni?](https://assets.vogue.com/photos/69eb43b0fe6902ae555685f7/1:1/w_640%2Cc_limit/undefined)\\
 \\
-What’s Going On at Ganni?](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1 "What’s Going On at Ganni?")
+What’s Going On at Ganni?](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_2049d930-03cc-4f9c-8f7d-3245e29a179d_text2vec1_fallback_roberta-similarity1 "What’s Going On at Ganni?")
+
+[![A To-Do List for Marc Jacobs’s New Owner](https://assets.vogue.com/photos/6a073b1a10183e8892a021f5/1:1/w_640%2Cc_limit/undefined)\\
+\\
+A To-Do List for Marc Jacobs’s New Owner](https://www.vogue.com/article/a-to-do-list-for-marc-jacobss-new-owner#intcid=_vogue-article-bottom-recirc_2049d930-03cc-4f9c-8f7d-3245e29a179d_text2vec1_fallback_roberta-similarity1 "A To-Do List for Marc Jacobs’s New Owner")
 
 [![How to Tell a Sustainability Story Today](https://assets.vogue.com/photos/69e8c7e64c39ced2ca3a792e/1:1/w_640%2Cc_limit/undefined)\\
 \\
-How to Tell a Sustainability Story Today](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1 "How to Tell a Sustainability Story Today")
+How to Tell a Sustainability Story Today](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_2049d930-03cc-4f9c-8f7d-3245e29a179d_text2vec1_fallback_roberta-similarity1 "How to Tell a Sustainability Story Today")
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
+[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6a049980ab54f96753295e22/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1 "The Vogue Business People Moves Tracker")
-
-[![Should Barneys Come Back?](https://assets.vogue.com/photos/69e12c90157cd135f7688649/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Should Barneys Come Back?](https://www.vogue.com/article/should-barneys-come-back#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1 "Should Barneys Come Back?")
+The Vogue Business TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_2049d930-03cc-4f9c-8f7d-3245e29a179d_text2vec1_fallback_roberta-similarity1 "The Vogue Business TikTok Trend Tracker")
 
 ArrowArrow
 
@@ -78,7 +78,33 @@ Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skim
 
 Most Popular
 
-- [![Understanding Luxury in Germany](https://assets.vogue.com/photos/69fb62a24527a4684c6b6ac8/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
+- [![Do You Have Good Taste? It’s More Important Than Ever](https://assets.vogue.com/photos/6a048c648818274672befe03/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/do-you-have-good-taste-its-more-important-than-ever#intcid=_vogue-right-rail_91abd433-6d61-4446-b0cd-f1405aaff413_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion Industry Trends
+
+
+
+
+
+[Do You Have Good Taste? It’s More Important Than Ever](https://www.vogue.com/article/do-you-have-good-taste-its-more-important-than-ever#intcid=_vogue-right-rail_91abd433-6d61-4446-b0cd-f1405aaff413_popular4-2)
+
+
+
+
+
+
+
+By Amy Francombe
+
+- [![Register Now | The Editors’ Table: New York](https://assets.vogue.com/photos/69fe0331c5c9327087cab55a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-editors-table-new-york-2026#intcid=_vogue-right-rail_91abd433-6d61-4446-b0cd-f1405aaff413_popular4-2)
 
 
 
@@ -94,7 +120,7 @@ Executive Reports
 
 
 
-[Understanding Luxury in Germany](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
+[Register Now \| The Editors’ Table: New York](https://www.vogue.com/article/the-editors-table-new-york-2026#intcid=_vogue-right-rail_91abd433-6d61-4446-b0cd-f1405aaff413_popular4-2)
 
 
 
@@ -102,35 +128,9 @@ Executive Reports
 
 
 
-By Maliha Shoaib
+By Vogue Business Team
 
-- [![Is Haircare About to Become a Big Deal?](https://assets.vogue.com/photos/69fcc4bd83af71c48ff23a2c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
-
-
-
-
-
-
-
-
-
-Beauty
-
-
-
-
-
-[Is Haircare About to Become a Big Deal?](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
-
-
-
-
-
-
-
-By Hikmat Mohammed
-
-- [![The 2026 Met Gala by the Numbers](https://assets.vogue.com/photos/69fcbf5bc5fe86738947f8ba/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
+- [![L’Oréal Paris’s Path to €10 Billion](https://assets.vogue.com/photos/6a05db8d788512d7d4528606/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/loreal-pariss-path-to-euro10-billion#intcid=_vogue-right-rail_91abd433-6d61-4446-b0cd-f1405aaff413_popular4-2)
 
 
 
@@ -140,13 +140,13 @@ By Hikmat Mohammed
 
 
 
-Fashion
+Executive Interviews
 
 
 
 
 
-[The 2026 Met Gala by the Numbers](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
+[L’Oréal Paris’s Path to €10 Billion](https://www.vogue.com/article/loreal-pariss-path-to-euro10-billion#intcid=_vogue-right-rail_91abd433-6d61-4446-b0cd-f1405aaff413_popular4-2)
 
 
 
@@ -154,7 +154,7 @@ Fashion
 
 
 
-By Madeleine Schulz
+By Laure Guilbault
 
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
@@ -184,7 +184,33 @@ Skims
 
 Most Popular
 
-- [![Understanding Luxury in Germany](https://assets.vogue.com/photos/69fb62a24527a4684c6b6ac8/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
+- [![Do You Have Good Taste? It’s More Important Than Ever](https://assets.vogue.com/photos/6a048c648818274672befe03/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/do-you-have-good-taste-its-more-important-than-ever#intcid=_vogue-right-rail_91abd433-6d61-4446-b0cd-f1405aaff413_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion Industry Trends
+
+
+
+
+
+[Do You Have Good Taste? It’s More Important Than Ever](https://www.vogue.com/article/do-you-have-good-taste-its-more-important-than-ever#intcid=_vogue-right-rail_91abd433-6d61-4446-b0cd-f1405aaff413_popular4-2)
+
+
+
+
+
+
+
+By Amy Francombe
+
+- [![Register Now | The Editors’ Table: New York](https://assets.vogue.com/photos/69fe0331c5c9327087cab55a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-editors-table-new-york-2026#intcid=_vogue-right-rail_91abd433-6d61-4446-b0cd-f1405aaff413_popular4-2)
 
 
 
@@ -200,7 +226,7 @@ Executive Reports
 
 
 
-[Understanding Luxury in Germany](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
+[Register Now \| The Editors’ Table: New York](https://www.vogue.com/article/the-editors-table-new-york-2026#intcid=_vogue-right-rail_91abd433-6d61-4446-b0cd-f1405aaff413_popular4-2)
 
 
 
@@ -208,35 +234,9 @@ Executive Reports
 
 
 
-By Maliha Shoaib
+By Vogue Business Team
 
-- [![Is Haircare About to Become a Big Deal?](https://assets.vogue.com/photos/69fcc4bd83af71c48ff23a2c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
-
-
-
-
-
-
-
-
-
-Beauty
-
-
-
-
-
-[Is Haircare About to Become a Big Deal?](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
-
-
-
-
-
-
-
-By Hikmat Mohammed
-
-- [![The 2026 Met Gala by the Numbers](https://assets.vogue.com/photos/69fcbf5bc5fe86738947f8ba/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
+- [![L’Oréal Paris’s Path to €10 Billion](https://assets.vogue.com/photos/6a05db8d788512d7d4528606/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/loreal-pariss-path-to-euro10-billion#intcid=_vogue-right-rail_91abd433-6d61-4446-b0cd-f1405aaff413_popular4-2)
 
 
 
@@ -246,13 +246,13 @@ By Hikmat Mohammed
 
 
 
-Fashion
+Executive Interviews
 
 
 
 
 
-[The 2026 Met Gala by the Numbers](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-right-rail_b843a2b9-f62d-43b4-810f-bf3382a31fcc_popular4-2)
+[L’Oréal Paris’s Path to €10 Billion](https://www.vogue.com/article/loreal-pariss-path-to-euro10-billion#intcid=_vogue-right-rail_91abd433-6d61-4446-b0cd-f1405aaff413_popular4-2)
 
 
 
@@ -260,7 +260,7 @@ Fashion
 
 
 
-By Madeleine Schulz
+By Laure Guilbault
 
 
 Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
@@ -286,34 +286,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![What’s Going On at Ganni?](https://assets.vogue.com/photos/69eb43b0fe6902ae555685f7/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
+[![What’s Going On at Ganni?](https://assets.vogue.com/photos/69eb43b0fe6902ae555685f7/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_2049d930-03cc-4f9c-8f7d-3245e29a179d_text2vec1_fallback_roberta-similarity1)
 
 Companies
 
-[What’s Going On at Ganni?](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
+[What’s Going On at Ganni?](https://www.vogue.com/article/whats-going-on-at-ganni#intcid=_vogue-article-bottom-recirc_2049d930-03cc-4f9c-8f7d-3245e29a179d_text2vec1_fallback_roberta-similarity1)
 
 By Maliha Shoaib
 
-[![How to Tell a Sustainability Story Today](https://assets.vogue.com/photos/69e8c7e64c39ced2ca3a792e/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
-
-Sustainability
-
-[How to Tell a Sustainability Story Today](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
-
-By Sophie Benson
-
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
+[![A To-Do List for Marc Jacobs’s New Owner](https://assets.vogue.com/photos/6a073b1a10183e8892a021f5/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/a-to-do-list-for-marc-jacobss-new-owner#intcid=_vogue-article-bottom-recirc_2049d930-03cc-4f9c-8f7d-3245e29a179d_text2vec1_fallback_roberta-similarity1)
 
 Companies
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
-
-By Vogue Business Team
-
-[![Should Barneys Come Back?](https://assets.vogue.com/photos/69e12c90157cd135f7688649/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/should-barneys-come-back#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
-
-Business
-
-[Should Barneys Come Back?](https://www.vogue.com/article/should-barneys-come-back#intcid=_vogue-article-bottom-recirc_90cd6706-d544-44e1-9817-0f77f11c7d28_text2vec1_fallback_roberta-similarity1)
+[A To-Do List for Marc Jacobs’s New Owner](https://www.vogue.com/article/a-to-do-list-for-marc-jacobss-new-owner#intcid=_vogue-article-bottom-recirc_2049d930-03cc-4f9c-8f7d-3245e29a179d_text2vec1_fallback_roberta-similarity1)
 
 By Madeleine Schulz
+
+[![How to Tell a Sustainability Story Today](https://assets.vogue.com/photos/69e8c7e64c39ced2ca3a792e/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_2049d930-03cc-4f9c-8f7d-3245e29a179d_text2vec1_fallback_roberta-similarity1)
+
+Sustainability
+
+[How to Tell a Sustainability Story Today](https://www.vogue.com/article/how-to-tell-a-sustainability-story-today#intcid=_vogue-article-bottom-recirc_2049d930-03cc-4f9c-8f7d-3245e29a179d_text2vec1_fallback_roberta-similarity1)
+
+By Sophie Benson
+
+[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6a049980ab54f96753295e22/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_2049d930-03cc-4f9c-8f7d-3245e29a179d_text2vec1_fallback_roberta-similarity1)
+
+Future Edit
+
+[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_2049d930-03cc-4f9c-8f7d-3245e29a179d_text2vec1_fallback_roberta-similarity1)
+
+By Lucy Maguire

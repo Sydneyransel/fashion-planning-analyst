@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/
 source_type: wwd.com
 title: Kim Kardashian's Skims Hits $5B Valuation With New Funding Round
-scraped_at: 2026-05-11T09:28:11.274584+00:00
+scraped_at: 2026-05-18T09:44:23.022117+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/#pagetop)
 
-Accessories
+Fashion
 
-### [Chanel Gives Color-filled Read of Its Signs and Symbols in New High Jewelry Collection](https://wwd.com/accessories-news/jewelry/chanel-signes-symboles-high-jewelry-collection-1238947255/)
+### [Gucci Cruise 2027: New York, Guccified](https://wwd.com/runway/resort-2027/new-york/gucci/review/)
 
-Business
+Fashion
 
-### [Paul Smith Names Zia Zareem-Slade Managing Director in a Milestone Year](https://wwd.com/business-news/human-resources/paul-smith-zia-zareem-slade-managing-director-milestone-1238949305/)
+### [Demna Discusses the Gucciness of Gucci Before NYC Show](https://wwd.com/fashion-news/fashion-features/gucci-demna-new-york-cruise-interview-1238957468/)
 
-ESG/Sustainability
+Fashion
 
-### [CFOs Take Center Stage at Global Fashion Summit](https://wwd.com/sustainability/business/cfos-sustainability-global-fashion-summit-2026-1238949150/)
+### [Veronica Beard to Open First Paris Boutique in Triangle d’Or Luxury District](https://wwd.com/fashion-news/designer-luxury/veronica-beard-first-paris-boutique-triangle-dor-luxury-district-1238948287/)
 
 ![NEW YORK, NEW YORK - SEPTEMBER 24: NikeSKIMS dancers perform at the NikeSKIMS "Bodies at Work" event at the New York Public Library on September 24, 2025 in New York City. (Photo by Valerie Terranova/Getty Images)](https://wwd.com/wp-content/uploads/2025/09/skims-presentation-photosc.jpg?w=800&h=533&crop=1)
 
@@ -59,13 +59,13 @@ The new money came from Goldman Sachs Alternatives and BDT & MSD Partners.
 
 ### Related Articles
 
-![Kendall Jenner, Kim Kardashian and Kylie Jenner on the Met Gala 2026 red carpet. ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Kendall Jenner, Kim Kardashian and Kylie Jenner on the Met Gala 2026 red carpet. ](https://wwd.com/wp-content/uploads/2026/05/met-sisters.jpg?w=225&h=225&crop=1)
 
 [Celebrity News](https://wwd.com/business-news/celebrity-news/)
 
 ### [The Kardashian-Jenner Met Gala Looks Had One Thing in Common and It Wasn't Subtle](https://wwd.com/pop-culture/celebrity-news/kim-kardashian-met-gala-2026-kendall-kylie-jenner-1238935617/)
 
-![Kim Kardashian wearing a pair of butter yellow gladiator-style heels during a visit to 'The Fear of 13' on Broadway on Sunday.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Kim Kardashian wearing a pair of butter yellow gladiator-style heels during a visit to 'The Fear of 13' on Broadway on Sunday.](https://wwd.com/wp-content/uploads/2026/05/kim-kardashian-yellow-gladiator-heels-fear-of-13-broadway.jpg?w=225&h=225&crop=1)
 
 [Shoe Trends](https://wwd.com/business-news/shoe-trends/)
 
@@ -109,7 +109,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://cloud.email.wwd.com/signup/)
 
-- [![Nike SNKRS app](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/footwear-news/shoe-industry-news/nike-snkrs-app-layoffs-strategy-explained-1238948965/)
+- [![Selena Gomez during an outing to Gymkhana restaurant in Mayfair on Friday in London.](https://wwd.com/wp-content/uploads/2026/05/selena-gomez-heels-london.jpg?w=1024)](https://wwd.com/footwear-news/shoe-trends/selena-gomez-satin-heels-london-cult-gaia-dress-1238957202/)
 
 
 
@@ -119,75 +119,75 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Nike Says It’s ‘Deeply Committed’ to Snkrs App After Speculation Swirls](https://wwd.com/footwear-news/shoe-industry-news/nike-snkrs-app-layoffs-strategy-explained-1238948965/)
+### [Selena Gomez Embraces the Satin Heels Trend in London](https://wwd.com/footwear-news/shoe-trends/selena-gomez-satin-heels-london-cult-gaia-dress-1238957202/)
 
 
 
-  - [Shoe Industry News](https://wwd.com/business-news/shoe-industry-news/)
-
-  - By
-
-
-    [Katie Abel](https://wwd.com/wwd-masthead/katie-abel/)
-
-
-- [![Consumers are prioritizing value and intentional purchases.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/retail/consumers-shift-spending-habits-financial-pressures-prioritizing-value-intentional-purchases-1238933293/)
-
-
-
-
-
-
-
-
-
-### [Consumers Shift Spending Habits Amid Financial Pressures, Prioritizing Value and Intentional Purchases](https://wwd.com/business-news/retail/consumers-shift-spending-habits-financial-pressures-prioritizing-value-intentional-purchases-1238933293/)
-
-
-
-  - [Retail](https://wwd.com/business-news/retail/)
+  - [Shoe Trends](https://wwd.com/business-news/shoe-trends/)
 
   - By
 
 
-    [Lisa Lockwood](https://wwd.com/wwd-masthead/lisa-lockwood/)
+    [Karla Rodriguez](https://wwd.com/wwd-masthead/karla-rodriguez/)
 
 
-- [![Brochu Walker](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/retail/brochu-walker-seoul-flagship-international-expansion-1238943733/)
-
-
-
+- [![Salma Hayek](https://wwd.com/wp-content/uploads/2025/05/kering-dinner-2025-cannes-sf-07.jpg?w=1024)](https://wwd.com/eye/parties/salma-hayek-pinault-cohost-serpentine-summer-party-1238955094/)
 
 
 
 
 
 
-### [EXCLUSIVE: Brochu Walker to Expand Globally With First Seoul Flagship](https://wwd.com/business-news/retail/brochu-walker-seoul-flagship-international-expansion-1238943733/)
 
 
 
-  - [Retail](https://wwd.com/business-news/retail/)
+### [EXCLUSIVE: Salma Hayek Pinault to Cohost Serpentine Summer Party](https://wwd.com/eye/parties/salma-hayek-pinault-cohost-serpentine-summer-party-1238955094/)
+
+
+
+  - [Parties](https://wwd.com/business-news/parties/)
 
   - By
 
 
-    [Ryma Chikhoune](https://wwd.com/wwd-masthead/ryma-chikhoune/)
+    [Tianwei Zhang](https://wwd.com/wwd-masthead/tianwei-zhang/)
 
 
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/getting-ready-for-marc-jacobs-2026-with-nicky-hilton/)
+- [![Conner Ives, Charles Jeffrey and Patrick McDowell](https://wwd.com/wp-content/uploads/2026/05/IMG_0384.jpg?w=1024)](https://wwd.com/eye/parties/the-zetters-bloomsbury-british-museum-1238955898/)
+
+
+
+
+
+
+
+
+
+### [London’s Fashion Set Flocks to the Zetter’s Latest Spot in Bloomsbury](https://wwd.com/eye/parties/the-zetters-bloomsbury-british-museum-1238955898/)
+
+
+
+  - [Parties](https://wwd.com/business-news/parties/)
+
+  - By
+
+
+    [Tianwei Zhang](https://wwd.com/wwd-masthead/tianwei-zhang/)
+
+
+[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/uploads/2026/02/nicky.png?crop=0px%2C0px%2C2678px%2C1499px&resize=910%2C511)](https://wwd.com/video/getting-ready-for-marc-jacobs-2026-with-nicky-hilton/)
 
 ### Getting Ready for Marc Jacobs 2026 with Nicky Hilton
 
-[![diane lane at the premiere of feud capote vs the swans, red carpet interview](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
+[![diane lane at the premiere of feud capote vs the swans, red carpet interview](https://wwd.com/wp-content/uploads/2024/01/diane-lane-feud-capote-vs-the-swans.jpg?w=260&h=150&crop=1)](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
 
 ### ['Feud: Capote Vs. The Swans' Stars Talk Costumes and Society](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
 
-[![Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
+[![Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/wp-content/uploads/2023/05/Kerry-Washington-And-Michael-Kors.jpg?w=260&h=150&crop=1)](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
 
 ### [Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
 
-[![WWD style director Alex Badia and FN style director Shannon Adducci discuss the versatility of outerwear.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
+[![WWD style director Alex Badia and FN style director Shannon Adducci discuss the versatility of outerwear.](https://wwd.com/wp-content/uploads/2022/11/head-to-toe-outerwear.jpg?w=260&h=150&crop=1)](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
 
 ### [Head to Toe: How to Style Outerwear for Everywhere](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
 
@@ -410,6 +410,7 @@ Log In Sign Up
   - [Handbags](https://wwd.com/accessories-news/handbags/)
 - ### [Business](https://wwd.com/business-news/)Expand business menu
 
+  - [Earnings & Insights](https://wwd.com/p/earnings-and-insights/)
   - [Financial](https://wwd.com/business-news/financial/)
   - [Government & Trade](https://wwd.com/business-news/government-trade/)
   - [Legal](https://wwd.com/business-news/legal/)

@@ -2,7 +2,7 @@
 url: https://skims.com/collections/swim
 source_type: skims.com
 title: Swimwear | SKIMS
-scraped_at: 2026-05-11T09:27:48.037824+00:00
+scraped_at: 2026-05-18T09:44:00.839191+00:00
 ---
 
 [Skip to main content](https://skims.com/collections/swim#main-content)
@@ -36,353 +36,193 @@ sortSizeStyleColorCollectionMaterial
 
 new
 
-[![ICONIC SWIM TRIANGLE BIKINI TOP | COBALT CAMPAIGN @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONT_FACING_PLP_12_042826_ICONIC_SWIM_TRIANGLE_BIKINI_TOP_COBALT.webp?v=1777236076&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![SWIM COVER-UPS CROCHET FLARE PANT | SNOW ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-BTM-11506W-SNO-OA-SKIMS-SWIM_0119-FR.webp?v=1778701266&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![ICONIC SWIM TRIANGLE BIKINI TOP | COBALT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-11454W-COB-FLT.jpg?v=1777066912&auto=format&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-triangle-bikini-top-cobalt "")
-
-- cobalt
-
-- obsidian
-
-- carmine
-
-
-[ICONIC SWIM\\
-**TRIANGLE BIKINI TOP** \\
-$60](https://skims.com/products/iconic-swim-triangle-bikini-top-cobalt "")
-
-new
-
-[![ICONIC SWIM STRING BIKINI BOTTOM | COBALT CAMPAIGN @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONT_FACING_PLP_05_042826_ICONIC_SWIM_STRING_BIKINI_BTM_COBALT.webp?v=1777236076&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![ICONIC SWIM STRING BIKINI BOTTOM | COBALT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-BM-BIK-11582W-COB-FLT.jpg?v=1777066902&auto=format&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-string-bikini-bottom-cobalt "")
-
-- cobalt
-
-- obsidian
-
-- carmine
-
-
-[ICONIC SWIM\\
-**STRING BIKINI BOTTOM** \\
-$58](https://skims.com/products/iconic-swim-string-bikini-bottom-cobalt "")
-
-new
-
-[![COTTON COVER-UPS SHORT DRESS | SNOW ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-DRS-12292W-SNO-LC-SKIMS-DRESS_4101-FR.webp?v=1777071665&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![COTTON COVER-UPS SHORT DRESS | SNOW LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-CU-DRS-12292W-SNO-SW_aeca7f87-42b2-4f5c-baad-123e2ad1b031.jpg?v=1777070348&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-cotton-off-the-shoulder-mini-dress-snow "")
+![CROCHET COVER-UPS FLARE PANT | SNOW FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-CU-BTM-11506W-SNO-FLT.jpg?v=1778533399&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-crochet-flare-pant-snow "")
 
 - snow
 
-- carmine
+- phoenix
+
+- cherry blossom
 
 
 [SWIM COVER-UPS\\
-**COTTON OFF THE SHOULDER MINI DRESS** \\
-$88](https://skims.com/products/swim-cover-ups-cotton-off-the-shoulder-mini-dress-snow "")
+**CROCHET FLARE PANT** \\
+$120](https://skims.com/products/swim-cover-ups-crochet-flare-pant-snow "")
 
-new color
+new
 
-[![COTTON COVER-UPS SARONG DRESS | CARMINE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-DRS-11608W-CMN-LC-SKIMS-DRESS_4155-FR.webp?v=1777071666&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+[![SWIM COVER-UPS CROCHET LONG SKIRT | SNOW ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-BTM-11505W-SNO-OA-SKIMS-SWIM_0001-FR.webp?v=1778701268&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-![COTTON COVER-UPS SARONG DRESS | CARMINE LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-CU-DRS-11608W-CMN-SW_44949e29-02ea-4090-be7d-3ac98a3087b9.jpg?v=1777070354&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-cotton-sarong-dress-carmine "")
+![CROCHET COVER-UPS LONG SKIRT | SNOW FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-CU-BTM-11505W-SNO-FLT.jpg?v=1778533398&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-crochet-long-skirt-snow "")
 
-- carmine
+- snow
+
+- phoenix
+
+- cherry blossom
+
+
+[SWIM COVER-UPS\\
+**CROCHET LONG SKIRT** \\
+$120](https://skims.com/products/swim-cover-ups-crochet-long-skirt-snow "")
+
+new
+
+[![SWIM COVER-UPS SHEER SARONG | PHOENIX ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-SAR-10082W-PHO-OB-SKIMS-SWIM_0122-FR.webp?v=1778702257&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+\\
+![SWIM COVER-UPS SHEER SARONG | PHOENIX FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-CU-SAR-10082W-PHO-FLT.jpg?v=1778706823&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-sheer-sarong-phoenix "")
+
+- phoenix
+
+- soft blush
+
+- light marzipan
+
+
+[SWIM COVER-UPS\\
+**SHEER SARONG** \\
+$84](https://skims.com/products/swim-cover-ups-sheer-sarong-phoenix "")
+
+[![COTTON COVER-UPS PLUNGE TWIST TOP | SNOW ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-STT-7213W-SNO-JC-SKIMS-LOUNGEWEAR_0002-FR.webp?v=1774642564&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+\\
+![COTTON COVER UPS PLUNGE TWIST TOP | SNOW FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-COVERUP-CU-STT-7213W-SNO-FLT_9068b7a9-e58e-4d41-a62e-0df88bc89d3d.jpg?v=1774642564&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-cotton-plunge-twist-top-snow "")
 
 - snow
 
 - onyx
 
+- egret
 
-[SWIM COVER-UPS\\
-**COTTON SARONG DRESS** \\
-$98](https://skims.com/products/swim-cover-ups-cotton-sarong-dress-carmine "")
-
-new
-
-[![ICONIC SWIM MICRO BANDEAU BIKINI TOP | COBALT ON A MODEL SIDE VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BT-BAN-10179W-COB-LE-SKIMS-SWIM_35067-SD.webp?v=1777311483&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![ICONIC SWIM MICRO BANDEAU BIKINI TOP | COBALT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-BT-BAN-10179W-COB-FLT.jpg?v=1777066904&auto=format&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-micro-bandeau-bikini-top-cobalt "")
-
-- cobalt
-
-- obsidian
-
-- carmine
-
-
-[ICONIC SWIM\\
-**MICRO BANDEAU BIKINI TOP** \\
-$58](https://skims.com/products/iconic-swim-micro-bandeau-bikini-top-cobalt "")
-
-new
-
-[![ICONIC SWIM HIGH LEG BIKINI BOTTOM | COBALT ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BM-BIK-11462W-COB-LE-SKIMS-SWIM_2704-FR.webp?v=1777311486&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![ICONIC SWIM HIGH LEG BIKINI BOTTOM | COBALT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-BM-BIK-11462W-COB-FLT.jpg?v=1777066899&auto=format&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-high-leg-bikini-bottom-cobalt "")
-
-- cobalt
-
-- obsidian
-
-- carmine
-
-
-[ICONIC SWIM\\
-**HIGH LEG BIKINI BOTTOM** \\
-$58](https://skims.com/products/iconic-swim-high-leg-bikini-bottom-cobalt "")
-
-new
-
-[![SHEER COVER-UPS SHORT KAFTAN | CARMINE ZEBRA PRINT ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-DRS-11600W-CZBP-LC-SKIMS-LOUNGEWEAR_4323-FR.webp?v=1777072107&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![SHEER COVER-UPS SHORT KAFTAN | CARMINE ZEBRA PRINT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-CU-DRS-11600W-CZBP-FLT.jpg?v=1777067783&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-sheer-mini-kaftan-carmine-zebra-print "")
-
-- ![CARMINE ZEBRA PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/88f5df8df5550a7da4153745960f60ca8254027e-100x100.jpg)
-
-carmine zebra print
-
-- obsidian
+- henna
 
 
 [SWIM COVER-UPS\\
-**SHEER MINI KAFTAN** \\
-$118](https://skims.com/products/swim-cover-ups-sheer-mini-kaftan-carmine-zebra-print "")
+**COTTON PLUNGE TWIST TOP** \\
+$58](https://skims.com/products/swim-cover-ups-cotton-plunge-twist-top-snow "")
 
-new
+[![COTTON COVER-UPS PLUNGE TWIST TOP | ONYX ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-STT-7213W-ONX-JB-SKIMS-LOUNGEWEAR_0010-FR_a3c16576-05d2-4bb8-8530-1b595ac574c1.webp?v=1774936284&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-cotton-plunge-twist-top-onyx "")
 
-[![ICONIC SWIM SQUARE NECK ONE PIECE | CARMINE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/OS-ONE-11459W-CMN-LE-SKIMS-SWIM_3751-FR.webp?v=1777311486&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![ICONIC SWIM SQUARE NECK ONE PIECE | CARMINE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-OS-ONE-11459W-CMN-FLT.jpg?v=1777066906&auto=format&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-plunge-one-piece-carmine "")
+- onyx
 
-- carmine
+- snow
 
-- obsidian
+- egret
 
-
-[ICONIC SWIM\\
-**PLUNGE ONE PIECE** \\
-$128](https://skims.com/products/iconic-swim-plunge-one-piece-carmine "")
-
-new
-
-[![ICONIC SWIM UNDERWIRE DEMI BIKINI TOP | COBALT ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TS-BIK-11455W-COB-LB-SKIMS-SWIM_1972-FR.webp?v=1777311494&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![ICONIC SWIM UNDERWIRE DEMI BIKINI TOP | COBALT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-11455W-COB-FLT.jpg?v=1777066914&auto=format&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-underwire-bikini-top-cobalt "")
-
-- cobalt
-
-- obsidian
-
-- carmine
-
-
-[ICONIC SWIM\\
-**UNDERWIRE BIKINI TOP** \\
-$68](https://skims.com/products/iconic-swim-underwire-bikini-top-cobalt "")
-
-new
-
-[![ICONIC SWIM MICRO BANDEAU BIKINI TOP | CARMINE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BT-BAN-10179W-CMN-LB-SKIMS-SWIM_1825-FR.webp?v=1777311482&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![ICONIC SWIM MICRO BANDEAU BIKINI TOP | CARMINE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-BT-BAN-10179W-CMN-FLT.jpg?v=1777066903&auto=format&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-micro-bandeau-bikini-top-carmine "")
-
-- carmine
-
-- cobalt
-
-- obsidian
-
-
-[ICONIC SWIM\\
-**MICRO BANDEAU BIKINI TOP** \\
-$58](https://skims.com/products/iconic-swim-micro-bandeau-bikini-top-carmine "")
-
-new
-
-[![ICONIC SWIM CROP TOP | CARMINE ON A MODEL SIDE VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TS-BIK-11457W-CMN-LB-SKIMS-SWIM_2165-SD.webp?v=1777311495&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![ICONIC SWIM CROP TOP | CARMINE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-11457W-CMN-FLT.jpg?v=1777066914&auto=format&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-tank-bikini-top-carmine "")
-
-- carmine
-
-- cobalt
-
-- obsidian
-
-
-[ICONIC SWIM\\
-**TANK BIKINI TOP** \\
-$74](https://skims.com/products/iconic-swim-tank-bikini-top-carmine "")
-
-new
-
-[![SHEER COVER-UPS LONG KAFTAN | OBSIDIAN ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-DRS-9627W-OBD-LB-SKIMS-LOUNGEWEAR_2699-FR.webp?v=1777072109&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
-\\
-![SHEER COVER-UPS LONG KAFTAN | OBSIDIAN FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-CU-DRS-9627W-OBD-FLT_9d986154-d178-41ab-b3ec-989ab350f3ad.jpg?v=1777071005&auto=format&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-sheer-long-kaftan-obsidian "")
-
-- obsidian
-
-- ![CARMINE ZEBRA PRINT](https://cdn.sanity.io/images/hfqi0zm0/production/88f5df8df5550a7da4153745960f60ca8254027e-100x100.jpg)
-
-carmine zebra print
+- henna
 
 
 [SWIM COVER-UPS\\
-**SHEER LONG KAFTAN** \\
-$118](https://skims.com/products/swim-cover-ups-sheer-long-kaftan-obsidian "")
+**COTTON PLUNGE TWIST TOP** \\
+$58](https://skims.com/products/swim-cover-ups-cotton-plunge-twist-top-onyx "")
 
-[Load More](https://skims.com/collections/swim?direction=next&cursor=eyJsYXN0X3ZhbHVlIjoiMTEiLCJsYXN0X2lkIjoxMDI0Njg1NzcyMDE2MSwib2Zmc2V0IjoxMX0%3D)
+new
 
-## WE THINK YOU'D LIKE
+[![SATIN SWIM BALCONETTE BIKINI TOP | CHERRY BLOSSOM ON A MODEL SIDE VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TS-BIK-11379W-CBM-OA-SKIMS-SWIM_0045-SD_4b13c791-969b-4ba8-945c-7801ed6e2ebc.webp?v=1778706952&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
+\\
+![SATIN SWIM UNDERWIRE BALCONETTE BIKINI TOP | CHERRY BLOSSOM FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-11379W-CBM-FLT.jpg?v=1778534393&auto=format&ixlib=react-9.11.0)](https://skims.com/products/satin-swim-balconette-bikini-top-cherry-blossom "")
 
-1/3
+- cherry blossom
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-10627W-CMB_grande.jpg?v=1772696418&auto=format&ixlib=react-9.11.0)\\
-\\
-SIGNATURE SWIM\\
-\\
-**TRIANGLE BIKINI TOP** \\
-\\
-$44](https://skims.com/products/signature-swim-triangle-bikini-top-cherry-blossom-contrast "")
+- phoenix
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-BRF-10656W-BTRT-FLT_grande.jpg?v=1775689918&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**WIDE LACE BRIEF** \\
-\\
-$14](https://skims.com/products/lightweight-cotton-wide-lace-brief-butter-tonal "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BODYSUIT-BD-THG-3286-ONX_b4ff4bcf-9b9a-4670-b1db-4dd5bd1dc042_grande.jpg?v=1753895259&auto=format&ixlib=react-9.11.0)\\
-\\
-SKIMS BODY\\
-\\
-**UNLINED PLUNGE THONG BODYSUIT** \\
-\\
-$88](https://skims.com/products/skims-body-unlined-plunge-thong-bodysuit-onyx "")
+[SATIN SWIM\\
+**BALCONETTE BIKINI TOP** \\
+$78](https://skims.com/products/satin-swim-balconette-bikini-top-cherry-blossom "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-DRS-0596-ONX-FL_grande.jpg?v=1708554715&auto=format&ixlib=react-9.11.0)\\
-\\
-SOFT LOUNGE\\
-\\
-**LONG SLIP DRESS** \\
-\\
-$80](https://skims.com/products/soft-lounge-long-slip-dress-onyx "")
+new
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-LG-SET-10606W-SDF-FLT-COMP_grande.jpg?v=1775689861&auto=format&ixlib=react-9.11.0)\\
+[![SATIN SWIM SMOCKED SCOOP BIKINI TOP | PHOENIX ON A MODEL SIDE VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TS-BIK-11373W-PHO-OB-SKIMS-SWIM_0062-SD_88cf4d8b-a9fd-4f48-8923-61c0175b6e28.webp?v=1778706952&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-LIGHTWEIGHT COTTON\\
-\\
-**LACE CAMI AND BOY SHORT SET** \\
-\\
-$48](https://skims.com/products/lightweight-cotton-lace-cami-and-boy-short-set-surf-dainty-floral-print "")
+![SATIN SWIM SMOCKED SCOOP BIKINI TOP | PHOENIX FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-11373W-PHO-FLT.jpg?v=1778534100&auto=format&ixlib=react-9.11.0)](https://skims.com/products/satin-swim-smocked-scoop-bikini-top-phoenix "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10655W-SNO-FLT_39a90ea7-2438-4e65-a2a3-e6e4e0543937_grande.jpg?v=1775673227&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**WIDE LACE THONG** \\
-\\
-$12](https://skims.com/products/lightweight-cotton-wide-lace-thong-snow "")
+- phoenix
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-MDT-2914-SIENNAcopy_grande.jpg?v=1682107011&auto=format&ixlib=react-9.11.0)\\
-\\
-SEAMLESS SCULPT\\
-\\
-**STRAPLESS SHORTIE BODYSUIT** \\
-\\
-$74](https://skims.com/products/seamless-sculpt-strapless-shortie-bodysuit-sienna "")
+- cherry blossom
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRAS-BR-TRI-0024-OCH-FL_grande.jpg?v=1711845802&auto=format&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**TRIANGLE BRALETTE** \\
-\\
-$34$23](https://skims.com/products/fits-everybody-triangle-bralette-ochre "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-2294-CLY_993ba1d0-2313-4db6-95e0-92f430bc657d_grande.jpg?v=1713977415&auto=format&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**PLUNGE BRA** \\
-\\
-$54](https://skims.com/products/fits-everybody-plunge-bra-clay "")
+[SATIN SWIM\\
+**SMOCKED SCOOP BIKINI TOP** \\
+$70](https://skims.com/products/satin-swim-smocked-scoop-bikini-top-phoenix "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-PNS-5752W-BMMA_grande.jpg?v=1768675042&auto=format&ixlib=react-9.11.0)\\
-\\
-SKIMS SLEEP\\
-\\
-**LONG SLEEVE BUTTON UP SET** \\
-\\
-$88$61](https://skims.com/products/skims-sleep-long-sleeve-button-up-set-bloom-mini-multi-animal "")
+new
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PN-THG-9371-BGT-FLT_grande.jpg?v=1774392324&auto=format&ixlib=react-9.11.0)\\
+[![SATIN SWIM HALTER BIKINI TOP | PHOENIX ON A MODEL SIDE VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TS-BIK-11377W-PHO-OB-SKIMS-SWIM_0054-SD_edf772cb-06fa-4fad-9137-c888d03a8a02.webp?v=1778706951&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-FITS EVERYBODY LACE\\
-\\
-**DIPPED THONG** \\
-\\
-$20](https://skims.com/products/fits-everybody-lace-dipped-thong-bubble-gum-tonal "")
+![SATIN SWIM PLUNGE BIKINI TOP | PHOENIX FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-11377W-PHO-FLT.jpg?v=1778534099&auto=format&ixlib=react-9.11.0)](https://skims.com/products/satin-swim-halter-bikini-top-phoenix "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-CLY-FLT_grande.jpg?v=1739333853&auto=format&ixlib=react-9.11.0)\\
-\\
-SKIMS ULTIMATE\\
-\\
-**BALCONETTE PUSH-UP BRA** \\
-\\
-$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay "")
+- phoenix
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-10321W-DLP-SW_986b64ae-4088-40fd-afac-44c870d8bfec_grande.jpg?v=1756930627&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**THONG** \\
-\\
-$12](https://skims.com/products/lightweight-cotton-thong-delta-leopard "")
+- marzipan
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-1881-CLY_d367fbfd-1b41-43ab-802e-592ed06a79dc_grande.jpg?v=1752524627&auto=format&ixlib=react-9.11.0)\\
-\\
-SKIMS ULTIMATE\\
-\\
-**TEARDROP PUSH-UP BRA** \\
-\\
-$64](https://skims.com/products/skims-ultimate-teardrop-push-up-bra-clay "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BO-PNT-8432W-NMG-FLT_grande.jpg?v=1777069449&auto=format&ixlib=react-9.11.0)\\
-\\
-SMOOTH LAYERS\\
-\\
-**HIGH-WAISTED CAPRI** \\
-\\
-$48](https://skims.com/products/smooth-layers-high-waisted-capri-nutmeg "")
+[SATIN SWIM\\
+**HALTER BIKINI TOP** \\
+$70](https://skims.com/products/satin-swim-halter-bikini-top-phoenix "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-11112W-BDFP-FLT_grande.jpg?v=1775689995&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**POINTELLE LACE STRING THONG** \\
-\\
-$10](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-bloom-dainty-floral "")
+new
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-SET-11846W-BYP-FLT_281_29_grande.jpg?v=1775677811&auto=format&ixlib=react-9.11.0)\\
+[![SATIN SWIM RUFFLE BIKINI TOP | CHERRY BLOSSOM ON A MODEL SIDE VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TS-BIK-11393W-CBM-OA-SKIMS-SWIM_0053-SD_adf2f558-bfb9-4cb9-a90b-97168b8def7d.webp?v=1778706946&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-SKIMS SLEEP\\
-\\
-**LACE CAMI AND PANT SET** \\
-\\
-$84](https://skims.com/products/skims-sleep-lace-cami-and-pant-set-barely-pink "")
+![SATIN SWIM RUFFLE BANDEAU BIKINI TOP | CHERRY BLOSSOM FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-11393W-CBM-FLT.jpg?v=1778534393&auto=format&ixlib=react-9.11.0)](https://skims.com/products/satin-swim-ruffle-bikini-top-cherry-blossom "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-DTH-0027-ONX-FL_grande.jpg?v=1624298354&auto=format&ixlib=react-9.11.0)\\
+- cherry blossom
+
+- marzipan
+
+
+[SATIN SWIM\\
+**RUFFLE BIKINI TOP** \\
+$74](https://skims.com/products/satin-swim-ruffle-bikini-top-cherry-blossom "")
+
+new
+
+[![SATIN SWIM CHEEKY TANGA BIKINI BOTTOM | CHERRY BLOSSOM ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BM-BIK-11372W-CBM-OA-SKIMS-SWIM_0009-FR_a1babdd2-e47c-4c9a-ab8a-b259459691d5.webp?v=1778706963&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-FITS EVERYBODY\\
+![SATIN SWIM SMOCKED CHEEKY TANGA BIKINI BOTTOM | CHERRY BLOSSOM FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-BM-BIK-11372W-CBM-FLT.jpg?v=1778534391&auto=format&ixlib=react-9.11.0)](https://skims.com/products/satin-swim-cheeky-tanga-bikini-bottom-cherry-blossom "")
+
+- cherry blossom
+
+- phoenix
+
+
+[SATIN SWIM\\
+**CHEEKY TANGA BIKINI BOTTOM** \\
+$70](https://skims.com/products/satin-swim-cheeky-tanga-bikini-bottom-cherry-blossom "")
+
+new
+
+[![SATIN SWIM RUFFLE BIKINI BOTTOM | CHERRY BLOSSOM ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BM-BIK-11392W-CBM-OA-SKIMS-SWIM_0007-FR_71773b24-ca87-4edb-b9a9-9df716b1f1de.webp?v=1778706957&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-**DIPPED FRONT THONG** \\
+![SATIN SWIM RUFFLE BIKINI BOTTOM | CHERRY BLOSSOM FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-BM-BIK-11392W-CBM-FLT.jpg?v=1778534391&auto=format&ixlib=react-9.11.0)](https://skims.com/products/satin-swim-ruffle-bikini-bottom-cherry-blossom "")
+
+- cherry blossom
+
+- marzipan
+
+
+[SATIN SWIM\\
+**RUFFLE BIKINI BOTTOM** \\
+$74](https://skims.com/products/satin-swim-ruffle-bikini-bottom-cherry-blossom "")
+
+new
+
+[![SATIN SWIM RUCHED BIKINI BOTTOM | PHOENIX ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BM-BIK-11585W-PHO-OB-SKIMS-SWIM_0008-FR_7976c7cc-4880-4e64-bbea-2be0ae181d70.webp?v=1778706955&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ixlib=react-9.11.0)\\
 \\
-$18](https://skims.com/products/fits-everybody-dipped-front-thong-onyx "")
+![SATIN SWIM RUCHED BIKINI BOTTOM | PHOENIX FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-BM-BIK-11585W-PHO-FLT.jpg?v=1778534094&auto=format&ixlib=react-9.11.0)](https://skims.com/products/satin-swim-ruched-bikini-bottom-phoenix "")
+
+- phoenix
+
+- marzipan
+
+
+[SATIN SWIM\\
+**RUCHED BIKINI BOTTOM** \\
+$70](https://skims.com/products/satin-swim-ruched-bikini-bottom-phoenix "")
+
+[Load More](https://skims.com/collections/swim?direction=next&cursor=eyJsYXN0X3ZhbHVlIjoiMTEiLCJsYXN0X2lkIjoxMDI0NzAyODAxNTQ1Nywib2Zmc2V0IjoxMX0%3D)
 
 ![](https://skims-sanity.imgix.net/images/hfqi0zm0/production/2a77aeeb62ae7cb081ed1f3e6c1838c1f2895b35-959x840.webp?auto=format&ixlib=react-9.11.0)
 
@@ -399,88 +239,6 @@ Search
 You have no items in your bag
 
 Shop Best Sellers
-
-## EXPLORE MORE
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAN-3208-SIE_1_grande.jpg?v=1749833700&auto=format&ixlib=react-9.11.0)\\
-\\
-SKIMS ULTIMATE\\
-\\
-**STRAPLESS PUSH-UP BRA** \\
-\\
-$64](https://skims.com/products/skims-ultimate-strapless-push-up-bra-sienna "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMSRift_01_FINAL.webp?v=1772556600&auto=format&ixlib=react-9.11.0)\\
-\\
-NikeSKIMS FOOTWEAR\\
-\\
-**RIFT MESH** \\
-\\
-$150](https://skims.com/products/nikeskims-footwear-rift-mesh-lt-bone "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-SCP-2690-ONX_219d1370-2212-40d1-a169-928b12961a2b_grande.jpg?v=1705537516&auto=format&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY LACE\\
-\\
-**SCOOP BRALETTE** \\
-\\
-$38](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TNK-0038-HEG-FL_grande.jpg?v=1621644689&auto=format&ixlib=react-9.11.0)\\
-\\
-COTTON RIB\\
-\\
-**TANK** \\
-\\
-$38](https://skims.com/products/cotton-rib-tank-light-heather-grey "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-MDT-3372-ONXcopy_grande.jpg?v=1742584779&auto=format&ixlib=react-9.11.0)\\
-\\
-SEAMLESS SCULPT\\
-\\
-**MID THIGH BODYSUIT** \\
-\\
-$74](https://skims.com/products/seamless-sculpt-mid-thigh-bodysuit-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BK-BIK-5960W-MLTN-FLT_grande.jpg?v=1775689972&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**LOGO PICOT STRING BIKINI** \\
-\\
-$14](https://skims.com/products/lightweight-cotton-logo-picot-string-bikini-melon-tonal "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-LS-LSL-1209W-CMB-FLT_grande.jpg?v=1767136934&auto=format&ixlib=react-9.11.0)\\
-\\
-COTTON JERSEY\\
-\\
-**LONG SLEEVE BOATNECK TOP** \\
-\\
-$58$40](https://skims.com/products/cotton-jersey-long-sleeve-boatneck-top-cherry-blossom "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-SOT-FLT_2781d3b4-eded-4093-ba43-0d16b1ad2c56_grande.jpg?v=1767136370&auto=format&ixlib=react-9.11.0)\\
-\\
-COTTON JERSEY\\
-\\
-**LONG SLEEVE T-SHIRT** \\
-\\
-$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-10627W-CMB_grande.jpg?v=1772696418&auto=format&ixlib=react-9.11.0)\\
-\\
-SIGNATURE SWIM\\
-\\
-**TRIANGLE BIKINI TOP** \\
-\\
-$44](https://skims.com/products/signature-swim-triangle-bikini-top-cherry-blossom-contrast "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5958W-STT-FLT_grande.jpg?v=1739556586&auto=format&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**LOGO PICOT THONG** \\
-\\
-$12](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot "")
 
 New
 
