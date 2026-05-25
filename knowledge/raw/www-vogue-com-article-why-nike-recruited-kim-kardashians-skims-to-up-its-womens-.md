@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-05-11T09:28:07.828277+00:00
+scraped_at: 2026-05-25T09:53:19.508941+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -21,29 +21,21 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 
 LATEST ON VOGUE
 
-[![Understanding Luxury in Germany](https://assets.vogue.com/photos/69fb62a24527a4684c6b6ac8/1:1/w_640%2Cc_limit/undefined)\\
+[![Behind the scenes at the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a0b7382eda24b02d657d563/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Understanding Luxury in Germany](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_popular4-2 "Understanding Luxury in Germany")
+Behind the scenes at the Vogue Business Global Summit: Chantilly](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_popular4-2 "Behind the scenes at the Vogue Business Global Summit: Chantilly")
 
-[![Is Haircare About to Become a Big Deal?](https://assets.vogue.com/photos/69fcc4bd83af71c48ff23a2c/1:1/w_640%2Cc_limit/undefined)\\
+[![Lessons from the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a122ebc3de4a897aff16c75/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Is Haircare About to Become a Big Deal?](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_popular4-2 "Is Haircare About to Become a Big Deal?")
+Lessons from the Vogue Business Global Summit: Chantilly](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2 "Lessons from the Vogue Business Global Summit: Chantilly")
 
-[![The 2026 Met Gala by the Numbers](https://assets.vogue.com/photos/69fcbf5bc5fe86738947f8ba/1:1/w_640%2Cc_limit/undefined)\\
+[![Shein Finally Confirms Everlane Sale](https://assets.vogue.com/photos/6a1061b3f62f1624efcb0841/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The 2026 Met Gala by the Numbers](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_popular4-2 "The 2026 Met Gala by the Numbers")
+Shein Finally Confirms Everlane Sale](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2 "Shein Finally Confirms Everlane Sale")
 
-[![Buy a Ticket — Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/69b27ba39c0c8e04e1fc4519/1:1/w_640%2Cc_limit/undefined)\\
+[![Missoni Group Completes Ownership Restructure](https://assets.vogue.com/photos/6a104570a26c99c3162bc8fc/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Buy a Ticket — Vogue Business Global Summit: Chantilly](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_popular4-2 "Buy a Ticket — Vogue Business Global Summit: Chantilly")
-
-[![Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://assets.vogue.com/photos/69f36f4f9cb008c5f1ce1d94/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity](https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_popular4-2 "Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity")
-
-[![Should Brands Really Be Popping Off in the Comments?](https://assets.vogue.com/photos/69fdc5b0f743e8c176b88ab2/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Should Brands Really Be Popping Off in the Comments?](https://www.vogue.com/article/should-brands-really-be-popping-off-in-the-comments#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_cral-top2-2 "Should Brands Really Be Popping Off in the Comments?")
+Missoni Group Completes Ownership Restructure](https://www.vogue.com/article/missoni-group-completes-ownership-restructure#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2 "Missoni Group Completes Ownership Restructure")
 
 ArrowArrow
 
@@ -78,7 +70,7 @@ Photos: Courtesy of Nike
 
 Most Popular
 
-- [![Understanding Luxury in Germany](https://assets.vogue.com/photos/69fb62a24527a4684c6b6ac8/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-right-rail_07dc2adb-5beb-4d38-89f2-b393353b7d8e_popular4-2)
+- [![Behind the scenes at the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a0b7382eda24b02d657d563/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2)
 
 
 
@@ -88,13 +80,13 @@ Most Popular
 
 
 
-Executive Reports
+Business
 
 
 
 
 
-[Understanding Luxury in Germany](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-right-rail_07dc2adb-5beb-4d38-89f2-b393353b7d8e_popular4-2)
+[Behind the scenes at the Vogue Business Global Summit: Chantilly](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2)
 
 
 
@@ -102,9 +94,9 @@ Executive Reports
 
 
 
-By Maliha Shoaib
+By Vogue Business in partnership with GXO, Swap, and Diriyah Company
 
-- [![Is Haircare About to Become a Big Deal?](https://assets.vogue.com/photos/69fcc4bd83af71c48ff23a2c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-right-rail_07dc2adb-5beb-4d38-89f2-b393353b7d8e_popular4-2)
+- [![Lessons from the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a122ebc3de4a897aff16c75/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -114,13 +106,13 @@ By Maliha Shoaib
 
 
 
-Beauty
+Events
 
 
 
 
 
-[Is Haircare About to Become a Big Deal?](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-right-rail_07dc2adb-5beb-4d38-89f2-b393353b7d8e_popular4-2)
+[Lessons from the _Vogue Business_ Global Summit: Chantilly](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -128,9 +120,9 @@ Beauty
 
 
 
-By Hikmat Mohammed
+By Vogue Business in partnership with GXO, Swap, and Diriyah Company
 
-- [![The 2026 Met Gala by the Numbers](https://assets.vogue.com/photos/69fcbf5bc5fe86738947f8ba/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-right-rail_07dc2adb-5beb-4d38-89f2-b393353b7d8e_popular4-2)
+- [![Shein Finally Confirms Everlane Sale](https://assets.vogue.com/photos/6a1061b3f62f1624efcb0841/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -140,13 +132,13 @@ By Hikmat Mohammed
 
 
 
-Fashion
+Sustainability
 
 
 
 
 
-[The 2026 Met Gala by the Numbers](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-right-rail_07dc2adb-5beb-4d38-89f2-b393353b7d8e_popular4-2)
+[Shein Finally Confirms Everlane Sale](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -154,7 +146,7 @@ Fashion
 
 
 
-By Madeleine Schulz
+By Bella Webb
 
 
 It also signals Nike’s commitment to developing technical products for women. Product innovation has been a pain point for Nike in recent years, Yarbrough says. Hill [acknowledged this](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December’s earnings; it forms the foundation of his turnaround strategy. In partnering with Skims on a joint brand, Nike is able to gain access to womenswear tech to help it rival the Alos and Lululemons of the world, which, Yarbrough says, would otherwise likely take Nike several years to develop, manufacture and scale. “This accelerates that path for Nike to compete with some of these other brands that have been growing rapidly.” It’s a smart shortcut, Hastings-Narayanin says.
@@ -171,7 +163,7 @@ These days, consumers want products that work, experts agree, so emphasis needs 
 
 Most Popular
 
-- [![Understanding Luxury in Germany](https://assets.vogue.com/photos/69fb62a24527a4684c6b6ac8/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-right-rail_07dc2adb-5beb-4d38-89f2-b393353b7d8e_popular4-2)
+- [![Behind the scenes at the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a0b7382eda24b02d657d563/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2)
 
 
 
@@ -181,13 +173,13 @@ Most Popular
 
 
 
-Executive Reports
+Business
 
 
 
 
 
-[Understanding Luxury in Germany](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-right-rail_07dc2adb-5beb-4d38-89f2-b393353b7d8e_popular4-2)
+[Behind the scenes at the Vogue Business Global Summit: Chantilly](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2)
 
 
 
@@ -195,9 +187,9 @@ Executive Reports
 
 
 
-By Maliha Shoaib
+By Vogue Business in partnership with GXO, Swap, and Diriyah Company
 
-- [![Is Haircare About to Become a Big Deal?](https://assets.vogue.com/photos/69fcc4bd83af71c48ff23a2c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-right-rail_07dc2adb-5beb-4d38-89f2-b393353b7d8e_popular4-2)
+- [![Lessons from the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a122ebc3de4a897aff16c75/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -207,13 +199,13 @@ By Maliha Shoaib
 
 
 
-Beauty
+Events
 
 
 
 
 
-[Is Haircare About to Become a Big Deal?](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-right-rail_07dc2adb-5beb-4d38-89f2-b393353b7d8e_popular4-2)
+[Lessons from the _Vogue Business_ Global Summit: Chantilly](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -221,9 +213,9 @@ Beauty
 
 
 
-By Hikmat Mohammed
+By Vogue Business in partnership with GXO, Swap, and Diriyah Company
 
-- [![The 2026 Met Gala by the Numbers](https://assets.vogue.com/photos/69fcbf5bc5fe86738947f8ba/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-right-rail_07dc2adb-5beb-4d38-89f2-b393353b7d8e_popular4-2)
+- [![Shein Finally Confirms Everlane Sale](https://assets.vogue.com/photos/6a1061b3f62f1624efcb0841/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -233,13 +225,13 @@ By Hikmat Mohammed
 
 
 
-Fashion
+Sustainability
 
 
 
 
 
-[The 2026 Met Gala by the Numbers](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-right-rail_07dc2adb-5beb-4d38-89f2-b393353b7d8e_popular4-2)
+[Shein Finally Confirms Everlane Sale](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -247,7 +239,7 @@ Fashion
 
 
 
-By Madeleine Schulz
+By Bella Webb
 
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
@@ -272,34 +264,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![Understanding Luxury in Germany](https://assets.vogue.com/photos/69fb62a24527a4684c6b6ac8/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_popular4-2)
+[![Behind the scenes at the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a0b7382eda24b02d657d563/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_popular4-2)
 
-Executive Reports
+Business
 
-[Understanding Luxury in Germany](https://www.vogue.com/article/understanding-luxury-in-germany#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_popular4-2)
+[Behind the scenes at the Vogue Business Global Summit: Chantilly](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_popular4-2)
 
-By Maliha Shoaib
+By Vogue Business in partnership with GXO, Swap, and Diriyah Company
 
-[![Is Haircare About to Become a Big Deal?](https://assets.vogue.com/photos/69fcc4bd83af71c48ff23a2c/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_popular4-2)
-
-Beauty
-
-[Is Haircare About to Become a Big Deal?](https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_popular4-2)
-
-By Hikmat Mohammed
-
-[![The 2026 Met Gala by the Numbers](https://assets.vogue.com/photos/69fcbf5bc5fe86738947f8ba/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_popular4-2)
-
-Fashion
-
-[The 2026 Met Gala by the Numbers](https://www.vogue.com/article/the-2026-met-gala-by-the-numbers#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_popular4-2)
-
-By Madeleine Schulz
-
-[![Buy a Ticket — Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/69b27ba39c0c8e04e1fc4519/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_popular4-2)
+[![Lessons from the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a122ebc3de4a897aff16c75/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2)
 
 Events
 
-[Buy a Ticket — _Vogue Business_ Global Summit: Chantilly](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc-bkt-a_eda66055-908b-458a-8e70-8cfd56983e03_text2vec1_fallback_popular4-2)
+[Lessons from the _Vogue Business_ Global Summit: Chantilly](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2)
 
-By Vogue Business Team
+By Vogue Business in partnership with GXO, Swap, and Diriyah Company
+
+[![Shein Finally Confirms Everlane Sale](https://assets.vogue.com/photos/6a1061b3f62f1624efcb0841/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2)
+
+Sustainability
+
+[Shein Finally Confirms Everlane Sale](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2)
+
+By Bella Webb
+
+[![Missoni Group Completes Ownership Restructure](https://assets.vogue.com/photos/6a104570a26c99c3162bc8fc/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/missoni-group-completes-ownership-restructure#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2)
+
+Companies
+
+[Missoni Group Completes Ownership Restructure](https://www.vogue.com/article/missoni-group-completes-ownership-restructure#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2)
+
+By Hikmat Mohammed

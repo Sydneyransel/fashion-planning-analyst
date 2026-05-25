@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/
 source_type: wwd.com
 title: Kim Kardashian's Skims Hits $5B Valuation With New Funding Round
-scraped_at: 2026-05-18T09:44:23.022117+00:00
+scraped_at: 2026-05-25T09:53:23.432653+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/#pagetop)
 
 Fashion
 
-### [Gucci Cruise 2027: New York, Guccified](https://wwd.com/runway/resort-2027/new-york/gucci/review/)
+### [Cannes Spreads the Wealth With Shared Prizes and Fashion Surprises](https://wwd.com/fashion-news/fashion-features/cannes-2023-fashion-awards-closing-ceremony-highlights-1238979985/)
 
-Fashion
+Eye
 
-### [Demna Discusses the Gucciness of Gucci Before NYC Show](https://wwd.com/fashion-news/fashion-features/gucci-demna-new-york-cruise-interview-1238957468/)
+### [The Contemporary Art Destinations Gallerists and Artists Have on Their Radar](https://wwd.com/eye/lifestyle/best-contemporary-art-destinations-1238926664/)
 
-Fashion
+Eye
 
-### [Veronica Beard to Open First Paris Boutique in Triangle d’Or Luxury District](https://wwd.com/fashion-news/designer-luxury/veronica-beard-first-paris-boutique-triangle-dor-luxury-district-1238948287/)
+### [Notable New Books to Add to Your Summer 2026 Reading List](https://wwd.com/eye/lifestyle/summer-book-reading-list-2026-1238918902/)
 
 ![NEW YORK, NEW YORK - SEPTEMBER 24: NikeSKIMS dancers perform at the NikeSKIMS "Bodies at Work" event at the New York Public Library on September 24, 2025 in New York City. (Photo by Valerie Terranova/Getty Images)](https://wwd.com/wp-content/uploads/2025/09/skims-presentation-photosc.jpg?w=800&h=533&crop=1)
 
@@ -59,13 +59,13 @@ The new money came from Goldman Sachs Alternatives and BDT & MSD Partners.
 
 ### Related Articles
 
-![Kendall Jenner, Kim Kardashian and Kylie Jenner on the Met Gala 2026 red carpet. ](https://wwd.com/wp-content/uploads/2026/05/met-sisters.jpg?w=225&h=225&crop=1)
+![Kendall Jenner, Kim Kardashian and Kylie Jenner on the Met Gala 2026 red carpet. ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 [Celebrity News](https://wwd.com/business-news/celebrity-news/)
 
 ### [The Kardashian-Jenner Met Gala Looks Had One Thing in Common and It Wasn't Subtle](https://wwd.com/pop-culture/celebrity-news/kim-kardashian-met-gala-2026-kendall-kylie-jenner-1238935617/)
 
-![Kim Kardashian wearing a pair of butter yellow gladiator-style heels during a visit to 'The Fear of 13' on Broadway on Sunday.](https://wwd.com/wp-content/uploads/2026/05/kim-kardashian-yellow-gladiator-heels-fear-of-13-broadway.jpg?w=225&h=225&crop=1)
+![Kim Kardashian wearing a pair of butter yellow gladiator-style heels during a visit to 'The Fear of 13' on Broadway on Sunday.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 [Shoe Trends](https://wwd.com/business-news/shoe-trends/)
 
@@ -109,7 +109,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://cloud.email.wwd.com/signup/)
 
-- [![Selena Gomez during an outing to Gymkhana restaurant in Mayfair on Friday in London.](https://wwd.com/wp-content/uploads/2026/05/selena-gomez-heels-london.jpg?w=1024)](https://wwd.com/footwear-news/shoe-trends/selena-gomez-satin-heels-london-cult-gaia-dress-1238957202/)
+- [![Jennifer Garner plays a food influencer.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/pop-culture/culture-news/elin-hilderbrand-nantucket-five-star-weekend-set-jetters-1238979571/)
 
 
 
@@ -119,75 +119,53 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Selena Gomez Embraces the Satin Heels Trend in London](https://wwd.com/footwear-news/shoe-trends/selena-gomez-satin-heels-london-cult-gaia-dress-1238957202/)
+### [Can Elin Hilderbrand and ‘Five-Star Weekend’ Reel in Set-jetters to Nantucket?](https://wwd.com/pop-culture/culture-news/elin-hilderbrand-nantucket-five-star-weekend-set-jetters-1238979571/)
 
 
 
-  - [Shoe Trends](https://wwd.com/business-news/shoe-trends/)
-
-  - By
-
-
-    [Karla Rodriguez](https://wwd.com/wwd-masthead/karla-rodriguez/)
-
-
-- [![Salma Hayek](https://wwd.com/wp-content/uploads/2025/05/kering-dinner-2025-cannes-sf-07.jpg?w=1024)](https://wwd.com/eye/parties/salma-hayek-pinault-cohost-serpentine-summer-party-1238955094/)
-
-
-
-
-
-
-
-
-
-### [EXCLUSIVE: Salma Hayek Pinault to Cohost Serpentine Summer Party](https://wwd.com/eye/parties/salma-hayek-pinault-cohost-serpentine-summer-party-1238955094/)
-
-
-
-  - [Parties](https://wwd.com/business-news/parties/)
+  - [Culture News](https://wwd.com/business-news/culture-news/)
 
   - By
 
 
-    [Tianwei Zhang](https://wwd.com/wwd-masthead/tianwei-zhang/)
+    [Rosemary Feitelberg](https://wwd.com/wwd-masthead/rosemary-feitelberg/)
 
 
-- [![Conner Ives, Charles Jeffrey and Patrick McDowell](https://wwd.com/wp-content/uploads/2026/05/IMG_0384.jpg?w=1024)](https://wwd.com/eye/parties/the-zetters-bloomsbury-british-museum-1238955898/)
-
-
-
+- [![Falconeri's new Madison Avenue boutique.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/fashion-news/designer-luxury/falconeri-madison-avenue-boutique-new-openings-boston-chicago-this-year-1238939517/)
 
 
 
 
 
 
-### [London’s Fashion Set Flocks to the Zetter’s Latest Spot in Bloomsbury](https://wwd.com/eye/parties/the-zetters-bloomsbury-british-museum-1238955898/)
 
 
 
-  - [Parties](https://wwd.com/business-news/parties/)
+### [Falconeri Opens Madison Avenue Boutique, Plans New Openings in Boston and Chicago This Year](https://wwd.com/fashion-news/designer-luxury/falconeri-madison-avenue-boutique-new-openings-boston-chicago-this-year-1238939517/)
+
+
+
+  - [Designer and Luxury](https://wwd.com/business-news/designer-luxury/)
 
   - By
 
 
-    [Tianwei Zhang](https://wwd.com/wwd-masthead/tianwei-zhang/)
+    [Lisa Lockwood](https://wwd.com/wwd-masthead/lisa-lockwood/)
 
 
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/uploads/2026/02/nicky.png?crop=0px%2C0px%2C2678px%2C1499px&resize=910%2C511)](https://wwd.com/video/getting-ready-for-marc-jacobs-2026-with-nicky-hilton/)
+[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/getting-ready-for-marc-jacobs-2026-with-nicky-hilton/)
 
 ### Getting Ready for Marc Jacobs 2026 with Nicky Hilton
 
-[![diane lane at the premiere of feud capote vs the swans, red carpet interview](https://wwd.com/wp-content/uploads/2024/01/diane-lane-feud-capote-vs-the-swans.jpg?w=260&h=150&crop=1)](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
+[![diane lane at the premiere of feud capote vs the swans, red carpet interview](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
 
 ### ['Feud: Capote Vs. The Swans' Stars Talk Costumes and Society](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
 
-[![Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/wp-content/uploads/2023/05/Kerry-Washington-And-Michael-Kors.jpg?w=260&h=150&crop=1)](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
+[![Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
 
 ### [Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
 
-[![WWD style director Alex Badia and FN style director Shannon Adducci discuss the versatility of outerwear.](https://wwd.com/wp-content/uploads/2022/11/head-to-toe-outerwear.jpg?w=260&h=150&crop=1)](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
+[![WWD style director Alex Badia and FN style director Shannon Adducci discuss the versatility of outerwear.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
 
 ### [Head to Toe: How to Style Outerwear for Everywhere](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
 
