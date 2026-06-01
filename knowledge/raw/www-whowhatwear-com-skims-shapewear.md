@@ -2,7 +2,7 @@
 url: https://www.whowhatwear.com/skims-shapewear
 source_type: whowhatwear.com
 title: Everyone Is Obsessed With Skims Shapewear, and I Now See Why | Who What Wear
-scraped_at: 2026-05-25T09:53:38.891379+00:00
+scraped_at: 2026-06-01T11:13:53.694329+00:00
 ---
 
 [![Who What Wear](https://cdn.mos.cms.futurecdn.net/flexiimages/p5lektiuwq1683127037.svg)Who What Wear](https://www.whowhatwear.com/)
@@ -129,7 +129,7 @@ Join the conversation
 
 Add us as a preferred source on Google
 
-A few years ago, I made a solemn vow to never again wear shapewear. It came after an uncomfortable evening wearing shapewear underneath a dress that, although perfectly fitting, was made from a clingy fabric, and I thought said shapewear would give me a seamless silhouette. How wrong I was. Instead of the [no-VPL](https://www.whowhatwear.com/types-of-knickers) look I was hoping for, I found the areas where the shapewear stopped and my body began now boasted bulges that weren't there in the first place, thus making me insecure about things I wasn't insecure about previously. The experience was enough to wean me off the stuff for life. That was until I started hearing the growing buzz around [Skims shapewear](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-3129739263915530881&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fdesigner%2Fskims).
+A few years ago, I made a solemn vow to never again wear shapewear. It came after an uncomfortable evening wearing shapewear underneath a dress that, although perfectly fitting, was made from a clingy fabric, and I thought said shapewear would give me a seamless silhouette. How wrong I was. Instead of the [no-VPL](https://www.whowhatwear.com/types-of-knickers) look I was hoping for, I found the areas where the shapewear stopped and my body began now boasted bulges that weren't there in the first place, thus making me insecure about things I wasn't insecure about previously. The experience was enough to wean me off the stuff for life. That was until I started hearing the growing buzz around [Skims shapewear](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-6441060557915737608&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fdesigner%2Fskims).
 
 The brainchild of Kim Kardashian, [Skims](https://www.whowhatwear.com/tag/skims) is the star's very own brand of shapewear, which offers nine different colours and includes bodysuits, shorts, [bras](https://www.whowhatwear.com/bra-size-calculator), bralettes, push-up bras and more. Although I'm constantly seeing snaps of influencers in their Skims loungewear (which is the epitome of chic), it's the range's shapewear that commands the most hype. You need only to google the term "Skims shapewear" to see thousands upon thousands of rave reviews, proclaiming it to be the most inclusive, most varied and most effective shapewear out there. That was enough to pique my interest and shelf my cynicism.
 
@@ -145,13 +145,13 @@ Editors from Who What Wear's US arm were some of the first to try Skims shapew
 
 And with reviews like that, I just might have to see what the fuss is about for myself. With ingenious designs—including sculpting shorts with one leg longer than the other that are perfect for all the split-front dresses I seem to harbour—it would appear that sartorial problem solving is another string Kardashian can add to her bow.
 
-Below, I've assembled a curated selection of [Skims](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1228573528580768843&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fdesigner%2Fskims) shapewear, which should give you an idea of just how vast the range is. With many of the pieces available in all nine colourways, it's worth clicking through to see the specific shades that come in the undergarments you like best, as there will likely be other options to choose from. For bras, you'll find bands 30 to 46, and cup sizes A to H. Meanwhile in the shapewear section you can shop sizes xxs to 5xl.
+Below, I've assembled a curated selection of [Skims](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-5126115357692966924&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fdesigner%2Fskims) shapewear, which should give you an idea of just how vast the range is. With many of the pieces available in all nine colourways, it's worth clicking through to see the specific shades that come in the undergarments you like best, as there will likely be other options to choose from. For bras, you'll find bands 30 to 46, and cup sizes A to H. Meanwhile in the shapewear section you can shop sizes xxs to 5xl.
 
 So, have a scroll. Who knows—you just might find your shapewear soulmate.
 
 ## SHOP SKIMS SHAPEWEAR:
 
-[![Skims + Seamless Sculpt Sculpting Bra in Cocoa](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666256663648-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-5370427748776683009&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fseamless-sculpt-sculpting-bra-cocoa%2F1647597286773480)
+[![Skims + Seamless Sculpt Sculpting Bra in Cocoa](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666256663648-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1007069260389310467&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fseamless-sculpt-sculpting-bra-cocoa%2F1647597286773480)
 
 Skims
 
@@ -159,11 +159,11 @@ Seamless Sculpt Sculpting Bra in Cocoa
 
 £32
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-8394376509252075793&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fseamless-sculpt-sculpting-bra-cocoa%2F1647597286773480)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-6322426305475088144&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fseamless-sculpt-sculpting-bra-cocoa%2F1647597286773480)
 
 This lightweight bra provides support and comfort in nine different shades.
 
-[![Skims + Fits Everybody High Waist Thong](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666259687479-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1839671993823956880&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fthongs%2Ffits-everybody-high-waisted-thong-oxide%2F36594538430116460)
+[![Skims + Fits Everybody High Waist Thong](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666259687479-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1225347718695150541&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fthongs%2Ffits-everybody-high-waisted-thong-oxide%2F36594538430116460)
 
 Skims
 
@@ -171,11 +171,11 @@ Fits Everybody High Waist Thong
 
 £20
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-6002145874019968131&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fthongs%2Ffits-everybody-high-waisted-thong-oxide%2F36594538430116460)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1243661360165206809&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fthongs%2Ffits-everybody-high-waisted-thong-oxide%2F36594538430116460)
 
 One of Skims flattering high-rise thongs.
 
-[![Skims + Core Control Thong in Mica](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634298030628-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1094166895778900728&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-thong-mica%2F46353151654521982)
+[![Skims + Core Control Thong in Mica](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634298030628-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1400065618560219167&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-thong-mica%2F46353151654521982)
 
 Skims
 
@@ -183,11 +183,11 @@ Core Control Thong in Mica
 
 £34
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-5999970555768946554&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-thong-mica%2F46353151654521982)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1090523845136690845&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-thong-mica%2F46353151654521982)
 
 No more VPL.
 
-[![Skims + Seamless Sculpt Sculpting Mid Waist Briefs in Oxide](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634295486232-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-5866462447281530422&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-waist-briefs-oxide%2F46353151654521991)
+[![Skims + Seamless Sculpt Sculpting Mid Waist Briefs in Oxide](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634295486232-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-4304077121360426807&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-waist-briefs-oxide%2F46353151654521991)
 
 Skims
 
@@ -195,11 +195,11 @@ Seamless Sculpt Sculpting Mid Waist Briefs in Oxide
 
 £32
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1358739423085208248&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-waist-briefs-oxide%2F46353151654521991)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-3399110343016221792&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-waist-briefs-oxide%2F46353151654521991)
 
 Add a little support with these sculpting briefs.
 
-[![Skims + Fits Everybody Scoop Racerback Bralette](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666259785013-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-9648816674525330290&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Ffits-everybody-scoop-racerback-bralette-onyx%2F38063312420987933)
+[![Skims + Fits Everybody Scoop Racerback Bralette](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666259785013-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1441328386569555625&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Ffits-everybody-scoop-racerback-bralette-onyx%2F38063312420987933)
 
 Skims
 
@@ -207,11 +207,11 @@ Fits Everybody Scoop Racerback Bralette
 
 £38
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1179381947747226964&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Ffits-everybody-scoop-racerback-bralette-onyx%2F38063312420987933)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1217959504510490101&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Ffits-everybody-scoop-racerback-bralette-onyx%2F38063312420987933)
 
 If you prefer a more supportive shape, this racerback bra should be high on your list.
 
-[![Skims + Plunge Ribbed Cotton-Blend Jersey Bralette](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666260230590-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1263585914898254494&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fplunge-ribbed-cotton-blend-jersey-bralette-soot%2F1647597290094260)
+[![Skims + Plunge Ribbed Cotton-Blend Jersey Bralette](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666260230590-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-5654080029081751446&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fplunge-ribbed-cotton-blend-jersey-bralette-soot%2F1647597290094260)
 
 Skims
 
@@ -219,7 +219,7 @@ Plunge Ribbed Cotton-Blend Jersey Bralette
 
 £36
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1282705523845572268&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fplunge-ribbed-cotton-blend-jersey-bralette-soot%2F1647597290094260)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-8045568157237585311&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fplunge-ribbed-cotton-blend-jersey-bralette-soot%2F1647597290094260)
 
 For plunging necklines and beyond.
 
@@ -231,7 +231,7 @@ Fits Everybody Square-Neck Bodysuit
 
 Wear underneath for subtle smoothing, or go all out and pair with jeans.
 
-[![Skims + Core Control Thong in Umber](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634295701472-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-3878715889966637949&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-thong-umber%2F46353151654521973)
+[![Skims + Core Control Thong in Umber](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634295701472-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-5681647691777960398&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-thong-umber%2F46353151654521973)
 
 Skims
 
@@ -239,11 +239,11 @@ Core Control Thong in Umber
 
 £26
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-8430974131748456128&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-thong-umber%2F46353151654521973)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-6298441152956151509&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-thong-umber%2F46353151654521973)
 
 The silicone strip in the back of this pair keep them in place all day long.
 
-[![Skims + Seamless Sculpt Sculpting Bra in Mica](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634295768318-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-9949239277322569222&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fseamless-sculpt-sculpting-bra-mica%2F46353151654523742)
+[![Skims + Seamless Sculpt Sculpting Bra in Mica](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634295768318-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-7381091302226623990&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fseamless-sculpt-sculpting-bra-mica%2F46353151654523742)
 
 Skims
 
@@ -251,7 +251,7 @@ Seamless Sculpt Sculpting Bra in Mica
 
 £32
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1431822919560261510&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fseamless-sculpt-sculpting-bra-mica%2F46353151654523742)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-5318645495645854514&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fseamless-sculpt-sculpting-bra-mica%2F46353151654523742)
 
 The gentle underwiring adds support without discomfort.
 
@@ -263,7 +263,7 @@ Sculpting V-Neck Stretch-Woven Bodysuit
 
 This is designed to cinch your waist and smooth thighs.
 
-[![Skims + Cotton Collection Underwired Bra in Bone](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297492573-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-3459963018245436813&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Funderwired-bras%2Fcotton-collection-underwired-bra-bone%2F46353151654526188)
+[![Skims + Cotton Collection Underwired Bra in Bone](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297492573-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-2718644407798544819&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Funderwired-bras%2Fcotton-collection-underwired-bra-bone%2F46353151654526188)
 
 Skims
 
@@ -271,11 +271,11 @@ Cotton Collection Underwired Bra in Bone
 
 £44
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1394883377665760898&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Funderwired-bras%2Fcotton-collection-underwired-bra-bone%2F46353151654526188)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-4176963954327360904&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Funderwired-bras%2Fcotton-collection-underwired-bra-bone%2F46353151654526188)
 
 This best-selling bra is stretchy and breathable.
 
-[![Skims + Essential Crew Neck Thong Bodysuit in Sandstone](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634295886506-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1102253819898586626&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbodysuits%2Fessential-crew-neck-thong-bodysuit-sandstone%2F25372685655714048)
+[![Skims + Essential Crew Neck Thong Bodysuit in Sandstone](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634295886506-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1207085801109256442&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbodysuits%2Fessential-crew-neck-thong-bodysuit-sandstone%2F25372685655714048)
 
 Skims
 
@@ -283,11 +283,11 @@ Essential Crew Neck Thong Bodysuit in Sandstone
 
 £68
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1068238383747877228&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbodysuits%2Fessential-crew-neck-thong-bodysuit-sandstone%2F25372685655714048)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-6189774131705228711&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbodysuits%2Fessential-crew-neck-thong-bodysuit-sandstone%2F25372685655714048)
 
 Skims bodysuit's are made of seriously soft fabric.
 
-[![Skims + Seamless Sculpt Sculpting Mid Thigh Shorts in Cocoa](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634295957168-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-7856559442951157646&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-thigh-shorts-cocoa%2F46353151654524550)
+[![Skims + Seamless Sculpt Sculpting Mid Thigh Shorts in Cocoa](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634295957168-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-5943715341722911518&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-thigh-shorts-cocoa%2F46353151654524550)
 
 Skims
 
@@ -295,11 +295,11 @@ Seamless Sculpt Sculpting Mid Thigh Shorts in Cocoa
 
 £34
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1718811335596642681&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-thigh-shorts-cocoa%2F46353151654524550)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1401011538812682496&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-thigh-shorts-cocoa%2F46353151654524550)
 
 These seamless mid-length shorts will discreetly sculpt your tummy and enhance your silhouette.
 
-[![Skims + Fits Everybody Bandeau Bra in Clay](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297881998-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-4321475381890827998&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fstrapless-bras%2Ffits-everybody-bandeau-bra-clay%2F46353151654530011)
+[![Skims + Fits Everybody Bandeau Bra in Clay](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297881998-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-2754202513977284406&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fstrapless-bras%2Ffits-everybody-bandeau-bra-clay%2F46353151654530011)
 
 Skims
 
@@ -307,11 +307,11 @@ Fits Everybody Bandeau Bra in Clay
 
 £28
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1211838266233621254&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fstrapless-bras%2Ffits-everybody-bandeau-bra-clay%2F46353151654530011)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-9168614417378058221&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fstrapless-bras%2Ffits-everybody-bandeau-bra-clay%2F46353151654530011)
 
 One of the most supportive bandeau's around.
 
-[![Skims + Seamless Sculpt Low Back Bodysuit](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666260569739-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-3987043492602392352&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbodysuits%2Fseamless-sculpt-low-back-bodysuit-onyx%2F1647597279857362)
+[![Skims + Seamless Sculpt Low Back Bodysuit](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666260569739-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-2112816362535737372&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbodysuits%2Fseamless-sculpt-low-back-bodysuit-onyx%2F1647597279857362)
 
 Skims
 
@@ -319,11 +319,11 @@ Seamless Sculpt Low Back Bodysuit
 
 £66
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1140754129474240319&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbodysuits%2Fseamless-sculpt-low-back-bodysuit-onyx%2F1647597279857362)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-5866050710492813515&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbodysuits%2Fseamless-sculpt-low-back-bodysuit-onyx%2F1647597279857362)
 
 Sculpt your whole silhouette in one with this bodysuit.
 
-[![Skims + Seamless Sculpt Sculpting Mid Thigh Shorts in Onyx](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634296031447-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1256842653706919345&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-thigh-shorts-onyx%2F46353151654524548)
+[![Skims + Seamless Sculpt Sculpting Mid Thigh Shorts in Onyx](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634296031447-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-5421752326324136791&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-thigh-shorts-onyx%2F46353151654524548)
 
 Skims
 
@@ -331,11 +331,11 @@ Seamless Sculpt Sculpting Mid Thigh Shorts in Onyx
 
 £34
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-9102407059587399142&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-thigh-shorts-onyx%2F46353151654524548)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-8491792989756135562&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-thigh-shorts-onyx%2F46353151654524548)
 
 The waistband is gripped to avoid bunching throughout the day.
 
-[![Skims + Stretch-Neoprene Waist Trainer in Clay](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634296492649-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-9986263515928096659&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Ftops%2Fstretch-neoprene-waist-trainer-clay%2F25372685655715262)
+[![Skims + Stretch-Neoprene Waist Trainer in Clay](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634296492649-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1103872083081029724&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Ftops%2Fstretch-neoprene-waist-trainer-clay%2F25372685655715262)
 
 Skims
 
@@ -343,11 +343,11 @@ Stretch-Neoprene Waist Trainer in Clay
 
 £66
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-9384231075327209666&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Ftops%2Fstretch-neoprene-waist-trainer-clay%2F25372685655715262)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1180466357682127358&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Ftops%2Fstretch-neoprene-waist-trainer-clay%2F25372685655715262)
 
 Sculpt and accentuate your natural curves.
 
-[![Skims + Seamless Sculpt Sculpting Mid Waist Briefs in Cocoa](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297791067-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-6779852387942709926&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-waist-briefs-cocoa%2F46353151654521990)
+[![Skims + Seamless Sculpt Sculpting Mid Waist Briefs in Cocoa](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297791067-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-9939128250160815804&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-waist-briefs-cocoa%2F46353151654521990)
 
 Skims
 
@@ -355,11 +355,11 @@ Seamless Sculpt Sculpting Mid Waist Briefs in Cocoa
 
 £32
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-9379485719069063345&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-waist-briefs-cocoa%2F46353151654521990)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1064276660087608140&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-waist-briefs-cocoa%2F46353151654521990)
 
 Skims comes in a wide range of tones.
 
-[![Skims + Core Control Thong in Onyx](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297829203-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-7091254681971100378&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-thong-onyx%2F46353151654521993)
+[![Skims + Core Control Thong in Onyx](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297829203-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-5823439550811539772&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-thong-onyx%2F46353151654521993)
 
 Skims
 
@@ -367,11 +367,11 @@ Core Control Thong in Onyx
 
 £34
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1487310372103022802&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-thong-onyx%2F46353151654521993)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1860844188012833379&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-thong-onyx%2F46353151654521993)
 
 These come in sizes 2XS to 5XL.
 
-[![Skims + Seamless Sculpt Sculpting Mid Thigh Shorts in Ochre](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634296720295-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1690059510681472161&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-thigh-shorts-ochre%2F46353151654524544)
+[![Skims + Seamless Sculpt Sculpting Mid Thigh Shorts in Ochre](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634296720295-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1358313674216425467&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-thigh-shorts-ochre%2F46353151654524544)
 
 Skims
 
@@ -379,7 +379,7 @@ Seamless Sculpt Sculpting Mid Thigh Shorts in Ochre
 
 £34
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-7775866304351447328&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-thigh-shorts-ochre%2F46353151654524544)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1238615318394305314&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-thigh-shorts-ochre%2F46353151654524544)
 
 The mid-length will avoid riding up throughout the day.
 
@@ -391,7 +391,7 @@ Summer Mesh Plunge Bralette
 
 This plunge bralette combines form and function.
 
-[![Skims + Seamless Sculpt Sculpting Mid Waist Briefs in Ochre](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297371088-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1073156502196871266&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-waist-briefs-ochre%2F46353151654521975)
+[![Skims + Seamless Sculpt Sculpting Mid Waist Briefs in Ochre](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297371088-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-8617917085193001973&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-waist-briefs-ochre%2F46353151654521975)
 
 Skims
 
@@ -399,11 +399,11 @@ Seamless Sculpt Sculpting Mid Waist Briefs in Ochre
 
 £32
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-7896240339193974724&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-waist-briefs-ochre%2F46353151654521975)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-8163173020728110042&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-sculpting-mid-waist-briefs-ochre%2F46353151654521975)
 
 A discreet way to sculpt.
 
-[![Skims + Seamless Sculpt Sculpting Bra in Onyx](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297451135-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-4676181939480012242&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fseamless-sculpt-sculpting-bra-onyx%2F46353151654523736)
+[![Skims + Seamless Sculpt Sculpting Bra in Onyx](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297451135-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1118651866870210695&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fseamless-sculpt-sculpting-bra-onyx%2F46353151654523736)
 
 Skims
 
@@ -411,11 +411,11 @@ Seamless Sculpt Sculpting Bra in Onyx
 
 £32
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-6046244352269052783&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fseamless-sculpt-sculpting-bra-onyx%2F46353151654523736)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-2920681248459584683&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fseamless-sculpt-sculpting-bra-onyx%2F46353151654523736)
 
 If you're spoilt for choice, black is always a good place to start.
 
-[![Skims + Ultra Fine Mesh Bralette](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666260162272-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-3905111164775459387&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fultra-fine-mesh-triangle-bralette-bronze%2F45666037505001074)
+[![Skims + Ultra Fine Mesh Bralette](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666260162272-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-4463107506345064975&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fultra-fine-mesh-triangle-bralette-bronze%2F45666037505001074)
 
 Skims
 
@@ -423,11 +423,11 @@ Ultra Fine Mesh Bralette
 
 £52
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1341165638775376978&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fultra-fine-mesh-triangle-bralette-bronze%2F45666037505001074)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1099150936828030275&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Fultra-fine-mesh-triangle-bralette-bronze%2F45666037505001074)
 
 One for bralette lovers.
 
-[![Skims + Fits Everybody Boy Shorts in Onyx](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666260059128-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1172671135328114954&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs%2Ffits-everybody-boy-shorts-onyx%2F42247633209041748)
+[![Skims + Fits Everybody Boy Shorts in Onyx](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666260059128-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1428808569446596455&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs%2Ffits-everybody-boy-shorts-onyx%2F42247633209041748)
 
 Skims
 
@@ -435,11 +435,11 @@ Fits Everybody Boy Shorts in Onyx
 
 £22
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-4795840662403047395&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs%2Ffits-everybody-boy-shorts-onyx%2F42247633209041748)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1280930844805224091&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs%2Ffits-everybody-boy-shorts-onyx%2F42247633209041748)
 
 A comfortable boy short shape made from flexible stretch-polyamide.
 
-[![Skims + Fits Everybody Triangle Bralette in Sienna](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297025022-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-4506089222115773547&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Ffits-everybody-triangle-bralette-sienna%2F46353151654543589)
+[![Skims + Fits Everybody Triangle Bralette in Sienna](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1634297025022-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-7204527681734590652&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Ffits-everybody-triangle-bralette-sienna%2F46353151654543589)
 
 Skims
 
@@ -447,7 +447,7 @@ Fits Everybody Triangle Bralette in Sienna
 
 £32
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-2345712317199612580&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Ffits-everybody-triangle-bralette-sienna%2F46353151654543589)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1346514717958222135&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fsoft-cup-bras%2Ffits-everybody-triangle-bralette-sienna%2F46353151654543589)
 
 Made with the label's power mesh that is supposed to add additional support.
 
@@ -475,7 +475,7 @@ High-Rise Ribbed Stretch-Cotton Boxers
 
 We also had to highlight Skim's comfy boxers.
 
-[![Skims + Seamless Sculpt The Solution 2 Shorts](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666262003748-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-5870083577310890169&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-the-solution-2-shorts-onyx%2F46353151654524552)
+[![Skims + Seamless Sculpt The Solution 2 Shorts](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1666262003748-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1360762969734772370&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-the-solution-2-shorts-onyx%2F46353151654524552)
 
 Skims
 
@@ -483,11 +483,11 @@ Seamless Sculpt The Solution 2 Shorts
 
 £42
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1221103931922725238&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-the-solution-2-shorts-onyx%2F46353151654524552)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-3793353272965568726&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fseamless-sculpt-the-solution-2-shorts-onyx%2F46353151654524552)
 
 Skims has thought of everything - even shapewear for high slit dresses.
 
-[![Skims + Fits Everybody Stretch-Satin Jersey Thong Bodysuit](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1673542565837-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-3166588048858335008&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbodysuits%2Ffits-everybody-stretch-satin-jersey-thong-bodysuit-umber%2F1647597296203930)
+[![Skims + Fits Everybody Stretch-Satin Jersey Thong Bodysuit](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1673542565837-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-6683961017190726801&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbodysuits%2Ffits-everybody-stretch-satin-jersey-thong-bodysuit-umber%2F1647597296203930)
 
 Skims
 
@@ -495,11 +495,11 @@ Fits Everybody Stretch-Satin Jersey Thong Bodysuit
 
 £70
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-2940352467335115478&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbodysuits%2Ffits-everybody-stretch-satin-jersey-thong-bodysuit-umber%2F1647597296203930)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-9603167057667258650&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbodysuits%2Ffits-everybody-stretch-satin-jersey-thong-bodysuit-umber%2F1647597296203930)
 
 You could wear this with jeans and boots, too.
 
-[![Skims + Set of Five Fits Everybody Stretch-Jersey Briefs](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1673542615120-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-3169034790488892481&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs%2Fset-of-five-fits-everybody-stretch-jersey-briefs-juniper-multi%2F1647597288624296)
+[![Skims + Set of Five Fits Everybody Stretch-Jersey Briefs](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1673542615120-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1003409189172732849&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs%2Fset-of-five-fits-everybody-stretch-jersey-briefs-juniper-multi%2F1647597288624296)
 
 Skims
 
@@ -507,11 +507,11 @@ Set of Five Fits Everybody Stretch-Jersey Briefs
 
 £60
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1458723310851952091&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs%2Fset-of-five-fits-everybody-stretch-jersey-briefs-juniper-multi%2F1647597288624296)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-5024406320128733897&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs%2Fset-of-five-fits-everybody-stretch-jersey-briefs-juniper-multi%2F1647597288624296)
 
 January is the perfect time to invest in your underwear.
 
-[![Skims + Core Control Stretch Briefs - Oxide](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1673542644419-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1127371411698012320&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-stretch-briefs-oxide%2F1647597296203945)
+[![Skims + Core Control Stretch Briefs - Oxide](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/295749/skims-shapewear-295749-1673542644419-main.jpg)](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-9459149652088754297&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-stretch-briefs-oxide%2F1647597296203945)
 
 Skims
 
@@ -519,7 +519,7 @@ Core Control Stretch Briefs - Oxide
 
 £28
 
-[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1159103217177770094&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-stretch-briefs-oxide%2F1647597296203945)
+[SHOP NOW](https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=24449&u1=whowhatwear-us-1352723176849839867&murl=https%3A%2F%2Fwww.net-a-porter.com%2Fen-gb%2Fshop%2Fproduct%2Fskims%2Flingerie%2Fbriefs-and-shorts%2Fcore-control-stretch-briefs-oxide%2F1647597296203945)
 
 A higher waist will often feel more supportive.
 
@@ -559,17 +559,17 @@ PartyMy Friends Keep Asking What to Wear to Holiday Parties—These Are the Unde
 
 Latest in Features
 
-[![Photo of Charli XCX for a YSL Beauty campaign ](https://cdn.mos.cms.futurecdn.net/KNvtGsAhDWAc7pYrASXmic.jpg)\\
-Makeup"I'm Very Much a Lip and Brow Girl": Charli XCX on Her 2026 Beauty Era and Forever Staples](https://www.whowhatwear.com/beauty/makeup/charli-xcx-ysl-beauty-favorite-products "\"I'm Very Much a Lip and Brow Girl\": Charli XCX on Her 2026 Beauty Era and Forever Staples")
+[![Gillian Anderson](https://cdn.mos.cms.futurecdn.net/Mk6UCJwP2ZNVbf4nxxjYTm.webp)\\
+Makeup"Confidently Ask for What You Want": Gillian Anderson on Skincare, Makeup, and Acknowledging Your Worth](https://www.whowhatwear.com/beauty/makeup/gillian-anderson-beauty-interview-2026 "\"Confidently Ask for What You Want\": Gillian Anderson on Skincare, Makeup, and Acknowledging Your Worth")
 
-[![Celebrity street style outfit at the Cannes Film Festival](https://cdn.mos.cms.futurecdn.net/QcP8cbZBSFHEdh4mXpXXxj.jpg)\\
-FashionI'm Into It When Celebs Go Full-On French Riviera Style in Their Off-Duty Cannes Looks](https://www.whowhatwear.com/fashion/cannes-celebrity-street-style-outfits "I'm Into It When Celebs Go Full-On French Riviera Style in Their Off-Duty Cannes Looks")
+[![A collage of ocean scenes and seaglass-inspired chrome nails.](https://cdn.mos.cms.futurecdn.net/YSjMv9ievJswJ858TuDDGW.gif)\\
+NailsFrom Chanel Runways to Kylie Jenner, the Chicest Individuals Are Wearing Seaglass Nails This Summer](https://www.whowhatwear.com/beauty/nails/seaglass-nail-trend "From Chanel Runways to Kylie Jenner, the Chicest Individuals Are Wearing Seaglass Nails This Summer")
 
-[![Photo of Julianne Goldmark in front of a bulletin board](https://cdn.mos.cms.futurecdn.net/kbaafUbqrrsCBbqUTEFkeE.png)\\
-BeautySpearmint Supplements! Milky Serums! Everything a Cult-Favorite Haircare Founder Loves for Glassy Skin and Strands](https://www.whowhatwear.com/beauty/julianne-goldmark-favorite-beauty-products "Spearmint Supplements! Milky Serums! Everything a Cult-Favorite Haircare Founder Loves for Glassy Skin and Strands")
+[![Hair trend collage](https://cdn.mos.cms.futurecdn.net/CvWkRxxh8uvcMktTcwZX9Y.jpg)\\
+HairFrom The Bixie to Golden-Hour Brunette: Expect These 10 Hair Trends to Define Summer 2026](https://www.whowhatwear.com/beauty/hair/2026-summer-hair-trends "From The Bixie to Golden-Hour Brunette: Expect These 10 Hair Trends to Define Summer 2026")
 
-[![Claudia Li family photo](https://cdn.mos.cms.futurecdn.net/ppkjwWjxeRSvSKZkjGYA6F.jpg)\\
-FashionMy Parents Didn't Work In Fashion But They Are Fashion Icons—Here Are the Style Lessons I Learned From Them](https://www.whowhatwear.com/fashion/claudia-li-parents-fashion-lessons "My Parents Didn't Work In Fashion But They Are Fashion Icons—Here Are the Style Lessons I Learned From Them")
+[![a woman wearing a white dress, brown leather tote bag, and black mary jane flats](https://cdn.mos.cms.futurecdn.net/YHjHLwZoPnLeazygG6kGKd.jpg)\\
+Outfit IdeasWant to Look Chic This Summer? These 9 Under-$250 Outfits Will Get So Many Compliments](https://www.whowhatwear.com/fashion/outfit-ideas/under-250-outfit-ideas "Want to Look Chic This Summer? These 9 Under-$250 Outfits Will Get So Many Compliments")
 
 [Who What Wear](https://www.whowhatwear.com/)
 

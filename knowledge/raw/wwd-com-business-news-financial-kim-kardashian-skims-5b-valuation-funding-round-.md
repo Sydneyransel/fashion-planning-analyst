@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/
 source_type: wwd.com
 title: Kim Kardashian's Skims Hits $5B Valuation With New Funding Round
-scraped_at: 2026-05-25T09:53:23.432653+00:00
+scraped_at: 2026-06-01T11:13:30.090273+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/#pagetop)
 
-Fashion
+Beauty
 
-### [Cannes Spreads the Wealth With Shared Prizes and Fashion Surprises](https://wwd.com/fashion-news/fashion-features/cannes-2023-fashion-awards-closing-ceremony-highlights-1238979985/)
+### [Puig Had Another Wooer](https://wwd.com/beauty-industry-news/beauty-features/puig-had-another-wooer-before-lauder-1238986070/)
 
-Eye
+Business
 
-### [The Contemporary Art Destinations Gallerists and Artists Have on Their Radar](https://wwd.com/eye/lifestyle/best-contemporary-art-destinations-1238926664/)
+### [Gap Inc. Sees Old Navy as a Relatively Quick Fashion Fix](https://wwd.com/business-news/retail/old-navy-fashion-misses-and-remedies-q1-conference-call-1238986600/)
 
-Eye
+Men's
 
-### [Notable New Books to Add to Your Summer 2026 Reading List](https://wwd.com/eye/lifestyle/summer-book-reading-list-2026-1238918902/)
+### [Zegna Names Ousmane Dembélé Brand Ambassador](https://wwd.com/menswear-news/mens-designer-luxury/zegna-soccer-psg-ousmane-dembele-global-brand-ambassador-1238984404/)
 
 ![NEW YORK, NEW YORK - SEPTEMBER 24: NikeSKIMS dancers perform at the NikeSKIMS "Bodies at Work" event at the New York Public Library on September 24, 2025 in New York City. (Photo by Valerie Terranova/Getty Images)](https://wwd.com/wp-content/uploads/2025/09/skims-presentation-photosc.jpg?w=800&h=533&crop=1)
 
@@ -59,17 +59,17 @@ The new money came from Goldman Sachs Alternatives and BDT & MSD Partners.
 
 ### Related Articles
 
-![Kendall Jenner, Kim Kardashian and Kylie Jenner on the Met Gala 2026 red carpet. ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Skims in Hong Kong](https://wwd.com/wp-content/uploads/2026/05/SKIMS-store-Hong-Kong-ctsy.jpg?w=225&h=225&crop=1)
+
+[Retail](https://wwd.com/business-news/retail/)
+
+### [Skims to Open First Asian Stores in Hong Kong, Seoul](https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/)
+
+![Kendall Jenner, Kim Kardashian and Kylie Jenner on the Met Gala 2026 red carpet. ](https://wwd.com/wp-content/uploads/2026/05/met-sisters.jpg?w=225&h=225&crop=1)
 
 [Celebrity News](https://wwd.com/business-news/celebrity-news/)
 
 ### [The Kardashian-Jenner Met Gala Looks Had One Thing in Common and It Wasn't Subtle](https://wwd.com/pop-culture/celebrity-news/kim-kardashian-met-gala-2026-kendall-kylie-jenner-1238935617/)
-
-![Kim Kardashian wearing a pair of butter yellow gladiator-style heels during a visit to 'The Fear of 13' on Broadway on Sunday.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
-
-[Shoe Trends](https://wwd.com/business-news/shoe-trends/)
-
-### [Kim Kardashian Gives Her Broadway Producer Moment a Butter Yellow Gladiator Sandal Finish](https://wwd.com/footwear-news/shoe-trends/kim-kardashian-gladiator-sandals-fear-of-13-broadway-1238938496/)
 
 [Skims](https://wwd.com/business-news/business-features/fashions-new-wave-digital-skims-quince-1238930332/) got its start in shapewear, but has been branching out in apparel and looking more into beauty, recently [hiring Diarrha N’Diaye](https://wwd.com/beauty-industry-news/color-cosmetics/kim-kardashian-skims-ami-cole-founder-hire-1238331656/) to be executive vice president of beauty and fragrance.
 
@@ -109,7 +109,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://cloud.email.wwd.com/signup/)
 
-- [![Jennifer Garner plays a food influencer.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/pop-culture/culture-news/elin-hilderbrand-nantucket-five-star-weekend-set-jetters-1238979571/)
+- [![Peyton Manning, Johnston and Murphy, Genesco](https://wwd.com/wp-content/uploads/2026/05/Peyton.jpg?w=1024)](https://wwd.com/footwear-news/shoe-industry-news/genesco-q1-earnings-call-takeaways-analysis-peyton-manning-1238986982/)
 
 
 
@@ -119,53 +119,75 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Can Elin Hilderbrand and ‘Five-Star Weekend’ Reel in Set-jetters to Nantucket?](https://wwd.com/pop-culture/culture-news/elin-hilderbrand-nantucket-five-star-weekend-set-jetters-1238979571/)
+### [4 Takeaways From Genesco’s Q1 Earnings Call — From the Peyton Manning Effect to Journeys’ Evolution](https://wwd.com/footwear-news/shoe-industry-news/genesco-q1-earnings-call-takeaways-analysis-peyton-manning-1238986982/)
 
 
 
-  - [Culture News](https://wwd.com/business-news/culture-news/)
-
-  - By
-
-
-    [Rosemary Feitelberg](https://wwd.com/wwd-masthead/rosemary-feitelberg/)
-
-
-- [![Falconeri's new Madison Avenue boutique.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/fashion-news/designer-luxury/falconeri-madison-avenue-boutique-new-openings-boston-chicago-this-year-1238939517/)
-
-
-
-
-
-
-
-
-
-### [Falconeri Opens Madison Avenue Boutique, Plans New Openings in Boston and Chicago This Year](https://wwd.com/fashion-news/designer-luxury/falconeri-madison-avenue-boutique-new-openings-boston-chicago-this-year-1238939517/)
-
-
-
-  - [Designer and Luxury](https://wwd.com/business-news/designer-luxury/)
+  - [Shoe Industry News](https://wwd.com/business-news/shoe-industry-news/)
 
   - By
 
 
-    [Lisa Lockwood](https://wwd.com/wwd-masthead/lisa-lockwood/)
+    [Stephen Garner](https://wwd.com/wwd-masthead/stephen-garner/)
 
 
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/getting-ready-for-marc-jacobs-2026-with-nicky-hilton/)
+- [![Lumens](https://wwd.com/wp-content/uploads/2026/05/NewYorkEdit_Preview_7RV09349_C_OlenkaKotyk-e1778595141105.jpg?w=1024)](https://wwd.com/home-design/furniture/nycxdesign-2026-top-events-new-york-1238951000/)
+
+
+
+
+
+
+
+
+
+### [WWD’s Guide to NYCxDesign](https://wwd.com/home-design/furniture/nycxdesign-2026-top-events-new-york-1238951000/)
+
+
+
+  - [Furniture](https://wwd.com/business-news/furniture/)
+
+  - By
+
+
+    [Sofia Celeste](https://wwd.com/wwd-masthead/sofia-celeste/)
+
+
+- [![Róisín Lafferty](https://wwd.com/wp-content/uploads/2026/05/RL-IH_290-e1779984190945.jpeg?w=1024)](https://wwd.com/home-design/furniture/roisin-lafferty-furniture-lighting-collection-launch-1238983336/)
+
+
+
+
+
+
+
+
+
+### [From the Heart of Dublin, Designer Róisín Lafferty Launches Furniture and Lighting Collection](https://wwd.com/home-design/furniture/roisin-lafferty-furniture-lighting-collection-launch-1238983336/)
+
+
+
+  - [Furniture](https://wwd.com/business-news/furniture/)
+
+  - By
+
+
+    [Sofia Celeste](https://wwd.com/wwd-masthead/sofia-celeste/)
+
+
+[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/uploads/2026/02/nicky.png?crop=0px%2C0px%2C2678px%2C1499px&resize=910%2C511)](https://wwd.com/video/getting-ready-for-marc-jacobs-2026-with-nicky-hilton/)
 
 ### Getting Ready for Marc Jacobs 2026 with Nicky Hilton
 
-[![diane lane at the premiere of feud capote vs the swans, red carpet interview](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
+[![diane lane at the premiere of feud capote vs the swans, red carpet interview](https://wwd.com/wp-content/uploads/2024/01/diane-lane-feud-capote-vs-the-swans.jpg?w=260&h=150&crop=1)](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
 
 ### ['Feud: Capote Vs. The Swans' Stars Talk Costumes and Society](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
 
-[![Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
+[![Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/wp-content/uploads/2023/05/Kerry-Washington-And-Michael-Kors.jpg?w=260&h=150&crop=1)](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
 
 ### [Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
 
-[![WWD style director Alex Badia and FN style director Shannon Adducci discuss the versatility of outerwear.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
+[![WWD style director Alex Badia and FN style director Shannon Adducci discuss the versatility of outerwear.](https://wwd.com/wp-content/uploads/2022/11/head-to-toe-outerwear.jpg?w=260&h=150&crop=1)](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
 
 ### [Head to Toe: How to Style Outerwear for Everywhere](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
 

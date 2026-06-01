@@ -2,7 +2,7 @@
 url: https://www.harpersbazaar.com/fashion/trends/g39288906/best-shapewear-for-women/
 source_type: harpersbazaar.com
 title: The 15 Best Shapewear Items for Women to Own in 2024
-scraped_at: 2026-05-18T09:44:44.770491+00:00
+scraped_at: 2026-06-01T11:13:49.932124+00:00
 ---
 
 [Skip to Content](https://www.harpersbazaar.com/fashion/trends/g39288906/best-shapewear-for-women/#main-content)
@@ -83,7 +83,7 @@ Best Briefs
 
 [$54Amazon](https://www.amazon.com/dp/B00EOU3PQI?tag=harpersbazaar_auto-append-20) Also Consider
 
-[$54Nordstrom](https://nordstrom.sjv.io/c/3006986/1960196/23920?u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2F3585965&subId1=har&subid3=xid:{xid}) [$54Saks Fifth Avenue](https://click.linksynergy.com/deeplink?id=SyrN4SGJMyU&mid=13816&murl=https%3A%2F%2Fwww.saksfifthavenue.com%2Fproduct%2Fcommando-classic-control-brief-0433690995934.html&u1=har|xid:{xid})
+[$54Revolve](https://www.kqzyfj.com/click-100543834-12527506?url=http%3A%2F%2Fwww.revolve.com%2Fcontent%2Fdeeplink%2Fwomens%2Fproduct%2FCMAN-WI246&sid=har-xid-{xid}) [$54Saks Fifth Avenue](https://click.linksynergy.com/deeplink?id=SyrN4SGJMyU&mid=13816&murl=https%3A%2F%2Fwww.saksfifthavenue.com%2Fproduct%2Fcommando-classic-control-brief-0433690995934.html&u1=har|xid:{xid})
 
 ### Pros
 
@@ -262,7 +262,9 @@ Best Plunging Neckline
 
 [**Spanx Suit Your Fancy Plunge Bodysuit**](https://go.redirectingat.com/?id=74968X1525079&url=https%3A%2F%2Fspanx.com%2Fcollections%2Fshapewear-bodysuits%2Fproducts%2Fsuit-your-fancy-plunge-low-back-mid-thigh-bodysuit%3Fvariant%3D39773555982547)
 
-[$148Spanx](https://go.redirectingat.com/?id=74968X1525079&url=https%3A%2F%2Fspanx.com%2Fcollections%2Fshapewear-bodysuits%2Fproducts%2Fsuit-your-fancy-plunge-low-back-mid-thigh-bodysuit%3Fvariant%3D39773555982547)
+Now 30% Off
+
+[~~$148~~ $104Spanx](https://go.redirectingat.com/?id=74968X1525079&url=https%3A%2F%2Fspanx.com%2Fcollections%2Fshapewear-bodysuits%2Fproducts%2Fsuit-your-fancy-plunge-low-back-mid-thigh-bodysuit%3Fvariant%3D39773555982547)
 
 ### Pros
 
@@ -415,79 +417,45 @@ When it comes to shapewear, you will want to consider how you plan to use it fir
 
 For more than 150 years, _Harper’s Bazaar_ has been the preeminent fashion, beauty, and lifestyle resource for women at every age. We cover what’s new and what’s next in fashion by working with the world’s leading authorities in ready-to-wear, footwear, accessories, and more. Every story we publish has been thoroughly researched and vetted by our team of editors and industry experts.
 
-### Is your closet ready for the season?
+Advertisement - Continue Reading Below
 
-Catch up on the latest runway trends and editors’ picks.
+## Readers Also Read
 
-Email address SIGN ME UP.
-
-By signing up, I agree to the [Terms of Use](https://www.hearst.com/-/us-magazines-terms-of-use) (including the [dispute resolution procedures](https://www.hearst.com/-/us-magazines-terms-of-use#_DISPUTE_RESOLUTION)) and have reviewed the [Privacy Notice](https://www.hearst.com/-/us-magazines-privacy-notice).
-
-This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
-
-### Your newsletter is on the way.
-
-Thanks for joining us!
-
-Watch Next
-
-![Play video](data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="%23ffffff" viewBox="0 0 256 256">%0A%09<path d="M240,128a15.74,15.74,0,0,1-7.6,13.51L88.32,229.65a16,16,0,0,1-16.2.3A15.86,15.86,0,0,1,64,216.13V39.87a15.86,15.86,0,0,1,8.12-13.82,16,16,0,0,1,16.2.3L232.4,114.49A15.74,15.74,0,0,1,240,128Z">%0A</path></svg>)![Video poster](https://hips.hearstapps.com/hmg-prod/images/screen-shot-2023-03-06-at-7-26-43-am-6405dc309766e.png?crop=1xw:0.7805232558139535xh;center,top&resize=980:*)
+[![Celebrity Sightings In New York City - June 16, 2023](https://hips.hearstapps.com/hmg-prod/images/b70e9e70-ac32-4ce5-8576-09c23327aa9a.jpeg?crop=1xw:0.666xh;0xw,0.104xh&resize=360:*)\\
+\\
+8 Classic Ways to Wear Fisherman Sandals](https://www.harpersbazaar.com/fashion/trends/a71413601/how-to-style-fisherman-sandals-outfits/) [![Celebrity Sightings: Day 4 - The 79th Annual Cannes Film Festival](https://hips.hearstapps.com/hmg-prod/images/f60b01ca-8455-45f8-b06f-ce64b79b92ab.jpeg?crop=1xw:0.750480769231xh;center,top&resize=360:*)\\
+\\
+Put Down Your White Sneakers. Try These Instead.](https://www.harpersbazaar.com/fashion/trends/g71337748/best-metallic-sneakers/) [![Celebrity Sightings: Day 6 - The 79th Annual Cannes Film Festival](https://hips.hearstapps.com/hmg-prod/images/70c363e3-f4a8-4735-815d-bc72f1e40925.jpeg?crop=1xw:0.751xh;0xw,0.07xh&resize=360:*)\\
+\\
+What to Wear in Paris This Summer](https://www.harpersbazaar.com/fashion/trends/a71364201/paris-outfit-ideas/) [![Taylor wearing casual attire outdoors](https://hips.hearstapps.com/hmg-prod/images/93db4b8b-8a80-4d41-bdf6-fe24a59b9a1d.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
+\\
+These Sporty Sandals Are Walkable and Chic](https://www.harpersbazaar.com/fashion/trends/a71330339/best-sandals-for-walking-2026/)
 
 Advertisement - Continue Reading Below
 
-## [Trends & Shopping Guides](https://www.harpersbazaar.com/fashion/trends/)
-
-[![Street fashion showcasing two individuals in urban settings.](https://hips.hearstapps.com/hmg-prod/images/6f6165c1-bafe-47a7-b633-f9fe2a2a5b27.jpg?crop=0.5xw:1xh;center,top&resize=360:*)\\
+[![met gala looks](https://hips.hearstapps.com/hmg-prod/images/hbz-metgala-bestlooks-lead-6811169dc7a05.jpg?crop=0.566xw:1.00xh;0.220xw,0&resize=360:*)\\
 \\
-How to Make Jeans and Flats Feel Like an Outfit](https://www.harpersbazaar.com/fashion/trends/a71307186/how-to-style-jeans-with-flats/) [![Fashionable individuals showcasing diverse outfits on the street.](https://hips.hearstapps.com/hmg-prod/images/dd0cbe18-8cbc-4c3a-b933-95f955bd8201.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
+The 29 Best Met Gala Dresses of All Time](https://www.harpersbazaar.com/fashion/models/g71141150/best-met-gala-dresses-all-time-editors-picks/) [![fashion model in a lightcolored dress with a dotted pattern holding a handbag](https://hips.hearstapps.com/hmg-prod/images/7c2847a1-d101-4f70-8bc3-6df7464ef13f.gif?crop=1.00xw:1.00xh;0,0&resize=360:*)\\
 \\
-Your Guide to Dressing for Spring in the City](https://www.harpersbazaar.com/fashion/trends/a71284829/spring-outfit-ideas-for-city-street-style/) [![Fashionable women in various outfits featuring oversized shirts.](https://hips.hearstapps.com/hmg-prod/images/f78e207b-0434-43e5-96ad-142998a909c2.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
+From Harper's BAZAAR for Prada\\
 \\
-Pajama Tops Are Leaving the Bedroom](https://www.harpersbazaar.com/fashion/trends/a71259792/how-to-style-pajama-tops-trend/) [![Three outfits featuring casual and stylish bottoms paired with simple tops.](https://hips.hearstapps.com/hmg-prod/images/7ee369fe-dda8-4470-bc23-6b2365b92849.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
+The Hero: Prada Galleria Handbag](https://www.harpersbazaar.com/fashion/a71110507/the-hero-prada-galleria-handbag/) [![Three fashion moments from events featuring dramatic red carpet attire.](https://hips.hearstapps.com/hmg-prod/images/dc7d580b-4b72-4c6f-83eb-04fd6c1fc614.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
 \\
-Fisherman Pants Are Suddenly Everywhere](https://www.harpersbazaar.com/fashion/trends/a71221239/how-to-style-fisherman-pants-outfits/)
-
-Advertisement - Continue Reading Below
+In Cannes, Fashion Rules Were Made to Be Broken](https://www.harpersbazaar.com/fashion/g71269942/cannes-film-festival-dress-code-rule-breakers-fashion-photos/) [![Collection of stylish sandals and wedges showcasing various designs.](https://hips.hearstapps.com/hmg-prod/images/671418a1-f2ad-4d9f-8fae-8c4b849aab53.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
+\\
+The Wedge Sandal Revival Is Officially Here](https://www.harpersbazaar.com/fashion/trends/a71141823/wedges-trend-2026/)
 
 [![Individuals wearing various stylish outfits while walking outdoors.](https://hips.hearstapps.com/hmg-prod/images/f21aa068-c9c3-4ebc-b073-a1f1254ee4d0.gif?crop=0.483xw:0.858xh;0.258xw,0.113xh&resize=360:*)\\
 \\
-How to Wear Flip-Flops Beyond the Beach](https://www.harpersbazaar.com/fashion/trends/a71233751/how-to-style-flip-flops/) [![nordstrom may sale 2026](https://hips.hearstapps.com/hmg-prod/images/d86fd599-e0cd-494d-aee2-3d12fa094d0b.jpg?crop=1xw:0.667xh;0xw,0.2xh&resize=360:*)\\
+How to Wear Flip-Flops Beyond the Beach](https://www.harpersbazaar.com/fashion/trends/a71233751/how-to-style-flip-flops/) [![Collage of Laura Lajiness Kaupke's outfit selfies showing various clothing styles.](https://hips.hearstapps.com/hmg-prod/images/2fb02f19-5f3a-43bc-948b-1b7d074331f7.jpg?crop=0.562xw:1xh;0.339xw,0xh&resize=360:*)\\
 \\
-Nordstrom’s May Fashion Sale Is Worth Shopping](https://www.harpersbazaar.com/fashion/trends/a71230106/nordstrom-memorial-day-sale-2026/) [![Four individuals wearing different athletic and casual outfits.](https://hips.hearstapps.com/hmg-prod/images/cfea264a-325f-4801-a22f-7aa3ea008833.jpg?crop=0.469xw:0.833xh;0.512xw,0.035xh&resize=360:*)\\
+This Is My Favorite Gap Basic—Hands Down](https://www.harpersbazaar.com/fashion/trends/a71322191/gap-pointelle-t-shirt-review/) [![Variety of denim shorts showcased on models.](https://hips.hearstapps.com/hmg-prod/images/fc70ec01-c7c7-4b3e-83ff-eacebf4c85be.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
 \\
-Cute Gym Outfits That Avoid Leggings](https://www.harpersbazaar.com/fashion/trends/a71223916/gym-outfits-without-leggings/) [![Fashion collage showcasing various outfits and footwear.](https://hips.hearstapps.com/hmg-prod/images/11f6cd5e-61a0-4fdd-8039-147b6b07f3c4.jpg?crop=0.562xw:1xh;0.19xw,0xh&resize=360:*)\\
+The New Rules of Jorts](https://www.harpersbazaar.com/fashion/trends/a71330408/jean-shorts-outfits/) [![Shop in New York with stylish design and modern vibe](https://hips.hearstapps.com/hmg-prod/images/d9eacb17-eb98-48e3-84a6-8caaeccdfd44.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
 \\
-How to Wear Ballet Heels Like a Fashion Editor](https://www.harpersbazaar.com/fashion/trends/a71243546/how-bazaar-editors-style-their-favorite-repettos/)
-
-[![Fashion models showcasing diverse outfits at a runway.](https://hips.hearstapps.com/hmg-prod/images/93886b03-c091-46c8-b2fc-dba1e4c55492.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
-\\
-How to Style Shorts Like a Grown-Up](https://www.harpersbazaar.com/fashion/trends/a71143796/how-to-style-shorts/) [![Collection of five women wearing various stylish outfits featuring black pants.](https://hips.hearstapps.com/hmg-prod/images/d479242f-2731-4f1c-ba78-e72b746c016a.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
-\\
-8 Ways to Style Capri Pants](https://www.harpersbazaar.com/fashion/trends/a71220888/how-to-style-capri-pants/) [![Various outfits featuring white trousers styled by individuals in urban settings.](https://hips.hearstapps.com/hmg-prod/images/85df1a1e-4dbb-4931-86c5-8a9c91b9026c.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
-\\
-New Ways to Wear Your Old White Jeans](https://www.harpersbazaar.com/fashion/trends/a71207732/how-to-style-white-jeans-outfits/) [![Fashion showcasing two outfits side by side.](https://hips.hearstapps.com/hmg-prod/images/d49f6dbe-3d5a-4ba1-9c61-29782914ba8b.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
-\\
-Free People Secretly Has the Best Summer Pants](https://www.harpersbazaar.com/fashion/trends/a71205102/free-people-pants-review/)
+New York Outfits That Actually Work](https://www.harpersbazaar.com/fashion/trends/a71389535/new-york-outfit-ideas/)
 
 Advertisement - Continue Reading Below
-
-### Your Ultimate Guide to Fashion, Beauty, and Culture!Your Ultimate Guide to Fashion, Beauty, and Culture!
-
-Stay updated and stay stylish with our daily newsletter.
-
-Email addressSIGN UP
-
-By signing up, I agree to the [Terms of Use](https://www.hearst.com/-/us-magazines-terms-of-use) (including the [dispute resolution procedures](https://www.hearst.com/-/us-magazines-terms-of-use#_DISPUTE_RESOLUTION)) and have reviewed the [Privacy Notice](https://www.hearst.com/-/us-magazines-privacy-notice).
-
-This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
-
-### Thanks for joining us!
-
-Your newsletter is on the way.
-
-Close
-
-![x](https://www.harpersbazaar.com/_assets/design-tokens/fre/static/icons/close.38e3324.svg)
 
 ![Close](https://www.harpersbazaar.com/_assets/design-tokens/fre/static/icons/close.38e3324.svg?primary=rgb(255%252C%2520255%252C%2520255))
 

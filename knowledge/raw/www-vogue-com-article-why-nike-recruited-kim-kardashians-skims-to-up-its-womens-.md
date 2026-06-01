@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-05-25T09:53:19.508941+00:00
+scraped_at: 2026-06-01T11:13:25.795932+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -21,21 +21,29 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 
 LATEST ON VOGUE
 
-[![Behind the scenes at the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a0b7382eda24b02d657d563/1:1/w_640%2Cc_limit/undefined)\\
+[![How to Make an Entry-Level It-Bag](https://assets.vogue.com/photos/6a0ee3a3d8c9660abf10ce66/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Behind the scenes at the Vogue Business Global Summit: Chantilly](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_popular4-2 "Behind the scenes at the Vogue Business Global Summit: Chantilly")
+How to Make an Entry-Level It-Bag](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_popular4-2 "How to Make an Entry-Level It-Bag")
 
-[![Lessons from the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a122ebc3de4a897aff16c75/1:1/w_640%2Cc_limit/undefined)\\
+[![Meryll Rogge and Stefano Rosso on Marni’s New Era](https://assets.vogue.com/photos/6a19988bddbfd31edd615729/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Lessons from the Vogue Business Global Summit: Chantilly](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2 "Lessons from the Vogue Business Global Summit: Chantilly")
+Meryll Rogge and Stefano Rosso on Marni’s New Era](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2 "Meryll Rogge and Stefano Rosso on Marni’s New Era")
 
-[![Shein Finally Confirms Everlane Sale](https://assets.vogue.com/photos/6a1061b3f62f1624efcb0841/1:1/w_640%2Cc_limit/undefined)\\
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a185eb2371cf3ba540bbb40/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Shein Finally Confirms Everlane Sale](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2 "Shein Finally Confirms Everlane Sale")
+The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2 "The Vogue Business Beauty Trend Tracker")
 
-[![Missoni Group Completes Ownership Restructure](https://assets.vogue.com/photos/6a104570a26c99c3162bc8fc/1:1/w_640%2Cc_limit/undefined)\\
+[![With Estée Lauder Companies, 111Skin Is Ready to Grow](https://assets.vogue.com/photos/6a18696e10f7e5ba175fb3b1/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Missoni Group Completes Ownership Restructure](https://www.vogue.com/article/missoni-group-completes-ownership-restructure#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2 "Missoni Group Completes Ownership Restructure")
+With Estée Lauder Companies, 111Skin Is Ready to Grow](https://www.vogue.com/article/with-estee-lauder-companies-111skin-is-ready-to-grow#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2 "With Estée Lauder Companies, 111Skin Is Ready to Grow")
+
+[![The Scoop With Christie’s Henry Bailey: On the Hidden Gem in the London Jewels Auction](https://assets.vogue.com/photos/6a18367502af52e27203cb0f/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Scoop With Christie’s Henry Bailey: On the Hidden Gem in the London Jewels Auction](https://www.vogue.com/article/the-scoop-with-christies-henry-bailey-on-the-hidden-gem-in-the-london-jewels-auction#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2 "The Scoop With Christie’s Henry Bailey: On the Hidden Gem in the London Jewels Auction")
+
+[![Is Phoebe Gates’s Phia the Most Celeb-Backed Shopping Startup of All Time?](https://assets.vogue.com/photos/6a186b5e4590a6e099ca36c6/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Is Phoebe Gates’s Phia the Most Celeb-Backed Shopping Startup of All Time?](https://www.vogue.com/article/is-phoebe-gatess-phia-the-most-celeb-backed-shopping-startup-of-all-time#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2 "Is Phoebe Gates’s Phia the Most Celeb-Backed Shopping Startup of All Time?")
 
 ArrowArrow
 
@@ -70,7 +78,7 @@ Photos: Courtesy of Nike
 
 Most Popular
 
-- [![Behind the scenes at the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a0b7382eda24b02d657d563/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2)
+- [![How to Make an Entry-Level It-Bag](https://assets.vogue.com/photos/6a0ee3a3d8c9660abf10ce66/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2)
 
 
 
@@ -80,13 +88,13 @@ Most Popular
 
 
 
-Business
+Fashion
 
 
 
 
 
-[Behind the scenes at the Vogue Business Global Summit: Chantilly](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2)
+[How to Make an Entry-Level It-Bag](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2)
 
 
 
@@ -94,9 +102,9 @@ Business
 
 
 
-By Vogue Business in partnership with GXO, Swap, and Diriyah Company
+By Maliha Shoaib
 
-- [![Lessons from the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a122ebc3de4a897aff16c75/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
+- [![Meryll Rogge and Stefano Rosso on Marni’s New Era](https://assets.vogue.com/photos/6a19988bddbfd31edd615729/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -112,7 +120,7 @@ Events
 
 
 
-[Lessons from the _Vogue Business_ Global Summit: Chantilly](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
+[Meryll Rogge and Stefano Rosso on Marni’s New Era](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -120,11 +128,9 @@ Events
 
 
 
-By Vogue Business in partnership with GXO, Swap, and Diriyah Company
+By Nicole Phelps
 
-- [![Shein Finally Confirms Everlane Sale](https://assets.vogue.com/photos/6a1061b3f62f1624efcb0841/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
-
-
+- [![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a185eb2371cf3ba540bbb40/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -132,13 +138,15 @@ By Vogue Business in partnership with GXO, Swap, and Diriyah Company
 
 
 
-Sustainability
+
+
+Beauty
 
 
 
 
 
-[Shein Finally Confirms Everlane Sale](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
+[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -146,7 +154,7 @@ Sustainability
 
 
 
-By Bella Webb
+By Hikmat Mohammed
 
 
 It also signals Nike’s commitment to developing technical products for women. Product innovation has been a pain point for Nike in recent years, Yarbrough says. Hill [acknowledged this](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December’s earnings; it forms the foundation of his turnaround strategy. In partnering with Skims on a joint brand, Nike is able to gain access to womenswear tech to help it rival the Alos and Lululemons of the world, which, Yarbrough says, would otherwise likely take Nike several years to develop, manufacture and scale. “This accelerates that path for Nike to compete with some of these other brands that have been growing rapidly.” It’s a smart shortcut, Hastings-Narayanin says.
@@ -163,7 +171,7 @@ These days, consumers want products that work, experts agree, so emphasis needs 
 
 Most Popular
 
-- [![Behind the scenes at the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a0b7382eda24b02d657d563/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2)
+- [![How to Make an Entry-Level It-Bag](https://assets.vogue.com/photos/6a0ee3a3d8c9660abf10ce66/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2)
 
 
 
@@ -173,13 +181,13 @@ Most Popular
 
 
 
-Business
+Fashion
 
 
 
 
 
-[Behind the scenes at the Vogue Business Global Summit: Chantilly](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2)
+[How to Make an Entry-Level It-Bag](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2)
 
 
 
@@ -187,9 +195,9 @@ Business
 
 
 
-By Vogue Business in partnership with GXO, Swap, and Diriyah Company
+By Maliha Shoaib
 
-- [![Lessons from the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a122ebc3de4a897aff16c75/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
+- [![Meryll Rogge and Stefano Rosso on Marni’s New Era](https://assets.vogue.com/photos/6a19988bddbfd31edd615729/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -205,7 +213,7 @@ Events
 
 
 
-[Lessons from the _Vogue Business_ Global Summit: Chantilly](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
+[Meryll Rogge and Stefano Rosso on Marni’s New Era](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -213,11 +221,9 @@ Events
 
 
 
-By Vogue Business in partnership with GXO, Swap, and Diriyah Company
+By Nicole Phelps
 
-- [![Shein Finally Confirms Everlane Sale](https://assets.vogue.com/photos/6a1061b3f62f1624efcb0841/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
-
-
+- [![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a185eb2371cf3ba540bbb40/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -225,13 +231,15 @@ By Vogue Business in partnership with GXO, Swap, and Diriyah Company
 
 
 
-Sustainability
+
+
+Beauty
 
 
 
 
 
-[Shein Finally Confirms Everlane Sale](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-right-rail_7cbef183-7c54-4718-90b1-e808657619a1_popular4-2_fallback_cral-top2-2)
+[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -239,7 +247,7 @@ Sustainability
 
 
 
-By Bella Webb
+By Hikmat Mohammed
 
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
@@ -264,34 +272,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![Behind the scenes at the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a0b7382eda24b02d657d563/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_popular4-2)
+[![How to Make an Entry-Level It-Bag](https://assets.vogue.com/photos/6a0ee3a3d8c9660abf10ce66/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_popular4-2)
 
-Business
+Fashion
 
-[Behind the scenes at the Vogue Business Global Summit: Chantilly](https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_popular4-2)
+[How to Make an Entry-Level It-Bag](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_popular4-2)
 
-By Vogue Business in partnership with GXO, Swap, and Diriyah Company
+By Maliha Shoaib
 
-[![Lessons from the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a122ebc3de4a897aff16c75/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2)
+[![Meryll Rogge and Stefano Rosso on Marni’s New Era](https://assets.vogue.com/photos/6a19988bddbfd31edd615729/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2)
 
 Events
 
-[Lessons from the _Vogue Business_ Global Summit: Chantilly](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2)
+[Meryll Rogge and Stefano Rosso on Marni’s New Era](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2)
 
-By Vogue Business in partnership with GXO, Swap, and Diriyah Company
+By Nicole Phelps
 
-[![Shein Finally Confirms Everlane Sale](https://assets.vogue.com/photos/6a1061b3f62f1624efcb0841/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2)
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a185eb2371cf3ba540bbb40/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2)
 
-Sustainability
+Beauty
 
-[Shein Finally Confirms Everlane Sale](https://www.vogue.com/article/shein-finally-confirms-everlane-sale#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2)
+[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2)
 
-By Bella Webb
+By Hikmat Mohammed
 
-[![Missoni Group Completes Ownership Restructure](https://assets.vogue.com/photos/6a104570a26c99c3162bc8fc/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/missoni-group-completes-ownership-restructure#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2)
+[![With Estée Lauder Companies, 111Skin Is Ready to Grow](https://assets.vogue.com/photos/6a18696e10f7e5ba175fb3b1/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/with-estee-lauder-companies-111skin-is-ready-to-grow#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2)
 
-Companies
+Skincare
 
-[Missoni Group Completes Ownership Restructure](https://www.vogue.com/article/missoni-group-completes-ownership-restructure#intcid=_vogue-article-bottom-recirc_cbb1e2d5-f956-4f40-99d0-652e2c6e29af_text2vec1_fallback_cral-top2-2)
+[With Estée Lauder Companies, 111Skin Is Ready to Grow](https://www.vogue.com/article/with-estee-lauder-companies-111skin-is-ready-to-grow#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2)
 
 By Hikmat Mohammed
