@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-06-01T11:13:25.795932+00:00
+scraped_at: 2026-06-08T10:21:29.832693+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -18,34 +18,6 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 “We’re energised by the opportunity to build a new brand and shake things up for the next generation of athletes with NikeSkims,” Heidi O’Neill, president of consumer, product and brand, said in a press release. “We will invite even more athletes into sport and movement with product that makes them feel strong and sexy.”
 
 “This partnership is the culmination of that shared vision, delivering product that is meticulously designed to sculpt and perform for every body,” Kardashian said in the release. “Every single detail has been obsessed over and carefully considered. We’re incredibly excited to unveil our first collection this spring.”
-
-LATEST ON VOGUE
-
-[![How to Make an Entry-Level It-Bag](https://assets.vogue.com/photos/6a0ee3a3d8c9660abf10ce66/1:1/w_640%2Cc_limit/undefined)\\
-\\
-How to Make an Entry-Level It-Bag](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_popular4-2 "How to Make an Entry-Level It-Bag")
-
-[![Meryll Rogge and Stefano Rosso on Marni’s New Era](https://assets.vogue.com/photos/6a19988bddbfd31edd615729/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Meryll Rogge and Stefano Rosso on Marni’s New Era](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2 "Meryll Rogge and Stefano Rosso on Marni’s New Era")
-
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a185eb2371cf3ba540bbb40/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2 "The Vogue Business Beauty Trend Tracker")
-
-[![With Estée Lauder Companies, 111Skin Is Ready to Grow](https://assets.vogue.com/photos/6a18696e10f7e5ba175fb3b1/1:1/w_640%2Cc_limit/undefined)\\
-\\
-With Estée Lauder Companies, 111Skin Is Ready to Grow](https://www.vogue.com/article/with-estee-lauder-companies-111skin-is-ready-to-grow#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2 "With Estée Lauder Companies, 111Skin Is Ready to Grow")
-
-[![The Scoop With Christie’s Henry Bailey: On the Hidden Gem in the London Jewels Auction](https://assets.vogue.com/photos/6a18367502af52e27203cb0f/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Scoop With Christie’s Henry Bailey: On the Hidden Gem in the London Jewels Auction](https://www.vogue.com/article/the-scoop-with-christies-henry-bailey-on-the-hidden-gem-in-the-london-jewels-auction#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2 "The Scoop With Christie’s Henry Bailey: On the Hidden Gem in the London Jewels Auction")
-
-[![Is Phoebe Gates’s Phia the Most Celeb-Backed Shopping Startup of All Time?](https://assets.vogue.com/photos/6a186b5e4590a6e099ca36c6/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Is Phoebe Gates’s Phia the Most Celeb-Backed Shopping Startup of All Time?](https://www.vogue.com/article/is-phoebe-gatess-phia-the-most-celeb-backed-shopping-startup-of-all-time#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2 "Is Phoebe Gates’s Phia the Most Celeb-Backed Shopping Startup of All Time?")
-
-ArrowArrow
 
 At first glance, the collaboration might read as antithetical to Hill’s North Star strategy of putting sport at the centre of everything. “Moving forward, we will lead with sport and put the athlete at the centre of every decision,” he [told investors](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December. Where does a partnership with one of the world’s biggest influencers fit in?
 
@@ -76,87 +48,6 @@ And it’s a bigger effort. Previous fashion collabs (Bode, Jacquemus, for insta
 Caitlin Clark and Sha’Carri Richardson feature in Nike’s “So Win” campaign.
 Photos: Courtesy of Nike
 
-Most Popular
-
-- [![How to Make an Entry-Level It-Bag](https://assets.vogue.com/photos/6a0ee3a3d8c9660abf10ce66/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2)
-
-
-
-
-
-
-
-
-
-Fashion
-
-
-
-
-
-[How to Make an Entry-Level It-Bag](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2)
-
-
-
-
-
-
-
-By Maliha Shoaib
-
-- [![Meryll Rogge and Stefano Rosso on Marni’s New Era](https://assets.vogue.com/photos/6a19988bddbfd31edd615729/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-
-
-Events
-
-
-
-
-
-[Meryll Rogge and Stefano Rosso on Marni’s New Era](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-By Nicole Phelps
-
-- [![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a185eb2371cf3ba540bbb40/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-
-
-Beauty
-
-
-
-
-
-[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-By Hikmat Mohammed
-
-
 It also signals Nike’s commitment to developing technical products for women. Product innovation has been a pain point for Nike in recent years, Yarbrough says. Hill [acknowledged this](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December’s earnings; it forms the foundation of his turnaround strategy. In partnering with Skims on a joint brand, Nike is able to gain access to womenswear tech to help it rival the Alos and Lululemons of the world, which, Yarbrough says, would otherwise likely take Nike several years to develop, manufacture and scale. “This accelerates that path for Nike to compete with some of these other brands that have been growing rapidly.” It’s a smart shortcut, Hastings-Narayanin says.
 
 These learnings are likely to bleed out beyond the sub-brand to Nike’s main women’s line, Miller adds. “Nike could use it to inform how it designs the rest of its products for women and take insights based on the data — they get to understand what works and what doesn’t.” (On the flip side, Skims will also gain access to Nike’s more technical activewear tech.)
@@ -168,87 +59,6 @@ Perhaps this is what sportswear giants should have been doing all along. These b
 Looking forward, the new brand bodes well for both parents. For one, women’s interest in sports is on the rise, and it’s rising [beyond wellness](https://www.lsnglobal.com/macro-trends/article/31505/future-forecast-2025-sports-health-wellness), Hastings-Narayanin says. “The global shift towards women pursuing sports not just for wellbeing but for performance and self-optimisation makes this a long-term strategic play, not a passing trend.”
 
 These days, consumers want products that work, experts agree, so emphasis needs to be on quality over hype. “Success today is about truly listening to your audience and creating products and marketing that connect with them, rather than just chasing trends or relying on a big budget,” DelMonte says.
-
-Most Popular
-
-- [![How to Make an Entry-Level It-Bag](https://assets.vogue.com/photos/6a0ee3a3d8c9660abf10ce66/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2)
-
-
-
-
-
-
-
-
-
-Fashion
-
-
-
-
-
-[How to Make an Entry-Level It-Bag](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2)
-
-
-
-
-
-
-
-By Maliha Shoaib
-
-- [![Meryll Rogge and Stefano Rosso on Marni’s New Era](https://assets.vogue.com/photos/6a19988bddbfd31edd615729/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-
-
-Events
-
-
-
-
-
-[Meryll Rogge and Stefano Rosso on Marni’s New Era](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-By Nicole Phelps
-
-- [![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a185eb2371cf3ba540bbb40/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-
-
-Beauty
-
-
-
-
-
-[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-right-rail_fa9b981a-6d89-4b5f-9e27-b7bc198d63b0_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-By Hikmat Mohammed
-
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
 
@@ -272,34 +82,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![How to Make an Entry-Level It-Bag](https://assets.vogue.com/photos/6a0ee3a3d8c9660abf10ce66/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_popular4-2)
+[![How to Sell Now: Vintage and Secondhand](https://assets.vogue.com/photos/6a19913500f1491e81e6dd11/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-sell-vintage-and-secondhand#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_popular4-2)
 
-Fashion
+Executive Reports
 
-[How to Make an Entry-Level It-Bag](https://www.vogue.com/article/how-to-make-an-entry-level-it-bag#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_popular4-2)
+[How to Sell Now: Vintage and Secondhand](https://www.vogue.com/article/how-to-sell-vintage-and-secondhand#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_popular4-2)
 
-By Maliha Shoaib
+By Vogue Business
 
-[![Meryll Rogge and Stefano Rosso on Marni’s New Era](https://assets.vogue.com/photos/6a19988bddbfd31edd615729/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2)
+[![Register Now | Introducing How to Sell Now, Live Webinar](https://assets.vogue.com/photos/6a1d5d462728ad0efddee984/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/introducing-how-to-sell-now-live-webinar#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_popular4-2)
 
 Events
 
-[Meryll Rogge and Stefano Rosso on Marni’s New Era](https://www.vogue.com/article/meryll-rogge-and-stefano-rosso-on-marnis-new-era#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2)
+[Register Now \| Introducing How to Sell Now, Live Webinar](https://www.vogue.com/article/introducing-how-to-sell-now-live-webinar#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_popular4-2)
 
-By Nicole Phelps
+By Vogue Business Team
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a185eb2371cf3ba540bbb40/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2)
+[![Carven Taps Kai Nesselrath as Design Director](https://assets.vogue.com/photos/6a228be3d9a30ef15ec224c7/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/carven-taps-kai-nesselrath-as-design-director#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_cral-top2-2)
 
-Beauty
+Fashion
 
-[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2)
+[Carven Taps Kai Nesselrath as Design Director](https://www.vogue.com/article/carven-taps-kai-nesselrath-as-design-director#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_cral-top2-2)
 
-By Hikmat Mohammed
+By Laure Guilbault
 
-[![With Estée Lauder Companies, 111Skin Is Ready to Grow](https://assets.vogue.com/photos/6a18696e10f7e5ba175fb3b1/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/with-estee-lauder-companies-111skin-is-ready-to-grow#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2)
+[![SPF Is Finally Getting Its Time in the Sun. What’s Next?](https://assets.vogue.com/photos/6a22e9ee921551f9ac3807a3/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/spf-is-finally-getting-its-time-in-the-sun-whats-next#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_cral-top2-2)
 
 Skincare
 
-[With Estée Lauder Companies, 111Skin Is Ready to Grow](https://www.vogue.com/article/with-estee-lauder-companies-111skin-is-ready-to-grow#intcid=_vogue-article-bottom-recirc-bkt-a_f3885408-d7fb-4817-96bd-87788277bb14_text2vec1_fallback_cral-top2-2)
+[SPF Is Finally Getting Its Time in the Sun. What’s Next?](https://www.vogue.com/article/spf-is-finally-getting-its-time-in-the-sun-whats-next#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_cral-top2-2)
 
-By Hikmat Mohammed
+By Joe Bobowicz

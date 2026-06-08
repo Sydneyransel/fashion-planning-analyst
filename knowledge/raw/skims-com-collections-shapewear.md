@@ -2,7 +2,7 @@
 url: https://skims.com/collections/shapewear
 source_type: skims.com
 title: Shapewear for Women - Sculpting Solutions | SKIMS
-scraped_at: 2026-06-01T11:12:52.731124+00:00
+scraped_at: 2026-06-08T10:20:53.827499+00:00
 ---
 
 [Skip to main content](https://skims.com/collections/shapewear#main-content)
@@ -77,27 +77,6 @@ new
 
 Light
 
-[![COOL SHAPEWEAR CAPRI | CLAY ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BO-SHO-9743W-CLY-OA-SKIMS-SHAPEWEAR_2327-FR.webp?v=1779919710&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
-\\
-![COOL SHAPEWEAR CAPRI | CLAY FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BO-SHO-9743W-CLY-FLT.jpg?v=1779919405&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cool-shapewear-capri-clay "")
-
-- clay
-
-- sienna
-
-- cocoa
-
-- onyx
-
-
-[COOL SHAPEWEAR\\
-**CAPRI** \\
-$88](https://skims.com/products/cool-shapewear-capri-clay "")
-
-new
-
-Light
-
 [![COOL SHAPEWEAR MID THIGH BODYSUIT | CLAY ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BD-ONS-9742W-CLY-OA-SKIMS-SHAPEWEAR_2253-FR.webp?v=1779919707&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
 \\
 ![COOL SHAPEWEAR MID THIGH BODYSUIT | CLAY FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BD-ONS-9742W-CLY-FLT.jpg?v=1779919410&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cool-shapewear-mid-thigh-bodysuit-clay "")
@@ -114,6 +93,27 @@ Light
 [COOL SHAPEWEAR\\
 **MID THIGH BODYSUIT** \\
 $98](https://skims.com/products/cool-shapewear-mid-thigh-bodysuit-clay "")
+
+new
+
+Light
+
+[![COOL SHAPEWEAR CAPRI | CLAY ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BO-SHO-9743W-CLY-OA-SKIMS-SHAPEWEAR_2327-FR.webp?v=1779919710&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
+\\
+![COOL SHAPEWEAR CAPRI | CLAY FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BO-SHO-9743W-CLY-FLT.jpg?v=1779919405&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cool-shapewear-capri-clay "")
+
+- clay
+
+- sienna
+
+- cocoa
+
+- onyx
+
+
+[COOL SHAPEWEAR\\
+**CAPRI** \\
+$88](https://skims.com/products/cool-shapewear-capri-clay "")
 
 best seller
 
@@ -141,29 +141,6 @@ Strong
 [SEAMLESS SCULPT\\
 **THONG BODYSUIT** \\
 $70](https://skims.com/products/seamless-sculpt-thong-bodysuit-onyx "")
-
-Light
-
-[![SKIMS BODY CORE SCULPT SHORTIE | CLAY ON A MODEL FRONT VIEW](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BO-SHO-11440W-CLY-LC-SKIMS-SHAPEWEAR_0007-FR.webp?v=1776442703&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
-\\
-![SKIMS BODY CORE SCULPT SHORTIE | CLAY FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BO-SHO-11440W-CLY-FLT_ddd8c01c-5e47-4718-8afa-9e3034b534d8.jpg?v=1776883342&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-body-core-sculpt-shortie-clay "")
-
-- clay
-
-- sand
-
-- sienna
-
-- jasper
-
-- cocoa
-
-- onyx
-
-
-[SKIMS BODY\\
-**CORE SCULPT SHORTIE** \\
-$74](https://skims.com/products/skims-body-core-sculpt-shortie-clay "")
 
 best seller
 
@@ -217,6 +194,29 @@ Extra Strong
 **CORE SCULPT PLUNGE THONG BODYSUIT** \\
 $94](https://skims.com/products/skims-body-core-sculpt-plunge-thong-bodysuit-onyx "")
 
+Light
+
+[![SKIMS BODY CORE SCULPT SHORTIE | CLAY ON A MODEL FRONT VIEW](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BO-SHO-11440W-CLY-LC-SKIMS-SHAPEWEAR_0007-FR.webp?v=1776442703&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
+\\
+![SKIMS BODY CORE SCULPT SHORTIE | CLAY FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BO-SHO-11440W-CLY-FLT_ddd8c01c-5e47-4718-8afa-9e3034b534d8.jpg?v=1776883342&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-body-core-sculpt-shortie-clay "")
+
+- clay
+
+- sand
+
+- sienna
+
+- jasper
+
+- cocoa
+
+- onyx
+
+
+[SKIMS BODY\\
+**CORE SCULPT SHORTIE** \\
+$74](https://skims.com/products/skims-body-core-sculpt-shortie-clay "")
+
 Mid
 
 [![SKIMS BODY SCOOP LOW BACK THONG BODYSUIT | CLAY ON A MODEL BACK VIEW @](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BD-THG-11443W-CLY-LC-SKIMS-SHAPEWEAR_0079-BK_dcaf29c2-3780-487f-9771-d681bcd08b81.webp?v=1776442385&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
@@ -240,11 +240,11 @@ Mid
 **SCOOP LOW BACK THONG BODYSUIT** \\
 $88](https://skims.com/products/skims-body-scoop-low-back-thong-bodysuit-clay "")
 
-Light
+Strong
 
-[![SKIMS BODY LEFT LEG SOLUTION SHORT | CLAY ON A MODEL FRONT VIEW @](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BO-SHO-11442W-CLY-LC-SKIMS-SHAPEWEAR_0008-FR.webp?v=1776442790&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
+[![SEAMLESS SCULPT STRAPLESS THONG BODYSUIT | CLAY ON A MODEL FRONT VIEW](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BD-THG-2913-CLY-HA-SKIMS-SHAPEWEAR_0002-FR.jpg?v=1740086748&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
 \\
-![SKIMS BODY LEFT LEG SOLUTION SHORT | CLAY FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BO-SHO-11442W-CLY-FLT_b0b92983-9222-4fa3-9ed0-d6ddcd47ca0c.jpg?v=1776883332&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-body-left-leg-solution-short-clay "")
+![SEAMLESS SCULPT STRAPLESS THONG BODYSUIT | CLAY (SHAPEWEAR BODYSUITS) LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-THG-2913-CLY.jpg?v=1740086748&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/seamless-sculpt-strapless-thong-bodysuit-clay "")
 
 - clay
 
@@ -259,9 +259,9 @@ Light
 - onyx
 
 
-[SKIMS BODY\\
-**LEFT LEG SOLUTION SHORT** \\
-$74](https://skims.com/products/skims-body-left-leg-solution-short-clay "")
+[SEAMLESS SCULPT\\
+**STRAPLESS THONG BODYSUIT** \\
+$70](https://skims.com/products/seamless-sculpt-strapless-thong-bodysuit-clay "")
 
 best seller
 
@@ -288,11 +288,11 @@ Extra Strong
 **CORE SCULPT BUTT LIFTING BRIEF** \\
 $74](https://skims.com/products/skims-body-core-sculpt-butt-lifting-brief-clay "")
 
-Strong
+Light
 
-[![SEAMLESS SCULPT STRAPLESS THONG BODYSUIT | CLAY ON A MODEL FRONT VIEW](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BD-THG-2913-CLY-HA-SKIMS-SHAPEWEAR_0002-FR.jpg?v=1740086748&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
+[![SKIMS BODY LEFT LEG SOLUTION SHORT | CLAY ON A MODEL FRONT VIEW @](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BO-SHO-11442W-CLY-LC-SKIMS-SHAPEWEAR_0008-FR.webp?v=1776442790&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
 \\
-![SEAMLESS SCULPT STRAPLESS THONG BODYSUIT | CLAY (SHAPEWEAR BODYSUITS) LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-THG-2913-CLY.jpg?v=1740086748&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/seamless-sculpt-strapless-thong-bodysuit-clay "")
+![SKIMS BODY LEFT LEG SOLUTION SHORT | CLAY FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BO-SHO-11442W-CLY-FLT_b0b92983-9222-4fa3-9ed0-d6ddcd47ca0c.jpg?v=1776883332&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-body-left-leg-solution-short-clay "")
 
 - clay
 
@@ -307,9 +307,9 @@ Strong
 - onyx
 
 
-[SEAMLESS SCULPT\\
-**STRAPLESS THONG BODYSUIT** \\
-$70](https://skims.com/products/seamless-sculpt-strapless-thong-bodysuit-clay "")
+[SKIMS BODY\\
+**LEFT LEG SOLUTION SHORT** \\
+$74](https://skims.com/products/skims-body-left-leg-solution-short-clay "")
 
 Mid
 
@@ -342,85 +342,85 @@ $88](https://skims.com/products/skims-body-unlined-plunge-thong-bodysuit-onyx ""
 
 1/2
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRA-BR-UWR-2294-CLY_grande.jpg?v=1711846731&auto=format&q=70&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BODYSUIT-BD-THG-2693-ONX_409519b7-d28c-4d64-af0b-6f2d41dc9b09_grande.jpg?v=1685752452&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
-FITS EVERYBODY\\
+FITS EVERYBODY LACE\\
 \\
-**T-SHIRT BRA** \\
+**CAMI BODYSUIT** \\
 \\
-$54](https://skims.com/products/fits-everybody-t-shirt-bra-clay "")
+$64](https://skims.com/products/fits-everybody-lace-cami-bodysuit-onyx "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-PL-PLG-8711W-ONX-FLT_grande.jpg?v=1751561396&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-SKIMS ULTIMATE\\
-\\
-**SUPER PUSH-UP BRA** \\
-\\
-$68](https://skims.com/products/skims-ultimate-super-push-up-bra-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-SOT-FLT_grande.jpg?v=1739822020&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-COTTON JERSEY\\
-\\
-**FOLDOVER PANT** \\
-\\
-$68](https://skims.com/products/cotton-jersey-foldover-pant-soot "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-1881-CLY_d367fbfd-1b41-43ab-802e-592ed06a79dc_grande.jpg?v=1752524627&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-SKIMS ULTIMATE\\
-\\
-**TEARDROP PUSH-UP BRA** \\
-\\
-$64](https://skims.com/products/skims-ultimate-teardrop-push-up-bra-clay "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-11112W-STT-FLT_grande.jpg?v=1775161412&auto=format&q=70&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5957W-SDF-FLT_d5e21efd-bec1-4502-9d8f-f474d50202ae_grande.jpg?v=1775689939&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
 LIGHTWEIGHT COTTON\\
 \\
-**POINTELLE LACE STRING THONG** \\
+**LACE THONG** \\
 \\
-$10](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-soot-tonal "")
+$12](https://skims.com/products/lightweight-cotton-lace-thong-surf-dainty-floral-print "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PL-PLO-8365W-MRT-FLT_grande.jpg?v=1761857687&auto=format&q=70&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10655W-STT-FLT_3fd90e95-203f-4d72-8d3b-3c6f441d5388_grande.jpg?v=1775691294&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
-COTTON FLEECE\\
+LIGHTWEIGHT COTTON\\
 \\
-**CLASSIC HOODIE** \\
+**WIDE LACE THONG** \\
 \\
-$88$52](https://skims.com/products/cotton-fleece-classic-hoodie-merlot "")
+$12](https://skims.com/products/lightweight-cotton-wide-lace-thong-soot-tonal "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TSH-0649-ONX-FL_grande.jpg?v=1615492274&auto=format&q=70&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-SCP-2690-ONX_219d1370-2212-40d1-a169-928b12961a2b_grande.jpg?v=1705537516&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
-FITS EVERYBODY\\
+FITS EVERYBODY LACE\\
 \\
-**T-SHIRT** \\
+**SCOOP BRALETTE** \\
 \\
-$48](https://skims.com/products/fits-everybody-t-shirt-onyx "")
+$38](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0815-LHG_grande.jpg?v=1714175037&auto=format&q=70&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-NIKE-IQ7158-LNP-1_grande.jpg?v=1778006255&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
-COTTON RIB\\
+NikeSKIMS FOOTWEAR\\
 \\
-**T-SHIRT** \\
+**RIFT MESH** \\
 \\
-$46](https://skims.com/products/cotton-rib-t-shirt-light-heather-grey "")
+$150](https://skims.com/products/nikeskims-footwear-rift-mesh-psychic-pink "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-BRF-3370-ONX_grande.jpg?v=1742584261&auto=format&q=70&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-8495W-SOT-SW_9cc648f9-29eb-47aa-973a-c2b37bd2990c_grande.jpg?v=1768671970&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+LIGHTWEIGHT COTTON\\
+\\
+**POINTELLE LACE THONG** \\
+\\
+$12](https://skims.com/products/lightweight-cotton-pointelle-lace-thong-soot-tonal "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-TNK-11868W-OBD-FLT_40b3f001-8e88-45e6-bba3-d2ffcc357893_grande.jpg?v=1777069711&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+SMOOTH LAYERS\\
+\\
+**HALTER TOP** \\
+\\
+$54](https://skims.com/products/smooth-layers-halter-top-obsidian "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SHAPEWEAR-BO-SHO-7116W-CLY_grande.jpg?v=1740099697&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+SKIMS BODY\\
+\\
+**CORE SCULPT HIGH-WAISTED SHORT** \\
+\\
+$80](https://skims.com/products/skims-body-core-sculpt-high-waisted-short-clay "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-THG-3371-ONX-F_grande.jpg?v=1742587799&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
 SEAMLESS SCULPT\\
 \\
-**BRIEF BODYSUIT** \\
+**LOW BACK THONG BODYSUIT** \\
 \\
-$72](https://skims.com/products/seamless-sculpt-brief-bodysuit-onyx "")
+$70](https://skims.com/products/seamless-sculpt-low-back-thong-bodysuit-onyx "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-MDT-3372-ONXcopy_grande.jpg?v=1742584779&auto=format&q=70&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-CLY-FLT_grande.jpg?v=1739333853&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
-SEAMLESS SCULPT\\
+SKIMS ULTIMATE\\
 \\
-**MID THIGH BODYSUIT** \\
+**BALCONETTE PUSH-UP BRA** \\
 \\
-$74](https://skims.com/products/seamless-sculpt-mid-thigh-bodysuit-onyx "")
+$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay "")
 
 ## Looking For More?
 
@@ -452,89 +452,89 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-TNK-11868W-OBD-FLT_40b3f001-8e88-45e6-bba3-d2ffcc357893_grande.jpg?v=1777069711&auto=format&q=70&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-SCP-2690-ONX_219d1370-2212-40d1-a169-928b12961a2b_grande.jpg?v=1705537516&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
-SMOOTH LAYERS\\
+FITS EVERYBODY LACE\\
 \\
-**HALTER TOP** \\
+**SCOOP BRALETTE** \\
 \\
-$54](https://skims.com/products/smooth-layers-halter-top-obsidian "")
+$38](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TSH-0649-ONX-FL_grande.jpg?v=1615492274&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**T-SHIRT** \\
-\\
-$48](https://skims.com/products/fits-everybody-t-shirt-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BR-BRF-5963W-BTRT-FLT_6fec5496-f549-4a10-954a-cd299e302add_grande.jpg?v=1775689596&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**LACE BRIEF** \\
-\\
-$14](https://skims.com/products/lightweight-cotton-lace-brief-butter-tonal "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0184-ONXcopy_grande.jpg?v=1713977153&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-SOFT SMOOTHING SEAMLESS\\
-\\
-**T-SHIRT** \\
-\\
-$58](https://skims.com/products/soft-smoothing-seamless-t-shirt-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-BRF-10656W-BTRT-FLT_grande.jpg?v=1775689918&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**WIDE LACE BRIEF** \\
-\\
-$14](https://skims.com/products/lightweight-cotton-wide-lace-brief-butter-tonal "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BODYSUIT-BS-SCN-0294-ONX-FL_824c09f6-9876-4bb4-a738-dbb8089db60b_grande.jpg?v=1773087468&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**SQUARE NECK BODYSUIT** \\
-\\
-$60](https://skims.com/products/fits-everybody-square-neck-bodysuit-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-DTH-0027-ONX-FL_grande.jpg?v=1624298354&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**DIPPED FRONT THONG** \\
-\\
-$18](https://skims.com/products/fits-everybody-dipped-front-thong-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BOXER-BO-BBR-5303M-ONX_COMPOSITE_e87fc299-f789-4732-966d-bbf85fa4b6e5_grande.jpg?v=1730860559&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-SKIMS COTTON\\
-\\
-**MENS 5" BOXER BRIEF 3-PACK** \\
-\\
-$46](https://skims.com/products/skims-cotton-mens-5-inch-boxer-brief-3-pack-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-THG-0028-ONX-FL_grande.jpg?v=1697138190&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**THONG** \\
-\\
-$18](https://skims.com/products/fits-everybody-thong-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SHAPEWEAR-BO-SHO-3364-CLAY_grande.jpg?v=1740086951&auto=format&q=70&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-BRF-3370-ONX_grande.jpg?v=1742584261&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
 SEAMLESS SCULPT\\
 \\
-**HIGH-WAISTED ABOVE THE KNEE SHORT** \\
+**BRIEF BODYSUIT** \\
 \\
-$44](https://skims.com/products/seamless-sculpt-high-waisted-above-the-knee-short-clay "")
+$72](https://skims.com/products/seamless-sculpt-brief-bodysuit-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-SL-TNK-9005W-SIN-FLT_grande.jpg?v=1777409638&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+COTTON JERSEY\\
+\\
+**TUBE TOP** \\
+\\
+$48](https://skims.com/products/cotton-jersey-tube-top-sienna-natural-leopard "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-CLY-FLT_grande.jpg?v=1739333853&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+SKIMS ULTIMATE\\
+\\
+**BALCONETTE PUSH-UP BRA** \\
+\\
+$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0815-LHG_grande.jpg?v=1714175037&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+COTTON RIB\\
+\\
+**T-SHIRT** \\
+\\
+$46](https://skims.com/products/cotton-rib-t-shirt-light-heather-grey "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-SOT-FLT_grande.jpg?v=1739822020&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+COTTON JERSEY\\
+\\
+**FOLDOVER PANT** \\
+\\
+$68](https://skims.com/products/cotton-jersey-foldover-pant-soot "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-1881-CLY_d367fbfd-1b41-43ab-802e-592ed06a79dc_grande.jpg?v=1752524627&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+SKIMS ULTIMATE\\
+\\
+**TEARDROP PUSH-UP BRA** \\
+\\
+$64](https://skims.com/products/skims-ultimate-teardrop-push-up-bra-clay "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-PL-PLG-8711W-ONX-FLT_grande.jpg?v=1751561396&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+SKIMS ULTIMATE\\
+\\
+**SUPER PUSH-UP BRA** \\
+\\
+$68](https://skims.com/products/skims-ultimate-super-push-up-bra-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-EVERYDAYSCULPT-SH-SHO-2152-SIE_grande.jpg?v=1740082574&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+SHEER SEAMLESS\\
+\\
+**HIGH-WAISTED MID THIGH SHORT** \\
+\\
+$38](https://skims.com/products/sheer-seamless-high-waisted-mid-thigh-short-sienna "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SSL-11781W-SOT-FLT_grande.jpg?v=1775253211&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+COTTON JERSEY\\
+\\
+**OFF THE SHOULDER TOP** \\
+\\
+$54](https://skims.com/products/cotton-jersey-off-the-shoulder-top-soot "")
 
 New
 
-![NikeSKIMS](https://skims-sanity.imgix.net/images/hfqi0zm0/production/51437a950ecd84d8c67e674e013ae3222db6430c-212x32.svg?auto=format&w=73&h=10&q=70&ixlib=react-9.11.0)
+![NikeSKIMS](https://skims-sanity.imgix.net/images/hfqi0zm0/production/51437a950ecd84d8c67e674e013ae3222db6430c-212x32.svg?auto=format%2Ccompress&w=73&h=10&q=70)
 
 Swim
 

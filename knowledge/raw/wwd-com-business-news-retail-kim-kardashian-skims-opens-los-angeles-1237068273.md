@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/retail/kim-kardashian-skims-opens-los-angeles-1237068273/
 source_type: wwd.com
 title: Kim Kardashian on Skims' L.A. Store, Nike Collaboration & Skkn by Kim 
-scraped_at: 2026-05-25T09:53:27.930521+00:00
+scraped_at: 2026-06-08T10:21:40.513453+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/retail/kim-kardashian-skims-opens-los-angeles-1237068273/#pagetop)
 
+Business
+
+### [Saks Global CEO’s Goals: $85M in 2026 EBITDA and $9B in GMV by 2030](https://wwd.com/business-news/legal/saks-global-ceo-reorganization-future-plans-1238996497/)
+
 Fashion
 
-### [Cannes Spreads the Wealth With Shared Prizes and Fashion Surprises](https://wwd.com/fashion-news/fashion-features/cannes-2023-fashion-awards-closing-ceremony-highlights-1238979985/)
+### [Carven Confirms Kai Nesselrath as Design Director](https://wwd.com/fashion-news/designer-luxury/carven-kai-nesselrath-design-director-appointment-1238994244/)
 
-Eye
+Business
 
-### [The Contemporary Art Destinations Gallerists and Artists Have on Their Radar](https://wwd.com/eye/lifestyle/best-contemporary-art-destinations-1238926664/)
-
-Eye
-
-### [Notable New Books to Add to Your Summer 2026 Reading List](https://wwd.com/eye/lifestyle/summer-book-reading-list-2026-1238918902/)
+### [G-III CEO Morris Goldfarb Talks Marc Jacobs](https://wwd.com/business-news/financial/g-iii-ceo-marc-jacobs-cultural-relevance-not-cash-cow-1238995216/)
 
 [![Skims in L.A, skims los angeles store](https://wwd.com/wp-content/uploads/2025/03/HERO_7f6aeb.jpg?w=1000&h=563&crop=1)\\
 \\
@@ -59,7 +59,7 @@ View ALL47 Photos](https://wwd.com/fashion-news/fashion-scoops/gallery/skims-ads
 
 **[LOS ANGELES](https://wwd.com/tag/los-angeles/)** — [Skims](https://wwd.com/tag/skims/) has opened doors in Los Angeles.
 
-The new location marks the brand’s ninth U.S. retail store. [The company](https://wwd.com/feature/who-owns-skims-1236845025/) is in growth mode — in the last three weeks alone, [Skims](https://wwd.com/business-news/business-features/fashions-new-wave-digital-skims-quince-1238930332/) has unveiled shops in Cabazon, Calif., (near Palm Springs) and Westfield Garden State Plaza in Paramus, N.J. Thirteen more stores are coming this year, including international expansion, revealed Jens Grede, chief executive officer and cofounder of Skims.
+The new location marks the brand’s ninth U.S. retail store. [The company](https://wwd.com/feature/who-owns-skims-1236845025/) is in growth mode — in the last three weeks alone, [Skims](https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/) has unveiled shops in Cabazon, Calif., (near Palm Springs) and Westfield Garden State Plaza in Paramus, N.J. Thirteen more stores are coming this year, including international expansion, revealed Jens Grede, chief executive officer and cofounder of Skims.
 
 But the focus now is on L.A., home to the brand and to Skims’ cofounder and chief creative officer [Kim Kardashian](https://wwd.com/tag/kim-kardashian/), who lives on the outskirts.
 
@@ -69,23 +69,23 @@ But the focus now is on L.A., home to the brand and to Skims’ cofounder and ch
 
 ### Related Articles
 
-![Olive Young Pasadena rendering ](https://wwd.com/wp-content/uploads/2026/05/OLIVE-YOUNG-Pasadena_3D_Facade-Day.png?w=225&h=225&crop=1)
+![Zegna Summer 2027 Collection](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+
+[Fashion Show Reviews](https://wwd.com/business-news/shows-reviews/)
+
+### [Zegna Brings La Villeggiatura to Malibu for Summer 2027](https://wwd.com/fashion-news/shows-reviews/zegna-summer-2027-malibu-pier-la-villeggiatura-1238998397/)
+
+![William Smolen](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 [Beauty Features](https://wwd.com/business-news/beauty-features/)
 
-### [EXCLUSIVE: Olive Young to Open First U.S. Store in Pasadena, Calif.](https://wwd.com/beauty-industry-news/beauty-features/olive-young-k-beauty-first-us-store-pasadena-1238975284/)
+### [EXCLUSIVE: Caliray Names William Smolen CEO to Drive Next Phase of Growth](https://wwd.com/beauty-industry-news/beauty-features/caliray-william-smolen-ceo-wende-zomnir-1238994991/)
 
-![Gia Coppola, Veronica Leoni and Tracee Ellis Ross](https://wwd.com/wp-content/uploads/2026/05/calvin-klein-dinner-GF-80.jpg?w=225&h=225&crop=1)
-
-[Parties](https://wwd.com/business-news/parties/)
-
-### [Veronica Leoni Toasts Calvin Klein's Maxfield Partnership at Chateau Marmont With Tracee Ellis Ross, Gia Coppola and More](https://wwd.com/eye/parties/calvin-klein-maxfield-los-angeles-dinner-tracee-ellis-ross-1238975025/)
-
-“Having a flagship in [Los Angeles](https://wwd.com/pop-culture/culture-news/carol-herman-ron-herman-california-cool-with-ron-herman-stores-dead-1238974150/) for a brand based in Los Angeles, that is incredibly important, and that’s really a no-brainer,” Grede continued. “That’s a dream and something we wanted to do for a long time.…I think stores are the best way to build and maintain brand awareness and having the opportunity for customers to experience a brand.”
+“Having a flagship in [Los Angeles](https://wwd.com/fashion-news/shows-reviews/hermes-nadege-vanhee-cybulski-fall-2026-los-angeles-show-1238995948/) for a brand based in Los Angeles, that is incredibly important, and that’s really a no-brainer,” Grede continued. “That’s a dream and something we wanted to do for a long time.…I think stores are the best way to build and maintain brand awareness and having the opportunity for customers to experience a brand.”
 
 They scouted L.A. at the same time as New York, where Skims [opened a flagship on Fifth Avenue](https://wwd.com/business-news/business-features/kim-kardashian-jens-grede-skims-flagship-fifth-avenue-retail-strategy-ipo-interview-1236757033/) in December. “The permitting and construction process can vary really greatly between cities,” Grede said of the timing. “And it just happened that New York was first and L.A. second.”
 
-![skims los angeles store](https://wwd.com/wp-content/uploads/2025/03/skims5_FINAL.jpg?w=200)
+![skims los angeles store](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 Skims Courtesy of Skims
 
@@ -95,7 +95,7 @@ The L.A. store — at 8569 West Sunset Boulevard in West Hollywood — is near S
 
 “It’s such a powerful piece and really adds to the immersive experience we wanted to create,” Kardashian told WWD in an exclusive statement. “Personally, the design feels like an extension of my own aesthetic. It’s modern, clean and sophisticated, but with warmth and accessibility, which is exactly what I wanted. Working with Rafael was amazing — we really got to collaborate on every detail, from the colors to the layout, to make sure it felt like Skims in every way. We wanted it to feel like a place where people could truly experience the brand.”
 
-![skims los angeles store](https://wwd.com/wp-content/uploads/2025/03/skims19_FINAL-1.jpg?w=200)
+![skims los angeles store](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 Skims Courtesy of Skims
 
@@ -103,7 +103,7 @@ Physical retail, including wholesale partners, counts for 20 percent of the bran
 
 Launching with shapewear, Skims has become a lifestyle brand — one that plans to introduce a beauty category following Skims’ acquisition of Skkn by Kim. Skkn by Kim won’t be available under Skims, however, Grede noted. “We are not going to be continuing the Skkn by Kim brand that Coty was doing. We are relaunching the categories under Skims.”
 
-![skims los angeles store](https://wwd.com/wp-content/uploads/2025/03/skims2_FINAL.jpg?w=200)
+![skims los angeles store](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 Skims Courtesy of Skims
 
@@ -113,7 +113,7 @@ Skims Courtesy of Skims
 
 Of landing on Sunset Boulevard in L.A., Kardashian said: “It’s not only iconic, but it has this incredible energy — it brings together locals, tourists and people from all different walks of life. That mix is what makes L.A. so special, and we wanted our store to be in the heart of it all.”
 
-![skims los angeles store](https://wwd.com/wp-content/uploads/2025/03/skims10_FINAL.jpg?w=200)
+![skims los angeles store](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 Skims Courtesy of Skims
 
@@ -125,17 +125,34 @@ It’s “the first subbrand for Nike since Jordan,” Grede said. “So it’s 
 
 ### [Every Celebrity Skims Campaign: Donovan Mitchell, Patrick Schwarzenegger, Abby Champion and More \[PHOTOS\]](https://wwd.com/fashion-news/fashion-scoops/gallery/skims-ads-photos-1236435123/)
 
-[![Kim Kardashian on Skims' L.A. Store, Nike Collaboration & Skkn by Kim](https://wwd.com/wp-content/uploads/2025/03/skims-celeb-campaigns-photosa.jpg?w=683)\\
+[![Kim Kardashian on Skims' L.A. Store, Nike Collaboration & Skkn by Kim](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)\\
 \\
-![Kim Kardashian on Skims' L.A. Store, Nike Collaboration & Skkn by Kim](https://wwd.com/wp-content/uploads/2025/03/skims-celeb-campaigns-photosb.jpg?w=683)\\
+![Kim Kardashian on Skims' L.A. Store, Nike Collaboration & Skkn by Kim](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)\\
 \\
-![Kim Kardashian on Skims' L.A. Store, Nike Collaboration & Skkn by Kim](https://wwd.com/wp-content/uploads/2025/03/skims-celeb-campaigns-photosd.jpg?w=800)\\
+![Kim Kardashian on Skims' L.A. Store, Nike Collaboration & Skkn by Kim](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)\\
 \\
 View Gallery](https://wwd.com/fashion-news/fashion-scoops/gallery/skims-ads-photos-1236435123/)
 
-![skims los angeles store](https://wwd.com/wp-content/uploads/2025/03/skims14_FINAL.jpg?w=200)
+![skims los angeles store](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 Skims Courtesy of Skims
+
+content frame
+
+# An error has occurred
+
+TO READ THE FULL STORY
+
+Subscribe Now
+
+Log In
+
+
+![WWD Logo](https://vx.wwd.com/ml/cropped_RAI29Fg3pu_1_s6r5gb.png)
+
+This Article is Exclusive to Archive Subscribers
+
+[![](https://wwd.com/wp-content/uploads/2024/04/WWD_Archive_Paywall_Image.jpeg)](https://subscribe.wwd.com/archive/?tpcc=bau-pw&_ptid=%7Bkpdx%7DAAAAzXVhvMfzgAoKUkFJMjlGZzNwdRIQbXE1Mjl0ZGszaWoxNm84MhoMRVhZWUQzVDJCWkM2IiUxODA1NTBnMGVnLTAwMDAzN2w2bzI5azAyanMyNnJuZTN2bXJrKhdzaG93T2ZmZXJTTU9NVVBIWFhWN044MTABOgxPVEZSRUYwUFJLNjRCDU9UVkdCVkRNTkdWQlhSEnYtgQDwKHM2MGkwOTZtNVoOMTk1LjY0LjExOS4yMTFiA2RsY2iz0p_RBnA3eAyCAQxPRlNUTFRHM0RDVFo)
 
 [WWD](https://wwd.com/ "WWD")
 
@@ -143,31 +160,9 @@ Newsletters
 
 Sign up for WWD news straight to your inbox every day
 
-[Sign up](https://cloud.email.wwd.com/signup/)
+[Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![best amazon memorial day sale shoes](https://wwd.com/wp-content/uploads/2026/05/best-amazon-memorial-day-sale-shoes.png?w=1000)](https://wwd.com/shop/shop-shoes/best-amazon-memorial-day-sale-deals-fashion-shoes-sneakers-1238979777/)
-
-
-
-
-
-
-
-
-
-### [Amazon’s Memorial Day Sale Offers Up to 58% Off Nike, Cole Haan, UGG and More Summer and Travel-Ready Styles](https://wwd.com/shop/shop-shoes/best-amazon-memorial-day-sale-deals-fashion-shoes-sneakers-1238979777/)
-
-
-
-  - [Shop Shoes](https://wwd.com/business-news/shop-shoes/)
-
-  - By
-
-
-    [Tim Chan](https://wwd.com/wwd-masthead/tchanspy/)
-
-
-- [![Falconeri's new Madison Avenue boutique.](https://wwd.com/wp-content/uploads/2026/05/9J2A5134-1.jpg?w=1024)](https://wwd.com/fashion-news/designer-luxury/falconeri-madison-avenue-boutique-new-openings-boston-chicago-this-year-1238939517/)
+- [![The New School](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/fashion-news/fashion-scoops/the-new-school-layoffs-job-cuts-87-people-1238997950/)
 
 
 
@@ -177,31 +172,75 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Falconeri Opens Madison Avenue Boutique, Plans New Openings in Boston and Chicago This Year](https://wwd.com/fashion-news/designer-luxury/falconeri-madison-avenue-boutique-new-openings-boston-chicago-this-year-1238939517/)
+### [The New School Reduces Staff by 87 People](https://wwd.com/fashion-news/fashion-scoops/the-new-school-layoffs-job-cuts-87-people-1238997950/)
 
 
 
-  - [Designer and Luxury](https://wwd.com/business-news/designer-luxury/)
+  - [Fashion Scoops](https://wwd.com/business-news/fashion-scoops/)
 
   - By
 
 
-    [Lisa Lockwood](https://wwd.com/wwd-masthead/lisa-lockwood/)
+    [Rosemary Feitelberg](https://wwd.com/wwd-masthead/rosemary-feitelberg/)
 
 
-[![Kim Kardashian on Skims' L.A. Store, Nike Collaboration & Skkn by Kim](https://wwd.com/wp-content/uploads/2026/02/nicky.png?crop=0px%2C0px%2C2678px%2C1499px&resize=910%2C511)](https://wwd.com/video/getting-ready-for-marc-jacobs-2026-with-nicky-hilton/)
+- [![Lacoste Pedder Building Hong Kong](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/fashion-features/lacoste-hong-kong-flagship-opening-pedder-building-1238980883/)
 
-### Getting Ready for Marc Jacobs 2026 with Nicky Hilton
 
-[![diane lane at the premiere of feud capote vs the swans, red carpet interview](https://wwd.com/wp-content/uploads/2024/01/diane-lane-feud-capote-vs-the-swans.jpg?w=260&h=150&crop=1)](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
+
+
+
+
+
+
+
+### [EXCLUSIVE: Lacoste Nods to Hong Kong’s Neons and Skyline With New Flagship](https://wwd.com/business-news/fashion-features/lacoste-hong-kong-flagship-opening-pedder-building-1238980883/)
+
+
+
+  - [Fashion Features](https://wwd.com/business-news/fashion-features/)
+
+  - By
+
+
+    [Lily Templeton](https://wwd.com/wwd-masthead/lily-templeton/)
+
+
+- [![A look from Conner Ives' fall 2026 collection, which showed at London Fashion Week in February.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/fashion-news/fashion-features/conner-ives-tolu-coker-six-designers-bfc-fashion-trust-1238994077/)
+
+
+
+
+
+
+
+
+
+### [Conner Ives, Tolu Coker, Patrick McDowell Among Six Designers to Scoop BFC Fashion Trust Awards](https://wwd.com/fashion-news/fashion-features/conner-ives-tolu-coker-six-designers-bfc-fashion-trust-1238994077/)
+
+
+
+  - [Fashion Features](https://wwd.com/business-news/fashion-features/)
+
+  - By
+
+
+    [Samantha Conti](https://wwd.com/wwd-masthead/samantha-conti/)
+
+
+[![Kim Kardashian on Skims' L.A. Store, Nike Collaboration & Skkn by Kim](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/getting-ready-for-marc-jacobs-2026-with-nicky-hilton/)
+
+### Getting Ready for Marc Jacobs 2026 with Nicky Hilton
+
+[![diane lane at the premiere of feud capote vs the swans, red carpet interview](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
 
 ### ['Feud: Capote Vs. The Swans' Stars Talk Costumes and Society](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
 
-[![Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/wp-content/uploads/2023/05/Kerry-Washington-And-Michael-Kors.jpg?w=260&h=150&crop=1)](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
+[![Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
 
 ### [Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
 
-[![WWD style director Alex Badia and FN style director Shannon Adducci discuss the versatility of outerwear.](https://wwd.com/wp-content/uploads/2022/11/head-to-toe-outerwear.jpg?w=260&h=150&crop=1)](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
+[![WWD style director Alex Badia and FN style director Shannon Adducci discuss the versatility of outerwear.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
 
 ### [Head to Toe: How to Style Outerwear for Everywhere](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
 
@@ -523,3 +562,5 @@ Log In Sign Up
   - [Shoes](https://wwd.com/shop/shop-shoes/)
 
 ad
+
+reCAPTCHA

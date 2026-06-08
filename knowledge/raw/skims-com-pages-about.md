@@ -2,7 +2,7 @@
 url: https://skims.com/pages/about
 source_type: skims.com
 title: About | SKIMS
-scraped_at: 2026-06-01T11:12:48.997232+00:00
+scraped_at: 2026-06-08T10:20:49.571045+00:00
 ---
 
 [Skip to main content](https://skims.com/pages/about#main-content)
@@ -25,21 +25,29 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-AP-PNT-1384-SOT_grande.jpg?v=1714002371&auto=format&q=70&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-NIKE-IQ7158-LNP-1_grande.jpg?v=1778006255&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
-COTTON JERSEY\\
+NikeSKIMS FOOTWEAR\\
 \\
-**STRAIGHT LEG PANT** \\
+**RIFT MESH** \\
 \\
-$68](https://skims.com/products/cotton-jersey-straight-leg-pant-soot "")
+$150](https://skims.com/products/nikeskims-footwear-rift-mesh-psychic-pink "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRA-BR-WRL-1891-CLY_grande.jpg?v=1753901702&auto=format&q=70&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAN-3208-CLY_1_grande.jpg?v=1752527526&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
-WIRELESS FORM\\
+SKIMS ULTIMATE\\
 \\
-**PUSH-UP PLUNGE BRA** \\
+**STRAPLESS PUSH-UP BRA** \\
 \\
-$54](https://skims.com/products/wireless-form-push-up-plunge-bra-clay "")
+$64](https://skims.com/products/skims-ultimate-strapless-push-up-bra-clay "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BAN-3151-ONX_grande.jpg?v=1714671181&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+FITS EVERYBODY\\
+\\
+**STRAPLESS BRA** \\
+\\
+$54](https://skims.com/products/fits-everybody-strapless-bra-onyx "")
 
 [![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-1881-CLY_d367fbfd-1b41-43ab-802e-592ed06a79dc_grande.jpg?v=1752524627&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
@@ -49,65 +57,57 @@ SKIMS ULTIMATE\\
 \\
 $64](https://skims.com/products/skims-ultimate-teardrop-push-up-bra-clay "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-2293-ONX_grande.jpg?v=1691774652&auto=format&q=70&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/BR-TRI-0024-ONX-FL_grande.jpg?v=1711845815&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
 FITS EVERYBODY\\
+\\
+**TRIANGLE BRALETTE** \\
+\\
+$34](https://skims.com/products/fits-everybody-triangle-bralette-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-PLG-2632-CLY_grande.jpg?v=1753904348&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+WIRELESS FORM\\
+\\
+**SUPER PUSH-UP BRA** \\
+\\
+$58](https://skims.com/products/wireless-form-super-push-up-bra-clay "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TSH-0649-ONX-FL_grande.jpg?v=1615492274&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+FITS EVERYBODY\\
+\\
+**T-SHIRT** \\
+\\
+$48](https://skims.com/products/fits-everybody-t-shirt-onyx "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UNL-10812W-CMN-FLT_grande.jpg?v=1777066737&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+EVERYDAY COTTON\\
 \\
 **UNLINED DEMI BRA** \\
 \\
-$46](https://skims.com/products/fits-everybody-unlined-demi-bra-onyx "")
+$48](https://skims.com/products/everyday-cotton-unlined-demi-bra-carmine "")
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-11112W-STT-FLT_grande.jpg?v=1775161412&auto=format&q=70&ixlib=react-9.11.0)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-PNS-5752W-BMMA_grande.jpg?v=1768675042&auto=format&q=70&ixlib=react-9.11.0)\\
+\\
+SKIMS SLEEP\\
+\\
+**LONG SLEEVE BUTTON UP SET** \\
+\\
+$88$61](https://skims.com/products/skims-sleep-long-sleeve-button-up-set-bloom-mini-multi-animal "")
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-8495W-SOT-SW_9cc648f9-29eb-47aa-973a-c2b37bd2990c_grande.jpg?v=1768671970&auto=format&q=70&ixlib=react-9.11.0)\\
 \\
 LIGHTWEIGHT COTTON\\
 \\
-**POINTELLE LACE STRING THONG** \\
+**POINTELLE LACE THONG** \\
 \\
-$10](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-soot-tonal "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHORT-SH-SHO-0299-CLY-FL-FRONT_grande.jpg?v=1740083658&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-SHEER SCULPT\\
-\\
-**LOW BACK SHORT** \\
-\\
-$58](https://skims.com/products/sheer-sculpt-low-back-short-clay "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/BR-SCN-0025-ONX-FL_grande.jpg?v=1711846398&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**SCOOP BRALETTE** \\
-\\
-$34](https://skims.com/products/fits-everybody-scoop-bralette-onyx "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-ST-SST-5759W-MHM-FLT_1_grande.jpg?v=1768614306&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-SOFT LOUNGE\\
-\\
-**SHORT SLEEP SET** \\
-\\
-$110$77](https://skims.com/products/soft-lounge-short-sleep-set-mica-mini-heart-halfdrop "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-CLY-FLT_grande.jpg?v=1739333853&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-SKIMS ULTIMATE\\
-\\
-**BALCONETTE PUSH-UP BRA** \\
-\\
-$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BODYSUIT-BD-THG-2693-ONX_409519b7-d28c-4d64-af0b-6f2d41dc9b09_grande.jpg?v=1685752452&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY LACE\\
-\\
-**CAMI BODYSUIT** \\
-\\
-$64](https://skims.com/products/fits-everybody-lace-cami-bodysuit-onyx "")
+$12](https://skims.com/products/lightweight-cotton-pointelle-lace-thong-soot-tonal "")
 
 New
 
-![NikeSKIMS](https://skims-sanity.imgix.net/images/hfqi0zm0/production/51437a950ecd84d8c67e674e013ae3222db6430c-212x32.svg?auto=format&w=73&h=10&q=70&ixlib=react-9.11.0)
+![NikeSKIMS](https://skims-sanity.imgix.net/images/hfqi0zm0/production/51437a950ecd84d8c67e674e013ae3222db6430c-212x32.svg?auto=format%2Ccompress&w=73&h=10&q=70)
 
 Swim
 
