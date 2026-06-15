@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-06-08T10:21:29.832693+00:00
+scraped_at: 2026-06-15T11:49:30.555598+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -82,34 +82,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![How to Sell Now: Vintage and Secondhand](https://assets.vogue.com/photos/6a19913500f1491e81e6dd11/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-sell-vintage-and-secondhand#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_popular4-2)
+[![Is There a Business Case for Closing Fitting Rooms?](https://assets.vogue.com/photos/6a282477c6e64bcdf5b55dbb/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/is-there-a-business-case-for-closing-fitting-rooms#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_popular4-2)
 
-Executive Reports
+Sustainability
 
-[How to Sell Now: Vintage and Secondhand](https://www.vogue.com/article/how-to-sell-vintage-and-secondhand#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_popular4-2)
+[Is There a Business Case for Closing Fitting Rooms?](https://www.vogue.com/article/is-there-a-business-case-for-closing-fitting-rooms#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_popular4-2)
 
-By Vogue Business
+By Sophie Benson
 
-[![Register Now | Introducing How to Sell Now, Live Webinar](https://assets.vogue.com/photos/6a1d5d462728ad0efddee984/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/introducing-how-to-sell-now-live-webinar#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_popular4-2)
+[![Inside the Cartier Women’s Initiative in Bangkok](https://assets.vogue.com/photos/6a2bc4ff92c2e80c38f8f4ae/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-cartier-womens-initiative-in-bangkok#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_popular4-2)
 
-Events
+Companies
 
-[Register Now \| Introducing How to Sell Now, Live Webinar](https://www.vogue.com/article/introducing-how-to-sell-now-live-webinar#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_popular4-2)
-
-By Vogue Business Team
-
-[![Carven Taps Kai Nesselrath as Design Director](https://assets.vogue.com/photos/6a228be3d9a30ef15ec224c7/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/carven-taps-kai-nesselrath-as-design-director#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_cral-top2-2)
-
-Fashion
-
-[Carven Taps Kai Nesselrath as Design Director](https://www.vogue.com/article/carven-taps-kai-nesselrath-as-design-director#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_cral-top2-2)
+[Inside the Cartier Women’s Initiative in Bangkok](https://www.vogue.com/article/inside-the-cartier-womens-initiative-in-bangkok#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_popular4-2)
 
 By Laure Guilbault
 
-[![SPF Is Finally Getting Its Time in the Sun. What’s Next?](https://assets.vogue.com/photos/6a22e9ee921551f9ac3807a3/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/spf-is-finally-getting-its-time-in-the-sun-whats-next#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_cral-top2-2)
+[![What Happened to Refillable Beauty?](https://assets.vogue.com/photos/6a2c03ecb374afe0f2c8e480/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/what-happened-to-refillable-beauty#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_cral-top2-2)
 
-Skincare
+Sustainability
 
-[SPF Is Finally Getting Its Time in the Sun. What’s Next?](https://www.vogue.com/article/spf-is-finally-getting-its-time-in-the-sun-whats-next#intcid=_vogue-article-bottom-recirc_0d87722c-785e-4bd7-9fca-9026f60979f1_text2vec1_fallback_cral-top2-2)
+[What Happened to Refillable Beauty?](https://www.vogue.com/article/what-happened-to-refillable-beauty#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_cral-top2-2)
 
-By Joe Bobowicz
+By Bella Webb
+
+[![Isaac Mizrahi Is Target’s First Creative Director at Large](https://assets.vogue.com/photos/6a2bc081b374afe0f2c8e2bc/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/isaac-mizrahi-is-targets-first-creative-director-at-large#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_cral-top2-2)
+
+Creative Directors
+
+[Isaac Mizrahi Is Target’s First Creative Director at Large](https://www.vogue.com/article/isaac-mizrahi-is-targets-first-creative-director-at-large#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_cral-top2-2)
+
+By Hilary Milnes

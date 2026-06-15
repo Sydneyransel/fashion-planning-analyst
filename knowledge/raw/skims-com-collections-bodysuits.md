@@ -2,7 +2,7 @@
 url: https://skims.com/collections/bodysuits
 source_type: skims.com
 title: Bodysuits - Long Sleeve, Mock Neck & Thong Bodysuits | SKIMS
-scraped_at: 2026-06-08T10:21:02.805898+00:00
+scraped_at: 2026-06-15T11:49:06.192926+00:00
 ---
 
 [Skip to main content](https://skims.com/collections/bodysuits#main-content)
@@ -11,13 +11,13 @@ scraped_at: 2026-06-08T10:21:02.805898+00:00
 
 Shop SKIMS women’s bodysuits: long sleeve, thong, t-shirt bodysuits & more
 
-- [![A MODEL POSES WEARING SKIMS CLOTHING](https://skims-sanity.imgix.net/images/hfqi0zm0/production/ceca25dbb624a102e75647ff51c7dcee435abd01-960x1200.webp?auto=format&w=150&h=188&q=90&ixlib=react-9.11.0)\\
+- [![A MODEL POSES WEARING SKIMS CLOTHING](https://skims-sanity.imgix.net/images/hfqi0zm0/production/099d2d39f7ddc16bb2d67ae09b3f6d9e705b4806-960x1200.webp?auto=format&w=150&h=188&q=90&ixlib=react-9.11.0)\\
 \\
 All Tops & Bodysuits](https://skims.com/collections/tops-bodysuits "All Tops & Bodysuits")
 - [![A MODEL POSES WEARING SKIMS](https://skims-sanity.imgix.net/images/hfqi0zm0/production/fbaaf37de4f3db8bc4d9b7d46ec21ccf2adf0f95-960x1200.webp?auto=format&w=150&h=188&q=90&ixlib=react-9.11.0)\\
 \\
 Tees & Tanks](https://skims.com/collections/tees-tanks "Tees & Tanks")
-- [![A MODEL POSES WEARING SKIMS LEGGINGS & PANTS](https://skims-sanity.imgix.net/images/hfqi0zm0/production/9a78d22102ba238374ec1ac90e83cd3f2db9fa24-1479x1848.webp?auto=format&w=150&h=188&q=90&ixlib=react-9.11.0)\\
+- [![A MODEL POSES WEARING SKIMS LEGGINGS & PANTS](https://skims-sanity.imgix.net/images/hfqi0zm0/production/1ee907d47a72c93fc04b8e2880665ce2746c6349-960x1200.webp?auto=format&w=150&h=188&q=90&ixlib=react-9.11.0)\\
 \\
 Catsuits​](https://skims.com/collections/catsuits-onesies "Catsuits​")
 
@@ -70,8 +70,7 @@ new
 - obsidian
 
 
-[CUPRO JERSEY\\
-**CUPRO JERSEY HALTER BODYSUIT** \\
+[**CUPRO JERSEY HALTER BODYSUIT** \\
 $108](https://skims.com/products/cupro-jersey-halter-bodysuit-pearl "")
 
 best seller
@@ -312,85 +311,85 @@ $70](https://skims.com/products/seamless-sculpt-low-back-thong-bodysuit-onyx "")
 
 1/2
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-CLY-FLT_grande.jpg?v=1739333853&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-SKIMS ULTIMATE\\
-\\
-**BALCONETTE PUSH-UP BRA** \\
-\\
-$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay "")
+[![LOGO PICOT THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5958W-STT-FLT_grande.jpg?v=1739556586&auto=format%2Ccompress&q=70)](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TSH-0649-ONX-FL_grande.jpg?v=1615492274&auto=format&q=70&ixlib=react-9.11.0)\\
+[LIGHTWEIGHT COTTON\\
 \\
-FITS EVERYBODY\\
+**LOGO PICOT THONG** \\
+\\
+$12](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot)
+
+[![LONG SLEEVE T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0650-ONX-FL_eff52af7-a691-4535-9651-502207485741_grande.jpg?v=1708556288&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-long-sleeve-t-shirt-onyx)
+
+[FITS EVERYBODY\\
+\\
+**LONG SLEEVE T-SHIRT** \\
+\\
+$58](https://skims.com/products/fits-everybody-long-sleeve-t-shirt-onyx)
+
+[![SCOOP NECK T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-SS-STT-8025W-LHG-FLT_grande.jpg?v=1772691448&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-jersey-scoop-neck-t-shirt-light-heather-grey)
+
+[COTTON JERSEY\\
+\\
+**SCOOP NECK T-SHIRT** \\
+\\
+$50](https://skims.com/products/cotton-jersey-scoop-neck-t-shirt-light-heather-grey)
+
+[![CLASSIC STRAIGHT LEG PANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-BO-STR-4003-LHG-2_4d0eeb73-4486-47e8-b634-21eef5671c01_grande.jpg?v=1735852680&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-fleece-classic-straight-leg-pant-light-heather-grey)
+
+[COTTON FLEECE\\
+\\
+**CLASSIC STRAIGHT LEG PANT** \\
+\\
+$88](https://skims.com/products/cotton-fleece-classic-straight-leg-pant-light-heather-grey)
+
+[![STRAPLESS PUSH-UP BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAN-3208-CLY_1_grande.jpg?v=1752527526&auto=format%2Ccompress&q=70)](https://skims.com/products/skims-ultimate-strapless-push-up-bra-clay)
+
+[SKIMS ULTIMATE\\
+\\
+**STRAPLESS PUSH-UP BRA** \\
+\\
+$64](https://skims.com/products/skims-ultimate-strapless-push-up-bra-clay)
+
+[![WIDE LACE BRIEF](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-BRF-10656W-STT-FLT_grande.jpg?v=1775691317&auto=format%2Ccompress&q=70)](https://skims.com/products/lightweight-cotton-wide-lace-brief-soot-tonal)
+
+[LIGHTWEIGHT COTTON\\
+\\
+**WIDE LACE BRIEF** \\
+\\
+$14](https://skims.com/products/lightweight-cotton-wide-lace-brief-soot-tonal)
+
+[![T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SSL-11852W-SNOW-SKIMS-ANGEL-FLT_grande.jpg?v=1768686600&auto=format%2Ccompress&q=70)](https://skims.com/products/worn-in-jersey-t-shirt-snow-skims-angel)
+
+[WORN IN JERSEY\\
 \\
 **T-SHIRT** \\
 \\
-$48](https://skims.com/products/fits-everybody-t-shirt-onyx "")
+$58$40](https://skims.com/products/worn-in-jersey-t-shirt-snow-skims-angel)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-8495W-SOT-SW_9cc648f9-29eb-47aa-973a-c2b37bd2990c_grande.jpg?v=1768671970&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**POINTELLE LACE THONG** \\
-\\
-$12](https://skims.com/products/lightweight-cotton-pointelle-lace-thong-soot-tonal "")
+[![T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-SOT-FLT_337890eb-b813-4d8c-b4fd-b94fb1ae7e59_grande.jpg?v=1767136369&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-jersey-t-shirt-soot)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10655W-STT-FLT_3fd90e95-203f-4d72-8d3b-3c6f441d5388_grande.jpg?v=1775691294&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**WIDE LACE THONG** \\
-\\
-$12](https://skims.com/products/lightweight-cotton-wide-lace-thong-soot-tonal "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BK-BIK-5960W-STT-FLT_grande.jpg?v=1768611838&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-LIGHTWEIGHT COTTON\\
-\\
-**LOGO PICOT STRING BIKINI** \\
-\\
-$14](https://skims.com/products/lightweight-cotton-logo-picot-string-bikini-soot "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-SOT-FLT_337890eb-b813-4d8c-b4fd-b94fb1ae7e59_grande.jpg?v=1767136369&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-COTTON JERSEY\\
+[COTTON JERSEY\\
 \\
 **T-SHIRT** \\
 \\
-$48](https://skims.com/products/cotton-jersey-t-shirt-soot "")
+$48](https://skims.com/products/cotton-jersey-t-shirt-soot)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10647W-LHG-FLT_975d2b5a-cae0-4557-b8dd-7b155a849cd6_grande.jpg?v=1771369598&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-EVERYDAY COTTON\\
-\\
-**THONG** \\
-\\
-$18](https://skims.com/products/everyday-cotton-thong-light-heather-grey "")
+[![POINTELLE LACE BOY SHORT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BY-BOY-8498-LHG_grande.jpg?v=1758925248&auto=format%2Ccompress&q=70)](https://skims.com/products/lightweight-cotton-pointelle-lace-boy-short-light-heather-grey)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/BR-SCN-0025-ONX-FL_grande.jpg?v=1711846398&auto=format&q=70&ixlib=react-9.11.0)\\
+[LIGHTWEIGHT COTTON\\
 \\
-FITS EVERYBODY\\
+**POINTELLE LACE BOY SHORT** \\
 \\
-**SCOOP BRALETTE** \\
-\\
-$34](https://skims.com/products/fits-everybody-scoop-bralette-onyx "")
+$16](https://skims.com/products/lightweight-cotton-pointelle-lace-boy-short-light-heather-grey)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-DTH-0027-ONX-FL_grande.jpg?v=1624298354&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**DIPPED FRONT THONG** \\
-\\
-$18](https://skims.com/products/fits-everybody-dipped-front-thong-onyx "")
+[![HALTER TOP](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-TNK-11868W-OBD-FLT_81dabb92-817a-40e4-bc2c-2f843c65e355_grande.jpg?v=1781300831&auto=format%2Ccompress&q=70)](https://skims.com/products/smooth-layers-halter-top-obsidian)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BAN-3151-ONX_grande.jpg?v=1714671181&auto=format&q=70&ixlib=react-9.11.0)\\
+[SMOOTH LAYERS\\
 \\
-FITS EVERYBODY\\
+**HALTER TOP** \\
 \\
-**STRAPLESS BRA** \\
-\\
-$54](https://skims.com/products/fits-everybody-strapless-bra-onyx "")
+$54](https://skims.com/products/smooth-layers-halter-top-obsidian)
 
 ![BODYSUITS FOR EVERY BODY](https://skims-sanity.imgix.net/images/hfqi0zm0/production/57d1e5f6464f8c3c6f7dffd489da41ee64a58e0f-800x470.jpg?auto=format&q=70&ixlib=react-9.11.0)
 
@@ -436,85 +435,85 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BOXER-BO-BBR-5634M-LHG_COMPOSITE_grande.jpg?v=1768431978&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-SKIMS COTTON\\
-\\
-**MENS 3" BOXER BRIEF 3-PACK** \\
-\\
-$46](https://skims.com/products/skims-cotton-mens-3-inch-boxer-brief-3-pack-verdant-multi "")
+[![CORE SCULPT BUTT LIFTING BRIEF](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-PN-BRF-8527W-CLY-FLT_grande.jpg?v=1755100335&auto=format%2Ccompress&q=70)](https://skims.com/products/skims-body-core-sculpt-butt-lifting-brief-clay)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-2294-ONXcopy_grande.jpg?v=1713977294&auto=format&q=70&ixlib=react-9.11.0)\\
+[SKIMS BODY\\
 \\
-FITS EVERYBODY\\
+**CORE SCULPT BUTT LIFTING BRIEF** \\
 \\
-**PLUNGE BRA** \\
-\\
-$54](https://skims.com/products/fits-everybody-plunge-bra-onyx "")
+$74](https://skims.com/products/skims-body-core-sculpt-butt-lifting-brief-clay)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-AP-PNT-1384-SOT_grande.jpg?v=1714002371&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-COTTON JERSEY\\
-\\
-**STRAIGHT LEG PANT** \\
-\\
-$68](https://skims.com/products/cotton-jersey-straight-leg-pant-soot "")
+[![SHORT SLEEP SET](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-SET-2519-ONX-T_COMPOSITE_2_25893952-bcf7-4096-a9b2-6814d5c1ad5f_grande.jpg?v=1773095770&auto=format%2Ccompress&q=70)](https://skims.com/products/soft-lounge-short-sleep-set-onyx)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-SL-TNK-9005W-SIN-FLT_grande.jpg?v=1777409638&auto=format&q=70&ixlib=react-9.11.0)\\
+[SOFT LOUNGE\\
 \\
-COTTON JERSEY\\
+**SHORT SLEEP SET** \\
 \\
-**TUBE TOP** \\
-\\
-$48](https://skims.com/products/cotton-jersey-tube-top-sienna-natural-leopard "")
+$110](https://skims.com/products/soft-lounge-short-sleep-set-onyx)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-SCP-2690-ONX_219d1370-2212-40d1-a169-928b12961a2b_grande.jpg?v=1705537516&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY LACE\\
-\\
-**SCOOP BRALETTE** \\
-\\
-$38](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx "")
+[![T-SHIRT BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRA-BR-UWR-2294-CLY_grande.jpg?v=1711846731&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-t-shirt-bra-clay)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BO-SHO-3363-ONX1_86125ec7-3891-49dc-b787-66b66a8ae45f_grande.jpg?v=1742588063&auto=format&q=70&ixlib=react-9.11.0)\\
+[FITS EVERYBODY\\
 \\
-SEAMLESS SCULPT\\
+**T-SHIRT BRA** \\
 \\
-**MID THIGH SHORT** \\
-\\
-$40](https://skims.com/products/seamless-sculpt-mid-thigh-short-onyx "")
+$54](https://skims.com/products/fits-everybody-t-shirt-bra-clay)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/products/BR-SCN-0025-ONX-FL_grande.jpg?v=1711846398&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-FITS EVERYBODY\\
-\\
-**SCOOP BRALETTE** \\
-\\
-$34](https://skims.com/products/fits-everybody-scoop-bralette-onyx "")
+[![T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-SOT-FLT_337890eb-b813-4d8c-b4fd-b94fb1ae7e59_grande.jpg?v=1767136369&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-jersey-t-shirt-soot)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SSL-11781W-SOT-FLT_grande.jpg?v=1775253211&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-COTTON JERSEY\\
-\\
-**OFF THE SHOULDER TOP** \\
-\\
-$54](https://skims.com/products/cotton-jersey-off-the-shoulder-top-soot "")
-
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-SOT-FLT_337890eb-b813-4d8c-b4fd-b94fb1ae7e59_grande.jpg?v=1767136369&auto=format&q=70&ixlib=react-9.11.0)\\
-\\
-COTTON JERSEY\\
+[COTTON JERSEY\\
 \\
 **T-SHIRT** \\
 \\
-$48](https://skims.com/products/cotton-jersey-t-shirt-soot "")
+$48](https://skims.com/products/cotton-jersey-t-shirt-soot)
 
-[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-TNK-10901W-SOT-FLT_281_29_grande.jpg?v=1767136374&auto=format&q=70&ixlib=react-9.11.0)\\
+[![TRIANGLE BRALETTE](https://skims.imgix.net/s/files/1/0259/5448/4284/products/BR-TRI-0024-ONX-FL_grande.jpg?v=1711845815&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-triangle-bralette-onyx)
+
+[FITS EVERYBODY\\
 \\
-COTTON JERSEY\\
+**TRIANGLE BRALETTE** \\
 \\
-**SCOOP NECK CAMI** \\
+$34](https://skims.com/products/fits-everybody-triangle-bralette-onyx)
+
+[![THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-THG-0028-ONX-FL_grande.jpg?v=1697138190&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-thong-onyx)
+
+[FITS EVERYBODY\\
 \\
-$48](https://skims.com/products/cotton-jersey-scoop-neck-cami-soot "")
+**THONG** \\
+\\
+$18](https://skims.com/products/fits-everybody-thong-onyx)
+
+[![LONG SLEEVE BUTTON UP SET](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-PNS-5752W-BMMA_grande.jpg?v=1768675042&auto=format%2Ccompress&q=70)](https://skims.com/products/skims-sleep-long-sleeve-button-up-set-bloom-mini-multi-animal)
+
+[SKIMS SLEEP\\
+\\
+**LONG SLEEVE BUTTON UP SET** \\
+\\
+$88$61](https://skims.com/products/skims-sleep-long-sleeve-button-up-set-bloom-mini-multi-animal)
+
+[![MENS 3" BOXER BRIEF 3-PACK](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BOXER-BO-BBR-5634M-LHG_COMPOSITE_grande.jpg?v=1768431978&auto=format%2Ccompress&q=70)](https://skims.com/products/skims-cotton-mens-3-inch-boxer-brief-3-pack-verdant-multi)
+
+[SKIMS COTTON\\
+\\
+**MENS 3" BOXER BRIEF 3-PACK** \\
+\\
+$46](https://skims.com/products/skims-cotton-mens-3-inch-boxer-brief-3-pack-verdant-multi)
+
+[![HIGH-WAISTED MID THIGH SHORT](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-EVERYDAYSCULPT-SH-SHO-2152-SIE_grande.jpg?v=1740082574&auto=format%2Ccompress&q=70)](https://skims.com/products/sheer-seamless-high-waisted-mid-thigh-short-sienna)
+
+[SHEER SEAMLESS\\
+\\
+**HIGH-WAISTED MID THIGH SHORT** \\
+\\
+$38](https://skims.com/products/sheer-seamless-high-waisted-mid-thigh-short-sienna)
+
+[![T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TSH-0649-ONX-FL_grande.jpg?v=1615492274&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-t-shirt-onyx)
+
+[FITS EVERYBODY\\
+\\
+**T-SHIRT** \\
+\\
+$48](https://skims.com/products/fits-everybody-t-shirt-onyx)
 
 New
 

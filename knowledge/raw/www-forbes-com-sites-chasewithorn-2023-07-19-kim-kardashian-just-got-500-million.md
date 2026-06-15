@@ -2,7 +2,7 @@
 url: https://www.forbes.com/sites/chasewithorn/2023/07/19/kim-kardashian-just-got-500-million-richer-thanks-to-skims/
 source_type: forbes.com
 title: Now valued higher than ever, the shapewear startup just added a half-billion to the richest Kardashian’s fortune.
-scraped_at: 2026-05-25T09:53:31.584676+00:00
+scraped_at: 2026-06-15T11:49:44.451212+00:00
 ---
 
 [Billionaires](https://www.forbes.com/worlds-billionaires/)
@@ -31,52 +31,6 @@ Many high-flying startups are raising money at lower valuations than before–or
 
 “It has grown quickly and we’re so proud of that,” Kardashian [told _The New York Times_](https://www.nytimes.com/2023/07/19/business/dealbook/skims-kim-kardashian-fundraise.html "https://www.nytimes.com/2023/07/19/business/dealbook/skims-kim-kardashian-fundraise.html") in an interview. “We’ve had a really good flow of product launches.”
 
-Subscribe to Continue Reading
-
-Become a member and unlock unlimited digital access, expert analysis and exclusive member benefits.
-
-Already a member?Sign In
-
-Monthly
-
-Digital Membership
-
-$12.99
-
-Billed monthly
-
-Subscribe
-
-Annual
-
-LESS THAN $2/WEEK
-
-Digital Membership
-
-$89
-
-Billed annually
-
-Subscribe
-
-Two Year
-
-Digital Membership
-
-$165
-
-Billed biennially
-
-Subscribe
-
-Subscriptions renew automatically. You may cancel your subscription at any time.
-
-Premium access to exclusive events, thought-provoking conversations with global leaders and more, all available on-demand.
-
-Elevated browsing experience with fewer ads and unlimited article saving power an enhanced reading experience.
-
-[Back to the Home page](https://www.forbes.com/)
-
 Skims says it’s profitable and expects to hit $750 million in sales this year, according to the _Times_, up from $500 million in 2022. Kardashian cofounded the business in 2019 with partners Jens Grede, who serves as CEO, and [Emma Grede](https://www.forbes.com/sites/jemimamcevoy/2022/06/14/keeping-up-with-the-kardashians-meet-the-woman-who-made-a-fortune-helping-build-the-familys-billion-dollar-business-empire/?sh=3f9df887d90b "https://www.forbes.com/sites/jemimamcevoy/2022/06/14/keeping-up-with-the-kardashians-meet-the-woman-who-made-a-fortune-helping-build-the-familys-billion-dollar-business-empire/?sh=3f9df887d90b"), who is chief product officer.
 
 Skims now accounts for around three-quarters of Kardashian’s net worth. When _Forbes_ first listed her as a billionaire [in April 2021](https://www.forbes.com/sites/maddieberg/2021/04/06/kim-kardashian-west-is-officially-a-billionaire/?sh=5cca984721bb "https://www.forbes.com/sites/maddieberg/2021/04/06/kim-kardashian-west-is-officially-a-billionaire/?sh=5cca984721bb"), the largest share of her wealth came from KKW Beauty, the cosmetics line she launched in 2017. French makeup giant Coty bought 20% of KKW Beauty in early 2021 for $200 million, but Kardashian [soon shut the brand down](https://www.goodmorningamerica.com/style/story/kim-kardashian-temporarily-shutting-kkw-beauty-relaunching-completely-78708461 "https://www.goodmorningamerica.com/style/story/kim-kardashian-temporarily-shutting-kkw-beauty-relaunching-completely-78708461") and [resurrected](https://www.nytimes.com/2022/06/01/style/kim-kardashian-skkn-skin-care-line.html "https://www.nytimes.com/2022/06/01/style/kim-kardashian-skkn-skin-care-line.html") it as a skincare line named SKKN by Kim (though KKW Beauty products [may be on the verge of returning to shelves](https://www.beautypackaging.com/contents/view_breaking-news/2023-06-26/kim-kardashian-confirms-return-of-kkw-beauty-fragrance-lines-under-skkn-umbrella/ "https://www.beautypackaging.com/contents/view_breaking-news/2023-06-26/kim-kardashian-confirms-return-of-kkw-beauty-fragrance-lines-under-skkn-umbrella/")). Skims, meanwhile, has steadily grown, raising money at a $1.6 billion valuation in April 2021 before doubling in value to $3.2 billion in early 2022.
@@ -98,44 +52,3 @@ Chase Peterson-Withorn is an assistant managing editor at Forbes who oversees Th
 Find [Chase Peterson-Withorn](https://www.forbes.com/sites/chasewithorn/) on [X](https://www.x.com/ChaseWithorn).
 
 Follow Author
-
-halfway-hardwall
-
-R8W03AS
-
-base
-
-article
-
-auto
-PREMIUM
-
-Want to save more articles? Subscribe today.
-
-You've reached your limit of articles you can save without a subscription. Subscribe now to save as many articles as you want.
-
-Premium Journalism, deeply reported stories and breaking news
-
-Members-only events
-
-[Subscribe](https://account.forbes.com/membership?eventSource=saveArticle)
-
-Subscriptions renew automatically. You may cancel your subscription at any time.
-
-render-sign-in
-
-[Join The Waitlist](https://wineclub.forbes.com/)
-
-\|
-
-FORBES WINE CLUB
-
-~~~~
-
-Exclusive Invite: Forbes Wine Club
-
-
-Join the waitlist for early access to our expert-curated, limited first shipment.
-
-
-[Join The Waitlist](https://wineclub.forbes.com/) No Thanks

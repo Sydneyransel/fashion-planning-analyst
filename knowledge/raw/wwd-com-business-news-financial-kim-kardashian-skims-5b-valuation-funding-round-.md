@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/
 source_type: wwd.com
 title: Kim Kardashian's Skims Hits $5B Valuation With New Funding Round
-scraped_at: 2026-06-08T10:21:35.120800+00:00
+scraped_at: 2026-06-15T11:49:35.844662+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/#pagetop)
 
-Business
-
-### [Saks Global CEO’s Goals: $85M in 2026 EBITDA and $9B in GMV by 2030](https://wwd.com/business-news/legal/saks-global-ceo-reorganization-future-plans-1238996497/)
-
 Fashion
 
-### [Carven Confirms Kai Nesselrath as Design Director](https://wwd.com/fashion-news/designer-luxury/carven-kai-nesselrath-design-director-appointment-1238994244/)
+### [Palisades Village Will Reopen Aug. 1](https://wwd.com/fashion-news/fashion-features/palisades-village-reopening-aug-1-pacific-palisades-fires-1239009510/)
+
+Men's
+
+### [Dunhill Doubles Down on Leather Goods](https://wwd.com/menswear-news/mens-accessories/dunhill-leather-goods-launch-heritage-in-motion-series-1239006100/)
 
 Business
 
-### [G-III CEO Morris Goldfarb Talks Marc Jacobs](https://wwd.com/business-news/financial/g-iii-ceo-marc-jacobs-cultural-relevance-not-cash-cow-1238995216/)
+### [This Paris Pop-up Gives a Great Sense of Tokyo](https://wwd.com/business-news/retail/paris-pop-up-tokyo-fashion-week-lumine-berlin-1238987607/)
 
 ![NEW YORK, NEW YORK - SEPTEMBER 24: NikeSKIMS dancers perform at the NikeSKIMS "Bodies at Work" event at the New York Public Library on September 24, 2025 in New York City. (Photo by Valerie Terranova/Getty Images)](https://wwd.com/wp-content/uploads/2025/09/skims-presentation-photosc.jpg?w=800&h=533&crop=1)
 
@@ -59,19 +59,19 @@ The new money came from Goldman Sachs Alternatives and BDT & MSD Partners.
 
 ### Related Articles
 
+![Kim Kardashian wearing Demna-era Gucci head-to-toe, including her black horsebit heels, and Khloé Kardashian in Gianvito Rossi Sofia Mules at the Monaco Grad Prix on Saturday. ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+
+[Shoe Trends](https://wwd.com/business-news/shoe-trends/)
+
+### [Kim Kardashian Sticks With Gucci Horsebit Heels as Khloé Goes Barely There in Gianvito Rossi at the Monaco Grand Prix](https://wwd.com/footwear-news/shoe-trends/kim-kardashian-gucci-heels-hamilton-monaco-grand-prix-1238998747/)
+
 ![Kim Kardashian, Nike, World Cup, Film, Channing Tatum, Rip the script, soccer, football, shoes, sneakers](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 [Shoe Industry News](https://wwd.com/business-news/shoe-industry-news/)
 
 ### [Nike Goes Hollywood in World Cup Film Featuring Kim Kardashian, LeBron James, Channing Tatum and More Stars](https://wwd.com/footwear-news/shoe-industry-news/nike-world-cup-film-kim-kardashian-lebron-james-interview-1238994871/)
 
-![Skims in Hong Kong](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
-
-[Retail](https://wwd.com/business-news/retail/)
-
-### [Skims to Open First Asian Stores in Hong Kong, Seoul](https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/)
-
-[Skims](https://wwd.com/business-news/business-features/fashions-new-wave-digital-skims-quince-1238930332/) got its start in shapewear, but has been branching out in apparel and looking more into beauty, recently [hiring Diarrha N’Diaye](https://wwd.com/beauty-industry-news/color-cosmetics/kim-kardashian-skims-ami-cole-founder-hire-1238331656/) to be executive vice president of beauty and fragrance.
+[Skims](https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/) got its start in shapewear, but has been branching out in apparel and looking more into beauty, recently [hiring Diarrha N’Diaye](https://wwd.com/beauty-industry-news/color-cosmetics/kim-kardashian-skims-ami-cole-founder-hire-1238331656/) to be executive vice president of beauty and fragrance.
 
 
 
@@ -124,7 +124,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![Caitlin Sargent, Jordan Brand](https://wwd.com/wp-content/uploads/2026/05/caitlin-sargent-jordan-brand.jpg?w=1024)](https://wwd.com/footwear-news/shoe-features/jordan-brand-caitlin-sargent-women-who-rock-2026-1238947904/)
+- [![Taylor Swift at the 55th Annual Songwriters Hall of Fame.](https://wwd.com/wp-content/uploads/2026/06/taylor-swift-shoes.jpg?w=1024)](https://wwd.com/footwear-news/shoe-trends/taylor-swift-givenchy-sandals-songwriters-hall-of-fame-1239008909/)
 
 
 
@@ -134,16 +134,16 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Women Who Rock: Jordan Brand’s Caitlin Sargent on How Being a Mentor Impacted Her Own Life](https://wwd.com/footwear-news/shoe-features/jordan-brand-caitlin-sargent-women-who-rock-2026-1238947904/)
+### [Taylor Swift Laces Up in Sculptural Givenchy Heels for Her Songwriters Hall of Fame Induction](https://wwd.com/footwear-news/shoe-trends/taylor-swift-givenchy-sandals-songwriters-hall-of-fame-1239008909/)
 
 
 
-  - [Shoe Features](https://wwd.com/business-news/shoe-features/)
+  - [Shoe Trends](https://wwd.com/business-news/shoe-trends/)
 
   - By
 
 
-    [Ian Servantes](https://wwd.com/wwd-masthead/ian-servantes/)
+    [Karla Rodriguez](https://wwd.com/wwd-masthead/karla-rodriguez/)
 
 
 - [![Lacoste Pedder Building Hong Kong](https://wwd.com/wp-content/uploads/2026/05/Lacoste-Hong-Kong-Pedder-Building.jpg?w=1024)](https://wwd.com/business-news/fashion-features/lacoste-hong-kong-flagship-opening-pedder-building-1238980883/)
@@ -168,7 +168,7 @@ Sign up for WWD news straight to your inbox every day
     [Lily Templeton](https://wwd.com/wwd-masthead/lily-templeton/)
 
 
-- [![YSL and Yvonne de Peyerimhoff in his Mondrian dress, Washington, D.C. 1965 and Karl Lagerfeld Un Le Fete en Blanc in Dallas, 1978.](https://wwd.com/wp-content/uploads/2026/05/ysl_karl.jpg?w=1024)](https://wwd.com/fashion-news/fashion-features/archive-they-came-to-america-1238972699/)
+- [![U.S. first lady Melania Trump welcomes French first lady Brigitte Macron, during an arrival ceremony at the White House April 24, 2018 in Washington, DC. Trump is hosting Macron for a two-day official visit that included dinner at George Washington's Mount Vernon, a tree planting on the White House South Lawn and a joint news conference.](https://wwd.com/wp-content/uploads/2024/03/Brigitte-Macron-Through-Years-Getty-15.jpg?w=1024)](https://wwd.com/fashion-news/fashion-features/french-american-first-ladies-fashion-language-different-1238948001/)
 
 
 
@@ -178,7 +178,7 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [They Came to America: French Designers Driving Luxury in the U.S.](https://wwd.com/fashion-news/fashion-features/archive-they-came-to-america-1238972699/)
+### [French, American First Ladies Aren’t Speaking the Same Fashion Language, but Somehow They Understand Each Other](https://wwd.com/fashion-news/fashion-features/french-american-first-ladies-fashion-language-different-1238948001/)
 
 
 
@@ -187,212 +187,12 @@ Sign up for WWD news straight to your inbox every day
   - By
 
 
-    [Tonya Blazio-Licorish](https://wwd.com/wwd-masthead/tonyablazio5/)
+    [Samantha Conti](https://wwd.com/wwd-masthead/samantha-conti/)
 
 
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/uploads/2026/02/nicky.png?crop=0px%2C0px%2C2678px%2C1499px&resize=910%2C511)](https://wwd.com/video/getting-ready-for-marc-jacobs-2026-with-nicky-hilton/)
+[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/uploads/2026/06/dvf.png?w=910&h=511&crop=1)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
 
-### Getting Ready for Marc Jacobs 2026 with Nicky Hilton
-
-[![diane lane at the premiere of feud capote vs the swans, red carpet interview](https://wwd.com/wp-content/uploads/2024/01/diane-lane-feud-capote-vs-the-swans.jpg?w=260&h=150&crop=1)](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
-
-### ['Feud: Capote Vs. The Swans' Stars Talk Costumes and Society](https://wwd.com/video/feud-capote-vs-the-swans-red-carpet-interviews/)
-
-[![Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/wp-content/uploads/2023/05/Kerry-Washington-And-Michael-Kors.jpg?w=260&h=150&crop=1)](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
-
-### [Getting Ready with Kerry Washington & Michael Kors](https://wwd.com/video/getting-ready-with-kerry-washington-michael-kors/)
-
-[![WWD style director Alex Badia and FN style director Shannon Adducci discuss the versatility of outerwear.](https://wwd.com/wp-content/uploads/2022/11/head-to-toe-outerwear.jpg?w=260&h=150&crop=1)](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
-
-### [Head to Toe: How to Style Outerwear for Everywhere](https://wwd.com/video/head-to-toe-how-to-style-outerwear/)
-
-[![Hermès is making a major statement about the future of brick-and-mortar retail with the long-awaited opening of its massive new Madison Avenue flagship.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/new-hermes-store/)
-
-### [A Tour of the New Hermès Madison Avenue Flagship](https://wwd.com/video/new-hermes-store/)
-
-[![Adidas Terminates Yeezy Partnership With Ye](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/adidas-terminates-yeezy-partnership-with-ye/)
-
-### [Adidas Terminates Yeezy Partnership With Ye With Immediate Effect](https://wwd.com/video/adidas-terminates-yeezy-partnership-with-ye/)
-
-[![Louis Vuitton Launches New Exhibition in NYC](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/louis-vuitton-exhibition/)
-
-### [Louis Vuitton Launches New Exhibition in NYC](https://wwd.com/video/louis-vuitton-exhibition/)
-
-[![Willy Chavarria Takes Us Backstage of His Energetic SS23 Collection Minutes Before Showtime](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/designer-details-willy-chavarria/)
-
-### [Willy Chavarria Takes Us Backstage of His Energetic SS23 Collection Minutes Before Showtime](https://wwd.com/video/designer-details-willy-chavarria/)
-
-[![WWD's fashion director Alex Badia and FN's fashion director Shannon Adducci talk about transitioning your wardrobe in an episode of "Head to Toe."](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/head-to-toe-transitioning-wardrobe/)
-
-### [Head To Toe: Transitioning Your Wardrobe](https://wwd.com/video/head-to-toe-transitioning-wardrobe/)
-
-[![Designer Details: A closer look at LaQuan Smith's new collection and designing for Beyonce](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/laquan-smith-designer-details/)
-
-### [A closer look at LaQuan Smith's new collection and designing for Beyonce](https://wwd.com/video/laquan-smith-designer-details/)
-
-[![Beyoncé, Renaissance, Beyonce picture, Beyonce photos, Beyonce style](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/wwd-report-card-beyonce-fashion-renaissance/)
-
-### [WWD Report Card: Beyoncé’s Fashion ‘Renaissance’](https://wwd.com/video/wwd-report-card-beyonce-fashion-renaissance/)
-
-[![Men’s Spring 2023, fashion trend, menswear,](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/mens-spring-2023-fashion-trend-skin-show/)
-
-### [Men’s Spring 2023 Trend: Skin Show](https://wwd.com/video/mens-spring-2023-fashion-trend-skin-show/)
-
-[![‘RuPaul’s Drag Race,' beauty, collaboration, launch,  Kim Chi, Trixie Mattel](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/rupauls-drag-race-stars-kim-chi-and-trixie-mattel-launch-cosmetics-line/)
-
-### [‘RuPaul’s Drag Race’ Stars Kim Chi and Trixie Mattel Launch Beauty Collaboration](https://wwd.com/video/rupauls-drag-race-stars-kim-chi-and-trixie-mattel-launch-cosmetics-line/)
-
-[![Zoey Deutch, Met Gala, Zoey Deutch style](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/zoey-deutch-red-carpet-favorites-backstage-met-gala/)
-
-### [Zoey Deutch Shares Her Red Carpet Favorites and What it's Like Backstage at the Met Gala](https://wwd.com/video/zoey-deutch-red-carpet-favorites-backstage-met-gala/)
-
-[![Serena Williams, on-court tennis style, celebrity style, sports, fashion,](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/a-look-at-serena-williams-best-on-court-tennis-outfits-over-the-years/)
-
-### [A Look at Serena Williams’ Best On-Court Tennis Outfits Over the Years](https://wwd.com/video/a-look-at-serena-williams-best-on-court-tennis-outfits-over-the-years/)
-
-[![Megan Fox, Megan Fox fashion, Megan Fox style](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/megan-foxs-fashion-moments-over-the-years/)
-
-### [Megan Fox’s Best Fashion Moments Over the Years](https://wwd.com/video/megan-foxs-fashion-moments-over-the-years/)
-
-[![Selena Gomez, Selena Gomez pictures, Selena Gomez photos, Selena Gomez style](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/wwd-report-card-selena-gomez-fashion-evolution/)
-
-### [WWD Report Card: Selena Gomez’s Fashion Evolution](https://wwd.com/video/wwd-report-card-selena-gomez-fashion-evolution/)
-
-[![fashion collaborations, fashion, 2022](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/the-biggest-fashion-collaborations-of-2022/)
-
-### [The Biggest Fashion Collaborations of 2022 — So Far](https://wwd.com/video/the-biggest-fashion-collaborations-of-2022/)
-
-[![Louis Vuitton, Virgil Abloh, designer, Nike, Air Force 1, sneaker, collection, footwear](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/5-things-to-know-about-the-louis-vuitton-and-nike-air-force-1-sneaker-collection/)
-
-### [5 Things To Know About The Louis Vuitton And Nike Air Force 1 Sneaker Collection](https://wwd.com/video/5-things-to-know-about-the-louis-vuitton-and-nike-air-force-1-sneaker-collection/)
-
-[![J. Crew, fashion, collection, creative director, Brendon Babenzien](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/first-look-at-the-new-j-crew/)
-
-### [LAUNCH PAD: First Look at the New J. Crew](https://wwd.com/video/first-look-at-the-new-j-crew/)
-
-[![Brad Pitt, Ryan Gosling, Brad Pitt photos, Ryan Gosling photos](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/wwd-report-card-brad-pitt-ryan-gosling/)
-
-### [WWD Report Card: Brad Pitt vs Ryan Gosling](https://wwd.com/video/wwd-report-card-brad-pitt-ryan-gosling/)
-
-[![Paris Couture Week, fashion, style, Kim Kardashian, Nicole Kidman, Zoey Deutch](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/report-card-rating-the-celebrity-looks-from-paris-couture-week/)
-
-### [Report Card: Rating the Looks from Paris Couture Week](https://wwd.com/video/report-card-rating-the-celebrity-looks-from-paris-couture-week/)
-
-[![paris fashion week mens, spring 2023, Kenzo, Hermès, Thom Browne](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/first-impressions-paris-mens-spring-2023-day-5-kenzo-hermes-thom-browne-more/)
-
-### [First Impressions: Paris Men’s Spring 2023 \| Day 5 \| Kenzo, Hermès, Thom Browne](https://wwd.com/video/first-impressions-paris-mens-spring-2023-day-5-kenzo-hermes-thom-browne-more/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/first-impressions-paris-mens-spring-2023-day-4-junya-watanabe-dior-officine-generale/)
-
-### [First Impressions: Paris Men’s Spring 2023 \| Day 4 \| Junya Watanabe, Dior, Officine Generale](https://wwd.com/video/first-impressions-paris-mens-spring-2023-day-4-junya-watanabe-dior-officine-generale/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/first-impressions-paris-mens-spring-2023-day-3-issey-miyake-amiri/)
-
-### [First Impressions: Paris Men’s Spring 2023 \| Day 3 \| Issey Miyake, Amiri](https://wwd.com/video/first-impressions-paris-mens-spring-2023-day-3-issey-miyake-amiri/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/first-impressions-paris-mens-spring-2023-day-2-lemaire-givenchy-reese-cooper/)
-
-### [First Impressions: Paris Men’s Spring 2023 \| Day 2 \| Lemaire, Givenchy, Reese Cooper](https://wwd.com/video/first-impressions-paris-mens-spring-2023-day-2-lemaire-givenchy-reese-cooper/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/first-impressions-paris-mens-spring-2023-day-1-john-elliott-egonlab/)
-
-### [First Impressions: Paris Men’s Spring 2023 \| Day 1 \| John Elliott, EgonLab](https://wwd.com/video/first-impressions-paris-mens-spring-2023-day-1-john-elliott-egonlab/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/first-impressions-milan-mens-spring-2023-day-2-versace-fendi-armani-msgm/)
-
-### [First Impressions: Milan Men’s Spring 2023 \| Day 2 \| Versace, Fendi, Armani, MSGM](https://wwd.com/video/first-impressions-milan-mens-spring-2023-day-2-versace-fendi-armani-msgm/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/first-impressions-milan-spring-2023-day-1/)
-
-### [First Impressions: Milan Men's Spring 2023 \| Day 1](https://wwd.com/video/first-impressions-milan-spring-2023-day-1/)
-
-[![Milan fashion week, day 3, spring 2023 collections, first impressions, Etro, Prada, JW Anderson](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/first-impressions-milan-mens-spring-2023-day-2-etro-prada-jw-anderson/)
-
-### [First Impressions: Milan Men’s Spring 2023 \| Day 3 \| Etro, Prada, JW Anderson](https://wwd.com/video/first-impressions-milan-mens-spring-2023-day-2-etro-prada-jw-anderson/)
-
-[![summer bags, handbags, Chanel, Telfar, Loewe, WWD](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/hottest-summer-bags/)
-
-### [Hot Summer Bags](https://wwd.com/video/hottest-summer-bags/)
-
-[![WWD, Beauty Inc, Cosmoprof, 2022](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/wwd-beauty-inc-cosmoprof-2022/)
-
-### [WWD + Beauty Inc. at Cosmoprof 2022](https://wwd.com/video/wwd-beauty-inc-cosmoprof-2022/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/on-the-red-carpet-at-the-2022-met-gala-all-the-looks/)
-
-### [On the Red Carpet at the 2022 Met Gala: All the Looks](https://wwd.com/video/on-the-red-carpet-at-the-2022-met-gala-all-the-looks/)
-
-[![Cynthia Nixon, Sarah Jessica Parker, Kristin Davis, "And Just Like That,  costumes, Max, series](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/and-just-like-that-costume-designers-talk-process-for-new-hbo-show/)
-
-### ['And Just Like That' Costume Designers Talk Process for New HBO Show](https://wwd.com/video/and-just-like-that-costume-designers-talk-process-for-new-hbo-show/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/netflixs-halston-costume-designer-talks-working-with-ewan-mcgregor/)
-
-### [Netflix's 'Halston' Costume Designer Talks Working with Ewan McGregor](https://wwd.com/video/netflixs-halston-costume-designer-talks-working-with-ewan-mcgregor/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/j-balvin-air-jordan-1/)
-
-### [Video: J Balvin on the Deeper Meaning of the J Balvin x Air Jordan 1 Sneaker](https://wwd.com/video/j-balvin-air-jordan-1/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/princess-diana-fashion-evolution/)
-
-### [Video: How Princess Diana’s Fashion Choices Hinted at What Was Happening Behind Palace Doors](https://wwd.com/video/princess-diana-fashion-evolution/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/bjork-swan-dress-miley-cyrus-paris-hilton-lil-kim-vmas-celine-dion-oscars/)
-
-### [Video: Do These Outrageous Celebrity Fashion Looks Hold Up?](https://wwd.com/video/bjork-swan-dress-miley-cyrus-paris-hilton-lil-kim-vmas-celine-dion-oscars/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/video-sarah-cooper-trump-tiktok-netflix/)
-
-### [Video: Sarah Cooper — Writer, Comedian, Trump Impersonator, and More](https://wwd.com/video/video-sarah-cooper-trump-tiktok-netflix/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/bob-the-drag-queen-report-card/)
-
-### [Video: Bob the Drag Queen Grades Legendary Fashion Looks](https://wwd.com/video/bob-the-drag-queen-report-card/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/ruth-bader-ginsburg-supreme-court-style/)
-
-### [Video: Supreme Court Style: Inside the Legacy of Ruth Bader Ginsburg's Collars](https://wwd.com/video/ruth-bader-ginsburg-supreme-court-style/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/coco-chanel-style-exhibit-paris-palais-galliera/)
-
-### [Video: The Origins of French Girl Style à la Chanel](https://wwd.com/video/coco-chanel-style-exhibit-paris-palais-galliera/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/video-wwd-presents-creating-queer/)
-
-### [Video: WWD Presents 'Creating Queer'](https://wwd.com/video/video-wwd-presents-creating-queer/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/shaun-ross-fashion-diversity-interview/)
-
-### [Video: Model Shaun Ross Talks Diversity in the Fashion Industry](https://wwd.com/video/shaun-ross-fashion-diversity-interview/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/fashion-for-all-breaking-the-silence-hannah-stoudemire/)
-
-### [Video: Fashion for All CEO Hannah Stoudemire On Her \#BreakingtheSilence Campaign⁣](https://wwd.com/video/fashion-for-all-breaking-the-silence-hannah-stoudemire/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/halima-aden-face-mask-anywear-design/)
-
-### [These Inclusive Face Masks Provide Functional PPE to All Frontline Workers](https://wwd.com/video/halima-aden-face-mask-anywear-design/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/quarantine-cooking-jason-wu/)
-
-### [Video: Stir Crazy — Cooking With Jason Wu](https://wwd.com/video/quarantine-cooking-jason-wu/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/coronavirus-stay-home-art/)
-
-### [Video: 'Home' — Art in the Time of Coronavirus](https://wwd.com/video/coronavirus-stay-home-art/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/ouai-jen-atkin-social-distancing/)
-
-### [Video: Stir Crazy — Social Distancing With Jen Atkin](https://wwd.com/video/ouai-jen-atkin-social-distancing/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/working-from-home-tips-outfits-ideas/)
-
-### [Video: How WWD's Fashion Market Team Works From Home In Style](https://wwd.com/video/working-from-home-tips-outfits-ideas/)
-
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/coronavirus-face-shields-nyc-factory/)
-
-### [Video: Coronavirus Face Shields — See Inside A NYC Pop-Up Factory](https://wwd.com/video/coronavirus-face-shields-nyc-factory/)
+### CEO Talks: Diane Von Furstenberg
 
 WWD and Women's Wear Daily are part of Penske Media Corporation. © 2026 Fairchild Publishing, LLC. All Rights Reserved.
 

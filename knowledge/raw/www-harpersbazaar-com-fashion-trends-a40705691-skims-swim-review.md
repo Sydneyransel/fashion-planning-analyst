@@ -2,7 +2,7 @@
 url: https://www.harpersbazaar.com/fashion/trends/a40705691/skims-swim-review/
 source_type: harpersbazaar.com
 title: Skims Swim Review 2023: Honest Review for Skims Swim Restock
-scraped_at: 2026-05-25T09:53:36.028010+00:00
+scraped_at: 2026-06-15T11:49:49.372278+00:00
 ---
 
 [Skip to Content](https://www.harpersbazaar.com/fashion/trends/a40705691/skims-swim-review/#main-content)
@@ -133,41 +133,39 @@ Advertisement - Continue Reading Below
 
 ## Readers Also Read
 
-[![Celebrity Sightings: Day 4 - The 79th Annual Cannes Film Festival](https://hips.hearstapps.com/hmg-prod/images/f60b01ca-8455-45f8-b06f-ce64b79b92ab.jpeg?crop=1xw:0.750480769231xh;center,top&resize=360:*)\\
+[![summer in the city outfits, new york city summer outfits](https://hips.hearstapps.com/hmg-prod/images/hbz-summer-nyc-outfits-685324b4736c8.png?crop=0.563xw:1.00xh;0.200xw,0&resize=360:*)\\
 \\
-Put Down Your White Sneakers. Try These Instead.](https://www.harpersbazaar.com/fashion/trends/g71337748/best-metallic-sneakers/) [![Taylor wearing casual attire outdoors](https://hips.hearstapps.com/hmg-prod/images/93db4b8b-8a80-4d41-bdf6-fe24a59b9a1d.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
-\\
-These Sporty Sandals Are Walkable and Chic](https://www.harpersbazaar.com/fashion/trends/a71330339/best-sandals-for-walking-2026/) [![Variety of denim shorts showcased on models.](https://hips.hearstapps.com/hmg-prod/images/fc70ec01-c7c7-4b3e-83ff-eacebf4c85be.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
-\\
-The New Rules of Jorts](https://www.harpersbazaar.com/fashion/trends/a71330408/jean-shorts-outfits/) [![Individuals wearing various stylish outfits while walking outdoors.](https://hips.hearstapps.com/hmg-prod/images/f21aa068-c9c3-4ebc-b073-a1f1254ee4d0.gif?crop=0.483xw:0.858xh;0.258xw,0.113xh&resize=360:*)\\
-\\
-How to Wear Flip-Flops Beyond the Beach](https://www.harpersbazaar.com/fashion/trends/a71233751/how-to-style-flip-flops/)
-
-Advertisement - Continue Reading Below
-
-[![cannes, france may 16 demi moore attends the paper tiger screening during the 79th annual cannes film festival at palais des festivals on may 16, 2026 in cannes, france photo by jb lacroixfilmmagic](https://hips.hearstapps.com/hmg-prod/images/50684b73-374b-4099-9a5f-ced6f39f0aef.jpg?crop=1xw:0.749xh;0xw,0.074xh&resize=360:*)\\
-\\
-Demi Moore’s Stylist on Her Latest Cannes Look](https://www.harpersbazaar.com/fashion/a71328540/demi-moore-cannes-matieres-fecales-dress-stylist-interview-red-carpet/) [![fashion model in a lightcolored dress with a dotted pattern holding a handbag](https://hips.hearstapps.com/hmg-prod/images/7c2847a1-d101-4f70-8bc3-6df7464ef13f.gif?crop=1.00xw:1.00xh;0,0&resize=360:*)\\
+What to Wear in the City When It’s Over 90 Degrees](https://www.harpersbazaar.com/fashion/trends/a71482755/summer-outfit-ideas-for-city-street-style/) [![female model with sunglasses against a blue sky](https://hips.hearstapps.com/hmg-prod/images/23200f45-2d1c-49cc-a679-ce16ebd57eac.jpg?crop=0.620xw:1.00xh;0.240xw,0&resize=360:*)\\
 \\
 From Harper's BAZAAR for Prada\\
 \\
-The Hero: Prada Galleria Handbag](https://www.harpersbazaar.com/fashion/a71110507/the-hero-prada-galleria-handbag/) [![met gala looks](https://hips.hearstapps.com/hmg-prod/images/hbz-metgala-bestlooks-lead-6811169dc7a05.jpg?crop=0.566xw:1.00xh;0.220xw,0&resize=360:*)\\
+**We Move Like Summer**](https://www.harpersbazaar.com/fashion/a71312373/we-move-like-summer/) [![fashionable individuals walking in urban settings showcasing diverse street styles](https://hips.hearstapps.com/hmg-prod/images/77cc0fa4-0e10-4149-83c3-a69641cf9653.jpg?crop=0.527xw:0.937xh;0.0609xw,0.0370xh&resize=360:*)\\
 \\
-The 29 Best Met Gala Dresses of All Time](https://www.harpersbazaar.com/fashion/models/g71141150/best-met-gala-dresses-all-time-editors-picks/) [![Street fashion showcasing two individuals in urban settings.](https://hips.hearstapps.com/hmg-prod/images/6f6165c1-bafe-47a7-b633-f9fe2a2a5b27.jpg?crop=0.5xw:1xh;center,top&resize=360:*)\\
+This Niche Shoe Trend Is Coming for Ballet Flats](https://www.harpersbazaar.com/fashion/trends/a70784351/how-to-style-jazz-shoes-trend/) [![HBZ jazz shoes in a stylish design for dancers](https://hips.hearstapps.com/hmg-prod/images/03940376-d847-40d8-ae7c-c385616a22b8.jpg?crop=0.5625xw:1xh;center,top&resize=360:*)\\
 \\
-How to Make Jeans and Flats Feel Like an Outfit](https://www.harpersbazaar.com/fashion/trends/a71307186/how-to-style-jeans-with-flats/)
+Jazz Shoes Are the New Ballet Flats](https://www.harpersbazaar.com/fashion/trends/a71414138/jazz-shoes-trend-2026/)
 
-[![highheeled shoes with colorful floral accents and a small bag](https://hips.hearstapps.com/hmg-prod/images/36e526f4-1582-4518-868e-d54d7782e8e2.jpg?crop=0.566xw:1.00xh;0.261xw,0&resize=360:*)\\
+Advertisement - Continue Reading Below
+
+[![Six people in colorful formal outfits on the red carpet.](https://hips.hearstapps.com/hmg-prod/images/33d82ae1-7bf9-4880-bf3a-3884b5ac3a63.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
 \\
-From Harper's BAZAAR for Christian Louboutin\\
+The Best Dressed Stars of the 2026 Tony Awards](https://www.harpersbazaar.com/fashion/a71517157/2026-tony-awards-best-dressed-celebrities-red-carpet-photos/) [![Three fashion moments from events featuring dramatic red carpet attire.](https://hips.hearstapps.com/hmg-prod/images/dc7d580b-4b72-4c6f-83eb-04fd6c1fc614.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
 \\
-Christian Louboutin Shapes Spring Through Color and Clean Lines](https://www.harpersbazaar.com/fashion/a70898386/christian-louboutin-shapes-spring-through-color-and-clean-lines/) [![Three outfits featuring casual and stylish bottoms paired with simple tops.](https://hips.hearstapps.com/hmg-prod/images/7ee369fe-dda8-4470-bc23-6b2365b92849.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
+In Cannes, Fashion Rules Were Made to Be Broken](https://www.harpersbazaar.com/fashion/g71269942/cannes-film-festival-dress-code-rule-breakers-fashion-photos/) [![Five women modeling stylish summer outfits with sunglasses.](https://hips.hearstapps.com/hmg-prod/images/e3174e2b-78a6-496e-b1af-256306616e57.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
 \\
-Fisherman Pants Are Suddenly Everywhere](https://www.harpersbazaar.com/fashion/trends/a71221239/how-to-style-fisherman-pants-outfits/) [![Collage of Laura Lajiness Kaupke's outfit selfies showing various clothing styles.](https://hips.hearstapps.com/hmg-prod/images/2fb02f19-5f3a-43bc-948b-1b7d074331f7.jpg?crop=0.562xw:1xh;0.339xw,0xh&resize=360:*)\\
+The New Rules of Linen Dressing](https://www.harpersbazaar.com/fashion/trends/a71507581/how-to-style-linen-outfits/) [![Celebrity Sightings: Day 6 - The 79th Annual Cannes Film Festival](https://hips.hearstapps.com/hmg-prod/images/70c363e3-f4a8-4735-815d-bc72f1e40925.jpeg?crop=1xw:0.751xh;0xw,0.07xh&resize=360:*)\\
 \\
-This Is My Favorite Gap Basic—Hands Down](https://www.harpersbazaar.com/fashion/trends/a71322191/gap-pointelle-t-shirt-review/) [![amy adams at the louis vuitton 2027 cruise collection show on may 20, 2026 in new york, new york photo by john nacionwwd via getty images](https://hips.hearstapps.com/hmg-prod/images/c9ee58e2-3275-4daa-988a-88e8f01532a2.jpeg?crop=1xw:0.8xh;center,top&resize=360:*)\\
+What to Wear in Paris This Summer](https://www.harpersbazaar.com/fashion/trends/a71364201/paris-outfit-ideas/)
+
+[![sandal trends from spring summer 2026 runways](https://hips.hearstapps.com/hmg-prod/images/1206f574-69fc-42a5-903f-50017674dc4d.jpg?crop=0.562xw:1xh;0.006xw,0xh&resize=360:*)\\
 \\
-Getting Ready for Vuitton Cruise With Amy Adams](https://www.harpersbazaar.com/fashion/a71386203/amy-adams-louis-vuitton-cruise-show-2027/)
+The Sandal Trends Taking Over 2026](https://www.harpersbazaar.com/fashion/trends/a70805278/sandal-trends-2026/) [![Celebrity Sightings: Day 4 - The 79th Annual Cannes Film Festival](https://hips.hearstapps.com/hmg-prod/images/f60b01ca-8455-45f8-b06f-ce64b79b92ab.jpeg?crop=1xw:0.750480769231xh;center,top&resize=360:*)\\
+\\
+Put Down Your White Sneakers. Try These Instead.](https://www.harpersbazaar.com/fashion/trends/g71337748/best-metallic-sneakers/) [![Celebrity Sightings In New York - May 20, 2026](https://hips.hearstapps.com/hmg-prod/images/ec775ae5-a324-4bf7-bf3c-3640e17a8a56.jpeg?crop=1xw:0.727419354839xh;center,top&resize=360:*)\\
+\\
+The ’90s Throwback Shoe That Fashion Editors Love](https://www.harpersbazaar.com/fashion/trends/g71424208/best-flip-flop-heels/) [![Four women modeling different outfits with loose pants.](https://hips.hearstapps.com/hmg-prod/images/39522e37-e126-413e-9181-8e00b11a1230.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
+\\
+Taffeta Pants Are Summer’s Alternative to Satin](https://www.harpersbazaar.com/fashion/trends/a71465190/how-to-style-taffeta-pants/)
 
 Advertisement - Continue Reading Below
 

@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-06-08T10:21:24.227353+00:00
+scraped_at: 2026-06-15T11:49:25.943925+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -18,6 +18,26 @@ In business terms, it’s worked out pretty well. In June, Kardashian West sold 
 The first hint of a move into the shapewear market dates back to January 2019 when Kardashian West flew to Miami for a Met Gala fitting with designer Manfred Thierry Mugler. An Instagram post of herself, with Mugler, showed her wearing nothing but a nude tank top and cycling shorts. What the 1.8 million people who liked the post didn’t know was that Kardashian West was wearing early samples of Skims.
 
 The brand has signalled a buzzy new era for shapewear. It features nine shades and sizing from XXS to XXXXXL, all wrapped around the alluring marketing clout of one of the world’s top media celebrities (count those 190 million Instagram followers) — attracting a broader audience than a typical shapewear brand. Skims has built an Instagram following of 2.1 million in double-quick time.
+
+LATEST ON VOGUE
+
+[![Lessons from the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a122ebc3de4a897aff16c75/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Lessons from the Vogue Business Global Summit: Chantilly](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1 "Lessons from the Vogue Business Global Summit: Chantilly")
+
+[![How to Sell Now: Brand](https://assets.vogue.com/photos/6a1ebd1260a9c1ebfe62c41d/1:1/w_640%2Cc_limit/undefined)\\
+\\
+How to Sell Now: Brand](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1 "How to Sell Now: Brand")
+
+[![How to Sell Now: Social and AI](https://assets.vogue.com/photos/6a1e985d77203b15a3bdadf3/1:1/w_640%2Cc_limit/undefined)\\
+\\
+How to Sell Now: Social and AI](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1 "How to Sell Now: Social and AI")
+
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1 "The Vogue Business People Moves Tracker")
+
+ArrowArrow
 
 Kardashian West is keen to focus on the design qualities of the collection as much as her marketing appeal. “In the past, people might assume that shapewear is more like girdles — something that’s extremely uncomfortable,” she says. “I’ve worn corsets for events, I know how uncomfortable it is. That’s not the vibe of what I wanted.”
 
@@ -50,7 +70,92 @@ For shapewear brands, business remains challenging. Shapewear new arrivals at US
 
 Shapewear has tended to change little from year to year in design terms. That’s where Skims’s use of the drop model has changed the parameters — drawing on the similar model of KKW Beauty. Skims products sell out more rapidly than other players, says Marci. Discounting has proven unnecessary.
 
+#### Content
+
+To honor your privacy preferences, this content can only be viewed on the site it [originates](https://www.youtube-nocookie.com/embed/Ws05I4vZKOM) from.
+
 Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skims one year anniversary campaign.
+
+Most Popular
+
+- [![Is There a Business Case for Closing Fitting Rooms?](https://assets.vogue.com/photos/6a282477c6e64bcdf5b55dbb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/is-there-a-business-case-for-closing-fitting-rooms#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
+
+
+
+
+
+
+
+
+
+Sustainability
+
+
+
+
+
+[Is There a Business Case for Closing Fitting Rooms?](https://www.vogue.com/article/is-there-a-business-case-for-closing-fitting-rooms#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
+
+
+
+
+
+
+
+By Sophie Benson
+
+- [![Inside the Cartier Women’s Initiative in Bangkok](https://assets.vogue.com/photos/6a2bc4ff92c2e80c38f8f4ae/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-cartier-womens-initiative-in-bangkok#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
+
+
+
+
+
+
+
+
+
+Companies
+
+
+
+
+
+[Inside the Cartier Women’s Initiative in Bangkok](https://www.vogue.com/article/inside-the-cartier-womens-initiative-in-bangkok#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
+
+
+
+
+
+
+
+By Laure Guilbault
+
+- [![What Happened to Refillable Beauty?](https://assets.vogue.com/photos/6a2c03ecb374afe0f2c8e480/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-happened-to-refillable-beauty#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Sustainability
+
+
+
+
+
+[What Happened to Refillable Beauty?](https://www.vogue.com/article/what-happened-to-refillable-beauty#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+By Bella Webb
+
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
 
@@ -77,6 +182,87 @@ Not so long ago, shapewear was not considered particularly body positive or femi
 Skims launched bridal and maternity Solutionwear lines in September.
 Skims
 
+Most Popular
+
+- [![Is There a Business Case for Closing Fitting Rooms?](https://assets.vogue.com/photos/6a282477c6e64bcdf5b55dbb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/is-there-a-business-case-for-closing-fitting-rooms#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
+
+
+
+
+
+
+
+
+
+Sustainability
+
+
+
+
+
+[Is There a Business Case for Closing Fitting Rooms?](https://www.vogue.com/article/is-there-a-business-case-for-closing-fitting-rooms#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
+
+
+
+
+
+
+
+By Sophie Benson
+
+- [![Inside the Cartier Women’s Initiative in Bangkok](https://assets.vogue.com/photos/6a2bc4ff92c2e80c38f8f4ae/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-cartier-womens-initiative-in-bangkok#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
+
+
+
+
+
+
+
+
+
+Companies
+
+
+
+
+
+[Inside the Cartier Women’s Initiative in Bangkok](https://www.vogue.com/article/inside-the-cartier-womens-initiative-in-bangkok#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
+
+
+
+
+
+
+
+By Laure Guilbault
+
+- [![What Happened to Refillable Beauty?](https://assets.vogue.com/photos/6a2c03ecb374afe0f2c8e480/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-happened-to-refillable-beauty#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Sustainability
+
+
+
+
+
+[What Happened to Refillable Beauty?](https://www.vogue.com/article/what-happened-to-refillable-beauty#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+By Bella Webb
+
+
 Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
 
 For its one-year anniversary campaign, Kardashian West enlisted Gen Z favourites like TikToker Addison Rae alongside fans of Skims to pose in individual billboard campaigns showing the product on people of all ages, sizes and ethnicities.
@@ -100,34 +286,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![Lessons from the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a122ebc3de4a897aff16c75/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_e79df266-a522-4b0b-9b43-4e74fa7b3fa3_text2vec1_fallback_roberta-similarity1)
+[![Lessons from the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a122ebc3de4a897aff16c75/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
 
 Events
 
-[Lessons from the _Vogue Business_ Global Summit: Chantilly](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_e79df266-a522-4b0b-9b43-4e74fa7b3fa3_text2vec1_fallback_roberta-similarity1)
+[Lessons from the _Vogue Business_ Global Summit: Chantilly](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
 
 By Vogue Business in partnership with GXO, Swap, and Diriyah Company
 
-[![How to Sell Now: Brand](https://assets.vogue.com/photos/6a1ebd1260a9c1ebfe62c41d/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_e79df266-a522-4b0b-9b43-4e74fa7b3fa3_text2vec1_fallback_roberta-similarity1)
+[![How to Sell Now: Brand](https://assets.vogue.com/photos/6a1ebd1260a9c1ebfe62c41d/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
 
 Executive Reports
 
-[How to Sell Now: Brand](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_e79df266-a522-4b0b-9b43-4e74fa7b3fa3_text2vec1_fallback_roberta-similarity1)
+[How to Sell Now: Brand](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
 
 By Vogue Business
 
-[![A To-Do List for Marc Jacobs’s New Owner](https://assets.vogue.com/photos/6a073b1a10183e8892a021f5/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/a-to-do-list-for-marc-jacobss-new-owner#intcid=_vogue-article-bottom-recirc_e79df266-a522-4b0b-9b43-4e74fa7b3fa3_text2vec1_fallback_roberta-similarity1)
+[![How to Sell Now: Social and AI](https://assets.vogue.com/photos/6a1e985d77203b15a3bdadf3/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
+
+Executive Reports
+
+[How to Sell Now: Social and AI](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
+
+By Vogue Business
+
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
 
 Companies
 
-[A To-Do List for Marc Jacobs’s New Owner](https://www.vogue.com/article/a-to-do-list-for-marc-jacobss-new-owner#intcid=_vogue-article-bottom-recirc_e79df266-a522-4b0b-9b43-4e74fa7b3fa3_text2vec1_fallback_roberta-similarity1)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
 
-By Madeleine Schulz
-
-[![How to Sell Now: Social and AI](https://assets.vogue.com/photos/6a1e985d77203b15a3bdadf3/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_e79df266-a522-4b0b-9b43-4e74fa7b3fa3_text2vec1_fallback_roberta-similarity1)
-
-Executive Reports
-
-[How to Sell Now: Social and AI](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_e79df266-a522-4b0b-9b43-4e74fa7b3fa3_text2vec1_fallback_roberta-similarity1)
-
-By Vogue Business
+By Vogue Business Team
