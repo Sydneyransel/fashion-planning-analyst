@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/
 source_type: wwd.com
 title: Skims to Open First Asian Stores in Hong Kong, Seoul
-scraped_at: 2026-06-15T11:49:40.349959+00:00
+scraped_at: 2026-06-22T11:38:44.213553+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/#pagetop)
 
-Business
+Fashion
 
-### [Luxury Clients Are Seeking Meaningful Moments and Validation](https://wwd.com/business-news/business-features/luxury-clients-authentic-connection-validation-new-report-1239008741/)
-
-Eye
-
-### [Designer Nigel Cabourn Dies at 76](https://wwd.com/eye/people/nigel-cabourn-designer-vintage-military-uniforms-dead-76-1239008298/)
+### [Prada Men’s Spring 2027: The Jeans Genies](https://wwd.com/runway/mens-spring-2027/milan/prada/review/)
 
 Business
 
-### [The Challenges of Reviving Barneys New York](https://wwd.com/business-news/retail/remaking-barneys-authentic-brands-1238939223/)
+### [Loewe Appoints Eloise Hautcoeur](https://wwd.com/business-news/human-resources/loewe-global-communications-director-1239018441/)
+
+Fashion
+
+### [Alexander McQueen to Return to London Fashion Week](https://wwd.com/fashion-news/fashion-features/alexander-mcqueen-london-fashion-week-september-runway-show-1239018868/)
 
 ![Skims in Hong Kong](https://wwd.com/wp-content/uploads/2026/05/SKIMS-store-Hong-Kong-ctsy.jpg?w=1000&h=563&crop=1)
 
@@ -59,17 +59,17 @@ The Seoul store in Dosan will be operated in partnership with Handsome Corp. and
 
 ### Related Articles
 
-![The Yantian International Container Terminal at the Port of Shenzhen, China. ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Hangzhou's B1ock multibrand retailer and its co-founder Alessio LIu.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+
+[Retail](https://wwd.com/business-news/retail/)
+
+### [Meet B1ock, China's Multibrand Retailer on the Digital Frontier](https://wwd.com/business-news/retail/b1ock-china-multibrand-retailer-1239016172/)
+
+![Leaders at the G7 summit on June 16, 2026 in Evian-les-Bains, France.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 [Trade](https://wwd.com/business-news/trade/)
 
-### [China's Apparel Imports From Other Asian Countries On the Rise](https://wwd.com/sourcing-journal/trade/china-apparel-imports-asian-sourcing-exports-trade-asia-developing-countries-1239005928/)
-
-![Od.a, a Spanish-Chinese footwear brand set to launch at Dover Street Market this fall.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
-
-[Shoe Features](https://wwd.com/business-news/shoe-features/)
-
-### [Meet Od.a, a Footwear Label Rethinking Newness and Craft](https://wwd.com/footwear-news/shoe-features/meet-oda-spanish-chinese-footwear-label-rethinking-craft-1238999291/)
+### [EU May Tear a Page From US Playbook to Combat China Trade Imbalance](https://wwd.com/sourcing-journal/trade/eu-us-china-trade-imbalance-tariffs-germany-france-macron-trump-xi-1239018185/)
 
 “Hong Kong and Seoul have such an incredible energy, style perspective and influence on fashion globally,” said Kim Kardashian, cofounder and chief creative officer of [Skims](https://wwd.com/business-news/business-features/fashions-new-wave-digital-skims-quince-1238930332/). “Opening flagship stores in these city allow customers to experience the quality, fit and innovation behind every Skims piece in a more personal way.”
 
@@ -89,7 +89,7 @@ Skims’ announcement coincides with a long-awaited retail rebound in Hong Kong�
 
 According to data from Cushman & Wakefield, an uptick in tourist arrivals alongside sustained local spending sentiment continued to support Hong Kong’s retail sector in the January to February period, which rose 11.8 percent year-over-year to $72.4 billion Hong Kong dollars, or $9.3 billion.
 
-Apart from Skims, [Alo](https://wwd.com/fashion-news/designer-luxury/alo-wellness-luxury-cannes-activations-1238948826/) is slated to open its first [China](https://wwd.com/sourcing-journal/logistics/port-fees-shipbuilding-elizabeth-warren-mark-kelly-china-ships-for-america-1239001657/) store at [K11 Musea](https://wwd.com/eye/parties/k11-musea-city-as-studio-graffiti-exhibition-1235587634/); this February, [Palace](https://wwd.com/business-news/retail/palace-shanghai-zhangyuan-first-mainland-china-store-1238974490/) unveiled its first stand-alone store in Hong Kong in Causeway Bay.
+Apart from Skims, [Alo](https://wwd.com/fashion-news/designer-luxury/alo-wellness-luxury-cannes-activations-1238948826/) is slated to open its first [China](https://wwd.com/sourcing-journal/logistics/us-firms-sue-chinese-container-manufacturers-price-fixing-output-restrictions-doj-1239016069/) store at [K11 Musea](https://wwd.com/eye/parties/k11-musea-city-as-studio-graffiti-exhibition-1235587634/); this February, [Palace](https://wwd.com/business-news/retail/palace-shanghai-zhangyuan-first-mainland-china-store-1238974490/) unveiled its first stand-alone store in Hong Kong in Causeway Bay.
 
 content frame
 
@@ -114,7 +114,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![Taylor Swift at the 55th Annual Songwriters Hall of Fame.](https://wwd.com/wp-content/uploads/2026/06/taylor-swift-shoes.jpg?w=1024)](https://wwd.com/footwear-news/shoe-trends/taylor-swift-givenchy-sandals-songwriters-hall-of-fame-1239008909/)
+- [![Valentina Lucaj](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/human-resources/andrew-rosen-rag-amp-bone-valentina-lucaj-1239018548/)
 
 
 
@@ -124,65 +124,65 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Taylor Swift Laces Up in Sculptural Givenchy Heels for Her Songwriters Hall of Fame Induction](https://wwd.com/footwear-news/shoe-trends/taylor-swift-givenchy-sandals-songwriters-hall-of-fame-1239008909/)
+### [Andrew Rosen Passes Rag & Bone Reins to Valentina Lucaj](https://wwd.com/business-news/human-resources/andrew-rosen-rag-amp-bone-valentina-lucaj-1239018548/)
 
 
 
-  - [Shoe Trends](https://wwd.com/business-news/shoe-trends/)
-
-  - By
-
-
-    [Karla Rodriguez](https://wwd.com/wwd-masthead/karla-rodriguez/)
-
-
-- [![Goodr collaborates with Mattel on Barbie and Ken-inspired sunglasses.](https://wwd.com/wp-content/uploads/2026/06/goodr-barbie-ken-fi.jpg?w=1024)](https://wwd.com/pop-culture/new-fashion-releases/goodr-barbie-ken-sunglasses-collection-1238997213/)
-
-
-
-
-
-
-
-
-
-### [EXCLUSIVE: Goodr Partners With Mattel’s Barbie and Ken for Sunglasses Collection](https://wwd.com/pop-culture/new-fashion-releases/goodr-barbie-ken-sunglasses-collection-1238997213/)
-
-
-
-  - [New Fashion Releases](https://wwd.com/business-news/new-fashion-releases/)
+  - [Human Resources](https://wwd.com/business-news/human-resources/)
 
   - By
 
 
-    [Julia Teti](https://wwd.com/wwd-masthead/julia-teti/)
+    [Jean E. Palmieri](https://wwd.com/wwd-masthead/jean-e-palmieri/)
 
 
-- [![LSpace collaborates with The Salty Blonde on a new collection.](https://wwd.com/wp-content/uploads/2026/05/lspace-the-salty-blonde-fi.jpg?w=1024)](https://wwd.com/pop-culture/new-fashion-releases/lspace-the-salty-blonde-collaboration-collection-1238977463/)
-
-
-
+- [![a cap and trucker jacket for pride month overlaid on a photo of a queer couple posing for the diesel x tinder campaign; shop best pride month collections 2026](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/shop/shop-fashion/best-pride-month-fashion-collections-lgbtq-buy-online-2026-1238987726/)
 
 
 
 
 
 
-### [EXCLUSIVE: LSpace Collaborates With The Salty Blonde on a New Swimwear Collection](https://wwd.com/pop-culture/new-fashion-releases/lspace-the-salty-blonde-collaboration-collection-1238977463/)
 
 
 
-  - [New Fashion Releases](https://wwd.com/business-news/new-fashion-releases/)
+### [The Best Pride Month Clothing & Accessories to Shop This June](https://wwd.com/shop/shop-fashion/best-pride-month-fashion-collections-lgbtq-buy-online-2026-1238987726/)
+
+
+
+  - [Fashion](https://wwd.com/business-news/shop-fashion/)
 
   - By
 
 
-    [Julia Teti](https://wwd.com/wwd-masthead/julia-teti/)
+    [Stacia Datskovska](https://wwd.com/wwd-masthead/stacia-datskovska/)
 
 
-[![Skims to Open First Asian Stores in Hong Kong, Seoul](https://wwd.com/wp-content/uploads/2026/06/dvf.png?w=910&h=511&crop=1)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
+- [![best activewear brands for women to shop online 2026; selection of sports bras, polo tees, and athletic shorts over tri-colored background](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/shop/shop-fashion/best-activewear-brands-to-shop-online-this-year-1238989501/)
 
-### CEO Talks: Diane Von Furstenberg
+
+
+
+
+
+
+
+
+### [The 11 Best Activewear Brands You Should Be Shopping Right Now](https://wwd.com/shop/shop-fashion/best-activewear-brands-to-shop-online-this-year-1238989501/)
+
+
+
+  - [Fashion](https://wwd.com/business-news/shop-fashion/)
+
+  - By
+
+
+    [Stacia Datskovska](https://wwd.com/wwd-masthead/stacia-datskovska/) and [Katie Ann Lehman](https://wwd.com/wwd-masthead/klehman@pmc.com/)
+
+
+[![Skims to Open First Asian Stores in Hong Kong, Seoul](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
+
+### CEO Talks: Diane Von Furstenberg
 
 WWD and Women's Wear Daily are part of Penske Media Corporation. © 2026 Fairchild Publishing, LLC. All Rights Reserved.
 
@@ -314,5 +314,3 @@ Log In Sign Up
   - [Shoes](https://wwd.com/shop/shop-shoes/)
 
 ad
-
-reCAPTCHA

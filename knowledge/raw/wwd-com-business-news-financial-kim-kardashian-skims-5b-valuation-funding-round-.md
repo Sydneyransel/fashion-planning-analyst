@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/
 source_type: wwd.com
 title: Kim Kardashian's Skims Hits $5B Valuation With New Funding Round
-scraped_at: 2026-06-15T11:49:35.844662+00:00
+scraped_at: 2026-06-22T11:38:39.642738+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/#pagetop)
 
 Fashion
 
-### [Palisades Village Will Reopen Aug. 1](https://wwd.com/fashion-news/fashion-features/palisades-village-reopening-aug-1-pacific-palisades-fires-1239009510/)
-
-Men's
-
-### [Dunhill Doubles Down on Leather Goods](https://wwd.com/menswear-news/mens-accessories/dunhill-leather-goods-launch-heritage-in-motion-series-1239006100/)
+### [Prada Men’s Spring 2027: The Jeans Genies](https://wwd.com/runway/mens-spring-2027/milan/prada/review/)
 
 Business
 
-### [This Paris Pop-up Gives a Great Sense of Tokyo](https://wwd.com/business-news/retail/paris-pop-up-tokyo-fashion-week-lumine-berlin-1238987607/)
+### [Loewe Appoints Eloise Hautcoeur](https://wwd.com/business-news/human-resources/loewe-global-communications-director-1239018441/)
+
+Fashion
+
+### [Alexander McQueen to Return to London Fashion Week](https://wwd.com/fashion-news/fashion-features/alexander-mcqueen-london-fashion-week-september-runway-show-1239018868/)
 
 ![NEW YORK, NEW YORK - SEPTEMBER 24: NikeSKIMS dancers perform at the NikeSKIMS "Bodies at Work" event at the New York Public Library on September 24, 2025 in New York City. (Photo by Valerie Terranova/Getty Images)](https://wwd.com/wp-content/uploads/2025/09/skims-presentation-photosc.jpg?w=800&h=533&crop=1)
 
@@ -124,7 +124,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![Taylor Swift at the 55th Annual Songwriters Hall of Fame.](https://wwd.com/wp-content/uploads/2026/06/taylor-swift-shoes.jpg?w=1024)](https://wwd.com/footwear-news/shoe-trends/taylor-swift-givenchy-sandals-songwriters-hall-of-fame-1239008909/)
+- [![From the Gap spring campaign "Sweats like this."](https://wwd.com/wp-content/uploads/2026/02/ALL_26_SP_GG_OF_MOTION_STILLS_YNG_MIKO_1_1487_WB.jpg?w=1024)](https://wwd.com/business-news/retail/gap-inc-ai-google-zeta-publicis-sapient-1239017796/)
 
 
 
@@ -134,60 +134,60 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Taylor Swift Laces Up in Sculptural Givenchy Heels for Her Songwriters Hall of Fame Induction](https://wwd.com/footwear-news/shoe-trends/taylor-swift-givenchy-sandals-songwriters-hall-of-fame-1239008909/)
+### [Gap Inc. Leverages AI to Optimize Marketing and Personalization](https://wwd.com/business-news/retail/gap-inc-ai-google-zeta-publicis-sapient-1239017796/)
 
 
 
-  - [Shoe Trends](https://wwd.com/business-news/shoe-trends/)
-
-  - By
-
-
-    [Karla Rodriguez](https://wwd.com/wwd-masthead/karla-rodriguez/)
-
-
-- [![Lacoste Pedder Building Hong Kong](https://wwd.com/wp-content/uploads/2026/05/Lacoste-Hong-Kong-Pedder-Building.jpg?w=1024)](https://wwd.com/business-news/fashion-features/lacoste-hong-kong-flagship-opening-pedder-building-1238980883/)
-
-
-
-
-
-
-
-
-
-### [EXCLUSIVE: Lacoste Nods to Hong Kong’s Neons and Skyline With New Flagship](https://wwd.com/business-news/fashion-features/lacoste-hong-kong-flagship-opening-pedder-building-1238980883/)
-
-
-
-  - [Fashion Features](https://wwd.com/business-news/fashion-features/)
+  - [Retail](https://wwd.com/business-news/retail/)
 
   - By
 
 
-    [Lily Templeton](https://wwd.com/wwd-masthead/lily-templeton/)
+    [David Moin](https://wwd.com/wwd-masthead/david-moin/)
 
 
-- [![U.S. first lady Melania Trump welcomes French first lady Brigitte Macron, during an arrival ceremony at the White House April 24, 2018 in Washington, DC. Trump is hosting Macron for a two-day official visit that included dinner at George Washington's Mount Vernon, a tree planting on the White House South Lawn and a joint news conference.](https://wwd.com/wp-content/uploads/2024/03/Brigitte-Macron-Through-Years-Getty-15.jpg?w=1024)](https://wwd.com/fashion-news/fashion-features/french-american-first-ladies-fashion-language-different-1238948001/)
-
-
-
+- [![AI agents influencing how consumers shop, think and feel.](https://wwd.com/wp-content/uploads/2026/06/ai.jpeg?w=1024)](https://wwd.com/business-news/retail/ai-agents-influencing-what-consumers-buy-think-feel-and-engage-accenture-survey-1238975444/)
 
 
 
 
 
 
-### [French, American First Ladies Aren’t Speaking the Same Fashion Language, but Somehow They Understand Each Other](https://wwd.com/fashion-news/fashion-features/french-american-first-ladies-fashion-language-different-1238948001/)
 
 
 
-  - [Fashion Features](https://wwd.com/business-news/fashion-features/)
+### [AI Agents Influencing Not Just What Consumers Buy, but How They Think, Feel and Engage: Accenture Survey](https://wwd.com/business-news/retail/ai-agents-influencing-what-consumers-buy-think-feel-and-engage-accenture-survey-1238975444/)
+
+
+
+  - [Retail](https://wwd.com/business-news/retail/)
 
   - By
 
 
-    [Samantha Conti](https://wwd.com/wwd-masthead/samantha-conti/)
+    [Lisa Lockwood](https://wwd.com/wwd-masthead/lisa-lockwood/)
+
+
+- [![The new Favorite Daughter boutique in Nashville.](https://wwd.com/wp-content/uploads/2026/06/3ddca8da-d9f6-4d20-9934-528c445f3f83.jpg?w=1024)](https://wwd.com/business-news/retail/favorite-daughter-third-boutique-nashvilles-12south-neighborhood-1238995313/)
+
+
+
+
+
+
+
+
+
+### [Favorite Daughter Opens Third Boutique in Nashville’s 12South Neighborhood](https://wwd.com/business-news/retail/favorite-daughter-third-boutique-nashvilles-12south-neighborhood-1238995313/)
+
+
+
+  - [Retail](https://wwd.com/business-news/retail/)
+
+  - By
+
+
+    [Lisa Lockwood](https://wwd.com/wwd-masthead/lisa-lockwood/)
 
 
 [![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/uploads/2026/06/dvf.png?w=910&h=511&crop=1)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
@@ -326,9 +326,3 @@ Log In Sign Up
 ad
 
 reCAPTCHA
-
-Recaptcha requires verification.
-
-protected by **reCAPTCHA**
-
-reCAPTCHA is changing its terms of service. [Take action.](https://google.com/recaptcha/admin/migrate)

@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-06-15T11:49:30.555598+00:00
+scraped_at: 2026-06-22T11:38:35.357837+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -18,6 +18,26 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 “We’re energised by the opportunity to build a new brand and shake things up for the next generation of athletes with NikeSkims,” Heidi O’Neill, president of consumer, product and brand, said in a press release. “We will invite even more athletes into sport and movement with product that makes them feel strong and sexy.”
 
 “This partnership is the culmination of that shared vision, delivering product that is meticulously designed to sculpt and perform for every body,” Kardashian said in the release. “Every single detail has been obsessed over and carefully considered. We’re incredibly excited to unveil our first collection this spring.”
+
+LATEST ON VOGUE
+
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2 "The Vogue Business People Moves Tracker")
+
+[![Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://assets.vogue.com/photos/6a350c129d115f69a9cad36a/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2 "Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027")
+
+[![Alexander McQueen Will Return to London for Spring/Summer 2027](https://assets.vogue.com/photos/6a384167c6743ac336910ac9/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Alexander McQueen Will Return to London for Spring/Summer 2027](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2 "Alexander McQueen Will Return to London for Spring/Summer 2027")
+
+[![Are Smart Glasses a Luxury Purchase?](https://assets.vogue.com/photos/6a353ed396ecd82d93093bde/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Are Smart Glasses a Luxury Purchase?](https://www.vogue.com/article/are-smart-glasses-a-luxury-purchase#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2 "Are Smart Glasses a Luxury Purchase?")
+
+ArrowArrow
 
 At first glance, the collaboration might read as antithetical to Hill’s North Star strategy of putting sport at the centre of everything. “Moving forward, we will lead with sport and put the athlete at the centre of every decision,” he [told investors](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December. Where does a partnership with one of the world’s biggest influencers fit in?
 
@@ -48,6 +68,87 @@ And it’s a bigger effort. Previous fashion collabs (Bode, Jacquemus, for insta
 Caitlin Clark and Sha’Carri Richardson feature in Nike’s “So Win” campaign.
 Photos: Courtesy of Nike
 
+Most Popular
+
+- [![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Companies
+
+
+
+
+
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+By Vogue Business Team
+
+- [![Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://assets.vogue.com/photos/6a350c129d115f69a9cad36a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+By Laure Guilbault
+
+- [![Alexander McQueen Will Return to London for Spring/Summer 2027](https://assets.vogue.com/photos/6a384167c6743ac336910ac9/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[Alexander McQueen Will Return to London for Spring/Summer 2027](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+By Lucy Maguire
+
+
 It also signals Nike’s commitment to developing technical products for women. Product innovation has been a pain point for Nike in recent years, Yarbrough says. Hill [acknowledged this](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December’s earnings; it forms the foundation of his turnaround strategy. In partnering with Skims on a joint brand, Nike is able to gain access to womenswear tech to help it rival the Alos and Lululemons of the world, which, Yarbrough says, would otherwise likely take Nike several years to develop, manufacture and scale. “This accelerates that path for Nike to compete with some of these other brands that have been growing rapidly.” It’s a smart shortcut, Hastings-Narayanin says.
 
 These learnings are likely to bleed out beyond the sub-brand to Nike’s main women’s line, Miller adds. “Nike could use it to inform how it designs the rest of its products for women and take insights based on the data — they get to understand what works and what doesn’t.” (On the flip side, Skims will also gain access to Nike’s more technical activewear tech.)
@@ -59,6 +160,87 @@ Perhaps this is what sportswear giants should have been doing all along. These b
 Looking forward, the new brand bodes well for both parents. For one, women’s interest in sports is on the rise, and it’s rising [beyond wellness](https://www.lsnglobal.com/macro-trends/article/31505/future-forecast-2025-sports-health-wellness), Hastings-Narayanin says. “The global shift towards women pursuing sports not just for wellbeing but for performance and self-optimisation makes this a long-term strategic play, not a passing trend.”
 
 These days, consumers want products that work, experts agree, so emphasis needs to be on quality over hype. “Success today is about truly listening to your audience and creating products and marketing that connect with them, rather than just chasing trends or relying on a big budget,” DelMonte says.
+
+Most Popular
+
+- [![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Companies
+
+
+
+
+
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+By Vogue Business Team
+
+- [![Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://assets.vogue.com/photos/6a350c129d115f69a9cad36a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+By Laure Guilbault
+
+- [![Alexander McQueen Will Return to London for Spring/Summer 2027](https://assets.vogue.com/photos/6a384167c6743ac336910ac9/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[Alexander McQueen Will Return to London for Spring/Summer 2027](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+By Lucy Maguire
+
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
 
@@ -82,34 +264,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![Is There a Business Case for Closing Fitting Rooms?](https://assets.vogue.com/photos/6a282477c6e64bcdf5b55dbb/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/is-there-a-business-case-for-closing-fitting-rooms#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_popular4-2)
-
-Sustainability
-
-[Is There a Business Case for Closing Fitting Rooms?](https://www.vogue.com/article/is-there-a-business-case-for-closing-fitting-rooms#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_popular4-2)
-
-By Sophie Benson
-
-[![Inside the Cartier Women’s Initiative in Bangkok](https://assets.vogue.com/photos/6a2bc4ff92c2e80c38f8f4ae/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-cartier-womens-initiative-in-bangkok#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_popular4-2)
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
 
 Companies
 
-[Inside the Cartier Women’s Initiative in Bangkok](https://www.vogue.com/article/inside-the-cartier-womens-initiative-in-bangkok#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_popular4-2)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
+
+By Vogue Business Team
+
+[![Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://assets.vogue.com/photos/6a350c129d115f69a9cad36a/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
+
+Fashion
+
+[Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
 
 By Laure Guilbault
 
-[![What Happened to Refillable Beauty?](https://assets.vogue.com/photos/6a2c03ecb374afe0f2c8e480/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/what-happened-to-refillable-beauty#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_cral-top2-2)
+[![Alexander McQueen Will Return to London for Spring/Summer 2027](https://assets.vogue.com/photos/6a384167c6743ac336910ac9/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
 
-Sustainability
+Business
 
-[What Happened to Refillable Beauty?](https://www.vogue.com/article/what-happened-to-refillable-beauty#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_cral-top2-2)
+[Alexander McQueen Will Return to London for Spring/Summer 2027](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
 
-By Bella Webb
+By Lucy Maguire
 
-[![Isaac Mizrahi Is Target’s First Creative Director at Large](https://assets.vogue.com/photos/6a2bc081b374afe0f2c8e2bc/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/isaac-mizrahi-is-targets-first-creative-director-at-large#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_cral-top2-2)
+[![Are Smart Glasses a Luxury Purchase?](https://assets.vogue.com/photos/6a353ed396ecd82d93093bde/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/are-smart-glasses-a-luxury-purchase#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
 
-Creative Directors
+Technology
 
-[Isaac Mizrahi Is Target’s First Creative Director at Large](https://www.vogue.com/article/isaac-mizrahi-is-targets-first-creative-director-at-large#intcid=_vogue-article-bottom-recirc_ee0c67bb-e22f-471c-b541-18353ebbca28_text2vec1_fallback_cral-top2-2)
+[Are Smart Glasses a Luxury Purchase?](https://www.vogue.com/article/are-smart-glasses-a-luxury-purchase#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
 
-By Hilary Milnes
+By Amy O’Brien

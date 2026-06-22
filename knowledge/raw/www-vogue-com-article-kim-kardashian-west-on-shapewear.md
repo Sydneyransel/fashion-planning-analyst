@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-06-15T11:49:25.943925+00:00
+scraped_at: 2026-06-22T11:38:30.752309+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -21,21 +21,21 @@ The brand has signalled a buzzy new era for shapewear. It features nine shades a
 
 LATEST ON VOGUE
 
-[![Lessons from the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a122ebc3de4a897aff16c75/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Lessons from the Vogue Business Global Summit: Chantilly](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1 "Lessons from the Vogue Business Global Summit: Chantilly")
-
 [![How to Sell Now: Brand](https://assets.vogue.com/photos/6a1ebd1260a9c1ebfe62c41d/1:1/w_640%2Cc_limit/undefined)\\
 \\
-How to Sell Now: Brand](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1 "How to Sell Now: Brand")
+How to Sell Now: Brand](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_624e3f6e-23dc-4377-9fd4-935c7cb3b58a_text2vec1_fallback_roberta-similarity1 "How to Sell Now: Brand")
+
+[![The Big Destination Show Debrief](https://assets.vogue.com/photos/6a2983188bb2ebda48f24d18/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Big Destination Show Debrief](https://www.vogue.com/article/the-big-destination-show-debrief#intcid=_vogue-article-bottom-recirc_624e3f6e-23dc-4377-9fd4-935c7cb3b58a_text2vec1_fallback_roberta-similarity1 "The Big Destination Show Debrief")
 
 [![How to Sell Now: Social and AI](https://assets.vogue.com/photos/6a1e985d77203b15a3bdadf3/1:1/w_640%2Cc_limit/undefined)\\
 \\
-How to Sell Now: Social and AI](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1 "How to Sell Now: Social and AI")
+How to Sell Now: Social and AI](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_624e3f6e-23dc-4377-9fd4-935c7cb3b58a_text2vec1_fallback_roberta-similarity1 "How to Sell Now: Social and AI")
 
 [![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1 "The Vogue Business People Moves Tracker")
+The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_624e3f6e-23dc-4377-9fd4-935c7cb3b58a_text2vec1_fallback_roberta-similarity1 "The Vogue Business People Moves Tracker")
 
 ArrowArrow
 
@@ -78,33 +78,7 @@ Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skim
 
 Most Popular
 
-- [![Is There a Business Case for Closing Fitting Rooms?](https://assets.vogue.com/photos/6a282477c6e64bcdf5b55dbb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/is-there-a-business-case-for-closing-fitting-rooms#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
-
-
-
-
-
-
-
-
-
-Sustainability
-
-
-
-
-
-[Is There a Business Case for Closing Fitting Rooms?](https://www.vogue.com/article/is-there-a-business-case-for-closing-fitting-rooms#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
-
-
-
-
-
-
-
-By Sophie Benson
-
-- [![Inside the Cartier Women’s Initiative in Bangkok](https://assets.vogue.com/photos/6a2bc4ff92c2e80c38f8f4ae/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-cartier-womens-initiative-in-bangkok#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
+- [![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-right-rail_b8ae8f5e-8b01-48ba-9b2b-b391dfd276b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -120,7 +94,33 @@ Companies
 
 
 
-[Inside the Cartier Women’s Initiative in Bangkok](https://www.vogue.com/article/inside-the-cartier-womens-initiative-in-bangkok#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-right-rail_b8ae8f5e-8b01-48ba-9b2b-b391dfd276b0_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+By Vogue Business Team
+
+- [![Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://assets.vogue.com/photos/6a350c129d115f69a9cad36a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-right-rail_b8ae8f5e-8b01-48ba-9b2b-b391dfd276b0_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-right-rail_b8ae8f5e-8b01-48ba-9b2b-b391dfd276b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -130,7 +130,7 @@ Companies
 
 By Laure Guilbault
 
-- [![What Happened to Refillable Beauty?](https://assets.vogue.com/photos/6a2c03ecb374afe0f2c8e480/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-happened-to-refillable-beauty#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2_fallback_cral-top2-2)
+- [![Are Smart Glasses a Luxury Purchase?](https://assets.vogue.com/photos/6a353ed396ecd82d93093bde/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/are-smart-glasses-a-luxury-purchase#intcid=_vogue-right-rail_b8ae8f5e-8b01-48ba-9b2b-b391dfd276b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -140,13 +140,13 @@ By Laure Guilbault
 
 
 
-Sustainability
+Technology
 
 
 
 
 
-[What Happened to Refillable Beauty?](https://www.vogue.com/article/what-happened-to-refillable-beauty#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2_fallback_cral-top2-2)
+[Are Smart Glasses a Luxury Purchase?](https://www.vogue.com/article/are-smart-glasses-a-luxury-purchase#intcid=_vogue-right-rail_b8ae8f5e-8b01-48ba-9b2b-b391dfd276b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -154,7 +154,7 @@ Sustainability
 
 
 
-By Bella Webb
+By Amy O’Brien
 
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
@@ -184,33 +184,7 @@ Skims
 
 Most Popular
 
-- [![Is There a Business Case for Closing Fitting Rooms?](https://assets.vogue.com/photos/6a282477c6e64bcdf5b55dbb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/is-there-a-business-case-for-closing-fitting-rooms#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
-
-
-
-
-
-
-
-
-
-Sustainability
-
-
-
-
-
-[Is There a Business Case for Closing Fitting Rooms?](https://www.vogue.com/article/is-there-a-business-case-for-closing-fitting-rooms#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
-
-
-
-
-
-
-
-By Sophie Benson
-
-- [![Inside the Cartier Women’s Initiative in Bangkok](https://assets.vogue.com/photos/6a2bc4ff92c2e80c38f8f4ae/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-cartier-womens-initiative-in-bangkok#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
+- [![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-right-rail_b8ae8f5e-8b01-48ba-9b2b-b391dfd276b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -226,7 +200,33 @@ Companies
 
 
 
-[Inside the Cartier Women’s Initiative in Bangkok](https://www.vogue.com/article/inside-the-cartier-womens-initiative-in-bangkok#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-right-rail_b8ae8f5e-8b01-48ba-9b2b-b391dfd276b0_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+By Vogue Business Team
+
+- [![Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://assets.vogue.com/photos/6a350c129d115f69a9cad36a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-right-rail_b8ae8f5e-8b01-48ba-9b2b-b391dfd276b0_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-right-rail_b8ae8f5e-8b01-48ba-9b2b-b391dfd276b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -236,7 +236,7 @@ Companies
 
 By Laure Guilbault
 
-- [![What Happened to Refillable Beauty?](https://assets.vogue.com/photos/6a2c03ecb374afe0f2c8e480/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-happened-to-refillable-beauty#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2_fallback_cral-top2-2)
+- [![Are Smart Glasses a Luxury Purchase?](https://assets.vogue.com/photos/6a353ed396ecd82d93093bde/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/are-smart-glasses-a-luxury-purchase#intcid=_vogue-right-rail_b8ae8f5e-8b01-48ba-9b2b-b391dfd276b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -246,13 +246,13 @@ By Laure Guilbault
 
 
 
-Sustainability
+Technology
 
 
 
 
 
-[What Happened to Refillable Beauty?](https://www.vogue.com/article/what-happened-to-refillable-beauty#intcid=_vogue-right-rail_117dbd67-cf63-4b0c-a4cf-9b367ede92aa_popular4-2_fallback_cral-top2-2)
+[Are Smart Glasses a Luxury Purchase?](https://www.vogue.com/article/are-smart-glasses-a-luxury-purchase#intcid=_vogue-right-rail_b8ae8f5e-8b01-48ba-9b2b-b391dfd276b0_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -260,7 +260,7 @@ Sustainability
 
 
 
-By Bella Webb
+By Amy O’Brien
 
 
 Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
@@ -286,34 +286,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![Lessons from the Vogue Business Global Summit: Chantilly](https://assets.vogue.com/photos/6a122ebc3de4a897aff16c75/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
-
-Events
-
-[Lessons from the _Vogue Business_ Global Summit: Chantilly](https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
-
-By Vogue Business in partnership with GXO, Swap, and Diriyah Company
-
-[![How to Sell Now: Brand](https://assets.vogue.com/photos/6a1ebd1260a9c1ebfe62c41d/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
+[![How to Sell Now: Brand](https://assets.vogue.com/photos/6a1ebd1260a9c1ebfe62c41d/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_624e3f6e-23dc-4377-9fd4-935c7cb3b58a_text2vec1_fallback_roberta-similarity1)
 
 Executive Reports
 
-[How to Sell Now: Brand](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
+[How to Sell Now: Brand](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_624e3f6e-23dc-4377-9fd4-935c7cb3b58a_text2vec1_fallback_roberta-similarity1)
 
 By Vogue Business
 
-[![How to Sell Now: Social and AI](https://assets.vogue.com/photos/6a1e985d77203b15a3bdadf3/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
+[![The Big Destination Show Debrief](https://assets.vogue.com/photos/6a2983188bb2ebda48f24d18/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-big-destination-show-debrief#intcid=_vogue-article-bottom-recirc_624e3f6e-23dc-4377-9fd4-935c7cb3b58a_text2vec1_fallback_roberta-similarity1)
+
+Fashion
+
+[The Big Destination Show Debrief](https://www.vogue.com/article/the-big-destination-show-debrief#intcid=_vogue-article-bottom-recirc_624e3f6e-23dc-4377-9fd4-935c7cb3b58a_text2vec1_fallback_roberta-similarity1)
+
+By Madeleine Schulz
+
+[![How to Sell Now: Social and AI](https://assets.vogue.com/photos/6a1e985d77203b15a3bdadf3/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_624e3f6e-23dc-4377-9fd4-935c7cb3b58a_text2vec1_fallback_roberta-similarity1)
 
 Executive Reports
 
-[How to Sell Now: Social and AI](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
+[How to Sell Now: Social and AI](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_624e3f6e-23dc-4377-9fd4-935c7cb3b58a_text2vec1_fallback_roberta-similarity1)
 
 By Vogue Business
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_624e3f6e-23dc-4377-9fd4-935c7cb3b58a_text2vec1_fallback_roberta-similarity1)
 
 Companies
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_f7c96b5e-cc02-4775-a771-7db82ce9f315_text2vec1_fallback_roberta-similarity1)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_624e3f6e-23dc-4377-9fd4-935c7cb3b58a_text2vec1_fallback_roberta-similarity1)
 
 By Vogue Business Team

@@ -2,7 +2,7 @@
 url: https://www.whowhatwear.com/kim-kardashian-skims-review
 source_type: whowhatwear.com
 title: 5 Editors Review Skims, Kim Kardashian's New Shapewear | Who What Wear
-scraped_at: 2026-06-08T10:22:00.043166+00:00
+scraped_at: 2026-06-22T11:38:56.470226+00:00
 ---
 
 [![Who What Wear](https://cdn.mos.cms.futurecdn.net/flexiimages/p5lektiuwq1683127037.svg)Who What Wear](https://www.whowhatwear.com/)
@@ -136,7 +136,7 @@ Best picks for you
 - [![French and British fashion and beauty influencer Emma Hoareau poses in a pale pink shapewear one piece](https://cdn.mos.cms.futurecdn.net/mane4fne7EY3Yco6L9jo8b.jpg)My Favorite Dresses, Skirts, and Jeans Look So Much Better with These 10 Shapewear Pieces](https://www.whowhatwear.com/best-tummy-control-shapewear)
 - [![best-strapless-shapewear-304213-1670021871925-square](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/304213/best-strapless-shapewear-304213-1670021871925-square.jpg)I Promise: This Is the Best Strapless Shapewear That's No Slipping, All Shaping](https://www.whowhatwear.com/best-strapless-shapewear)
 
-[![Skims + Seamless Sculpt Mid Waist Brief | Espresso](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1699404913900-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-2038783072525791080&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fseamless-sculpt-mid-waist-brief-espresso)
+[![Skims + Seamless Sculpt Mid Waist Brief | Espresso](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1699404913900-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-9252607819112787202&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fseamless-sculpt-mid-waist-brief-espresso)
 
 Skims
 
@@ -144,7 +144,7 @@ Seamless Sculpt Mid Waist Brief \| Espresso
 
 $32
 
-[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-5034967396507361125&sharedId=hawk&u=https%3A%2F%2Fskims.com%2Fproducts%2Fseamless-sculpt-mid-waist-brief-espresso)
+[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-8695203688603014824&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fseamless-sculpt-mid-waist-brief-espresso)
 
 ## Sarah Wearing Sculpting High-Waist Brief in Mica
 
@@ -190,7 +190,7 @@ $68
 
 "Don't let the miniature-size pieces fool you. They will stretch out more than you think. That said, once I squeezed myself into my Skims, they definitely did the job and smoothed everything out—whatever annoying stomach bloat I had was virtually deleted. I wore mine underneath a dress to attend a wedding, and unfortunately, the high-waisted briefs bunched way up over my hips while I was seated, which made things pretty uncomfortable. So I'd say for standing and taking photos, I'm all for these, but in my experience, they weren't the best design for lots of movement."
 
-[![Skims + Seamless Sculpt Mid Waist Thong in Clay](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1699405296724-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-1156006662977813405&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fseamless-sculpt-mid-waist-thong-clay)
+[![Skims + Seamless Sculpt Mid Waist Thong in Clay](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1699405296724-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-3536733377048064548&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fseamless-sculpt-mid-waist-thong-clay)
 
 Skims
 
@@ -198,7 +198,7 @@ Seamless Sculpt Mid Waist Thong in Clay
 
 $28
 
-[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-1010919426965519362&sharedId=hawk&u=https%3A%2F%2Fskims.com%2Fproducts%2Fseamless-sculpt-mid-waist-thong-clay)
+[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-1029715023024635005&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fseamless-sculpt-mid-waist-thong-clay)
 
 ## Erin Wearing the Sculpting Shorts Mid-Thigh in Sand
 
@@ -208,7 +208,7 @@ $28
 
 I'm self-conscious about my hips and actively avoid wearing all formfitting dresses, so I was excited to try these shorts out. I tried them with this Reformation dress and was really pleased with how I still looked like myself, but a better version. I definitely felt like the shorts smoothed me out a bit, and I can honestly say I felt more confident while wearing them. Dare I say I might actually be tempted to buy more formfitting clothes now?
 
-[![Skims + Sculpting Shorts Mid-Thigh](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1681847333874-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-6642995743376086162&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsculpting-short-above-the-knee-w-open-gusset-sienna)
+[![Skims + Sculpting Shorts Mid-Thigh](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1681847333874-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-5948826130850748486&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsculpting-short-above-the-knee-w-open-gusset-sienna)
 
 Skims
 
@@ -216,11 +216,11 @@ Sculpting Shorts Mid-Thigh
 
 $34
 
-[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-2481696689582993710&sharedId=hawk&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsculpting-short-above-the-knee-w-open-gusset-sienna)
+[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-1125099102340235798&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsculpting-short-above-the-knee-w-open-gusset-sienna)
 
 ## Shop More Skims Pieces
 
-[![Skims + Soft Lounge Lace Shorts](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1681847991607-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-9343564840118692674&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsoft-lounge-lace-short-marble)
+[![Skims + Soft Lounge Lace Shorts](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1681847991607-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-1207215245346266378&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsoft-lounge-lace-short-marble)
 
 Skims
 
@@ -228,9 +228,9 @@ Soft Lounge Lace Shorts
 
 $36
 
-[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-5529946381259448559&sharedId=hawk&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsoft-lounge-lace-short-marble)
+[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-1251187292468677514&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsoft-lounge-lace-short-marble)
 
-[![Skims + Soft Lounge Lace Tank](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1681847839186-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-8168312833304078341&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsoft-lounge-lace-tank-arctic)
+[![Skims + Soft Lounge Lace Tank](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1681847839186-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-5464918746013427119&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsoft-lounge-lace-tank-arctic)
 
 Skims
 
@@ -238,9 +238,9 @@ Soft Lounge Lace Tank
 
 $48
 
-[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-1455584204066190743&sharedId=hawk&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsoft-lounge-lace-tank-arctic)
+[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-6786273869298618121&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsoft-lounge-lace-tank-arctic)
 
-[![Skims + Lounge Ribbed Long Sleeve Maxi Dress](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1664759191270-main.jpg)](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-9312262414928232476&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-lounge-ribbed-long-sleeve-maxi-dress-regular-plus-size%2F6648047%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D051)
+[![Skims + Lounge Ribbed Long Sleeve Maxi Dress](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1664759191270-main.jpg)](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-1108250087902280784&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-lounge-ribbed-long-sleeve-maxi-dress-regular-plus-size%2F6648047%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D051)
 
 Skims
 
@@ -248,9 +248,9 @@ Lounge Ribbed Long Sleeve Maxi Dress
 
 $88
 
-[SHOP NOW](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-1102013065401309408&sharedId=hawk&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-lounge-ribbed-long-sleeve-maxi-dress-regular-plus-size%2F6648047%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D051)
+[SHOP NOW](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-2187220871371052416&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-lounge-ribbed-long-sleeve-maxi-dress-regular-plus-size%2F6648047%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D051)
 
-[![Skims + Sculpting Bodysuit](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1681847412704-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-1244532148080537886&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsculpting-bodysuit-w-snaps-mica)
+[![Skims + Sculpting Bodysuit](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1681847412704-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-4358894261937975960&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsculpting-bodysuit-w-snaps-mica)
 
 Skims
 
@@ -258,7 +258,7 @@ Sculpting Bodysuit
 
 $62
 
-[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-1287805483869301024&sharedId=hawk&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsculpting-bodysuit-w-snaps-mica)
+[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-1263298001721626918&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fsculpting-bodysuit-w-snaps-mica)
 
 [![Skims + Boy Shorts in Clay](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1568223620226-product.jpg)](https://skims.wsktbf.net/c/75786/618913/10056?u=https%3A%2F%2Fskims.com%2Fproducts%2Fboy-short-mica)
 
@@ -270,7 +270,7 @@ $22
 
 [SHOP NOW](https://skims.wsktbf.net/c/75786/618913/10056?u=https%3A%2F%2Fskims.com%2Fproducts%2Fboy-short-mica)
 
-[![Skims + Fits Everybody T-Shirt](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1664759134236-main.jpg)](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-5912145481289394874&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-fits-everybody-t-shirt-regular-plus-size%2F6444279%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D250)
+[![Skims + Fits Everybody T-Shirt](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1664759134236-main.jpg)](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-6599656267572690346&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-fits-everybody-t-shirt-regular-plus-size%2F6444279%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D250)
 
 Skims
 
@@ -278,9 +278,9 @@ Fits Everybody T-Shirt
 
 $54
 
-[SHOP NOW](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-4622123800470252868&sharedId=hawk&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-fits-everybody-t-shirt-regular-plus-size%2F6444279%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D250)
+[SHOP NOW](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-3343535840475819962&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-fits-everybody-t-shirt-regular-plus-size%2F6444279%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D250)
 
-[![Skims + Barely There Shapewear Briefs Bodysuit](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1664759460517-main.jpg)](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-1034531992576295283&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fbarely-there-shapewear-briefs-bodysuit-regular-plus-size%2F6634250%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D003)
+[![Skims + Barely There Shapewear Briefs Bodysuit](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1664759460517-main.jpg)](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-3194325101416400904&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fbarely-there-shapewear-briefs-bodysuit-regular-plus-size%2F6634250%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D003)
 
 Skims
 
@@ -288,7 +288,7 @@ Barely There Shapewear Briefs Bodysuit
 
 $62
 
-[SHOP NOW](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-1172916934507491326&sharedId=hawk&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fbarely-there-shapewear-briefs-bodysuit-regular-plus-size%2F6634250%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D003)
+[SHOP NOW](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-8483688307790122010&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fbarely-there-shapewear-briefs-bodysuit-regular-plus-size%2F6634250%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D003)
 
 [![Skims + T-Shirt Bra in Clay](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1568222624097-product.jpg)](https://skims.wsktbf.net/c/75786/618913/10056?u=https%3A%2F%2Fskims.com%2Fproducts%2Ft-shirt-bra-clay)
 
@@ -300,7 +300,7 @@ $48
 
 [SHOP NOW](https://skims.wsktbf.net/c/75786/618913/10056?u=https%3A%2F%2Fskims.com%2Fproducts%2Ft-shirt-bra-clay)
 
-[![Skims + Naked Plunge Bra](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1664759590637-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-6964788090393880064&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fnaked-plunge-bra-clay)
+[![Skims + Naked Plunge Bra](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1664759590637-main.jpg)](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-3521336461799896376&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fnaked-plunge-bra-clay)
 
 Skims
 
@@ -308,9 +308,9 @@ Naked Plunge Bra
 
 $44
 
-[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-9388601408692123629&sharedId=hawk&u=https%3A%2F%2Fskims.com%2Fproducts%2Fnaked-plunge-bra-clay)
+[SHOP NOW](https://skims.wsktbf.net/c/221109/618913/10056?subId1=whowhatwear-us-1438244602335118539&sharedId=whowhatwear-us&u=https%3A%2F%2Fskims.com%2Fproducts%2Fnaked-plunge-bra-clay)
 
-[![Skims + Boyfriend T-Shirt](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1664759396018-main.jpg)](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-1248564943409518497&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-boyfriend-t-shirt-regular-plus-size%2F6048054%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D053)
+[![Skims + Boyfriend T-Shirt](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1664759396018-main.jpg)](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-1043883636081729550&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-boyfriend-t-shirt-regular-plus-size%2F6048054%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D053)
 
 Skims
 
@@ -318,9 +318,9 @@ Boyfriend T-Shirt
 
 $42
 
-[SHOP NOW](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-1719436926787201449&sharedId=hawk&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-boyfriend-t-shirt-regular-plus-size%2F6048054%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D053)
+[SHOP NOW](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-8015200304357210690&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-boyfriend-t-shirt-regular-plus-size%2F6048054%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D053)
 
-[![Skims + Stretch Cotton Triangle Bralette](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1664759457603-main.jpg)](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-8578758967895409583&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-stretch-cotton-triangle-bralette-regular-plus-size%2F5767463%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D103)
+[![Skims + Stretch Cotton Triangle Bralette](https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/282405/kim-kardashian-skims-review-282405-1664759457603-main.jpg)](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-9929312750235140719&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-stretch-cotton-triangle-bralette-regular-plus-size%2F5767463%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D103)
 
 Skims
 
@@ -328,7 +328,7 @@ Stretch Cotton Triangle Bralette
 
 $32
 
-[SHOP NOW](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-1841204023160083255&sharedId=hawk&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-stretch-cotton-triangle-bralette-regular-plus-size%2F5767463%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D103)
+[SHOP NOW](https://nordstrom.sjv.io/c/75786/1960196/23920?subId1=whowhatwear-us-4975740068435437733&sharedId=whowhatwear-us&u=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fskims-stretch-cotton-triangle-bralette-regular-plus-size%2F5767463%3Forigin%3Dkeywordsearch-personalizedsort%26breadcrumb%3DHome%252FAll%2520Results%26color%3D103)
 
 _This article was published at an earlier date and has been updated._
 
@@ -346,20 +346,20 @@ Erin got her start as a Who What Wear intern in 2011—back when the site only p
 
 Read more
 
-[![@emmanuellek_ wearing a lace set](https://cdn.mos.cms.futurecdn.net/MBNiYSCcXqo6JbngDFPaNA.jpg)\\
-ShoppingT-Shirt Bras! Lace Teddies! Sculpting Shorts! These Are the Lingerie and Intimates Our Editors Are LovingFlirty and fun.](https://www.whowhatwear.com/fashion/shopping/editor-approved-lingerie-intimates-shapewear-2026 "T-Shirt Bras! Lace Teddies! Sculpting Shorts! These Are the Lingerie and Intimates Our Editors Are Loving")
-By
-[Josephine Hadjiloucas](https://www.whowhatwear.com/author/josephine-hadjiloucas)
-
-[![Kendall Jenner wearing Alo](https://cdn.mos.cms.futurecdn.net/3Q4xYeqSvgk77Ej3WbrRJY.jpg)\\
-ShoppingL.A. It Girls Put Me On to These 6 Chic Legging Brands—Here's My Editor-Tested ReviewKendall Jenner approves.](https://www.whowhatwear.com/fashion/shopping/best-legging-brands-2026 "L.A. It Girls Put Me On to These 6 Chic Legging Brands—Here's My Editor-Tested Review")
-By
-[Josephine Hadjiloucas](https://www.whowhatwear.com/author/josephine-hadjiloucas)
-
 [![Nikki wears a blue dress and a blue bikini in the monday swimwear store.](https://cdn.mos.cms.futurecdn.net/BvKXTCNSSMFASCUL3Bt3RN.jpg)\\
 SummerEditors Love to Gatekeep This Bikini Brand—4 Outfits I Tried On and Have to Talk AboutBooking a tropical vacation ASAP.](https://www.whowhatwear.com/fashion/summer/monday-swimwear-clothing-brand-review "Editors Love to Gatekeep This Bikini Brand—4 Outfits I Tried On and Have to Talk About")
 By
 [Nikki Chwatt](https://www.whowhatwear.com/author/nikki-chwatt)
+
+[![editor trying on the best white tank tops](https://cdn.mos.cms.futurecdn.net/mWP5woipqEHPVxLmpCbymY.jpg)\\
+TopsI Put 20 Best-Selling White Tanks to the Test, and These 6 Won Me OverThe best of the best.](https://www.whowhatwear.com/best-white-tank-tops "I Put 20 Best-Selling White Tanks to the Test, and These 6 Won Me Over")
+By
+[Anna LaPlaca](https://www.whowhatwear.com/author/anna-laplaca)
+
+[![Collage of summer 2026 Reformation shorts on a 5&#039;4&quot; fashion editor](https://cdn.mos.cms.futurecdn.net/fxzv4GikhjseBk2GvS9pfg.jpg)\\
+ShoppingI'm 5'4" and Tried On Reformation's Buzziest Shorts of 2026—Here Are the Pairs Worth BuyingFrom Bermudas to bloomers.](https://www.whowhatwear.com/fashion/shopping/reformation-shorts-try-on-2026 "I'm 5'4\" and Tried On Reformation's Buzziest Shorts of 2026—Here Are the Pairs Worth Buying")
+By
+[Allyson Payer](https://www.whowhatwear.com/author/allyson-payer)
 
 [![@nicoleakhtarzad mirror selfie in spring/summer ouftif](https://cdn.mos.cms.futurecdn.net/6C4vRas4LyNF85MghUpyPL.jpg)\\
 ShoppingTrust Me—Buy These 22 ThingsWhat are you waiting for?](https://www.whowhatwear.com/fashion-shopping-picks-may-2026 "Trust Me—Buy These 22 Things")
@@ -368,19 +368,22 @@ By
 
 Latest in Celebrity
 
-[![Halle wears a white blazer, black top, and a tan bag.](https://cdn.mos.cms.futurecdn.net/ef9J47bTwzmRmkFzK5AALo.jpg)\\
-Celebrity StyleNot Shorts: The It-Girl Way Fashion People in Their 50s Are Wearing Adidas Sneakers This Summer](https://www.whowhatwear.com/fashion/celebrity-style/barrel-leg-jeans-adidas-sneakers-outfit-halle-berry "Not Shorts: The It-Girl Way Fashion People in Their 50s Are Wearing Adidas Sneakers This Summer")
+[![the band KiiiKiii wearing a Coach taby bag and summer outfits](https://cdn.mos.cms.futurecdn.net/hLcFBfPDSsYCuW4Mn4ivYh.jpg)\\
+Celebrity StyleCoach Is Launching a Gen Z–Forward Social Platform Featuring Charli XCX, KiiiKiii, and More](https://www.whowhatwear.com/fashion/celebrity-style/coach-gen-z-platform-launch "Coach Is Launching a Gen Z–Forward Social Platform Featuring Charli XCX, KiiiKiii, and More")
 
-[![Madelyn Cline wearing a long white coat over a black dress and strappy high-heel mule sandals](https://cdn.mos.cms.futurecdn.net/Ev7TaT6osr2H5TpGTxCbMA.jpg)\\
-Celebrity StyleIf You're Over Heeled Flip-Flops, This Is the High-Heel Sandal Trend to Swap Them For](https://www.whowhatwear.com/fashion/celebrity-style/strappy-high-heel-mule-sandal-trend-madelyn-cline "If You're Over Heeled Flip-Flops, This Is the High-Heel Sandal Trend to Swap Them For")
+[![Hailey Bieber wearing an NYC sweatshirt, stovepipe jeans, a black The Row bag, wraparound sunglasses, and black leather flip-flops in Beverly Hills](https://cdn.mos.cms.futurecdn.net/cMwUWUd3CTErWMhda7XFw7.jpg)\\
+Celebrity StyleHold the Dresses and Shorts—This Anti-Trend "Summer" Outfit Is What the It Girls Are Wearing](https://www.whowhatwear.com/fashion/celebrity-style/sweatshirt-and-jeans-summer-outfit-hailey-bieber-vittoria-ceretti "Hold the Dresses and Shorts—This Anti-Trend \"Summer\" Outfit Is What the It Girls Are Wearing")
 
-[![Charlotte Lawrence wearing a long black dress with silver-and-red Salomon sneakers and a leopard-print bag in NYC](https://cdn.mos.cms.futurecdn.net/uezUvEBaQyG9ekuq6YZwjR.jpg)\\
-Celebrity StyleIt's Here: The 2026 It-Girl Way to Wear Sneakers With a Dress](https://www.whowhatwear.com/fashion/celebrity-style/summer-dress-and-sneaker-outfit-trend-charlotte-lawrence "It's Here: The 2026 It-Girl Way to Wear Sneakers With a Dress")
+[![Taylor Swift wearing a beige cashmere polo shirt, blue jeans, tan belt, tan shoulder bag, and tan Gucci sandals](https://cdn.mos.cms.futurecdn.net/kMhMX8Fcdo7stNrtFJhRbP.jpg)\\
+Celebrity StyleFYI: Taylor Swift Just Made This "Dated" Accessory-Color Trend Cool Again](https://www.whowhatwear.com/fashion/celebrity-style/matching-accessory-color-trend-taylor-swift "FYI: Taylor Swift Just Made This \"Dated\" Accessory-Color Trend Cool Again")
 
-[![Ella Hunt wearing a Carven brown crinkled satin tank with black taffeta pants in NYC](https://cdn.mos.cms.futurecdn.net/xA3q7VKpXRVahfqmXXPKed.jpg)\\
-Celebrity StyleThe Verdict Is In: This Pant Trend Is More Popular Than Linen in 2026](https://www.whowhatwear.com/fashion/celebrity-style/taffeta-pant-trend-ella-hunt "The Verdict Is In: This Pant Trend Is More Popular Than Linen in 2026")
+[![Elsa wears a plaid jacket, white chanel bag, and low rise jeans.](https://cdn.mos.cms.futurecdn.net/9Fd8BXo7CmefqacgBtggd.jpg)\\
+Celebrity StyleCelebs in Their 30s Are Styling Low-Rise Baggy Jeans With This One Sandal Color Trend](https://www.whowhatwear.com/fashion/celebrity-style/low-rise-baggy-jeans-white-flip-flops-trend-elsa-hosk-zoey-deutch-2026 "Celebs in Their 30s Are Styling Low-Rise Baggy Jeans With This One Sandal Color Trend")
 
 Latest in Reviews
+
+[![Hanni products and shower GIF](https://cdn.mos.cms.futurecdn.net/NjrfyhEpDm9kKTNWC5joRm.gif)\\
+SkinThis IYKYK Bodycare Brand Makes Up 99% of My Routine—Here's Every Underrated In-Shower Essential](https://www.whowhatwear.com/beauty/skin/hanni-bodycare-review "This IYKYK Bodycare Brand Makes Up 99% of My Routine—Here's Every Underrated In-Shower Essential")
 
 [![calvin klein best denim trends](https://cdn.mos.cms.futurecdn.net/VaH9NEUbeQomKdcs3cmA4h.gif)\\
 FashionThis Is Your Sign to Upgrade Your Denim Drawer—4 Calvin Klein Styles to Try This Summer](https://www.whowhatwear.com/fashion/calvin-klein-summer-denim "This Is Your Sign to Upgrade Your Denim Drawer—4 Calvin Klein Styles to Try This Summer")
@@ -390,9 +393,6 @@ WellnessI Used a PEMF Mat for 60 Days Straight—Now It's a $1295 Investment I R
 
 [![Dior Cruise 2027 show in Los Angeles ](https://cdn.mos.cms.futurecdn.net/QcNAM2sb4tKPGcfyEEc9Td.jpg)\\
 RunwayCinematic! Jonathan Anderson Flips the Hollywood Script for Dior Cruise 2027](https://www.whowhatwear.com/fashion/runway/dior-cruise-2027 "Cinematic! Jonathan Anderson Flips the Hollywood Script for Dior Cruise 2027")
-
-[![Beauty editor Kaitlyn McLintock](https://cdn.mos.cms.futurecdn.net/n5e34UMWrNpkqfeATmWfxW.jpg)\\
-SkinI've Never Been Wowed by Face Mists, But Then I Tried This Skin-Transforming, Biotech Formula](https://www.whowhatwear.com/beauty/skin/u-beauty-the-barrier-bioactive-mist-review "I've Never Been Wowed by Face Mists, But Then I Tried This Skin-Transforming, Biotech Formula")
 
 [Who What Wear](https://www.whowhatwear.com/)
 
@@ -409,6 +409,7 @@ SkinI've Never Been Wowed by Face Mists, But Then I Tried This Skin-Transforming
 - [Accessibility Statement](https://www.futureplc.com/accessibility-statement/)
 - [Advertise with us](https://go.future-advertising.com/Who-What-Wear-Media-Kit.html)
 - [Do not sell or share my personal information](https://www.whowhatwear.com/privacy-portal)
+- [GDPR consent](https://www.whowhatwear.com/kim-kardashian-skims-review#)
 
  [![Add as a preferred source on Google](https://cdn.mos.cms.futurecdn.net/flexiimages/mednnv697g1760357120.png)Add as a preferred source on Google](https://google.com/preferences/source?q=whowhatwear.com)
 
