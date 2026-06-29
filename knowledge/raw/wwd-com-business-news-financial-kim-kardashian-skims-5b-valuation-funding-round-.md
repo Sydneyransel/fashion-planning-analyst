@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/
 source_type: wwd.com
 title: Kim Kardashian's Skims Hits $5B Valuation With New Funding Round
-scraped_at: 2026-06-22T11:38:39.642738+00:00
+scraped_at: 2026-06-29T10:26:59.355187+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/#pagetop)
 
 Fashion
 
-### [Prada Men’s Spring 2027: The Jeans Genies](https://wwd.com/runway/mens-spring-2027/milan/prada/review/)
+### [Celine Men’s Spring 2027: Variety Show](https://wwd.com/runway/mens-spring-2027/paris/celine/review/)
 
 Business
 
-### [Loewe Appoints Eloise Hautcoeur](https://wwd.com/business-news/human-resources/loewe-global-communications-director-1239018441/)
+### [Exemplar Plans Life After Saks Bankruptcy](https://wwd.com/business-news/retail/saks-global-renamed-exemplar-luxury-group-exits-bankruptcy-1239037467/)
 
 Fashion
 
-### [Alexander McQueen to Return to London Fashion Week](https://wwd.com/fashion-news/fashion-features/alexander-mcqueen-london-fashion-week-september-runway-show-1239018868/)
+### [Off-White Launches L/AB](https://wwd.com/fashion-news/sportswear/off-white-lower-priced-collection-lab-cristiano-fagnani-1239027348/)
 
 ![NEW YORK, NEW YORK - SEPTEMBER 24: NikeSKIMS dancers perform at the NikeSKIMS "Bodies at Work" event at the New York Public Library on September 24, 2025 in New York City. (Photo by Valerie Terranova/Getty Images)](https://wwd.com/wp-content/uploads/2025/09/skims-presentation-photosc.jpg?w=800&h=533&crop=1)
 
@@ -59,19 +59,19 @@ The new money came from Goldman Sachs Alternatives and BDT & MSD Partners.
 
 ### Related Articles
 
-![Kim Kardashian wearing Demna-era Gucci head-to-toe, including her black horsebit heels, and Khloé Kardashian in Gianvito Rossi Sofia Mules at the Monaco Grad Prix on Saturday. ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Rama Duwaji and Mayor Zohran Mamdani at the Knicks ceremony outside City Hall Plaza. ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Shoe Trends](https://wwd.com/business-news/shoe-trends/)
+[Business Features](https://wwd.com/business-news/business-features/)
 
-### [Kim Kardashian Sticks With Gucci Horsebit Heels as Khloé Goes Barely There in Gianvito Rossi at the Monaco Grand Prix](https://wwd.com/footwear-news/shoe-trends/kim-kardashian-gucci-heels-hamilton-monaco-grand-prix-1238998747/)
+### [Major Sports Events Are Driving Cultural and Brand Impact](https://wwd.com/business-news/business-features/sports-events-driving-brand-impact-culture-community-1239030744/)
 
-![Kim Kardashian, Nike, World Cup, Film, Channing Tatum, Rip the script, soccer, football, shoes, sneakers](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![SYDNEY, AUSTRALIA - APRIL 29:  A model showcases an outift by designer Silence Is Golden on the catwalk on the second day of the Rosemount Australian Fashion Week Spring/Summer 2008/09 Collections at the Overseas Passenger Terminal on April 29, 2008 in Sydney, Australia.  (Photo by Don Arnold/WireImage)](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Shoe Industry News](https://wwd.com/business-news/shoe-industry-news/)
+[Culture News](https://wwd.com/business-news/culture-news/)
 
-### [Nike Goes Hollywood in World Cup Film Featuring Kim Kardashian, LeBron James, Channing Tatum and More Stars](https://wwd.com/footwear-news/shoe-industry-news/nike-world-cup-film-kim-kardashian-lebron-james-interview-1238994871/)
+### [Fashion Industry Still Promotes Ultrathin Models, According to New Research](https://wwd.com/pop-culture/culture-news/ultrathin-models-fashion-research-skims-1239030017/)
 
-[Skims](https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/) got its start in shapewear, but has been branching out in apparel and looking more into beauty, recently [hiring Diarrha N’Diaye](https://wwd.com/beauty-industry-news/color-cosmetics/kim-kardashian-skims-ami-cole-founder-hire-1238331656/) to be executive vice president of beauty and fragrance.
+[Skims](https://wwd.com/pop-culture/celebrity-news/hailey-bieber-skims-everyday-cotton-campaign-1239023406/) got its start in shapewear, but has been branching out in apparel and looking more into beauty, recently [hiring Diarrha N’Diaye](https://wwd.com/beauty-industry-news/color-cosmetics/kim-kardashian-skims-ami-cole-founder-hire-1238331656/) to be executive vice president of beauty and fragrance.
 
 
 
@@ -124,7 +124,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![From the Gap spring campaign "Sweats like this."](https://wwd.com/wp-content/uploads/2026/02/ALL_26_SP_GG_OF_MOTION_STILLS_YNG_MIKO_1_1487_WB.jpg?w=1024)](https://wwd.com/business-news/retail/gap-inc-ai-google-zeta-publicis-sapient-1239017796/)
+- [![Street Style From Paris Men's Fashion Week Spring 2027](https://wwd.com/wp-content/uploads/2026/06/taw-mens-spring-2027-street-style-KD-116.jpg?w=1024)](https://wwd.com/menswear-news/mens-fashion/paris-fashion-week-heatwave-coping-1239034976/)
 
 
 
@@ -134,60 +134,16 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Gap Inc. Leverages AI to Optimize Marketing and Personalization](https://wwd.com/business-news/retail/gap-inc-ai-google-zeta-publicis-sapient-1239017796/)
+### [How Paris Showgoers Are Coping With the Heat Wave](https://wwd.com/menswear-news/mens-fashion/paris-fashion-week-heatwave-coping-1239034976/)
 
 
 
-  - [Retail](https://wwd.com/business-news/retail/)
-
-  - By
-
-
-    [David Moin](https://wwd.com/wwd-masthead/david-moin/)
-
-
-- [![AI agents influencing how consumers shop, think and feel.](https://wwd.com/wp-content/uploads/2026/06/ai.jpeg?w=1024)](https://wwd.com/business-news/retail/ai-agents-influencing-what-consumers-buy-think-feel-and-engage-accenture-survey-1238975444/)
-
-
-
-
-
-
-
-
-
-### [AI Agents Influencing Not Just What Consumers Buy, but How They Think, Feel and Engage: Accenture Survey](https://wwd.com/business-news/retail/ai-agents-influencing-what-consumers-buy-think-feel-and-engage-accenture-survey-1238975444/)
-
-
-
-  - [Retail](https://wwd.com/business-news/retail/)
+  - [Mens Fashion](https://wwd.com/business-news/mens-fashion/)
 
   - By
 
 
-    [Lisa Lockwood](https://wwd.com/wwd-masthead/lisa-lockwood/)
-
-
-- [![The new Favorite Daughter boutique in Nashville.](https://wwd.com/wp-content/uploads/2026/06/3ddca8da-d9f6-4d20-9934-528c445f3f83.jpg?w=1024)](https://wwd.com/business-news/retail/favorite-daughter-third-boutique-nashvilles-12south-neighborhood-1238995313/)
-
-
-
-
-
-
-
-
-
-### [Favorite Daughter Opens Third Boutique in Nashville’s 12South Neighborhood](https://wwd.com/business-news/retail/favorite-daughter-third-boutique-nashvilles-12south-neighborhood-1238995313/)
-
-
-
-  - [Retail](https://wwd.com/business-news/retail/)
-
-  - By
-
-
-    [Lisa Lockwood](https://wwd.com/wwd-masthead/lisa-lockwood/)
+    [Miles Socha](https://wwd.com/wwd-masthead/miles-socha/), [Tianwei Zhang](https://wwd.com/wwd-masthead/tianwei-zhang/), [Alex Wynne](https://wwd.com/wwd-masthead/alex-wynne/), [Lily Templeton](https://wwd.com/wwd-masthead/lily-templeton/), [Joelle Diderich](https://wwd.com/wwd-masthead/joelle-diderich/), and [Alex Badia](https://wwd.com/wwd-masthead/alex-badia/)
 
 
 [![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/uploads/2026/06/dvf.png?w=910&h=511&crop=1)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
@@ -265,10 +221,10 @@ Log In Sign Up
   - [Spring Bridal 2026](https://wwd.com/runway/spring-bridal-2026/)
 - ### [Footwear News](https://wwd.com/footwear-news/)Expand footwear-news menu
 
-  - [Shoe Industry News](https://wwd.com/footwear-news/shoe-industry-news/)
-  - [Shoe Features](https://wwd.com/footwear-news/shoe-features/)
-  - [Shoe Trends](https://wwd.com/footwear-news/shoe-trends/)
-  - [Sneaker News](https://wwd.com/footwear-news/sneaker-news/)
+  - [Shoe Industry News](https://wwd.com/business-news/shoe-industry-news/)
+  - [Shoe Features](https://wwd.com/business-news/shoe-features/)
+  - [Shoe Trends](https://wwd.com/business-news/shoe-trends/)
+  - [Sneaker News](https://wwd.com/business-news/sneaker-news/)
 - ### [Sourcing Journal](https://wwd.com/sourcing-journal/)Expand sourcing-journal menu
 
   - [Denim](https://wwd.com/sourcing-journal/sj-denim/)
@@ -324,5 +280,3 @@ Log In Sign Up
   - [Shoes](https://wwd.com/shop/shop-shoes/)
 
 ad
-
-reCAPTCHA

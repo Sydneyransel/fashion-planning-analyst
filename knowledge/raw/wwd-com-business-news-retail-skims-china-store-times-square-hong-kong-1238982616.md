@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/
 source_type: wwd.com
 title: Skims to Open First Asian Stores in Hong Kong, Seoul
-scraped_at: 2026-06-22T11:38:44.213553+00:00
+scraped_at: 2026-06-29T10:27:03.863674+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/#pagetop)
 
 Fashion
 
-### [Prada Men’s Spring 2027: The Jeans Genies](https://wwd.com/runway/mens-spring-2027/milan/prada/review/)
+### [Best Street Style From Paris Men’s Fashion Week Spring 2027](https://wwd.com/fashion-news/fashion-features/gallery/best-street-style-from-paris-mens-fashion-week-spring-2027-1239028709/)
 
 Business
 
-### [Loewe Appoints Eloise Hautcoeur](https://wwd.com/business-news/human-resources/loewe-global-communications-director-1239018441/)
+### [Exemplar Plans Life After Saks Bankruptcy](https://wwd.com/business-news/retail/saks-global-renamed-exemplar-luxury-group-exits-bankruptcy-1239037467/)
 
 Fashion
 
-### [Alexander McQueen to Return to London Fashion Week](https://wwd.com/fashion-news/fashion-features/alexander-mcqueen-london-fashion-week-september-runway-show-1239018868/)
+### [Y-3 Spring 2027: A Shanked Shot](https://wwd.com/runway/mens-spring-2027/paris/y-3/review/)
 
 ![Skims in Hong Kong](https://wwd.com/wp-content/uploads/2026/05/SKIMS-store-Hong-Kong-ctsy.jpg?w=1000&h=563&crop=1)
 
@@ -51,7 +51,7 @@ Skims will be opening a store in Hong Kong.Courtesy of Skims
 
 [Skims](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/) is expanding in Asia with its first permanent retail locations in [Hong Kong](https://wwd.com/tag/hong-kong/) and Seoul.
 
-Slated to open this November, the [Hong Kong](https://wwd.com/business-news/retail/tiffany-and-co-hong-kong-store-summer-blue-book-2026-1239001902/) store will be located at Times Square, a shopping mall located at the heart of the vibrant Causeway Bay retail zone. The street-facing, 353-square-meter storefront was previously occupied by a Tiffany & Co. flagship.
+Slated to open this November, the [Hong Kong](https://wwd.com/pop-culture/culture-news/dhl-express-hong-kong-designer-eric-wong-old-uniforms-collaboration-1239024235/) store will be located at Times Square, a shopping mall located at the heart of the vibrant Causeway Bay retail zone. The street-facing, 353-square-meter storefront was previously occupied by a Tiffany & Co. flagship.
 
 The Seoul store in Dosan will be operated in partnership with Handsome Corp. and will be the first of several [Skims](https://wwd.com/tag/skims/) loations planned across the city, the company said. It will open this winter, although the specific date was not disclosed.
 
@@ -59,19 +59,19 @@ The Seoul store in Dosan will be operated in partnership with Handsome Corp. and
 
 ### Related Articles
 
-![Hangzhou's B1ock multibrand retailer and its co-founder Alessio LIu.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Asics x Empty Behavior event at the Broken Arm in Paris   ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Retail](https://wwd.com/business-news/retail/)
+[Shoe Features](https://wwd.com/business-news/shoe-features/)
 
-### [Meet B1ock, China's Multibrand Retailer on the Digital Frontier](https://wwd.com/business-news/retail/b1ock-china-multibrand-retailer-1239016172/)
+### [Asics Bets on Chinese Creativity, Takes Lisa-approved Empty Behavior to Paris](https://wwd.com/footwear-news/shoe-features/asics-chinese-creativity-empty-behavior-paris-launch-1239031740/)
 
-![Leaders at the G7 summit on June 16, 2026 in Evian-les-Bains, France.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Perfect Diary has landed in Sephora China.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Trade](https://wwd.com/business-news/trade/)
+[Color Cosmetics](https://wwd.com/business-news/color-cosmetics/)
 
-### [EU May Tear a Page From US Playbook to Combat China Trade Imbalance](https://wwd.com/sourcing-journal/trade/eu-us-china-trade-imbalance-tariffs-germany-france-macron-trump-xi-1239018185/)
+### [EXCLUSIVE: C-beauty Label Perfect Diary Lands at Sephora China](https://wwd.com/beauty-industry-news/color-cosmetics/c-beauty-label-perfect-diary-sephora-china-1239034809/)
 
-“Hong Kong and Seoul have such an incredible energy, style perspective and influence on fashion globally,” said Kim Kardashian, cofounder and chief creative officer of [Skims](https://wwd.com/business-news/business-features/fashions-new-wave-digital-skims-quince-1238930332/). “Opening flagship stores in these city allow customers to experience the quality, fit and innovation behind every Skims piece in a more personal way.”
+“Hong Kong and Seoul have such an incredible energy, style perspective and influence on fashion globally,” said Kim Kardashian, cofounder and chief creative officer of [Skims](https://wwd.com/pop-culture/culture-news/ultrathin-models-fashion-research-skims-1239030017/). “Opening flagship stores in these city allow customers to experience the quality, fit and innovation behind every Skims piece in a more personal way.”
 
 ### You May Also Like
 
@@ -89,7 +89,7 @@ Skims’ announcement coincides with a long-awaited retail rebound in Hong Kong�
 
 According to data from Cushman & Wakefield, an uptick in tourist arrivals alongside sustained local spending sentiment continued to support Hong Kong’s retail sector in the January to February period, which rose 11.8 percent year-over-year to $72.4 billion Hong Kong dollars, or $9.3 billion.
 
-Apart from Skims, [Alo](https://wwd.com/fashion-news/designer-luxury/alo-wellness-luxury-cannes-activations-1238948826/) is slated to open its first [China](https://wwd.com/sourcing-journal/logistics/us-firms-sue-chinese-container-manufacturers-price-fixing-output-restrictions-doj-1239016069/) store at [K11 Musea](https://wwd.com/eye/parties/k11-musea-city-as-studio-graffiti-exhibition-1235587634/); this February, [Palace](https://wwd.com/business-news/retail/palace-shanghai-zhangyuan-first-mainland-china-store-1238974490/) unveiled its first stand-alone store in Hong Kong in Causeway Bay.
+Apart from Skims, [Alo](https://wwd.com/fashion-news/designer-luxury/alo-wellness-luxury-cannes-activations-1238948826/) is slated to open its first [China](https://wwd.com/business-news/business-features/luxury-market-bain-altagamma-forecasts-growth-2026-1239032562/) store at [K11 Musea](https://wwd.com/eye/parties/k11-musea-city-as-studio-graffiti-exhibition-1235587634/); this February, [Palace](https://wwd.com/business-news/retail/palace-shanghai-zhangyuan-first-mainland-china-store-1238974490/) unveiled its first stand-alone store in Hong Kong in Causeway Bay.
 
 content frame
 
@@ -114,7 +114,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![Valentina Lucaj](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/human-resources/andrew-rosen-rag-amp-bone-valentina-lucaj-1239018548/)
+- [![Omega](https://wwd.com/wp-content/uploads/2026/03/watches-feature.jpg?w=1024)](https://wwd.com/business-news/legal/swatch-lawsuit-samsung-watch-faces-1239035338/)
 
 
 
@@ -124,65 +124,65 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Andrew Rosen Passes Rag & Bone Reins to Valentina Lucaj](https://wwd.com/business-news/human-resources/andrew-rosen-rag-amp-bone-valentina-lucaj-1239018548/)
+### [Swatch Sues Samsung Over Watch Faces, Demands $170 Million in Damages](https://wwd.com/business-news/legal/swatch-lawsuit-samsung-watch-faces-1239035338/)
 
 
 
-  - [Human Resources](https://wwd.com/business-news/human-resources/)
-
-  - By
-
-
-    [Jean E. Palmieri](https://wwd.com/wwd-masthead/jean-e-palmieri/)
-
-
-- [![a cap and trucker jacket for pride month overlaid on a photo of a queer couple posing for the diesel x tinder campaign; shop best pride month collections 2026](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/shop/shop-fashion/best-pride-month-fashion-collections-lgbtq-buy-online-2026-1238987726/)
-
-
-
-
-
-
-
-
-
-### [The Best Pride Month Clothing & Accessories to Shop This June](https://wwd.com/shop/shop-fashion/best-pride-month-fashion-collections-lgbtq-buy-online-2026-1238987726/)
-
-
-
-  - [Fashion](https://wwd.com/business-news/shop-fashion/)
+  - [Legal](https://wwd.com/business-news/legal/)
 
   - By
 
 
-    [Stacia Datskovska](https://wwd.com/wwd-masthead/stacia-datskovska/)
+    [Lily Templeton](https://wwd.com/wwd-masthead/lily-templeton/) and [Martino Carrera](https://wwd.com/wwd-masthead/martino-carrera/)
 
 
-- [![best activewear brands for women to shop online 2026; selection of sports bras, polo tees, and athletic shorts over tri-colored background](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/shop/shop-fashion/best-activewear-brands-to-shop-online-this-year-1238989501/)
-
-
-
+- [![Hangzhou's B1ock multibrand retailer and its co-founder Alessio LIu.](https://wwd.com/wp-content/uploads/2026/06/alessio-b1ock-building.jpg?w=1024)](https://wwd.com/business-news/retail/b1ock-china-multibrand-retailer-1239016172/)
 
 
 
 
 
 
-### [The 11 Best Activewear Brands You Should Be Shopping Right Now](https://wwd.com/shop/shop-fashion/best-activewear-brands-to-shop-online-this-year-1238989501/)
 
 
 
-  - [Fashion](https://wwd.com/business-news/shop-fashion/)
+### [Meet B1ock, China’s Multibrand Retailer on the Digital Frontier](https://wwd.com/business-news/retail/b1ock-china-multibrand-retailer-1239016172/)
+
+
+
+  - [Retail](https://wwd.com/business-news/retail/)
 
   - By
 
 
-    [Stacia Datskovska](https://wwd.com/wwd-masthead/stacia-datskovska/) and [Katie Ann Lehman](https://wwd.com/wwd-masthead/klehman@pmc.com/)
+    [Denni Hu](https://wwd.com/wwd-masthead/denni-hu/)
 
 
-[![Skims to Open First Asian Stores in Hong Kong, Seoul](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
+- [![Ugg, Willy Chavarria, boots, shoes, collaboration, Paris](https://wwd.com/wp-content/uploads/2026/06/Willy-Ugg.jpg?w=1024)](https://wwd.com/footwear-news/shoe-industry-news/willy-chavarria-ugg-adidas-stan-smith-paris-interview-1239042147/)
 
-### CEO Talks: Diane Von Furstenberg
+
+
+
+
+
+
+
+
+### [Willy Chavarria Dives Deeper Into Shoes With a Debut Ugg Collab, New Luxury Footwear Partner + More Adidas Styles on the Way](https://wwd.com/footwear-news/shoe-industry-news/willy-chavarria-ugg-adidas-stan-smith-paris-interview-1239042147/)
+
+
+
+  - [Shoe Industry News](https://wwd.com/business-news/shoe-industry-news/)
+
+  - By
+
+
+    [Stephen Garner](https://wwd.com/wwd-masthead/stephen-garner/)
+
+
+[![Skims to Open First Asian Stores in Hong Kong, Seoul](https://wwd.com/wp-content/uploads/2026/06/dvf.png?w=910&h=511&crop=1)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
+
+### CEO Talks: Diane Von Furstenberg
 
 WWD and Women's Wear Daily are part of Penske Media Corporation. © 2026 Fairchild Publishing, LLC. All Rights Reserved.
 
@@ -255,10 +255,10 @@ Log In Sign Up
   - [Spring Bridal 2026](https://wwd.com/runway/spring-bridal-2026/)
 - ### [Footwear News](https://wwd.com/footwear-news/)Expand footwear-news menu
 
-  - [Shoe Industry News](https://wwd.com/footwear-news/shoe-industry-news/)
-  - [Shoe Features](https://wwd.com/footwear-news/shoe-features/)
-  - [Shoe Trends](https://wwd.com/footwear-news/shoe-trends/)
-  - [Sneaker News](https://wwd.com/footwear-news/sneaker-news/)
+  - [Shoe Industry News](https://wwd.com/business-news/shoe-industry-news/)
+  - [Shoe Features](https://wwd.com/business-news/shoe-features/)
+  - [Shoe Trends](https://wwd.com/business-news/shoe-trends/)
+  - [Sneaker News](https://wwd.com/business-news/sneaker-news/)
 - ### [Sourcing Journal](https://wwd.com/sourcing-journal/)Expand sourcing-journal menu
 
   - [Denim](https://wwd.com/sourcing-journal/sj-denim/)
@@ -314,3 +314,11 @@ Log In Sign Up
   - [Shoes](https://wwd.com/shop/shop-shoes/)
 
 ad
+
+reCAPTCHA
+
+Recaptcha requires verification.
+
+protected by **reCAPTCHA**
+
+reCAPTCHA is changing its terms of service. [Take action.](https://google.com/recaptcha/admin/migrate)

@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-06-22T11:38:35.357837+00:00
+scraped_at: 2026-06-29T10:26:55.081318+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -21,21 +21,29 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 
 LATEST ON VOGUE
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
+[![Saks Global Exits Bankruptcy With a New Name](https://assets.vogue.com/photos/6a3f90b9db236ded1d5d6e3d/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2 "The Vogue Business People Moves Tracker")
+Saks Global Exits Bankruptcy With a New Name](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2 "Saks Global Exits Bankruptcy With a New Name")
 
-[![Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://assets.vogue.com/photos/6a350c129d115f69a9cad36a/1:1/w_640%2Cc_limit/undefined)\\
+[![Register Now | Insider Roundtable: How to Sell Now](https://assets.vogue.com/photos/6a293b1d3fa7e58afd631040/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2 "Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027")
+Register Now \| Insider Roundtable: How to Sell Now](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2 "Register Now | Insider Roundtable: How to Sell Now")
 
-[![Alexander McQueen Will Return to London for Spring/Summer 2027](https://assets.vogue.com/photos/6a384167c6743ac336910ac9/1:1/w_640%2Cc_limit/undefined)\\
+[![What it Takes to Make Less Toxic Performance Wear](https://assets.vogue.com/photos/6a352d0ecd8619a744b39be3/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Alexander McQueen Will Return to London for Spring/Summer 2027](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2 "Alexander McQueen Will Return to London for Spring/Summer 2027")
+What it Takes to Make Less Toxic Performance Wear](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2 "What it Takes to Make Less Toxic Performance Wear")
 
-[![Are Smart Glasses a Luxury Purchase?](https://assets.vogue.com/photos/6a353ed396ecd82d93093bde/1:1/w_640%2Cc_limit/undefined)\\
+[![Can a Personal Fashion Formula Help You Shop More Sustainably?](https://assets.vogue.com/photos/6a3c00281c05fc7ccf199adc/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Are Smart Glasses a Luxury Purchase?](https://www.vogue.com/article/are-smart-glasses-a-luxury-purchase#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2 "Are Smart Glasses a Luxury Purchase?")
+Can a Personal Fashion Formula Help You Shop More Sustainably?](https://www.vogue.com/article/can-a-personal-fashion-formula-help-you-shop-more-sustainably#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2 "Can a Personal Fashion Formula Help You Shop More Sustainably?")
+
+[![Is Bodycare Luxury Beauty’s Next Frontier?](https://assets.vogue.com/photos/6a3d32092f7d71f28b5aa986/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Is Bodycare Luxury Beauty’s Next Frontier?](https://www.vogue.com/article/is-bodycare-luxury-beautys-next-frontier#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2 "Is Bodycare Luxury Beauty’s Next Frontier?")
+
+[![Register Now | How to Make It in America, Live Webinar](https://assets.vogue.com/photos/6a3e60888a1499b9ed896d55/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Register Now \| How to Make It in America, Live Webinar](https://www.vogue.com/article/how-to-make-it-in-america-live-webinar#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_cral-top2-2 "Register Now | How to Make It in America, Live Webinar")
 
 ArrowArrow
 
@@ -70,7 +78,7 @@ Photos: Courtesy of Nike
 
 Most Popular
 
-- [![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+- [![Saks Global Exits Bankruptcy With a New Name](https://assets.vogue.com/photos/6a3f90b9db236ded1d5d6e3d/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
 
 
 
@@ -86,7 +94,33 @@ Companies
 
 
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+[Saks Global Exits Bankruptcy With a New Name](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
+
+
+
+
+
+
+
+By Madeleine Schulz
+
+- [![Register Now | Insider Roundtable: How to Sell Now](https://assets.vogue.com/photos/6a293b1d3fa7e58afd631040/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
+
+
+
+
+
+
+
+
+
+Events
+
+
+
+
+
+[Register Now \| Insider Roundtable: How to Sell Now](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
 
 
 
@@ -96,7 +130,7 @@ Companies
 
 By Vogue Business Team
 
-- [![Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://assets.vogue.com/photos/6a350c129d115f69a9cad36a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+- [![What it Takes to Make Less Toxic Performance Wear](https://assets.vogue.com/photos/6a352d0ecd8619a744b39be3/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
 
 
 
@@ -106,23 +140,13 @@ By Vogue Business Team
 
 
 
-Fashion
+Sustainability
 
 
 
 
 
-[Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-By Laure Guilbault
-
-- [![Alexander McQueen Will Return to London for Spring/Summer 2027](https://assets.vogue.com/photos/6a384167c6743ac336910ac9/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+[What it Takes to Make Less Toxic Performance Wear](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
 
 
 
@@ -130,23 +154,7 @@ By Laure Guilbault
 
 
 
-
-
-Business
-
-
-
-
-
-[Alexander McQueen Will Return to London for Spring/Summer 2027](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-By Lucy Maguire
+By Sophie Benson
 
 
 It also signals Nike’s commitment to developing technical products for women. Product innovation has been a pain point for Nike in recent years, Yarbrough says. Hill [acknowledged this](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December’s earnings; it forms the foundation of his turnaround strategy. In partnering with Skims on a joint brand, Nike is able to gain access to womenswear tech to help it rival the Alos and Lululemons of the world, which, Yarbrough says, would otherwise likely take Nike several years to develop, manufacture and scale. “This accelerates that path for Nike to compete with some of these other brands that have been growing rapidly.” It’s a smart shortcut, Hastings-Narayanin says.
@@ -163,7 +171,7 @@ These days, consumers want products that work, experts agree, so emphasis needs 
 
 Most Popular
 
-- [![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+- [![Saks Global Exits Bankruptcy With a New Name](https://assets.vogue.com/photos/6a3f90b9db236ded1d5d6e3d/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
 
 
 
@@ -179,7 +187,33 @@ Companies
 
 
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+[Saks Global Exits Bankruptcy With a New Name](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
+
+
+
+
+
+
+
+By Madeleine Schulz
+
+- [![Register Now | Insider Roundtable: How to Sell Now](https://assets.vogue.com/photos/6a293b1d3fa7e58afd631040/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
+
+
+
+
+
+
+
+
+
+Events
+
+
+
+
+
+[Register Now \| Insider Roundtable: How to Sell Now](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
 
 
 
@@ -189,7 +223,7 @@ Companies
 
 By Vogue Business Team
 
-- [![Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://assets.vogue.com/photos/6a350c129d115f69a9cad36a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+- [![What it Takes to Make Less Toxic Performance Wear](https://assets.vogue.com/photos/6a352d0ecd8619a744b39be3/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
 
 
 
@@ -199,23 +233,13 @@ By Vogue Business Team
 
 
 
-Fashion
+Sustainability
 
 
 
 
 
-[Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-By Laure Guilbault
-
-- [![Alexander McQueen Will Return to London for Spring/Summer 2027](https://assets.vogue.com/photos/6a384167c6743ac336910ac9/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
+[What it Takes to Make Less Toxic Performance Wear](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
 
 
 
@@ -223,23 +247,7 @@ By Laure Guilbault
 
 
 
-
-
-Business
-
-
-
-
-
-[Alexander McQueen Will Return to London for Spring/Summer 2027](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-right-rail_10cba138-f603-4ff2-bc9a-827a3dda06cb_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-By Lucy Maguire
+By Sophie Benson
 
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
@@ -264,34 +272,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
+[![Saks Global Exits Bankruptcy With a New Name](https://assets.vogue.com/photos/6a3f90b9db236ded1d5d6e3d/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
 
 Companies
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
+[Saks Global Exits Bankruptcy With a New Name](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
+
+By Madeleine Schulz
+
+[![Register Now | Insider Roundtable: How to Sell Now](https://assets.vogue.com/photos/6a293b1d3fa7e58afd631040/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
+
+Events
+
+[Register Now \| Insider Roundtable: How to Sell Now](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
 
 By Vogue Business Team
 
-[![Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://assets.vogue.com/photos/6a350c129d115f69a9cad36a/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
+[![What it Takes to Make Less Toxic Performance Wear](https://assets.vogue.com/photos/6a352d0ecd8619a744b39be3/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
 
-Fashion
+Sustainability
 
-[Paris Fashion Week Men’s Cheat Sheet: Spring/Summer 2027](https://www.vogue.com/article/paris-fashion-week-mens-cheat-sheet-spring-summer-2027#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
+[What it Takes to Make Less Toxic Performance Wear](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
 
-By Laure Guilbault
+By Sophie Benson
 
-[![Alexander McQueen Will Return to London for Spring/Summer 2027](https://assets.vogue.com/photos/6a384167c6743ac336910ac9/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
+[![Can a Personal Fashion Formula Help You Shop More Sustainably?](https://assets.vogue.com/photos/6a3c00281c05fc7ccf199adc/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/can-a-personal-fashion-formula-help-you-shop-more-sustainably#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
 
-Business
+Sustainability
 
-[Alexander McQueen Will Return to London for Spring/Summer 2027](https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
+[Can a Personal Fashion Formula Help You Shop More Sustainably?](https://www.vogue.com/article/can-a-personal-fashion-formula-help-you-shop-more-sustainably#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
 
-By Lucy Maguire
-
-[![Are Smart Glasses a Luxury Purchase?](https://assets.vogue.com/photos/6a353ed396ecd82d93093bde/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/are-smart-glasses-a-luxury-purchase#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
-
-Technology
-
-[Are Smart Glasses a Luxury Purchase?](https://www.vogue.com/article/are-smart-glasses-a-luxury-purchase#intcid=_vogue-article-bottom-recirc_70ca60c6-f287-45f0-8a34-75ab1fb204e0_text2vec1_fallback_cral-top2-2)
-
-By Amy O’Brien
+By Bella Webb

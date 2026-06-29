@@ -2,12 +2,8 @@
 url: https://www.forbes.com/sites/chasewithorn/2023/07/19/kim-kardashian-just-got-500-million-richer-thanks-to-skims/
 source_type: forbes.com
 title: Now valued higher than ever, the shapewear startup just added a half-billion to the richest Kardashian’s fortune.
-scraped_at: 2026-06-22T11:38:49.173385+00:00
+scraped_at: 2026-06-29T10:27:10.453054+00:00
 ---
-
-BETA
-
-This is a BETA experience. opt-out here
 
 [Billionaires](https://www.forbes.com/worlds-billionaires/)
 
@@ -128,20 +124,20 @@ Subscriptions renew automatically. You may cancel your subscription at any time.
 
 render-sign-in
 
-[Join The Waitlist](https://wineclub.forbes.com/)
+[Become a Forbes Member](https://account.forbes.com/membership?eventSource=overlay-sale-strikethrough)
 
 \|
 
-FORBES WINE CLUB
+FLASH SALE
 
-~~~~
+~~89~~
 
-Exclusive Invite: Forbes Wine Club
+59.99
+
+For Your First Year
 
 
-Join the waitlist for early access to our expert-curated, limited first shipment.
+Supercharge your mission with unparalleled insights and member-exclusive benefits.
 
 
-[Join The Waitlist](https://wineclub.forbes.com/) No Thanks
-
-reCAPTCHA
+[Become a Forbes Member](https://account.forbes.com/membership?eventSource=overlay-sale-strikethrough) No Thanks
