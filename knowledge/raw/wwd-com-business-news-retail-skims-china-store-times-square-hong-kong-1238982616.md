@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/
 source_type: wwd.com
 title: Skims to Open First Asian Stores in Hong Kong, Seoul
-scraped_at: 2026-06-29T10:27:03.863674+00:00
+scraped_at: 2026-07-06T09:59:36.949477+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/#pagetop)
 
 Fashion
 
-### [Best Street Style From Paris Men’s Fashion Week Spring 2027](https://wwd.com/fashion-news/fashion-features/gallery/best-street-style-from-paris-mens-fashion-week-spring-2027-1239028709/)
+### [Boloria Spring 2027: Olivier’s Latest Twist](https://wwd.com/runway/spring-2027/paris/boloria/review/)
 
-Business
+Men's
 
-### [Exemplar Plans Life After Saks Bankruptcy](https://wwd.com/business-news/retail/saks-global-renamed-exemplar-luxury-group-exits-bankruptcy-1239037467/)
+### [Steven Stolman’s Move Into Menswear](https://wwd.com/menswear-news/mens-fashion/steve-stolman-menswear-prints-lilly-pulitzer-1239047903/)
 
 Fashion
 
-### [Y-3 Spring 2027: A Shanked Shot](https://wwd.com/runway/mens-spring-2027/paris/y-3/review/)
+### [Yoshita 1967 Wins European Circular Design Challenge](https://wwd.com/fashion-news/fashion-scoops/circular-design-challenge-yoshita-1967-europe-winner-1239052614/)
 
 ![Skims in Hong Kong](https://wwd.com/wp-content/uploads/2026/05/SKIMS-store-Hong-Kong-ctsy.jpg?w=1000&h=563&crop=1)
 
@@ -59,19 +59,19 @@ The Seoul store in Dosan will be operated in partnership with Handsome Corp. and
 
 ### Related Articles
 
-![Asics x Empty Behavior event at the Broken Arm in Paris   ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Trendee GEO report](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Shoe Features](https://wwd.com/business-news/shoe-features/)
+[Technology](https://wwd.com/business-news/technology/)
 
-### [Asics Bets on Chinese Creativity, Takes Lisa-approved Empty Behavior to Paris](https://wwd.com/footwear-news/shoe-features/asics-chinese-creativity-empty-behavior-paris-launch-1239031740/)
+### [China Insight: China's Fashion Industry Enters the AI Era, From a Search Economy to Machine-led Discovery](https://wwd.com/business-news/technology/chinas-fashion-industry-ai-search-economy-machine-led-discovery-1239051683/)
 
-![Perfect Diary has landed in Sephora China.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Hong Kong Fashion event 2026](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Color Cosmetics](https://wwd.com/business-news/color-cosmetics/)
+[Fashion Scoops](https://wwd.com/business-news/fashion-scoops/)
 
-### [EXCLUSIVE: C-beauty Label Perfect Diary Lands at Sephora China](https://wwd.com/beauty-industry-news/color-cosmetics/c-beauty-label-perfect-diary-sephora-china-1239034809/)
+### [Hong Kong Designers Team With Paris-based Yaz Bukey for Capsules](https://wwd.com/fashion-news/fashion-scoops/fashion-hong-kong-yaz-bukey-collaborations-paris-1239052071/)
 
-“Hong Kong and Seoul have such an incredible energy, style perspective and influence on fashion globally,” said Kim Kardashian, cofounder and chief creative officer of [Skims](https://wwd.com/pop-culture/culture-news/ultrathin-models-fashion-research-skims-1239030017/). “Opening flagship stores in these city allow customers to experience the quality, fit and innovation behind every Skims piece in a more personal way.”
+“Hong Kong and Seoul have such an incredible energy, style perspective and influence on fashion globally,” said Kim Kardashian, cofounder and chief creative officer of [Skims](https://wwd.com/business-news/financial/reformation-fashion-ipos-vs-spacex-moonshot-1239046314/). “Opening flagship stores in these city allow customers to experience the quality, fit and innovation behind every Skims piece in a more personal way.”
 
 ### You May Also Like
 
@@ -89,7 +89,7 @@ Skims’ announcement coincides with a long-awaited retail rebound in Hong Kong�
 
 According to data from Cushman & Wakefield, an uptick in tourist arrivals alongside sustained local spending sentiment continued to support Hong Kong’s retail sector in the January to February period, which rose 11.8 percent year-over-year to $72.4 billion Hong Kong dollars, or $9.3 billion.
 
-Apart from Skims, [Alo](https://wwd.com/fashion-news/designer-luxury/alo-wellness-luxury-cannes-activations-1238948826/) is slated to open its first [China](https://wwd.com/business-news/business-features/luxury-market-bain-altagamma-forecasts-growth-2026-1239032562/) store at [K11 Musea](https://wwd.com/eye/parties/k11-musea-city-as-studio-graffiti-exhibition-1235587634/); this February, [Palace](https://wwd.com/business-news/retail/palace-shanghai-zhangyuan-first-mainland-china-store-1238974490/) unveiled its first stand-alone store in Hong Kong in Causeway Bay.
+Apart from Skims, [Alo](https://wwd.com/fashion-news/designer-luxury/alo-wellness-luxury-cannes-activations-1238948826/) is slated to open its first [China](https://wwd.com/business-news/legal/chinese-beverage-maker-molly-tea-1239050519/) store at [K11 Musea](https://wwd.com/eye/parties/k11-musea-city-as-studio-graffiti-exhibition-1235587634/); this February, [Palace](https://wwd.com/business-news/retail/palace-shanghai-zhangyuan-first-mainland-china-store-1238974490/) unveiled its first stand-alone store in Hong Kong in Causeway Bay.
 
 content frame
 
@@ -114,7 +114,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![Omega](https://wwd.com/wp-content/uploads/2026/03/watches-feature.jpg?w=1024)](https://wwd.com/business-news/legal/swatch-lawsuit-samsung-watch-faces-1239035338/)
+- [![NEW YORK, NY - SEPTEMBER 29:  Laura Anzani, Giovanni Anzani, Aldo Spinelli and Marco Spinelli attend the grand opening of Poliform NYC flagship on Madison Avenue on September 29, 2016 in New York City.  (Photo by Eugene Gologursky/Getty Images for Poliform)](https://wwd.com/wp-content/uploads/2026/07/GettyImages-611449504.jpeg?w=1024)](https://wwd.com/home-design/furniture/aldo-spinelli-poliform-co-founder-obituary-1239051943/)
 
 
 
@@ -124,65 +124,43 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Swatch Sues Samsung Over Watch Faces, Demands $170 Million in Damages](https://wwd.com/business-news/legal/swatch-lawsuit-samsung-watch-faces-1239035338/)
+### [Aldo Spinelli, Cofounder of Italian Design Firm Poliform, Dies](https://wwd.com/home-design/furniture/aldo-spinelli-poliform-co-founder-obituary-1239051943/)
 
 
 
-  - [Legal](https://wwd.com/business-news/legal/)
-
-  - By
-
-
-    [Lily Templeton](https://wwd.com/wwd-masthead/lily-templeton/) and [Martino Carrera](https://wwd.com/wwd-masthead/martino-carrera/)
-
-
-- [![Hangzhou's B1ock multibrand retailer and its co-founder Alessio LIu.](https://wwd.com/wp-content/uploads/2026/06/alessio-b1ock-building.jpg?w=1024)](https://wwd.com/business-news/retail/b1ock-china-multibrand-retailer-1239016172/)
-
-
-
-
-
-
-
-
-
-### [Meet B1ock, China’s Multibrand Retailer on the Digital Frontier](https://wwd.com/business-news/retail/b1ock-china-multibrand-retailer-1239016172/)
-
-
-
-  - [Retail](https://wwd.com/business-news/retail/)
+  - [Furniture](https://wwd.com/business-news/furniture/)
 
   - By
 
 
-    [Denni Hu](https://wwd.com/wwd-masthead/denni-hu/)
+    [Sofia Celeste](https://wwd.com/wwd-masthead/sofia-celeste/)
 
 
-- [![Ugg, Willy Chavarria, boots, shoes, collaboration, Paris](https://wwd.com/wp-content/uploads/2026/06/Willy-Ugg.jpg?w=1024)](https://wwd.com/footwear-news/shoe-industry-news/willy-chavarria-ugg-adidas-stan-smith-paris-interview-1239042147/)
-
-
-
+- [![Saskia de Brauw in the campaign for Mugler's "The Wardrobe of Identities" pre-fall 2026 collection](https://wwd.com/wp-content/uploads/2026/06/MUGLER_WardrobeofIdentities_PF26_4x5_7-copy.jpg?w=1024)](https://wwd.com/fashion-news/fashion-scoops/mugler-pre-fall-2026-collection-campaign-saskia-de-brauw-1239016960/)
 
 
 
 
 
 
-### [Willy Chavarria Dives Deeper Into Shoes With a Debut Ugg Collab, New Luxury Footwear Partner + More Adidas Styles on the Way](https://wwd.com/footwear-news/shoe-industry-news/willy-chavarria-ugg-adidas-stan-smith-paris-interview-1239042147/)
 
 
 
-  - [Shoe Industry News](https://wwd.com/business-news/shoe-industry-news/)
+### [EXCLUSIVE: Mugler Switches Gears With Campaign for Pre-fall 2026 Collection](https://wwd.com/fashion-news/fashion-scoops/mugler-pre-fall-2026-collection-campaign-saskia-de-brauw-1239016960/)
+
+
+
+  - [Fashion Scoops](https://wwd.com/business-news/fashion-scoops/)
 
   - By
 
 
-    [Stephen Garner](https://wwd.com/wwd-masthead/stephen-garner/)
+    [Joelle Diderich](https://wwd.com/wwd-masthead/joelle-diderich/)
 
 
 [![Skims to Open First Asian Stores in Hong Kong, Seoul](https://wwd.com/wp-content/uploads/2026/06/dvf.png?w=910&h=511&crop=1)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
 
-### CEO Talks: Diane Von Furstenberg
+### CEO Talks: Diane Von Furstenberg
 
 WWD and Women's Wear Daily are part of Penske Media Corporation. © 2026 Fairchild Publishing, LLC. All Rights Reserved.
 

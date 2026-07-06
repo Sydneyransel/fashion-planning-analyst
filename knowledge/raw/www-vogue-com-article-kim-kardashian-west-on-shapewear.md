@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-06-29T10:26:50.850395+00:00
+scraped_at: 2026-07-06T09:59:21.069126+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -21,21 +21,21 @@ The brand has signalled a buzzy new era for shapewear. It features nine shades a
 
 LATEST ON VOGUE
 
-[![How to Sell Now: Brand](https://assets.vogue.com/photos/6a1ebd1260a9c1ebfe62c41d/1:1/w_640%2Cc_limit/undefined)\\
-\\
-How to Sell Now: Brand](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_d58868eb-9a0f-43c2-ada3-7639423c908a_text2vec1_fallback_roberta-similarity1 "How to Sell Now: Brand")
-
 [![The Big Destination Show Debrief](https://assets.vogue.com/photos/6a2983188bb2ebda48f24d18/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Big Destination Show Debrief](https://www.vogue.com/article/the-big-destination-show-debrief#intcid=_vogue-article-bottom-recirc_d58868eb-9a0f-43c2-ada3-7639423c908a_text2vec1_fallback_roberta-similarity1 "The Big Destination Show Debrief")
+The Big Destination Show Debrief](https://www.vogue.com/article/the-big-destination-show-debrief#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1 "The Big Destination Show Debrief")
 
-[![How to Sell Now: Social and AI](https://assets.vogue.com/photos/6a1e985d77203b15a3bdadf3/1:1/w_640%2Cc_limit/undefined)\\
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
 \\
-How to Sell Now: Social and AI](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_d58868eb-9a0f-43c2-ada3-7639423c908a_text2vec1_fallback_roberta-similarity1 "How to Sell Now: Social and AI")
+The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1 "The Vogue Business People Moves Tracker")
 
-[![How to Sell Now: Vintage and Secondhand](https://assets.vogue.com/photos/6a19913500f1491e81e6dd11/1:1/w_640%2Cc_limit/undefined)\\
+[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)\\
 \\
-How to Sell Now: Vintage and Secondhand](https://www.vogue.com/article/how-to-sell-vintage-and-secondhand#intcid=_vogue-article-bottom-recirc_d58868eb-9a0f-43c2-ada3-7639423c908a_text2vec1_fallback_roberta-similarity1 "How to Sell Now: Vintage and Secondhand")
+The Vogue Business Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1 "The Vogue Business Funding Tracker")
+
+[![StockX Bets on Vintage](https://assets.vogue.com/photos/6a3bcd17fb20c669e9e4475d/1:1/w_640%2Cc_limit/undefined)\\
+\\
+StockX Bets on Vintage](https://www.vogue.com/article/stockx-bets-on-vintage#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1 "StockX Bets on Vintage")
 
 ArrowArrow
 
@@ -78,59 +78,7 @@ Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skim
 
 Most Popular
 
-- [![Saks Global Exits Bankruptcy With a New Name](https://assets.vogue.com/photos/6a3f90b9db236ded1d5d6e3d/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-right-rail_c3091e18-e1d2-45a5-af0c-b3667a454b51_popular4-2)
-
-
-
-
-
-
-
-
-
-Companies
-
-
-
-
-
-[Saks Global Exits Bankruptcy With a New Name](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-right-rail_c3091e18-e1d2-45a5-af0c-b3667a454b51_popular4-2)
-
-
-
-
-
-
-
-By Madeleine Schulz
-
-- [![Register Now | Insider Roundtable: How to Sell Now](https://assets.vogue.com/photos/6a293b1d3fa7e58afd631040/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-right-rail_c3091e18-e1d2-45a5-af0c-b3667a454b51_popular4-2)
-
-
-
-
-
-
-
-
-
-Events
-
-
-
-
-
-[Register Now \| Insider Roundtable: How to Sell Now](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-right-rail_c3091e18-e1d2-45a5-af0c-b3667a454b51_popular4-2)
-
-
-
-
-
-
-
-By Vogue Business Team
-
-- [![What it Takes to Make Less Toxic Performance Wear](https://assets.vogue.com/photos/6a352d0ecd8619a744b39be3/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-right-rail_c3091e18-e1d2-45a5-af0c-b3667a454b51_popular4-2)
+- [![Eileen Fisher: How to Leave a Sustainable Legacy](https://assets.vogue.com/photos/6a4534a5976e088f3fab28e0/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
 
 
 
@@ -146,7 +94,7 @@ Sustainability
 
 
 
-[What it Takes to Make Less Toxic Performance Wear](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-right-rail_c3091e18-e1d2-45a5-af0c-b3667a454b51_popular4-2)
+[Eileen Fisher: How to Leave a Sustainable Legacy](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
 
 
 
@@ -154,7 +102,59 @@ Sustainability
 
 
 
-By Sophie Benson
+By Bella Webb
+
+- [![The United States of Luxury](https://assets.vogue.com/photos/6a3e92e3e7349c94ffbe6e45/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[The United States of Luxury](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+
+
+
+
+
+
+
+By Madeleine Schulz
+
+- [![American Retailers on How to Save American Retail](https://assets.vogue.com/photos/6a3eb2a53a2bde2c88e6d830/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[American Retailers on How to Save American Retail](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+
+
+
+
+
+
+
+By Hilary Milnes
 
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
@@ -184,59 +184,7 @@ Skims
 
 Most Popular
 
-- [![Saks Global Exits Bankruptcy With a New Name](https://assets.vogue.com/photos/6a3f90b9db236ded1d5d6e3d/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-right-rail_c3091e18-e1d2-45a5-af0c-b3667a454b51_popular4-2)
-
-
-
-
-
-
-
-
-
-Companies
-
-
-
-
-
-[Saks Global Exits Bankruptcy With a New Name](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-right-rail_c3091e18-e1d2-45a5-af0c-b3667a454b51_popular4-2)
-
-
-
-
-
-
-
-By Madeleine Schulz
-
-- [![Register Now | Insider Roundtable: How to Sell Now](https://assets.vogue.com/photos/6a293b1d3fa7e58afd631040/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-right-rail_c3091e18-e1d2-45a5-af0c-b3667a454b51_popular4-2)
-
-
-
-
-
-
-
-
-
-Events
-
-
-
-
-
-[Register Now \| Insider Roundtable: How to Sell Now](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-right-rail_c3091e18-e1d2-45a5-af0c-b3667a454b51_popular4-2)
-
-
-
-
-
-
-
-By Vogue Business Team
-
-- [![What it Takes to Make Less Toxic Performance Wear](https://assets.vogue.com/photos/6a352d0ecd8619a744b39be3/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-right-rail_c3091e18-e1d2-45a5-af0c-b3667a454b51_popular4-2)
+- [![Eileen Fisher: How to Leave a Sustainable Legacy](https://assets.vogue.com/photos/6a4534a5976e088f3fab28e0/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
 
 
 
@@ -252,7 +200,7 @@ Sustainability
 
 
 
-[What it Takes to Make Less Toxic Performance Wear](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-right-rail_c3091e18-e1d2-45a5-af0c-b3667a454b51_popular4-2)
+[Eileen Fisher: How to Leave a Sustainable Legacy](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
 
 
 
@@ -260,7 +208,59 @@ Sustainability
 
 
 
-By Sophie Benson
+By Bella Webb
+
+- [![The United States of Luxury](https://assets.vogue.com/photos/6a3e92e3e7349c94ffbe6e45/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[The United States of Luxury](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+
+
+
+
+
+
+
+By Madeleine Schulz
+
+- [![American Retailers on How to Save American Retail](https://assets.vogue.com/photos/6a3eb2a53a2bde2c88e6d830/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[American Retailers on How to Save American Retail](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+
+
+
+
+
+
+
+By Hilary Milnes
 
 
 Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
@@ -286,34 +286,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![How to Sell Now: Brand](https://assets.vogue.com/photos/6a1ebd1260a9c1ebfe62c41d/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_d58868eb-9a0f-43c2-ada3-7639423c908a_text2vec1_fallback_roberta-similarity1)
-
-Executive Reports
-
-[How to Sell Now: Brand](https://www.vogue.com/article/how-to-sell-now-brand#intcid=_vogue-article-bottom-recirc_d58868eb-9a0f-43c2-ada3-7639423c908a_text2vec1_fallback_roberta-similarity1)
-
-By Vogue Business
-
-[![The Big Destination Show Debrief](https://assets.vogue.com/photos/6a2983188bb2ebda48f24d18/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-big-destination-show-debrief#intcid=_vogue-article-bottom-recirc_d58868eb-9a0f-43c2-ada3-7639423c908a_text2vec1_fallback_roberta-similarity1)
+[![The Big Destination Show Debrief](https://assets.vogue.com/photos/6a2983188bb2ebda48f24d18/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-big-destination-show-debrief#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
 
 Fashion
 
-[The Big Destination Show Debrief](https://www.vogue.com/article/the-big-destination-show-debrief#intcid=_vogue-article-bottom-recirc_d58868eb-9a0f-43c2-ada3-7639423c908a_text2vec1_fallback_roberta-similarity1)
+[The Big Destination Show Debrief](https://www.vogue.com/article/the-big-destination-show-debrief#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
 
 By Madeleine Schulz
 
-[![How to Sell Now: Social and AI](https://assets.vogue.com/photos/6a1e985d77203b15a3bdadf3/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_d58868eb-9a0f-43c2-ada3-7639423c908a_text2vec1_fallback_roberta-similarity1)
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
 
-Executive Reports
+Companies
 
-[How to Sell Now: Social and AI](https://www.vogue.com/article/how-to-sell-now-social-and-ai#intcid=_vogue-article-bottom-recirc_d58868eb-9a0f-43c2-ada3-7639423c908a_text2vec1_fallback_roberta-similarity1)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
 
-By Vogue Business
+By Vogue Business Team
 
-[![How to Sell Now: Vintage and Secondhand](https://assets.vogue.com/photos/6a19913500f1491e81e6dd11/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-sell-vintage-and-secondhand#intcid=_vogue-article-bottom-recirc_d58868eb-9a0f-43c2-ada3-7639423c908a_text2vec1_fallback_roberta-similarity1)
+[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
 
-Executive Reports
+Companies
 
-[How to Sell Now: Vintage and Secondhand](https://www.vogue.com/article/how-to-sell-vintage-and-secondhand#intcid=_vogue-article-bottom-recirc_d58868eb-9a0f-43c2-ada3-7639423c908a_text2vec1_fallback_roberta-similarity1)
+[The _Vogue Business_ Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
 
-By Vogue Business
+By Maliha Shoaib
+
+[![StockX Bets on Vintage](https://assets.vogue.com/photos/6a3bcd17fb20c669e9e4475d/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/stockx-bets-on-vintage#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
+
+Executive Interviews
+
+[StockX Bets on Vintage](https://www.vogue.com/article/stockx-bets-on-vintage#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
+
+By Joe Bobowicz

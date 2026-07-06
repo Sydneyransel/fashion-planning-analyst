@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-06-29T10:26:55.081318+00:00
+scraped_at: 2026-07-06T09:59:26.698162+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -21,29 +21,21 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 
 LATEST ON VOGUE
 
-[![Saks Global Exits Bankruptcy With a New Name](https://assets.vogue.com/photos/6a3f90b9db236ded1d5d6e3d/1:1/w_640%2Cc_limit/undefined)\\
+[![Eileen Fisher: How to Leave a Sustainable Legacy](https://assets.vogue.com/photos/6a4534a5976e088f3fab28e0/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Saks Global Exits Bankruptcy With a New Name](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2 "Saks Global Exits Bankruptcy With a New Name")
+Eileen Fisher: How to Leave a Sustainable Legacy](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2 "Eileen Fisher: How to Leave a Sustainable Legacy")
 
-[![Register Now | Insider Roundtable: How to Sell Now](https://assets.vogue.com/photos/6a293b1d3fa7e58afd631040/1:1/w_640%2Cc_limit/undefined)\\
+[![The United States of Luxury](https://assets.vogue.com/photos/6a3e92e3e7349c94ffbe6e45/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Register Now \| Insider Roundtable: How to Sell Now](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2 "Register Now | Insider Roundtable: How to Sell Now")
+The United States of Luxury](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2 "The United States of Luxury")
 
-[![What it Takes to Make Less Toxic Performance Wear](https://assets.vogue.com/photos/6a352d0ecd8619a744b39be3/1:1/w_640%2Cc_limit/undefined)\\
+[![American Retailers on How to Save American Retail](https://assets.vogue.com/photos/6a3eb2a53a2bde2c88e6d830/1:1/w_640%2Cc_limit/undefined)\\
 \\
-What it Takes to Make Less Toxic Performance Wear](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2 "What it Takes to Make Less Toxic Performance Wear")
+American Retailers on How to Save American Retail](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2 "American Retailers on How to Save American Retail")
 
-[![Can a Personal Fashion Formula Help You Shop More Sustainably?](https://assets.vogue.com/photos/6a3c00281c05fc7ccf199adc/1:1/w_640%2Cc_limit/undefined)\\
+[![“The Conversation Is More Urgent”: Fashion Reacts to Men’s Shifting Body Ideals](https://assets.vogue.com/photos/6a47805e9955a348c724b1e7/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Can a Personal Fashion Formula Help You Shop More Sustainably?](https://www.vogue.com/article/can-a-personal-fashion-formula-help-you-shop-more-sustainably#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2 "Can a Personal Fashion Formula Help You Shop More Sustainably?")
-
-[![Is Bodycare Luxury Beauty’s Next Frontier?](https://assets.vogue.com/photos/6a3d32092f7d71f28b5aa986/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Is Bodycare Luxury Beauty’s Next Frontier?](https://www.vogue.com/article/is-bodycare-luxury-beautys-next-frontier#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2 "Is Bodycare Luxury Beauty’s Next Frontier?")
-
-[![Register Now | How to Make It in America, Live Webinar](https://assets.vogue.com/photos/6a3e60888a1499b9ed896d55/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Register Now \| How to Make It in America, Live Webinar](https://www.vogue.com/article/how-to-make-it-in-america-live-webinar#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_cral-top2-2 "Register Now | How to Make It in America, Live Webinar")
+“The Conversation Is More Urgent”: Fashion Reacts to Men’s Shifting Body Ideals](https://www.vogue.com/article/the-conversation-is-more-urgent-fashion-reacts-to-mens-shifting-body-ideals#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_cral-top2-2 "“The Conversation Is More Urgent”: Fashion Reacts to Men’s Shifting Body Ideals")
 
 ArrowArrow
 
@@ -78,59 +70,7 @@ Photos: Courtesy of Nike
 
 Most Popular
 
-- [![Saks Global Exits Bankruptcy With a New Name](https://assets.vogue.com/photos/6a3f90b9db236ded1d5d6e3d/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
-
-
-
-
-
-
-
-
-
-Companies
-
-
-
-
-
-[Saks Global Exits Bankruptcy With a New Name](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
-
-
-
-
-
-
-
-By Madeleine Schulz
-
-- [![Register Now | Insider Roundtable: How to Sell Now](https://assets.vogue.com/photos/6a293b1d3fa7e58afd631040/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
-
-
-
-
-
-
-
-
-
-Events
-
-
-
-
-
-[Register Now \| Insider Roundtable: How to Sell Now](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
-
-
-
-
-
-
-
-By Vogue Business Team
-
-- [![What it Takes to Make Less Toxic Performance Wear](https://assets.vogue.com/photos/6a352d0ecd8619a744b39be3/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
+- [![Eileen Fisher: How to Leave a Sustainable Legacy](https://assets.vogue.com/photos/6a4534a5976e088f3fab28e0/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
 
 
 
@@ -146,7 +86,7 @@ Sustainability
 
 
 
-[What it Takes to Make Less Toxic Performance Wear](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
+[Eileen Fisher: How to Leave a Sustainable Legacy](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
 
 
 
@@ -154,7 +94,59 @@ Sustainability
 
 
 
-By Sophie Benson
+By Bella Webb
+
+- [![The United States of Luxury](https://assets.vogue.com/photos/6a3e92e3e7349c94ffbe6e45/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[The United States of Luxury](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+
+
+
+
+
+
+
+By Madeleine Schulz
+
+- [![American Retailers on How to Save American Retail](https://assets.vogue.com/photos/6a3eb2a53a2bde2c88e6d830/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[American Retailers on How to Save American Retail](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+
+
+
+
+
+
+
+By Hilary Milnes
 
 
 It also signals Nike’s commitment to developing technical products for women. Product innovation has been a pain point for Nike in recent years, Yarbrough says. Hill [acknowledged this](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December’s earnings; it forms the foundation of his turnaround strategy. In partnering with Skims on a joint brand, Nike is able to gain access to womenswear tech to help it rival the Alos and Lululemons of the world, which, Yarbrough says, would otherwise likely take Nike several years to develop, manufacture and scale. “This accelerates that path for Nike to compete with some of these other brands that have been growing rapidly.” It’s a smart shortcut, Hastings-Narayanin says.
@@ -171,59 +163,7 @@ These days, consumers want products that work, experts agree, so emphasis needs 
 
 Most Popular
 
-- [![Saks Global Exits Bankruptcy With a New Name](https://assets.vogue.com/photos/6a3f90b9db236ded1d5d6e3d/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
-
-
-
-
-
-
-
-
-
-Companies
-
-
-
-
-
-[Saks Global Exits Bankruptcy With a New Name](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
-
-
-
-
-
-
-
-By Madeleine Schulz
-
-- [![Register Now | Insider Roundtable: How to Sell Now](https://assets.vogue.com/photos/6a293b1d3fa7e58afd631040/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
-
-
-
-
-
-
-
-
-
-Events
-
-
-
-
-
-[Register Now \| Insider Roundtable: How to Sell Now](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
-
-
-
-
-
-
-
-By Vogue Business Team
-
-- [![What it Takes to Make Less Toxic Performance Wear](https://assets.vogue.com/photos/6a352d0ecd8619a744b39be3/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
+- [![Eileen Fisher: How to Leave a Sustainable Legacy](https://assets.vogue.com/photos/6a4534a5976e088f3fab28e0/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
 
 
 
@@ -239,7 +179,7 @@ Sustainability
 
 
 
-[What it Takes to Make Less Toxic Performance Wear](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-right-rail_521f8484-60b6-4cd7-9f1d-5d59d9b2336b_popular4-2)
+[Eileen Fisher: How to Leave a Sustainable Legacy](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
 
 
 
@@ -247,7 +187,59 @@ Sustainability
 
 
 
-By Sophie Benson
+By Bella Webb
+
+- [![The United States of Luxury](https://assets.vogue.com/photos/6a3e92e3e7349c94ffbe6e45/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[The United States of Luxury](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+
+
+
+
+
+
+
+By Madeleine Schulz
+
+- [![American Retailers on How to Save American Retail](https://assets.vogue.com/photos/6a3eb2a53a2bde2c88e6d830/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[American Retailers on How to Save American Retail](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+
+
+
+
+
+
+
+By Hilary Milnes
 
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
@@ -272,34 +264,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![Saks Global Exits Bankruptcy With a New Name](https://assets.vogue.com/photos/6a3f90b9db236ded1d5d6e3d/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
+[![Eileen Fisher: How to Leave a Sustainable Legacy](https://assets.vogue.com/photos/6a4534a5976e088f3fab28e0/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2)
 
-Companies
+Sustainability
 
-[Saks Global Exits Bankruptcy With a New Name](https://www.vogue.com/article/saks-global-exits-bankruptcy-with-a-new-name#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
+[Eileen Fisher: How to Leave a Sustainable Legacy](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2)
+
+By Bella Webb
+
+[![The United States of Luxury](https://assets.vogue.com/photos/6a3e92e3e7349c94ffbe6e45/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2)
+
+Business
+
+[The United States of Luxury](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2)
 
 By Madeleine Schulz
 
-[![Register Now | Insider Roundtable: How to Sell Now](https://assets.vogue.com/photos/6a293b1d3fa7e58afd631040/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
+[![American Retailers on How to Save American Retail](https://assets.vogue.com/photos/6a3eb2a53a2bde2c88e6d830/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2)
 
-Events
+Business
 
-[Register Now \| Insider Roundtable: How to Sell Now](https://www.vogue.com/article/insider-roundtable-how-to-sell-now#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
+[American Retailers on How to Save American Retail](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2)
 
-By Vogue Business Team
+By Hilary Milnes
 
-[![What it Takes to Make Less Toxic Performance Wear](https://assets.vogue.com/photos/6a352d0ecd8619a744b39be3/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
+[![“The Conversation Is More Urgent”: Fashion Reacts to Men’s Shifting Body Ideals](https://assets.vogue.com/photos/6a47805e9955a348c724b1e7/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-conversation-is-more-urgent-fashion-reacts-to-mens-shifting-body-ideals#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_cral-top2-2)
 
-Sustainability
+Business
 
-[What it Takes to Make Less Toxic Performance Wear](https://www.vogue.com/article/what-it-takes-to-make-less-toxic-performance-wear#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
+[“The Conversation Is More Urgent”: Fashion Reacts to Men’s Shifting Body Ideals](https://www.vogue.com/article/the-conversation-is-more-urgent-fashion-reacts-to-mens-shifting-body-ideals#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_cral-top2-2)
 
-By Sophie Benson
-
-[![Can a Personal Fashion Formula Help You Shop More Sustainably?](https://assets.vogue.com/photos/6a3c00281c05fc7ccf199adc/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/can-a-personal-fashion-formula-help-you-shop-more-sustainably#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
-
-Sustainability
-
-[Can a Personal Fashion Formula Help You Shop More Sustainably?](https://www.vogue.com/article/can-a-personal-fashion-formula-help-you-shop-more-sustainably#intcid=_vogue-article-bottom-recirc-bkt-a_0601735e-f852-402d-8bad-d6177955f9e0_text2vec1_fallback_popular4-2)
-
-By Bella Webb
+By Lucy Maguire

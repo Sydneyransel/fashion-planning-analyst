@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/
 source_type: wwd.com
 title: Kim Kardashian's Skims Hits $5B Valuation With New Funding Round
-scraped_at: 2026-06-29T10:26:59.355187+00:00
+scraped_at: 2026-07-06T09:59:31.868798+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/#pagetop)
 
 Fashion
 
-### [Celine Men’s Spring 2027: Variety Show](https://wwd.com/runway/mens-spring-2027/paris/celine/review/)
+### [Boloria Spring 2027: Olivier’s Latest Twist](https://wwd.com/runway/spring-2027/paris/boloria/review/)
 
-Business
+Men's
 
-### [Exemplar Plans Life After Saks Bankruptcy](https://wwd.com/business-news/retail/saks-global-renamed-exemplar-luxury-group-exits-bankruptcy-1239037467/)
+### [Steven Stolman’s Move Into Menswear](https://wwd.com/menswear-news/mens-fashion/steve-stolman-menswear-prints-lilly-pulitzer-1239047903/)
 
 Fashion
 
-### [Off-White Launches L/AB](https://wwd.com/fashion-news/sportswear/off-white-lower-priced-collection-lab-cristiano-fagnani-1239027348/)
+### [Yoshita 1967 Wins European Circular Design Challenge](https://wwd.com/fashion-news/fashion-scoops/circular-design-challenge-yoshita-1967-europe-winner-1239052614/)
 
 ![NEW YORK, NEW YORK - SEPTEMBER 24: NikeSKIMS dancers perform at the NikeSKIMS "Bodies at Work" event at the New York Public Library on September 24, 2025 in New York City. (Photo by Valerie Terranova/Getty Images)](https://wwd.com/wp-content/uploads/2025/09/skims-presentation-photosc.jpg?w=800&h=533&crop=1)
 
@@ -59,19 +59,19 @@ The new money came from Goldman Sachs Alternatives and BDT & MSD Partners.
 
 ### Related Articles
 
+![The Wall Street bull outside the New York Stock Exchange in New York.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+
+[Financial](https://wwd.com/business-news/financial/)
+
+### [Will Investors Bet on Fashion After SpaceX's Moonshot?](https://wwd.com/business-news/financial/reformation-fashion-ipos-vs-spacex-moonshot-1239046314/)
+
 ![Rama Duwaji and Mayor Zohran Mamdani at the Knicks ceremony outside City Hall Plaza. ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 [Business Features](https://wwd.com/business-news/business-features/)
 
 ### [Major Sports Events Are Driving Cultural and Brand Impact](https://wwd.com/business-news/business-features/sports-events-driving-brand-impact-culture-community-1239030744/)
 
-![SYDNEY, AUSTRALIA - APRIL 29:  A model showcases an outift by designer Silence Is Golden on the catwalk on the second day of the Rosemount Australian Fashion Week Spring/Summer 2008/09 Collections at the Overseas Passenger Terminal on April 29, 2008 in Sydney, Australia.  (Photo by Don Arnold/WireImage)](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
-
-[Culture News](https://wwd.com/business-news/culture-news/)
-
-### [Fashion Industry Still Promotes Ultrathin Models, According to New Research](https://wwd.com/pop-culture/culture-news/ultrathin-models-fashion-research-skims-1239030017/)
-
-[Skims](https://wwd.com/pop-culture/celebrity-news/hailey-bieber-skims-everyday-cotton-campaign-1239023406/) got its start in shapewear, but has been branching out in apparel and looking more into beauty, recently [hiring Diarrha N’Diaye](https://wwd.com/beauty-industry-news/color-cosmetics/kim-kardashian-skims-ami-cole-founder-hire-1238331656/) to be executive vice president of beauty and fragrance.
+[Skims](https://wwd.com/pop-culture/culture-news/ultrathin-models-fashion-research-skims-1239030017/) got its start in shapewear, but has been branching out in apparel and looking more into beauty, recently [hiring Diarrha N’Diaye](https://wwd.com/beauty-industry-news/color-cosmetics/kim-kardashian-skims-ami-cole-founder-hire-1238331656/) to be executive vice president of beauty and fragrance.
 
 
 
@@ -124,7 +124,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![Street Style From Paris Men's Fashion Week Spring 2027](https://wwd.com/wp-content/uploads/2026/06/taw-mens-spring-2027-street-style-KD-116.jpg?w=1024)](https://wwd.com/menswear-news/mens-fashion/paris-fashion-week-heatwave-coping-1239034976/)
+- [![Nike Air Max 95 sneakers](https://wwd.com/wp-content/uploads/2026/07/nike-air-max-95-7-11.jpg?w=1024)](https://wwd.com/footwear-news/sneaker-news/nike-air-max-95-7-eleven-lawsuit-1239052122/)
 
 
 
@@ -134,16 +134,38 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [How Paris Showgoers Are Coping With the Heat Wave](https://wwd.com/menswear-news/mens-fashion/paris-fashion-week-heatwave-coping-1239034976/)
+### [Nike Is Being Sued by 7-Eleven Over ‘Malicious’ and ‘Misleading’ Air Max 95 Sneakers](https://wwd.com/footwear-news/sneaker-news/nike-air-max-95-7-eleven-lawsuit-1239052122/)
 
 
 
-  - [Mens Fashion](https://wwd.com/business-news/mens-fashion/)
+  - [Sneaker News](https://wwd.com/business-news/sneaker-news/)
 
   - By
 
 
-    [Miles Socha](https://wwd.com/wwd-masthead/miles-socha/), [Tianwei Zhang](https://wwd.com/wwd-masthead/tianwei-zhang/), [Alex Wynne](https://wwd.com/wwd-masthead/alex-wynne/), [Lily Templeton](https://wwd.com/wwd-masthead/lily-templeton/), [Joelle Diderich](https://wwd.com/wwd-masthead/joelle-diderich/), and [Alex Badia](https://wwd.com/wwd-masthead/alex-badia/)
+    [Riley Jones](https://wwd.com/wwd-masthead/riley-jones/)
+
+
+- [![Saskia de Brauw in the campaign for Mugler's "The Wardrobe of Identities" pre-fall 2026 collection](https://wwd.com/wp-content/uploads/2026/06/MUGLER_WardrobeofIdentities_PF26_4x5_7-copy.jpg?w=1024)](https://wwd.com/fashion-news/fashion-scoops/mugler-pre-fall-2026-collection-campaign-saskia-de-brauw-1239016960/)
+
+
+
+
+
+
+
+
+
+### [EXCLUSIVE: Mugler Switches Gears With Campaign for Pre-fall 2026 Collection](https://wwd.com/fashion-news/fashion-scoops/mugler-pre-fall-2026-collection-campaign-saskia-de-brauw-1239016960/)
+
+
+
+  - [Fashion Scoops](https://wwd.com/business-news/fashion-scoops/)
+
+  - By
+
+
+    [Joelle Diderich](https://wwd.com/wwd-masthead/joelle-diderich/)
 
 
 [![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/uploads/2026/06/dvf.png?w=910&h=511&crop=1)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
