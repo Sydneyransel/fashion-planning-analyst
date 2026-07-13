@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/
 source_type: wwd.com
 title: Skims to Open First Asian Stores in Hong Kong, Seoul
-scraped_at: 2026-07-06T09:59:36.949477+00:00
+scraped_at: 2026-07-13T08:53:35.672455+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/#pagetop)
 
-Fashion
+Business
 
-### [Boloria Spring 2027: Olivier’s Latest Twist](https://wwd.com/runway/spring-2027/paris/boloria/review/)
+### [Rent the Runway’s New Leadership Wants to Rewire Rental](https://wwd.com/business-news/business-features/rent-the-runway-leadership-revamps-fashion-rental-1239063052/)
 
-Men's
+Business
 
-### [Steven Stolman’s Move Into Menswear](https://wwd.com/menswear-news/mens-fashion/steve-stolman-menswear-prints-lilly-pulitzer-1239047903/)
+### [Shein Gains Beijing Approval for Hong Kong IPO](https://wwd.com/business-news/financial/shein-beijing-approval-hong-kong-ipo-1239062779/)
 
-Fashion
+Business
 
-### [Yoshita 1967 Wins European Circular Design Challenge](https://wwd.com/fashion-news/fashion-scoops/circular-design-challenge-yoshita-1967-europe-winner-1239052614/)
+### [7 Fashion and Beauty Store Openings to Know in Southern California](https://wwd.com/business-news/retail/new-fashion-beauty-stores-los-angeles-southern-california-1239061801/)
 
 ![Skims in Hong Kong](https://wwd.com/wp-content/uploads/2026/05/SKIMS-store-Hong-Kong-ctsy.jpg?w=1000&h=563&crop=1)
 
@@ -51,7 +51,7 @@ Skims will be opening a store in Hong Kong.Courtesy of Skims
 
 [Skims](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/) is expanding in Asia with its first permanent retail locations in [Hong Kong](https://wwd.com/tag/hong-kong/) and Seoul.
 
-Slated to open this November, the [Hong Kong](https://wwd.com/pop-culture/culture-news/dhl-express-hong-kong-designer-eric-wong-old-uniforms-collaboration-1239024235/) store will be located at Times Square, a shopping mall located at the heart of the vibrant Causeway Bay retail zone. The street-facing, 353-square-meter storefront was previously occupied by a Tiffany & Co. flagship.
+Slated to open this November, the [Hong Kong](https://wwd.com/fashion-news/fashion-scoops/fashion-hong-kong-yaz-bukey-collaborations-paris-1239052071/) store will be located at Times Square, a shopping mall located at the heart of the vibrant Causeway Bay retail zone. The street-facing, 353-square-meter storefront was previously occupied by a Tiffany & Co. flagship.
 
 The Seoul store in Dosan will be operated in partnership with Handsome Corp. and will be the first of several [Skims](https://wwd.com/tag/skims/) loations planned across the city, the company said. It will open this winter, although the specific date was not disclosed.
 
@@ -59,17 +59,17 @@ The Seoul store in Dosan will be operated in partnership with Handsome Corp. and
 
 ### Related Articles
 
-![Trendee GEO report](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Sarah Sherman, Flo Milli and Rama Duwaji wearing Nike Air Rift shoes.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Technology](https://wwd.com/business-news/technology/)
+[Shoe Trends](https://wwd.com/business-news/shoe-trends/)
 
-### [China Insight: China's Fashion Industry Enters the AI Era, From a Search Economy to Machine-led Discovery](https://wwd.com/business-news/technology/chinas-fashion-industry-ai-search-economy-machine-led-discovery-1239051683/)
+### [The Summer of the Nike Air Rift: How Celebrities Are Styling the Revived Split-toe Shoe](https://wwd.com/footwear-news/shoe-trends/nike-air-rift-shoe-trend-2026-1239063022/)
 
-![Hong Kong Fashion event 2026](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Shein](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Fashion Scoops](https://wwd.com/business-news/fashion-scoops/)
+[Financial](https://wwd.com/business-news/financial/)
 
-### [Hong Kong Designers Team With Paris-based Yaz Bukey for Capsules](https://wwd.com/fashion-news/fashion-scoops/fashion-hong-kong-yaz-bukey-collaborations-paris-1239052071/)
+### [Shein Gains Beijing Approval for Hong Kong IPO](https://wwd.com/business-news/financial/shein-beijing-approval-hong-kong-ipo-1239062779/)
 
 “Hong Kong and Seoul have such an incredible energy, style perspective and influence on fashion globally,” said Kim Kardashian, cofounder and chief creative officer of [Skims](https://wwd.com/business-news/financial/reformation-fashion-ipos-vs-spacex-moonshot-1239046314/). “Opening flagship stores in these city allow customers to experience the quality, fit and innovation behind every Skims piece in a more personal way.”
 
@@ -89,7 +89,7 @@ Skims’ announcement coincides with a long-awaited retail rebound in Hong Kong�
 
 According to data from Cushman & Wakefield, an uptick in tourist arrivals alongside sustained local spending sentiment continued to support Hong Kong’s retail sector in the January to February period, which rose 11.8 percent year-over-year to $72.4 billion Hong Kong dollars, or $9.3 billion.
 
-Apart from Skims, [Alo](https://wwd.com/fashion-news/designer-luxury/alo-wellness-luxury-cannes-activations-1238948826/) is slated to open its first [China](https://wwd.com/business-news/legal/chinese-beverage-maker-molly-tea-1239050519/) store at [K11 Musea](https://wwd.com/eye/parties/k11-musea-city-as-studio-graffiti-exhibition-1235587634/); this February, [Palace](https://wwd.com/business-news/retail/palace-shanghai-zhangyuan-first-mainland-china-store-1238974490/) unveiled its first stand-alone store in Hong Kong in Causeway Bay.
+Apart from Skims, [Alo](https://wwd.com/fashion-news/designer-luxury/alo-wellness-luxury-cannes-activations-1238948826/) is slated to open its first [China](https://wwd.com/footwear-news/shoe-industry-news/footwear-fire-factory-jinjiang-shoe-capital-china-1239060839/) store at [K11 Musea](https://wwd.com/eye/parties/k11-musea-city-as-studio-graffiti-exhibition-1235587634/); this February, [Palace](https://wwd.com/business-news/retail/palace-shanghai-zhangyuan-first-mainland-china-store-1238974490/) unveiled its first stand-alone store in Hong Kong in Causeway Bay.
 
 content frame
 
@@ -114,7 +114,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![NEW YORK, NY - SEPTEMBER 29:  Laura Anzani, Giovanni Anzani, Aldo Spinelli and Marco Spinelli attend the grand opening of Poliform NYC flagship on Madison Avenue on September 29, 2016 in New York City.  (Photo by Eugene Gologursky/Getty Images for Poliform)](https://wwd.com/wp-content/uploads/2026/07/GettyImages-611449504.jpeg?w=1024)](https://wwd.com/home-design/furniture/aldo-spinelli-poliform-co-founder-obituary-1239051943/)
+- [![Jennifer Lopez in head-to-toe Ralph Lauren, including what appear to be an archival pair of rope-and-leather sandals, to the Men's Finals at Wimbledon 2026.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/footwear-news/shoe-trends/jennifer-lopez-ralph-lauren-sandals-wimbledon-1239063896/)
 
 
 
@@ -124,43 +124,65 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Aldo Spinelli, Cofounder of Italian Design Firm Poliform, Dies](https://wwd.com/home-design/furniture/aldo-spinelli-poliform-co-founder-obituary-1239051943/)
+### [Jennifer Lopez Trades Clear Heels for Braided Ralph Lauren Sandals at Wimbledon](https://wwd.com/footwear-news/shoe-trends/jennifer-lopez-ralph-lauren-sandals-wimbledon-1239063896/)
 
 
 
-  - [Furniture](https://wwd.com/business-news/furniture/)
-
-  - By
-
-
-    [Sofia Celeste](https://wwd.com/wwd-masthead/sofia-celeste/)
-
-
-- [![Saskia de Brauw in the campaign for Mugler's "The Wardrobe of Identities" pre-fall 2026 collection](https://wwd.com/wp-content/uploads/2026/06/MUGLER_WardrobeofIdentities_PF26_4x5_7-copy.jpg?w=1024)](https://wwd.com/fashion-news/fashion-scoops/mugler-pre-fall-2026-collection-campaign-saskia-de-brauw-1239016960/)
-
-
-
-
-
-
-
-
-
-### [EXCLUSIVE: Mugler Switches Gears With Campaign for Pre-fall 2026 Collection](https://wwd.com/fashion-news/fashion-scoops/mugler-pre-fall-2026-collection-campaign-saskia-de-brauw-1239016960/)
-
-
-
-  - [Fashion Scoops](https://wwd.com/business-news/fashion-scoops/)
+  - [Shoe Trends](https://wwd.com/business-news/shoe-trends/)
 
   - By
 
 
-    [Joelle Diderich](https://wwd.com/wwd-masthead/joelle-diderich/)
+    [Maggie Clancy](https://wwd.com/wwd-masthead/maggie-clancy/)
 
 
-[![Skims to Open First Asian Stores in Hong Kong, Seoul](https://wwd.com/wp-content/uploads/2026/06/dvf.png?w=910&h=511&crop=1)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
+- [![an array of clothing and accessories on sale for amazon prime day 2026, including jewelry, shirts, sunglasses; best luxury fashion deals prime day 2026](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/shop/shop-fashion/best-fashion-clothing-accessories-prime-day-deals-2026-1239022032/)
 
-### CEO Talks: Diane Von Furstenberg
+
+
+
+
+
+
+
+
+### [Up to 80% Off Kate Spade, Madewell, Gap: Prime Day Deals on Clothing & Accessories That Are Actually Worth It](https://wwd.com/shop/shop-fashion/best-fashion-clothing-accessories-prime-day-deals-2026-1239022032/)
+
+
+
+  - [Fashion](https://wwd.com/business-news/shop-fashion/)
+
+  - By
+
+
+    [Stacia Datskovska](https://wwd.com/wwd-masthead/stacia-datskovska/)
+
+
+- [![three handbags over a sparkly blue background; best deals on luxury bags prime day 2026](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/shop/shop-fashion/best-bags-purses-prime-day-deals-2026-1239024201/)
+
+
+
+
+
+
+
+
+
+### [Kate Spade, Calvin Klein, and Giuseppe Zanotti Bags See Rare 70%-Off Discounts for Prime Day](https://wwd.com/shop/shop-fashion/best-bags-purses-prime-day-deals-2026-1239024201/)
+
+
+
+  - [Fashion](https://wwd.com/business-news/shop-fashion/)
+
+  - By
+
+
+    [Stacia Datskovska](https://wwd.com/wwd-masthead/stacia-datskovska/)
+
+
+[![Skims to Open First Asian Stores in Hong Kong, Seoul](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
+
+### CEO Talks: Diane Von Furstenberg
 
 WWD and Women's Wear Daily are part of Penske Media Corporation. © 2026 Fairchild Publishing, LLC. All Rights Reserved.
 

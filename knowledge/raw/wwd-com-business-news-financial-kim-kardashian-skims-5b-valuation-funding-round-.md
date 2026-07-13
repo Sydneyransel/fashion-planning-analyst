@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/
 source_type: wwd.com
 title: Kim Kardashian's Skims Hits $5B Valuation With New Funding Round
-scraped_at: 2026-07-06T09:59:31.868798+00:00
+scraped_at: 2026-07-13T08:53:30.782148+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/#pagetop)
 
-Fashion
+Business
 
-### [Boloria Spring 2027: Olivier’s Latest Twist](https://wwd.com/runway/spring-2027/paris/boloria/review/)
+### [Rent the Runway’s New Leadership Wants to Rewire Rental](https://wwd.com/business-news/business-features/rent-the-runway-leadership-revamps-fashion-rental-1239063052/)
 
-Men's
+Business
 
-### [Steven Stolman’s Move Into Menswear](https://wwd.com/menswear-news/mens-fashion/steve-stolman-menswear-prints-lilly-pulitzer-1239047903/)
+### [Shein Gains Beijing Approval for Hong Kong IPO](https://wwd.com/business-news/financial/shein-beijing-approval-hong-kong-ipo-1239062779/)
 
-Fashion
+Business
 
-### [Yoshita 1967 Wins European Circular Design Challenge](https://wwd.com/fashion-news/fashion-scoops/circular-design-challenge-yoshita-1967-europe-winner-1239052614/)
+### [7 Fashion and Beauty Store Openings to Know in Southern California](https://wwd.com/business-news/retail/new-fashion-beauty-stores-los-angeles-southern-california-1239061801/)
 
 ![NEW YORK, NEW YORK - SEPTEMBER 24: NikeSKIMS dancers perform at the NikeSKIMS "Bodies at Work" event at the New York Public Library on September 24, 2025 in New York City. (Photo by Valerie Terranova/Getty Images)](https://wwd.com/wp-content/uploads/2025/09/skims-presentation-photosc.jpg?w=800&h=533&crop=1)
 
@@ -59,17 +59,17 @@ The new money came from Goldman Sachs Alternatives and BDT & MSD Partners.
 
 ### Related Articles
 
+![Sarah Sherman, Flo Milli and Rama Duwaji wearing Nike Air Rift shoes.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+
+[Shoe Trends](https://wwd.com/business-news/shoe-trends/)
+
+### [The Summer of the Nike Air Rift: How Celebrities Are Styling the Revived Split-toe Shoe](https://wwd.com/footwear-news/shoe-trends/nike-air-rift-shoe-trend-2026-1239063022/)
+
 ![The Wall Street bull outside the New York Stock Exchange in New York.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
 [Financial](https://wwd.com/business-news/financial/)
 
 ### [Will Investors Bet on Fashion After SpaceX's Moonshot?](https://wwd.com/business-news/financial/reformation-fashion-ipos-vs-spacex-moonshot-1239046314/)
-
-![Rama Duwaji and Mayor Zohran Mamdani at the Knicks ceremony outside City Hall Plaza. ](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
-
-[Business Features](https://wwd.com/business-news/business-features/)
-
-### [Major Sports Events Are Driving Cultural and Brand Impact](https://wwd.com/business-news/business-features/sports-events-driving-brand-impact-culture-community-1239030744/)
 
 [Skims](https://wwd.com/pop-culture/culture-news/ultrathin-models-fashion-research-skims-1239030017/) got its start in shapewear, but has been branching out in apparel and looking more into beauty, recently [hiring Diarrha N’Diaye](https://wwd.com/beauty-industry-news/color-cosmetics/kim-kardashian-skims-ami-cole-founder-hire-1238331656/) to be executive vice president of beauty and fragrance.
 
@@ -124,7 +124,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![Nike Air Max 95 sneakers](https://wwd.com/wp-content/uploads/2026/07/nike-air-max-95-7-11.jpg?w=1024)](https://wwd.com/footwear-news/sneaker-news/nike-air-max-95-7-eleven-lawsuit-1239052122/)
+- [![Kate Middleton, red dress, Wimbeldon finals 2026](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/pop-culture/celebrity-news/kate-middleton-wimbledon-roland-mouret-dress-1239063626/)
 
 
 
@@ -134,41 +134,63 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Nike Is Being Sued by 7-Eleven Over ‘Malicious’ and ‘Misleading’ Air Max 95 Sneakers](https://wwd.com/footwear-news/sneaker-news/nike-air-max-95-7-eleven-lawsuit-1239052122/)
+### [Lady in Red: Kate Middleton Is Easy to Spot in Roland Mouret Peplum Dress at Wimbledon Women’s Finals](https://wwd.com/pop-culture/celebrity-news/kate-middleton-wimbledon-roland-mouret-dress-1239063626/)
 
 
 
-  - [Sneaker News](https://wwd.com/business-news/sneaker-news/)
-
-  - By
-
-
-    [Riley Jones](https://wwd.com/wwd-masthead/riley-jones/)
-
-
-- [![Saskia de Brauw in the campaign for Mugler's "The Wardrobe of Identities" pre-fall 2026 collection](https://wwd.com/wp-content/uploads/2026/06/MUGLER_WardrobeofIdentities_PF26_4x5_7-copy.jpg?w=1024)](https://wwd.com/fashion-news/fashion-scoops/mugler-pre-fall-2026-collection-campaign-saskia-de-brauw-1239016960/)
-
-
-
-
-
-
-
-
-
-### [EXCLUSIVE: Mugler Switches Gears With Campaign for Pre-fall 2026 Collection](https://wwd.com/fashion-news/fashion-scoops/mugler-pre-fall-2026-collection-campaign-saskia-de-brauw-1239016960/)
-
-
-
-  - [Fashion Scoops](https://wwd.com/business-news/fashion-scoops/)
+  - [Celebrity News](https://wwd.com/business-news/celebrity-news/)
 
   - By
 
 
-    [Joelle Diderich](https://wwd.com/wwd-masthead/joelle-diderich/)
+    [Amina Ayoud](https://wwd.com/wwd-masthead/aayoud@footwearnews.com/)
 
 
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/uploads/2026/06/dvf.png?w=910&h=511&crop=1)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
+- [!["A Zine Curated for PSG" comes in a kraft-paper collector's box printed with "Ici c'est Paris," the name of the pop up which comes from the team's famous rally chant.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/media/paris-saint-germain-football-club-publishes-zine-1239049210/)
+
+
+
+
+
+
+
+
+
+### [Paris Saint-Germain Football Club Trades the Pitch for the Page](https://wwd.com/business-news/media/paris-saint-germain-football-club-publishes-zine-1239049210/)
+
+
+
+  - [Media](https://wwd.com/business-news/media/)
+
+  - By
+
+
+    [Ritu Upadhyay](https://wwd.com/wwd-masthead/ritu-upadhyay/)
+
+
+- [![Gregory Wein](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/media/gregory-wein-obituary-out-magazine-abercrombie-fitch-1239056472/)
+
+
+
+
+
+
+
+
+
+### [Style and Creative Director Gregory Wein Dies at 54](https://wwd.com/business-news/media/gregory-wein-obituary-out-magazine-abercrombie-fitch-1239056472/)
+
+
+
+  - [Media](https://wwd.com/business-news/media/)
+
+  - By
+
+
+    [Jean E. Palmieri](https://wwd.com/wwd-masthead/jean-e-palmieri/)
+
+
+[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
 
 ### CEO Talks: Diane Von Furstenberg
 
@@ -302,3 +324,11 @@ Log In Sign Up
   - [Shoes](https://wwd.com/shop/shop-shoes/)
 
 ad
+
+reCAPTCHA
+
+Recaptcha requires verification.
+
+protected by **reCAPTCHA**
+
+reCAPTCHA is changing its terms of service. [Take action.](https://google.com/recaptcha/admin/migrate)

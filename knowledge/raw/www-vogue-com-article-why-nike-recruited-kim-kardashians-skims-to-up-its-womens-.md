@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-07-06T09:59:26.698162+00:00
+scraped_at: 2026-07-13T08:53:26.061409+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -21,21 +21,29 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 
 LATEST ON VOGUE
 
-[![Eileen Fisher: How to Leave a Sustainable Legacy](https://assets.vogue.com/photos/6a4534a5976e088f3fab28e0/1:1/w_640%2Cc_limit/undefined)\\
+[![First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://assets.vogue.com/photos/6a4e910f28a33d7b4581fba1/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Eileen Fisher: How to Leave a Sustainable Legacy](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2 "Eileen Fisher: How to Leave a Sustainable Legacy")
+First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_popular4-2 "First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut")
 
-[![The United States of Luxury](https://assets.vogue.com/photos/6a3e92e3e7349c94ffbe6e45/1:1/w_640%2Cc_limit/undefined)\\
+[![Key Takeaways From Paris Couture Week](https://assets.vogue.com/photos/6a4fe1d292e67f3f81edd598/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The United States of Luxury](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2 "The United States of Luxury")
+Key Takeaways From Paris Couture Week](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_popular4-2 "Key Takeaways From Paris Couture Week")
 
-[![American Retailers on How to Save American Retail](https://assets.vogue.com/photos/6a3eb2a53a2bde2c88e6d830/1:1/w_640%2Cc_limit/undefined)\\
+[![Local vs Global: How to Price an African Fashion Brand](https://assets.vogue.com/photos/6a5104db33216af93f60a890/1:1/w_640%2Cc_limit/undefined)\\
 \\
-American Retailers on How to Save American Retail](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2 "American Retailers on How to Save American Retail")
+Local vs Global: How to Price an African Fashion Brand](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2 "Local vs Global: How to Price an African Fashion Brand")
 
-[![“The Conversation Is More Urgent”: Fashion Reacts to Men’s Shifting Body Ideals](https://assets.vogue.com/photos/6a47805e9955a348c724b1e7/1:1/w_640%2Cc_limit/undefined)\\
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a4fb7370bff34ecbbe204ec/1:1/w_640%2Cc_limit/undefined)\\
 \\
-“The Conversation Is More Urgent”: Fashion Reacts to Men’s Shifting Body Ideals](https://www.vogue.com/article/the-conversation-is-more-urgent-fashion-reacts-to-mens-shifting-body-ideals#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_cral-top2-2 "“The Conversation Is More Urgent”: Fashion Reacts to Men’s Shifting Body Ideals")
+The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2 "The Vogue Business Beauty Trend Tracker")
+
+[![The Scoop with Daydream’s Lisa Yamner: On the App’s First Birthday and Funniest Customer Searches](https://assets.vogue.com/photos/6a4fbb66aef032aacad70525/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Scoop with Daydream’s Lisa Yamner: On the App’s First Birthday and Funniest Customer Searches](https://www.vogue.com/article/the-scoop-with-daydreams-lisa-yamner-on-the-apps-first-birthday-and-funniest-customer-searches#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2 "The Scoop with Daydream’s Lisa Yamner: On the App’s First Birthday and Funniest Customer Searches")
+
+[![From €300,000 Tabis to Barbie Clothes: Inside the Sale of Martin Margiela’s Personal Archive](https://assets.vogue.com/photos/6a4fe27c0bff34ecbbe207de/1:1/w_640%2Cc_limit/undefined)\\
+\\
+From €300,000 Tabis to Barbie Clothes: Inside the Sale of Martin Margiela’s Personal Archive](https://www.vogue.com/article/from-euro300000-tabis-to-barbie-clothes-inside-the-sale-of-martin-margielas-personal-archive#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2 "From €300,000 Tabis to Barbie Clothes: Inside the Sale of Martin Margiela’s Personal Archive")
 
 ArrowArrow
 
@@ -70,7 +78,7 @@ Photos: Courtesy of Nike
 
 Most Popular
 
-- [![Eileen Fisher: How to Leave a Sustainable Legacy](https://assets.vogue.com/photos/6a4534a5976e088f3fab28e0/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+- [![First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://assets.vogue.com/photos/6a4e910f28a33d7b4581fba1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
 
 
 
@@ -80,13 +88,13 @@ Most Popular
 
 
 
-Sustainability
+Creative Directors
 
 
 
 
 
-[Eileen Fisher: How to Leave a Sustainable Legacy](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+[First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
 
 
 
@@ -94,9 +102,9 @@ Sustainability
 
 
 
-By Bella Webb
+By Laure Guilbault
 
-- [![The United States of Luxury](https://assets.vogue.com/photos/6a3e92e3e7349c94ffbe6e45/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+- [![Key Takeaways From Paris Couture Week](https://assets.vogue.com/photos/6a4fe1d292e67f3f81edd598/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
 
 
 
@@ -106,13 +114,13 @@ By Bella Webb
 
 
 
-Business
+Fashion
 
 
 
 
 
-[The United States of Luxury](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+[Key Takeaways From Paris Couture Week](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
 
 
 
@@ -120,9 +128,9 @@ Business
 
 
 
-By Madeleine Schulz
+By Laure Guilbault
 
-- [![American Retailers on How to Save American Retail](https://assets.vogue.com/photos/6a3eb2a53a2bde2c88e6d830/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+- [![Local vs Global: How to Price an African Fashion Brand](https://assets.vogue.com/photos/6a5104db33216af93f60a890/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -132,13 +140,13 @@ By Madeleine Schulz
 
 
 
-Business
+Fashion
 
 
 
 
 
-[American Retailers on How to Save American Retail](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+[Local vs Global: How to Price an African Fashion Brand](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -146,7 +154,7 @@ Business
 
 
 
-By Hilary Milnes
+By Ezreen Benissan
 
 
 It also signals Nike’s commitment to developing technical products for women. Product innovation has been a pain point for Nike in recent years, Yarbrough says. Hill [acknowledged this](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December’s earnings; it forms the foundation of his turnaround strategy. In partnering with Skims on a joint brand, Nike is able to gain access to womenswear tech to help it rival the Alos and Lululemons of the world, which, Yarbrough says, would otherwise likely take Nike several years to develop, manufacture and scale. “This accelerates that path for Nike to compete with some of these other brands that have been growing rapidly.” It’s a smart shortcut, Hastings-Narayanin says.
@@ -163,7 +171,7 @@ These days, consumers want products that work, experts agree, so emphasis needs 
 
 Most Popular
 
-- [![Eileen Fisher: How to Leave a Sustainable Legacy](https://assets.vogue.com/photos/6a4534a5976e088f3fab28e0/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+- [![First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://assets.vogue.com/photos/6a4e910f28a33d7b4581fba1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
 
 
 
@@ -173,13 +181,13 @@ Most Popular
 
 
 
-Sustainability
+Creative Directors
 
 
 
 
 
-[Eileen Fisher: How to Leave a Sustainable Legacy](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+[First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
 
 
 
@@ -187,9 +195,9 @@ Sustainability
 
 
 
-By Bella Webb
+By Laure Guilbault
 
-- [![The United States of Luxury](https://assets.vogue.com/photos/6a3e92e3e7349c94ffbe6e45/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+- [![Key Takeaways From Paris Couture Week](https://assets.vogue.com/photos/6a4fe1d292e67f3f81edd598/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
 
 
 
@@ -199,13 +207,13 @@ By Bella Webb
 
 
 
-Business
+Fashion
 
 
 
 
 
-[The United States of Luxury](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+[Key Takeaways From Paris Couture Week](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
 
 
 
@@ -213,9 +221,9 @@ Business
 
 
 
-By Madeleine Schulz
+By Laure Guilbault
 
-- [![American Retailers on How to Save American Retail](https://assets.vogue.com/photos/6a3eb2a53a2bde2c88e6d830/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+- [![Local vs Global: How to Price an African Fashion Brand](https://assets.vogue.com/photos/6a5104db33216af93f60a890/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -225,13 +233,13 @@ By Madeleine Schulz
 
 
 
-Business
+Fashion
 
 
 
 
 
-[American Retailers on How to Save American Retail](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_82500a04-a295-4ca2-a034-cef378807e29_popular4-2)
+[Local vs Global: How to Price an African Fashion Brand](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -239,7 +247,7 @@ Business
 
 
 
-By Hilary Milnes
+By Ezreen Benissan
 
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
@@ -264,34 +272,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![Eileen Fisher: How to Leave a Sustainable Legacy](https://assets.vogue.com/photos/6a4534a5976e088f3fab28e0/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2)
+[![First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://assets.vogue.com/photos/6a4e910f28a33d7b4581fba1/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_popular4-2)
 
-Sustainability
+Creative Directors
 
-[Eileen Fisher: How to Leave a Sustainable Legacy](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2)
+[First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_popular4-2)
 
-By Bella Webb
+By Laure Guilbault
 
-[![The United States of Luxury](https://assets.vogue.com/photos/6a3e92e3e7349c94ffbe6e45/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2)
+[![Key Takeaways From Paris Couture Week](https://assets.vogue.com/photos/6a4fe1d292e67f3f81edd598/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_popular4-2)
 
-Business
+Fashion
 
-[The United States of Luxury](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2)
+[Key Takeaways From Paris Couture Week](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_popular4-2)
 
-By Madeleine Schulz
+By Laure Guilbault
 
-[![American Retailers on How to Save American Retail](https://assets.vogue.com/photos/6a3eb2a53a2bde2c88e6d830/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2)
+[![Local vs Global: How to Price an African Fashion Brand](https://assets.vogue.com/photos/6a5104db33216af93f60a890/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2)
 
-Business
+Fashion
 
-[American Retailers on How to Save American Retail](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_popular4-2)
+[Local vs Global: How to Price an African Fashion Brand](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2)
 
-By Hilary Milnes
+By Ezreen Benissan
 
-[![“The Conversation Is More Urgent”: Fashion Reacts to Men’s Shifting Body Ideals](https://assets.vogue.com/photos/6a47805e9955a348c724b1e7/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-conversation-is-more-urgent-fashion-reacts-to-mens-shifting-body-ideals#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_cral-top2-2)
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a4fb7370bff34ecbbe204ec/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2)
 
-Business
+Beauty
 
-[“The Conversation Is More Urgent”: Fashion Reacts to Men’s Shifting Body Ideals](https://www.vogue.com/article/the-conversation-is-more-urgent-fashion-reacts-to-mens-shifting-body-ideals#intcid=_vogue-article-bottom-recirc_969aeb6f-6bc5-4994-91b5-320970d4de32_text2vec1_fallback_cral-top2-2)
+[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2)
 
-By Lucy Maguire
+By Hikmat Mohammed

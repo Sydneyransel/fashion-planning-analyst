@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-07-06T09:59:21.069126+00:00
+scraped_at: 2026-07-13T08:53:22.157488+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -21,21 +21,21 @@ The brand has signalled a buzzy new era for shapewear. It features nine shades a
 
 LATEST ON VOGUE
 
-[![The Big Destination Show Debrief](https://assets.vogue.com/photos/6a2983188bb2ebda48f24d18/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Big Destination Show Debrief](https://www.vogue.com/article/the-big-destination-show-debrief#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1 "The Big Destination Show Debrief")
-
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1 "The Vogue Business People Moves Tracker")
-
 [![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1 "The Vogue Business Funding Tracker")
+The Vogue Business Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_d645a94f-7eb5-4158-8ac9-4e2fab14acc1_text2vec1_fallback_roberta-similarity1 "The Vogue Business Funding Tracker")
 
 [![StockX Bets on Vintage](https://assets.vogue.com/photos/6a3bcd17fb20c669e9e4475d/1:1/w_640%2Cc_limit/undefined)\\
 \\
-StockX Bets on Vintage](https://www.vogue.com/article/stockx-bets-on-vintage#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1 "StockX Bets on Vintage")
+StockX Bets on Vintage](https://www.vogue.com/article/stockx-bets-on-vintage#intcid=_vogue-article-bottom-recirc_d645a94f-7eb5-4158-8ac9-4e2fab14acc1_text2vec1_fallback_roberta-similarity1 "StockX Bets on Vintage")
+
+[![Where the Fashion Workers Act Stands, One Year In](https://assets.vogue.com/photos/6a330c740827e160b5c91b63/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Where the Fashion Workers Act Stands, One Year In](https://www.vogue.com/article/where-the-fashion-workers-act-stands-one-year-in#intcid=_vogue-article-bottom-recirc_d645a94f-7eb5-4158-8ac9-4e2fab14acc1_text2vec1_fallback_roberta-similarity1 "Where the Fashion Workers Act Stands, One Year In")
+
+[![The Vogue Business Spring/Summer 2027 Menswear Size Inclusivity Report](https://assets.vogue.com/photos/6a47db42dd42bc319730fdfa/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Vogue Business Spring/Summer 2027 Menswear Size Inclusivity Report](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-menswear-size-inclusivity-report#intcid=_vogue-article-bottom-recirc_d645a94f-7eb5-4158-8ac9-4e2fab14acc1_text2vec1_fallback_roberta-similarity1 "The Vogue Business Spring/Summer 2027 Menswear Size Inclusivity Report")
 
 ArrowArrow
 
@@ -78,7 +78,7 @@ Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skim
 
 Most Popular
 
-- [![Eileen Fisher: How to Leave a Sustainable Legacy](https://assets.vogue.com/photos/6a4534a5976e088f3fab28e0/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+- [![First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://assets.vogue.com/photos/6a4e910f28a33d7b4581fba1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-right-rail_ca9e8ddc-43a0-4808-992e-a2968b4735e2_popular4-2)
 
 
 
@@ -88,13 +88,13 @@ Most Popular
 
 
 
-Sustainability
+Creative Directors
 
 
 
 
 
-[Eileen Fisher: How to Leave a Sustainable Legacy](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+[First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-right-rail_ca9e8ddc-43a0-4808-992e-a2968b4735e2_popular4-2)
 
 
 
@@ -102,9 +102,9 @@ Sustainability
 
 
 
-By Bella Webb
+By Laure Guilbault
 
-- [![The United States of Luxury](https://assets.vogue.com/photos/6a3e92e3e7349c94ffbe6e45/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+- [![Key Takeaways From Paris Couture Week](https://assets.vogue.com/photos/6a4fe1d292e67f3f81edd598/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-right-rail_ca9e8ddc-43a0-4808-992e-a2968b4735e2_popular4-2)
 
 
 
@@ -114,13 +114,13 @@ By Bella Webb
 
 
 
-Business
+Fashion
 
 
 
 
 
-[The United States of Luxury](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+[Key Takeaways From Paris Couture Week](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-right-rail_ca9e8ddc-43a0-4808-992e-a2968b4735e2_popular4-2)
 
 
 
@@ -128,9 +128,9 @@ Business
 
 
 
-By Madeleine Schulz
+By Laure Guilbault
 
-- [![American Retailers on How to Save American Retail](https://assets.vogue.com/photos/6a3eb2a53a2bde2c88e6d830/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+- [![Local vs Global: How to Price an African Fashion Brand](https://assets.vogue.com/photos/6a5104db33216af93f60a890/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-right-rail_ca9e8ddc-43a0-4808-992e-a2968b4735e2_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -140,13 +140,13 @@ By Madeleine Schulz
 
 
 
-Business
+Fashion
 
 
 
 
 
-[American Retailers on How to Save American Retail](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+[Local vs Global: How to Price an African Fashion Brand](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-right-rail_ca9e8ddc-43a0-4808-992e-a2968b4735e2_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -154,7 +154,7 @@ Business
 
 
 
-By Hilary Milnes
+By Ezreen Benissan
 
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
@@ -184,7 +184,7 @@ Skims
 
 Most Popular
 
-- [![Eileen Fisher: How to Leave a Sustainable Legacy](https://assets.vogue.com/photos/6a4534a5976e088f3fab28e0/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+- [![First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://assets.vogue.com/photos/6a4e910f28a33d7b4581fba1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-right-rail_ca9e8ddc-43a0-4808-992e-a2968b4735e2_popular4-2)
 
 
 
@@ -194,13 +194,13 @@ Most Popular
 
 
 
-Sustainability
+Creative Directors
 
 
 
 
 
-[Eileen Fisher: How to Leave a Sustainable Legacy](https://www.vogue.com/article/eileen-fisher-how-to-leave-a-sustainable-legacy#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+[First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-right-rail_ca9e8ddc-43a0-4808-992e-a2968b4735e2_popular4-2)
 
 
 
@@ -208,9 +208,9 @@ Sustainability
 
 
 
-By Bella Webb
+By Laure Guilbault
 
-- [![The United States of Luxury](https://assets.vogue.com/photos/6a3e92e3e7349c94ffbe6e45/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+- [![Key Takeaways From Paris Couture Week](https://assets.vogue.com/photos/6a4fe1d292e67f3f81edd598/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-right-rail_ca9e8ddc-43a0-4808-992e-a2968b4735e2_popular4-2)
 
 
 
@@ -220,13 +220,13 @@ By Bella Webb
 
 
 
-Business
+Fashion
 
 
 
 
 
-[The United States of Luxury](https://www.vogue.com/article/the-united-states-of-luxury#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+[Key Takeaways From Paris Couture Week](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-right-rail_ca9e8ddc-43a0-4808-992e-a2968b4735e2_popular4-2)
 
 
 
@@ -234,9 +234,9 @@ Business
 
 
 
-By Madeleine Schulz
+By Laure Guilbault
 
-- [![American Retailers on How to Save American Retail](https://assets.vogue.com/photos/6a3eb2a53a2bde2c88e6d830/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+- [![Local vs Global: How to Price an African Fashion Brand](https://assets.vogue.com/photos/6a5104db33216af93f60a890/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-right-rail_ca9e8ddc-43a0-4808-992e-a2968b4735e2_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -246,13 +246,13 @@ By Madeleine Schulz
 
 
 
-Business
+Fashion
 
 
 
 
 
-[American Retailers on How to Save American Retail](https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail#intcid=_vogue-right-rail_fbfba9b1-52c7-4bc6-ac1a-c6d740874914_popular4-2)
+[Local vs Global: How to Price an African Fashion Brand](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-right-rail_ca9e8ddc-43a0-4808-992e-a2968b4735e2_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -260,7 +260,7 @@ Business
 
 
 
-By Hilary Milnes
+By Ezreen Benissan
 
 
 Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
@@ -286,34 +286,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![The Big Destination Show Debrief](https://assets.vogue.com/photos/6a2983188bb2ebda48f24d18/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-big-destination-show-debrief#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
-
-Fashion
-
-[The Big Destination Show Debrief](https://www.vogue.com/article/the-big-destination-show-debrief#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
-
-By Madeleine Schulz
-
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
+[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_d645a94f-7eb5-4158-8ac9-4e2fab14acc1_text2vec1_fallback_roberta-similarity1)
 
 Companies
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
-
-By Vogue Business Team
-
-[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
-
-Companies
-
-[The _Vogue Business_ Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
+[The _Vogue Business_ Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_d645a94f-7eb5-4158-8ac9-4e2fab14acc1_text2vec1_fallback_roberta-similarity1)
 
 By Maliha Shoaib
 
-[![StockX Bets on Vintage](https://assets.vogue.com/photos/6a3bcd17fb20c669e9e4475d/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/stockx-bets-on-vintage#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
+[![StockX Bets on Vintage](https://assets.vogue.com/photos/6a3bcd17fb20c669e9e4475d/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/stockx-bets-on-vintage#intcid=_vogue-article-bottom-recirc_d645a94f-7eb5-4158-8ac9-4e2fab14acc1_text2vec1_fallback_roberta-similarity1)
 
 Executive Interviews
 
-[StockX Bets on Vintage](https://www.vogue.com/article/stockx-bets-on-vintage#intcid=_vogue-article-bottom-recirc_6cde4b6b-1846-45b0-9c76-12f5b5b47b78_text2vec1_fallback_roberta-similarity1)
+[StockX Bets on Vintage](https://www.vogue.com/article/stockx-bets-on-vintage#intcid=_vogue-article-bottom-recirc_d645a94f-7eb5-4158-8ac9-4e2fab14acc1_text2vec1_fallback_roberta-similarity1)
 
 By Joe Bobowicz
+
+[![Where the Fashion Workers Act Stands, One Year In](https://assets.vogue.com/photos/6a330c740827e160b5c91b63/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/where-the-fashion-workers-act-stands-one-year-in#intcid=_vogue-article-bottom-recirc_d645a94f-7eb5-4158-8ac9-4e2fab14acc1_text2vec1_fallback_roberta-similarity1)
+
+Fashion
+
+[Where the Fashion Workers Act Stands, One Year In](https://www.vogue.com/article/where-the-fashion-workers-act-stands-one-year-in#intcid=_vogue-article-bottom-recirc_d645a94f-7eb5-4158-8ac9-4e2fab14acc1_text2vec1_fallback_roberta-similarity1)
+
+By Madeleine Schulz
+
+[![The Vogue Business Spring/Summer 2027 Menswear Size Inclusivity Report](https://assets.vogue.com/photos/6a47db42dd42bc319730fdfa/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-menswear-size-inclusivity-report#intcid=_vogue-article-bottom-recirc_d645a94f-7eb5-4158-8ac9-4e2fab14acc1_text2vec1_fallback_roberta-similarity1)
+
+Fashion
+
+[The _Vogue Business_ Spring/Summer 2027 Menswear Size Inclusivity Report](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-menswear-size-inclusivity-report#intcid=_vogue-article-bottom-recirc_d645a94f-7eb5-4158-8ac9-4e2fab14acc1_text2vec1_fallback_roberta-similarity1)
+
+By Amy Francombe
