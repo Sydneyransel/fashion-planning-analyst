@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-07-13T08:53:26.061409+00:00
+scraped_at: 2026-07-20T08:43:58.050271+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -21,29 +21,21 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 
 LATEST ON VOGUE
 
-[![First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://assets.vogue.com/photos/6a4e910f28a33d7b4581fba1/1:1/w_640%2Cc_limit/undefined)\\
+[![How to Secure a Fashion Internship](https://assets.vogue.com/photos/6a5618d5ac87b37da7d54aef/1:1/w_640%2Cc_limit/undefined)\\
 \\
-First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_popular4-2 "First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut")
+How to Secure a Fashion Internship](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_popular4-2 "How to Secure a Fashion Internship")
 
-[![Key Takeaways From Paris Couture Week](https://assets.vogue.com/photos/6a4fe1d292e67f3f81edd598/1:1/w_640%2Cc_limit/undefined)\\
+[![How to Write a Fashion Résumé](https://assets.vogue.com/photos/6a4e447f95c7005c2f504b3a/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Key Takeaways From Paris Couture Week](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_popular4-2 "Key Takeaways From Paris Couture Week")
+How to Write a Fashion Résumé](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_popular4-2 "How to Write a Fashion Résumé")
 
-[![Local vs Global: How to Price an African Fashion Brand](https://assets.vogue.com/photos/6a5104db33216af93f60a890/1:1/w_640%2Cc_limit/undefined)\\
+[![Should Brands Bet on Luxury Eyewear?](https://assets.vogue.com/photos/6a58de5c3c02e2aace939dfd/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Local vs Global: How to Price an African Fashion Brand](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2 "Local vs Global: How to Price an African Fashion Brand")
+Should Brands Bet on Luxury Eyewear?](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_cral-top2-2 "Should Brands Bet on Luxury Eyewear?")
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a4fb7370bff34ecbbe204ec/1:1/w_640%2Cc_limit/undefined)\\
+[![Burberry’s Q1 Revenues Rise 4%, Boosted by China and the US](https://assets.vogue.com/photos/6a5a2b933c02e2aace93b562/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2 "The Vogue Business Beauty Trend Tracker")
-
-[![The Scoop with Daydream’s Lisa Yamner: On the App’s First Birthday and Funniest Customer Searches](https://assets.vogue.com/photos/6a4fbb66aef032aacad70525/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Scoop with Daydream’s Lisa Yamner: On the App’s First Birthday and Funniest Customer Searches](https://www.vogue.com/article/the-scoop-with-daydreams-lisa-yamner-on-the-apps-first-birthday-and-funniest-customer-searches#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2 "The Scoop with Daydream’s Lisa Yamner: On the App’s First Birthday and Funniest Customer Searches")
-
-[![From €300,000 Tabis to Barbie Clothes: Inside the Sale of Martin Margiela’s Personal Archive](https://assets.vogue.com/photos/6a4fe27c0bff34ecbbe207de/1:1/w_640%2Cc_limit/undefined)\\
-\\
-From €300,000 Tabis to Barbie Clothes: Inside the Sale of Martin Margiela’s Personal Archive](https://www.vogue.com/article/from-euro300000-tabis-to-barbie-clothes-inside-the-sale-of-martin-margielas-personal-archive#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2 "From €300,000 Tabis to Barbie Clothes: Inside the Sale of Martin Margiela’s Personal Archive")
+Burberry’s Q1 Revenues Rise 4%, Boosted by China and the US](https://www.vogue.com/article/burberrys-q1-revenues-rise-4-boosted-by-china-and-the-us#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_cral-top2-2 "Burberry’s Q1 Revenues Rise 4%, Boosted by China and the US")
 
 ArrowArrow
 
@@ -78,7 +70,7 @@ Photos: Courtesy of Nike
 
 Most Popular
 
-- [![First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://assets.vogue.com/photos/6a4e910f28a33d7b4581fba1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
+- [![How to Secure a Fashion Internship](https://assets.vogue.com/photos/6a5618d5ac87b37da7d54aef/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
 
 
 
@@ -88,13 +80,13 @@ Most Popular
 
 
 
-Creative Directors
+Companies
 
 
 
 
 
-[First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
+[How to Secure a Fashion Internship](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
 
 
 
@@ -102,9 +94,9 @@ Creative Directors
 
 
 
-By Laure Guilbault
+By Cami Fateh
 
-- [![Key Takeaways From Paris Couture Week](https://assets.vogue.com/photos/6a4fe1d292e67f3f81edd598/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
+- [![How to Write a Fashion Résumé](https://assets.vogue.com/photos/6a4e447f95c7005c2f504b3a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
 
 
 
@@ -114,13 +106,13 @@ By Laure Guilbault
 
 
 
-Fashion
+Companies
 
 
 
 
 
-[Key Takeaways From Paris Couture Week](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
+[How to Write a Fashion Résumé](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
 
 
 
@@ -128,9 +120,9 @@ Fashion
 
 
 
-By Laure Guilbault
+By Cami Fateh
 
-- [![Local vs Global: How to Price an African Fashion Brand](https://assets.vogue.com/photos/6a5104db33216af93f60a890/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2_fallback_cral-top2-2)
+- [![Should Brands Bet on Luxury Eyewear?](https://assets.vogue.com/photos/6a58de5c3c02e2aace939dfd/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -140,13 +132,13 @@ By Laure Guilbault
 
 
 
-Fashion
+Business
 
 
 
 
 
-[Local vs Global: How to Price an African Fashion Brand](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2_fallback_cral-top2-2)
+[Should Brands Bet on Luxury Eyewear?](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -154,7 +146,7 @@ Fashion
 
 
 
-By Ezreen Benissan
+By Joe Bobowicz
 
 
 It also signals Nike’s commitment to developing technical products for women. Product innovation has been a pain point for Nike in recent years, Yarbrough says. Hill [acknowledged this](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December’s earnings; it forms the foundation of his turnaround strategy. In partnering with Skims on a joint brand, Nike is able to gain access to womenswear tech to help it rival the Alos and Lululemons of the world, which, Yarbrough says, would otherwise likely take Nike several years to develop, manufacture and scale. “This accelerates that path for Nike to compete with some of these other brands that have been growing rapidly.” It’s a smart shortcut, Hastings-Narayanin says.
@@ -171,7 +163,7 @@ These days, consumers want products that work, experts agree, so emphasis needs 
 
 Most Popular
 
-- [![First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://assets.vogue.com/photos/6a4e910f28a33d7b4581fba1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
+- [![How to Secure a Fashion Internship](https://assets.vogue.com/photos/6a5618d5ac87b37da7d54aef/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
 
 
 
@@ -181,13 +173,13 @@ Most Popular
 
 
 
-Creative Directors
+Companies
 
 
 
 
 
-[First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
+[How to Secure a Fashion Internship](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
 
 
 
@@ -195,9 +187,9 @@ Creative Directors
 
 
 
-By Laure Guilbault
+By Cami Fateh
 
-- [![Key Takeaways From Paris Couture Week](https://assets.vogue.com/photos/6a4fe1d292e67f3f81edd598/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
+- [![How to Write a Fashion Résumé](https://assets.vogue.com/photos/6a4e447f95c7005c2f504b3a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
 
 
 
@@ -207,13 +199,13 @@ By Laure Guilbault
 
 
 
-Fashion
+Companies
 
 
 
 
 
-[Key Takeaways From Paris Couture Week](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2)
+[How to Write a Fashion Résumé](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
 
 
 
@@ -221,9 +213,9 @@ Fashion
 
 
 
-By Laure Guilbault
+By Cami Fateh
 
-- [![Local vs Global: How to Price an African Fashion Brand](https://assets.vogue.com/photos/6a5104db33216af93f60a890/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2_fallback_cral-top2-2)
+- [![Should Brands Bet on Luxury Eyewear?](https://assets.vogue.com/photos/6a58de5c3c02e2aace939dfd/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -233,13 +225,13 @@ By Laure Guilbault
 
 
 
-Fashion
+Business
 
 
 
 
 
-[Local vs Global: How to Price an African Fashion Brand](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-right-rail_5d7baac0-ca25-4f2a-a6a7-ebcd5b001dca_popular4-2_fallback_cral-top2-2)
+[Should Brands Bet on Luxury Eyewear?](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -247,7 +239,7 @@ Fashion
 
 
 
-By Ezreen Benissan
+By Joe Bobowicz
 
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
@@ -272,34 +264,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://assets.vogue.com/photos/6a4e910f28a33d7b4581fba1/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_popular4-2)
+[![How to Secure a Fashion Internship](https://assets.vogue.com/photos/6a5618d5ac87b37da7d54aef/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_popular4-2)
 
-Creative Directors
+Companies
 
-[First Reactions to Pierpaolo Piccioli’s Balenciaga Couture Debut](https://www.vogue.com/article/first-reactions-to-pierpaolo-picciolis-balenciaga-couture-debut#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_popular4-2)
+[How to Secure a Fashion Internship](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_popular4-2)
 
-By Laure Guilbault
+By Cami Fateh
 
-[![Key Takeaways From Paris Couture Week](https://assets.vogue.com/photos/6a4fe1d292e67f3f81edd598/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_popular4-2)
+[![How to Write a Fashion Résumé](https://assets.vogue.com/photos/6a4e447f95c7005c2f504b3a/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_popular4-2)
 
-Fashion
+Companies
 
-[Key Takeaways From Paris Couture Week](https://www.vogue.com/article/key-takeaways-from-paris-couture-week#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_popular4-2)
+[How to Write a Fashion Résumé](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_popular4-2)
 
-By Laure Guilbault
+By Cami Fateh
 
-[![Local vs Global: How to Price an African Fashion Brand](https://assets.vogue.com/photos/6a5104db33216af93f60a890/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2)
+[![Should Brands Bet on Luxury Eyewear?](https://assets.vogue.com/photos/6a58de5c3c02e2aace939dfd/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_cral-top2-2)
 
-Fashion
+Business
 
-[Local vs Global: How to Price an African Fashion Brand](https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2)
+[Should Brands Bet on Luxury Eyewear?](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_cral-top2-2)
 
-By Ezreen Benissan
+By Joe Bobowicz
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a4fb7370bff34ecbbe204ec/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2)
+[![Burberry’s Q1 Revenues Rise 4%, Boosted by China and the US](https://assets.vogue.com/photos/6a5a2b933c02e2aace93b562/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/burberrys-q1-revenues-rise-4-boosted-by-china-and-the-us#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_cral-top2-2)
 
-Beauty
+Earnings
 
-[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_51d2ec7c-735b-452b-a537-6fd98be2e127_text2vec1_fallback_cral-top2-2)
+[Burberry’s Q1 Revenues Rise 4%, Boosted by China and the US](https://www.vogue.com/article/burberrys-q1-revenues-rise-4-boosted-by-china-and-the-us#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_cral-top2-2)
 
-By Hikmat Mohammed
+By Joe Bobowicz

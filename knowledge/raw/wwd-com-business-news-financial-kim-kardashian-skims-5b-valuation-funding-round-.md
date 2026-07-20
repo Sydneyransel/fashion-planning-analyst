@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/
 source_type: wwd.com
 title: Kim Kardashian's Skims Hits $5B Valuation With New Funding Round
-scraped_at: 2026-07-13T08:53:30.782148+00:00
+scraped_at: 2026-07-20T08:44:03.246626+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/#pagetop)
 
-Business
+Eye
 
-### [Rent the Runway’s New Leadership Wants to Rewire Rental](https://wwd.com/business-news/business-features/rent-the-runway-leadership-revamps-fashion-rental-1239063052/)
-
-Business
-
-### [Shein Gains Beijing Approval for Hong Kong IPO](https://wwd.com/business-news/financial/shein-beijing-approval-hong-kong-ipo-1239062779/)
+### [The Beaches Reflect on a Breakout Year](https://wwd.com/eye/people/the-beaches-band-behind-the-scenes-tour-1239067895/)
 
 Business
 
-### [7 Fashion and Beauty Store Openings to Know in Southern California](https://wwd.com/business-news/retail/new-fashion-beauty-stores-los-angeles-southern-california-1239061801/)
+### [Burberry Needs to Ramp Up Growth](https://wwd.com/business-news/financial/burberry-growth-analysts-first-quarter-1239074174/)
+
+Accessories
+
+### [Dolce & Gabbana Celebrates Italy’s Goldsmithing Traditions](https://wwd.com/accessories-news/jewelry/dolce-gabbana-high-jewelry-italy-goldsmithing-traditions-1239073308/)
 
 ![NEW YORK, NEW YORK - SEPTEMBER 24: NikeSKIMS dancers perform at the NikeSKIMS "Bodies at Work" event at the New York Public Library on September 24, 2025 in New York City. (Photo by Valerie Terranova/Getty Images)](https://wwd.com/wp-content/uploads/2025/09/skims-presentation-photosc.jpg?w=800&h=533&crop=1)
 
@@ -124,7 +124,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![Kate Middleton, red dress, Wimbeldon finals 2026](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/pop-culture/celebrity-news/kate-middleton-wimbledon-roland-mouret-dress-1239063626/)
+- [![Ciara at the TIME100 Sports Gala in New York.](https://wwd.com/wp-content/uploads/2026/07/MixCollage-17-Jul-2026-12-22-PM-539.jpg?w=1024)](https://wwd.com/pop-culture/celebrity-news/ciara-bob-trend-time-100-sports-gala-1239073826/)
 
 
 
@@ -134,7 +134,7 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Lady in Red: Kate Middleton Is Easy to Spot in Roland Mouret Peplum Dress at Wimbledon Women’s Finals](https://wwd.com/pop-culture/celebrity-news/kate-middleton-wimbledon-roland-mouret-dress-1239063626/)
+### [Ciara Embraces Bold Hair Trend at the 2026 TIME100 Sports Gala](https://wwd.com/pop-culture/celebrity-news/ciara-bob-trend-time-100-sports-gala-1239073826/)
 
 
 
@@ -143,32 +143,10 @@ Sign up for WWD news straight to your inbox every day
   - By
 
 
-    [Amina Ayoud](https://wwd.com/wwd-masthead/aayoud@footwearnews.com/)
+    [Kaleigh Werner](https://wwd.com/wwd-masthead/kwerner@wwd.com/)
 
 
-- [!["A Zine Curated for PSG" comes in a kraft-paper collector's box printed with "Ici c'est Paris," the name of the pop up which comes from the team's famous rally chant.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/media/paris-saint-germain-football-club-publishes-zine-1239049210/)
-
-
-
-
-
-
-
-
-
-### [Paris Saint-Germain Football Club Trades the Pitch for the Page](https://wwd.com/business-news/media/paris-saint-germain-football-club-publishes-zine-1239049210/)
-
-
-
-  - [Media](https://wwd.com/business-news/media/)
-
-  - By
-
-
-    [Ritu Upadhyay](https://wwd.com/wwd-masthead/ritu-upadhyay/)
-
-
-- [![Gregory Wein](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/media/gregory-wein-obituary-out-magazine-abercrombie-fitch-1239056472/)
+- [![Frame jeans Amsterdam flagship](https://wwd.com/wp-content/uploads/2026/07/20260707_OGT_FRAME_AMSTERDAM_004.jpg?w=1024)](https://wwd.com/business-news/retail/frame-opens-amsterdam-flagship-global-retail-expansion-1239062738/)
 
 
 
@@ -178,19 +156,41 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Style and Creative Director Gregory Wein Dies at 54](https://wwd.com/business-news/media/gregory-wein-obituary-out-magazine-abercrombie-fitch-1239056472/)
+### [EXCLUSIVE: Frame Opens Amsterdam Flagship as It Eyes Expansion](https://wwd.com/business-news/retail/frame-opens-amsterdam-flagship-global-retail-expansion-1239062738/)
 
 
 
-  - [Media](https://wwd.com/business-news/media/)
+  - [Retail](https://wwd.com/business-news/retail/)
 
   - By
 
 
-    [Jean E. Palmieri](https://wwd.com/wwd-masthead/jean-e-palmieri/)
+    [Rhonda Richford](https://wwd.com/wwd-masthead/rrichford/)
 
 
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
+- [![Emil DeJohn](https://wwd.com/wp-content/uploads/2026/07/1b148667-a221-4b8a-8f3b-b603727a2fe2.jpg?w=514)](https://wwd.com/fashion-news/designer-luxury/emil-dejohn-philadelphia-based-fashion-designer-and-college-professor-dies-88-1239050216/)
+
+
+
+
+
+
+
+
+
+### [Emil DeJohn, Philadelphia-based Fashion Designer and College Professor, Dies at 88](https://wwd.com/fashion-news/designer-luxury/emil-dejohn-philadelphia-based-fashion-designer-and-college-professor-dies-88-1239050216/)
+
+
+
+  - [Designer and Luxury](https://wwd.com/business-news/designer-luxury/)
+
+  - By
+
+
+    [Lisa Lockwood](https://wwd.com/wwd-masthead/lisa-lockwood/)
+
+
+[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/uploads/2026/06/dvf.png?w=910&h=511&crop=1)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
 
 ### CEO Talks: Diane Von Furstenberg
 
@@ -265,10 +265,10 @@ Log In Sign Up
   - [Spring Bridal 2026](https://wwd.com/runway/spring-bridal-2026/)
 - ### [Footwear News](https://wwd.com/footwear-news/)Expand footwear-news menu
 
-  - [Shoe Industry News](https://wwd.com/business-news/shoe-industry-news/)
-  - [Shoe Features](https://wwd.com/business-news/shoe-features/)
-  - [Shoe Trends](https://wwd.com/business-news/shoe-trends/)
-  - [Sneaker News](https://wwd.com/business-news/sneaker-news/)
+  - [Shoe Industry News](https://wwd.com/footwear-news/shoe-industry-news/)
+  - [Shoe Features](https://wwd.com/footwear-news/shoe-features/)
+  - [Shoe Trends](https://wwd.com/footwear-news/shoe-trends/)
+  - [Sneaker News](https://wwd.com/footwear-news/sneaker-news/)
 - ### [Sourcing Journal](https://wwd.com/sourcing-journal/)Expand sourcing-journal menu
 
   - [Denim](https://wwd.com/sourcing-journal/sj-denim/)

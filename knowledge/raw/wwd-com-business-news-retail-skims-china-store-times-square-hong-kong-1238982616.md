@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/
 source_type: wwd.com
 title: Skims to Open First Asian Stores in Hong Kong, Seoul
-scraped_at: 2026-07-13T08:53:35.672455+00:00
+scraped_at: 2026-07-20T08:44:08.069461+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/retail/skims-china-store-times-square-hong-kong-1238982616/#pagetop)
 
 Business
 
-### [Rent the Runway’s New Leadership Wants to Rewire Rental](https://wwd.com/business-news/business-features/rent-the-runway-leadership-revamps-fashion-rental-1239063052/)
+### [Burberry Sales Climb 5% in Q1](https://wwd.com/business-news/financial/burberry-sales-climb-five-percent-q1-fueled-gen-z-china-1239073276/)
 
-Business
+Fashion
 
-### [Shein Gains Beijing Approval for Hong Kong IPO](https://wwd.com/business-news/financial/shein-beijing-approval-hong-kong-ipo-1239062779/)
+### [Bruno Pavlovsky to Continue as Head of French Fashion Federation](https://wwd.com/fashion-news/designer-luxury/french-fashion-federation-president-pavlovsky-1239073346/)
 
-Business
+Fashion
 
-### [7 Fashion and Beauty Store Openings to Know in Southern California](https://wwd.com/business-news/retail/new-fashion-beauty-stores-los-angeles-southern-california-1239061801/)
+### [Designer Debuts Made a Splash During Paris Couture Week](https://wwd.com/fashion-news/designer-luxury/paris-couture-week-media-impact-launchmetrics-1239073562/)
 
 ![Skims in Hong Kong](https://wwd.com/wp-content/uploads/2026/05/SKIMS-store-Hong-Kong-ctsy.jpg?w=1000&h=563&crop=1)
 
@@ -51,7 +51,7 @@ Skims will be opening a store in Hong Kong.Courtesy of Skims
 
 [Skims](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/) is expanding in Asia with its first permanent retail locations in [Hong Kong](https://wwd.com/tag/hong-kong/) and Seoul.
 
-Slated to open this November, the [Hong Kong](https://wwd.com/fashion-news/fashion-scoops/fashion-hong-kong-yaz-bukey-collaborations-paris-1239052071/) store will be located at Times Square, a shopping mall located at the heart of the vibrant Causeway Bay retail zone. The street-facing, 353-square-meter storefront was previously occupied by a Tiffany & Co. flagship.
+Slated to open this November, the [Hong Kong](https://wwd.com/business-news/legal/chanel-hong-kong-staff-steal-goods-destined-for-destruction-1239065228/) store will be located at Times Square, a shopping mall located at the heart of the vibrant Causeway Bay retail zone. The street-facing, 353-square-meter storefront was previously occupied by a Tiffany & Co. flagship.
 
 The Seoul store in Dosan will be operated in partnership with Handsome Corp. and will be the first of several [Skims](https://wwd.com/tag/skims/) loations planned across the city, the company said. It will open this winter, although the specific date was not disclosed.
 
@@ -59,19 +59,19 @@ The Seoul store in Dosan will be operated in partnership with Handsome Corp. and
 
 ### Related Articles
 
-![Sarah Sherman, Flo Milli and Rama Duwaji wearing Nike Air Rift shoes.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![In China and Mongolia, cashmere farming is less an economic activity and more a way of life, Textile Exchange said.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Shoe Trends](https://wwd.com/business-news/shoe-trends/)
+[Sustainability](https://wwd.com/business-news/sustainability/)
 
-### [The Summer of the Nike Air Rift: How Celebrities Are Styling the Revived Split-toe Shoe](https://wwd.com/footwear-news/shoe-trends/nike-air-rift-shoe-trend-2026-1239063022/)
+### [Textile Exchange Releases Data On Cashmere Farming in China and Mongolia](https://wwd.com/sourcing-journal/sustainability/cashmere-farming-mongolia-china-textile-exchange-1239074186/)
 
-![Shein](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Sephora](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Financial](https://wwd.com/business-news/financial/)
+[Business Features](https://wwd.com/business-news/business-features/)
 
-### [Shein Gains Beijing Approval for Hong Kong IPO](https://wwd.com/business-news/financial/shein-beijing-approval-hong-kong-ipo-1239062779/)
+### [How Sephora Is Redefining the Value of Physical Retail Through Innovation in China](https://wwd.com/business-news/business-features/sephora-china-retail-innovation-beauty-strategy-1239068611/)
 
-“Hong Kong and Seoul have such an incredible energy, style perspective and influence on fashion globally,” said Kim Kardashian, cofounder and chief creative officer of [Skims](https://wwd.com/business-news/financial/reformation-fashion-ipos-vs-spacex-moonshot-1239046314/). “Opening flagship stores in these city allow customers to experience the quality, fit and innovation behind every Skims piece in a more personal way.”
+“Hong Kong and Seoul have such an incredible energy, style perspective and influence on fashion globally,” said Kim Kardashian, cofounder and chief creative officer of [Skims](https://wwd.com/footwear-news/shoe-trends/nike-air-rift-shoe-trend-2026-1239063022/). “Opening flagship stores in these city allow customers to experience the quality, fit and innovation behind every Skims piece in a more personal way.”
 
 ### You May Also Like
 
@@ -89,7 +89,7 @@ Skims’ announcement coincides with a long-awaited retail rebound in Hong Kong�
 
 According to data from Cushman & Wakefield, an uptick in tourist arrivals alongside sustained local spending sentiment continued to support Hong Kong’s retail sector in the January to February period, which rose 11.8 percent year-over-year to $72.4 billion Hong Kong dollars, or $9.3 billion.
 
-Apart from Skims, [Alo](https://wwd.com/fashion-news/designer-luxury/alo-wellness-luxury-cannes-activations-1238948826/) is slated to open its first [China](https://wwd.com/footwear-news/shoe-industry-news/footwear-fire-factory-jinjiang-shoe-capital-china-1239060839/) store at [K11 Musea](https://wwd.com/eye/parties/k11-musea-city-as-studio-graffiti-exhibition-1235587634/); this February, [Palace](https://wwd.com/business-news/retail/palace-shanghai-zhangyuan-first-mainland-china-store-1238974490/) unveiled its first stand-alone store in Hong Kong in Causeway Bay.
+Apart from Skims, [Alo](https://wwd.com/fashion-news/designer-luxury/alo-wellness-luxury-cannes-activations-1238948826/) is slated to open its first [China](https://wwd.com/eye/lifestyle/wallace-chan-exhibition-long-museum-1239072128/) store at [K11 Musea](https://wwd.com/eye/parties/k11-musea-city-as-studio-graffiti-exhibition-1235587634/); this February, [Palace](https://wwd.com/business-news/retail/palace-shanghai-zhangyuan-first-mainland-china-store-1238974490/) unveiled its first stand-alone store in Hong Kong in Causeway Bay.
 
 content frame
 
@@ -114,7 +114,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![Jennifer Lopez in head-to-toe Ralph Lauren, including what appear to be an archival pair of rope-and-leather sandals, to the Men's Finals at Wimbledon 2026.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/footwear-news/shoe-trends/jennifer-lopez-ralph-lauren-sandals-wimbledon-1239063896/)
+- [![Les coulisses de la finale Elite Model Look 2001 avec le directeur de l'agence Elite Europe : Gérald Marie.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/legal/women-allege-rape-against-former-elite-model-president-gerald-marie-1239073990/)
 
 
 
@@ -124,65 +124,65 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Jennifer Lopez Trades Clear Heels for Braided Ralph Lauren Sandals at Wimbledon](https://wwd.com/footwear-news/shoe-trends/jennifer-lopez-ralph-lauren-sandals-wimbledon-1239063896/)
+### [Six Women Allege Rape Against Former Elite Model President](https://wwd.com/business-news/legal/women-allege-rape-against-former-elite-model-president-gerald-marie-1239073990/)
 
 
 
-  - [Shoe Trends](https://wwd.com/business-news/shoe-trends/)
-
-  - By
-
-
-    [Maggie Clancy](https://wwd.com/wwd-masthead/maggie-clancy/)
-
-
-- [![an array of clothing and accessories on sale for amazon prime day 2026, including jewelry, shirts, sunglasses; best luxury fashion deals prime day 2026](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/shop/shop-fashion/best-fashion-clothing-accessories-prime-day-deals-2026-1239022032/)
-
-
-
-
-
-
-
-
-
-### [Up to 80% Off Kate Spade, Madewell, Gap: Prime Day Deals on Clothing & Accessories That Are Actually Worth It](https://wwd.com/shop/shop-fashion/best-fashion-clothing-accessories-prime-day-deals-2026-1239022032/)
-
-
-
-  - [Fashion](https://wwd.com/business-news/shop-fashion/)
+  - [Legal](https://wwd.com/business-news/legal/)
 
   - By
 
 
-    [Stacia Datskovska](https://wwd.com/wwd-masthead/stacia-datskovska/)
+    [Rosemary Feitelberg](https://wwd.com/wwd-masthead/rosemary-feitelberg/)
 
 
-- [![three handbags over a sparkly blue background; best deals on luxury bags prime day 2026](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/shop/shop-fashion/best-bags-purses-prime-day-deals-2026-1239024201/)
-
-
-
+- [![Halston with the Halstonettes at the Brooklyn Museum, 1982 and Madonna at the "Desparately Seeking Susan" premiere, 1985.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/fashion-news/fashion-features/america-250-disco-to-digital-1975-2000-1239028257/)
 
 
 
 
 
 
-### [Kate Spade, Calvin Klein, and Giuseppe Zanotti Bags See Rare 70%-Off Discounts for Prime Day](https://wwd.com/shop/shop-fashion/best-bags-purses-prime-day-deals-2026-1239024201/)
 
 
 
-  - [Fashion](https://wwd.com/business-news/shop-fashion/)
+### [America at 250: From Disco to Digital, 1976 to 2000](https://wwd.com/fashion-news/fashion-features/america-250-disco-to-digital-1975-2000-1239028257/)
+
+
+
+  - [Fashion Features](https://wwd.com/business-news/fashion-features/)
 
   - By
 
 
-    [Stacia Datskovska](https://wwd.com/wwd-masthead/stacia-datskovska/)
+    [Tonya Blazio-Licorish](https://wwd.com/wwd-masthead/tonyablazio5/)
+
+
+- [![Moses Martin makes his modeling debut in Burberry's new campaign.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/fashion-news/fashion-features/moses-martin-modeling-debut-burberry-countryside-campaign-1239048130/)
+
+
+
+
+
+
+
+
+
+### [EXCLUSIVE: Moses Martin Makes His Modeling Debut in Burberry’s New Countryside Campaign](https://wwd.com/fashion-news/fashion-features/moses-martin-modeling-debut-burberry-countryside-campaign-1239048130/)
+
+
+
+  - [Fashion Features](https://wwd.com/business-news/fashion-features/)
+
+  - By
+
+
+    [Samantha Conti](https://wwd.com/wwd-masthead/samantha-conti/)
 
 
 [![Skims to Open First Asian Stores in Hong Kong, Seoul](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
 
-### CEO Talks: Diane Von Furstenberg
+### CEO Talks: Diane Von Furstenberg
 
 WWD and Women's Wear Daily are part of Penske Media Corporation. © 2026 Fairchild Publishing, LLC. All Rights Reserved.
 
@@ -255,10 +255,10 @@ Log In Sign Up
   - [Spring Bridal 2026](https://wwd.com/runway/spring-bridal-2026/)
 - ### [Footwear News](https://wwd.com/footwear-news/)Expand footwear-news menu
 
-  - [Shoe Industry News](https://wwd.com/business-news/shoe-industry-news/)
-  - [Shoe Features](https://wwd.com/business-news/shoe-features/)
-  - [Shoe Trends](https://wwd.com/business-news/shoe-trends/)
-  - [Sneaker News](https://wwd.com/business-news/sneaker-news/)
+  - [Shoe Industry News](https://wwd.com/footwear-news/shoe-industry-news/)
+  - [Shoe Features](https://wwd.com/footwear-news/shoe-features/)
+  - [Shoe Trends](https://wwd.com/footwear-news/shoe-trends/)
+  - [Sneaker News](https://wwd.com/footwear-news/sneaker-news/)
 - ### [Sourcing Journal](https://wwd.com/sourcing-journal/)Expand sourcing-journal menu
 
   - [Denim](https://wwd.com/sourcing-journal/sj-denim/)

@@ -2,8 +2,14 @@
 url: https://www.forbes.com/profile/kim-kardashian/
 source_type: forbes.com
 title: Kim Kardashian
-scraped_at: 2026-07-13T08:53:41.098134+00:00
+scraped_at: 2026-07-20T08:44:12.418850+00:00
 ---
+
+### Site Technologies
+
+We, and third parties in some cases, use cookies and similar technologies to better understand your actions and interests, customize your experiences, and provide content and advertising that is more relevant to you. We also use them to help ensure site security and to enhance functionality. You may opt out of the technologies used for targeted advertising or analytics by selecting Reject Optional Technologies. See our [Privacy Statement](https://www.forbes.com/privacy/english/) for more details on how we and other third parties use these technologies
+
+Accept Optional TechnologiesReject Optional TechnologiesManage Preferences
 
 PROFILE
 
@@ -15,11 +21,11 @@ $1.9B
 
 ### Real Time Net Worth
 
-as of 7/13/26
+as of 7/20/26
 
 Reflects change since 5 pm ET of prior trading day.
 
-[#2191 in the world today](https://www.forbes.com/real-time-billionaires/)
+[#2175 in the world today](https://www.forbes.com/real-time-billionaires/)
 
 [Share Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.forbes.com%2Fprofile%2Fkim-kardashian%2F)[Share Twitter](https://x.com/intent/tweet?text=Kim%20Kardashian&url=https%3A%2F%2Fwww.forbes.com%2Fprofile%2Fkim-kardashian%2F)[Share Linkedin](https://www.linkedin.com/shareArticle?mini=true?url=https%3A%2F%2Fwww.forbes.com%2Fprofile%2Fkim-kardashian%2F)[Share Email](mailto:?body=Kim%20Kardashian%20https%3A%2F%2Fwww.forbes.com%2Fprofile%2Fkim-kardashian%2F)
 
@@ -43,23 +49,73 @@ HOVER TO REVEAL NET WORTH BY YEAR
 
 ## Forbes Lists
 
+list appearances
+
+25
+
+Sort byDate
+
+2026
+
+[America's Richest Self-Made Women](https://www.forbes.com/self-made-women/) [Fashion & Retail](https://www.forbes.com/self-made-women/)
+
 #25
 
-### [America's Richest Self-Made Women (2026)](https://www.forbes.com/self-made-women/)
+2026
+
+[Billionaires](https://www.forbes.com/billionaires/) [Fashion & Retail](https://www.forbes.com/billionaires/)
 
 #2177
 
-### [Billionaires (2026)](https://www.forbes.com/billionaires/)
+2025
+
+[Power Women](https://www.forbes.com/power-women/) [Media & Entertainment](https://www.forbes.com/power-women/)
 
 #71
 
-### [Power Women (2025)](https://www.forbes.com/power-women/)
+2025
 
-#48
+[America's Richest Self-Made Women](https://www.forbes.com/self-made-women/) [Fashion & Retail](https://www.forbes.com/self-made-women/)
 
-### [Celebrity 100 (2020)](https://www.forbes.com/celebrities/)
+#19
 
-More Lists
+2025
+
+[Billionaires](https://www.forbes.com/billionaires/) [Fashion & Retail](https://www.forbes.com/billionaires/)
+
+#2019
+
+2024
+
+[America's Self-Made Women](https://www.forbes.com/self-made-women/) [Fashion & Retail](https://www.forbes.com/self-made-women/)
+
+#21
+
+2024
+
+[Billionaires](https://www.forbes.com/billionaires/) [Fashion & Retail](https://www.forbes.com/billionaires/)
+
+#1851
+
+2023
+
+[America's Self-Made Women](https://www.forbes.com/self-made-women/) [Fashion & Retail](https://www.forbes.com/self-made-women/)
+
+#21
+
+2023
+
+[Billionaires](https://www.forbes.com/billionaires/) [Fashion & Retail](https://www.forbes.com/billionaires/)
+
+#2259
+
+2022
+
+[America's Self-Made Women](https://www.forbes.com/self-made-women/) [Fashion & Retail](https://www.forbes.com/self-made-women/)
+
+#16
+
+See More
 
 ## Personal Stats
 
@@ -89,6 +145,42 @@ Related by financial asset: Skims
 
 ### More on Forbes
 
+Jun 9, 2026
+
+[**Lewis Hamilton’s Wealth Comments Resurface After Billionaire Girlfriend Kim Kardashian Seen At Monaco Grand Prix**](https://www.forbes.com/sites/maryroeloffs/2026/06/09/lewis-hamiltons-wealth-comments-resurface-after-billionaire-girlfriend-kim-kardashian-seen-at-monaco-grand-prix/)
+
+Hamilton is one of the highest-paid athletes in the world and has been dating billionaire Kim Kardashian for several months.
+
+By [Mary Whitfill Roeloffs](https://www.forbes.com/sites/maryroeloffs/) Forbes Staff
+
+[Share Facebook](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmaryroeloffs%2F2026%2F06%2F09%2Flewis-hamiltons-wealth-comments-resurface-after-billionaire-girlfriend-kim-kardashian-seen-at-monaco-grand-prix%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6a281d1c4b1ed38a4dc0cb5d%2F0x0.jpg%3Fformat%3Djpg%26crop%3D1070%2C602%2Cx0%2Cy76%2Csafe%26width%3D440&name=Lewis%20Hamilton%E2%80%99s%20Wealth%20Comments%20Resurface%20After%20Billionaire%20Girlfriend%20Kim%20Kardashian%20Seen%20At%20Monaco%20Grand%20Prix&caption=www.forbes.com&description=Hamilton%20is%20one%20of%20the%20highest-paid%20athletes%20in%20the%20world%20and%20has%20been%20dating%20billionaire%20Kim%20Kardashian%20for%20several%20months.%20%20)[Share Twitter](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmaryroeloffs%2F2026%2F06%2F09%2Flewis-hamiltons-wealth-comments-resurface-after-billionaire-girlfriend-kim-kardashian-seen-at-monaco-grand-prix%2F&via=forbes&text=Lewis%20Hamilton%E2%80%99s%20Wealth%20Comments%20Resurface%20After%20Billionaire%20Girlfriend%20Kim%20Kardashian%20Seen%20At%20Monaco%20Grand%20Prix)[Share Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmaryroeloffs%2F2026%2F06%2F09%2Flewis-hamiltons-wealth-comments-resurface-after-billionaire-girlfriend-kim-kardashian-seen-at-monaco-grand-prix%2F&title=Lewis%20Hamilton%E2%80%99s%20Wealth%20Comments%20Resurface%20After%20Billionaire%20Girlfriend%20Kim%20Kardashian%20Seen%20At%20Monaco%20Grand%20Prix&summary=Hamilton%20is%20one%20of%20the%20highest-paid%20athletes%20in%20the%20world%20and%20has%20been%20dating%20billionaire%20Kim%20Kardashian%20for%20several%20months.%20%20)[Share Email](mailto:?subject=Lewis%20Hamilton%E2%80%99s%20Wealth%20Comments%20Resurface%20After%20Billionaire%20Girlfriend%20Kim%20Kardashian%20Seen%20At%20Monaco%20Grand%20Prix&body=Hi%2C%0A%0AI%20thought%20you%27d%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Fmaryroeloffs%2F2026%2F06%2F09%2Flewis-hamiltons-wealth-comments-resurface-after-billionaire-girlfriend-kim-kardashian-seen-at-monaco-grand-prix%2F%0A%0ALewis%20Hamilton%E2%80%99s%20Wealth%20Comments%20Resurface%20After%20Billionaire%20Girlfriend%20Kim%20Kardashian%20Seen%20At%20Monaco%20Grand%20Prix%0A)
+
+[Graphic Lewis Hamilton’s Wealth Comments Resurface After Billionaire Girlfriend Kim Kardashian Seen At Monaco Grand Prix](https://www.forbes.com/sites/maryroeloffs/2026/06/09/lewis-hamiltons-wealth-comments-resurface-after-billionaire-girlfriend-kim-kardashian-seen-at-monaco-grand-prix/)
+
+May 5, 2026
+
+[**Met Gala 2026 Fashion Report: Breaking Down The Night’s Key Trends**](https://www.forbes.com/sites/coreincarter/2026/05/05/met-gala-2026-fashion-report-breaking-down-the-nights-key-trends/)
+
+From Colman Domingo to Ciara and Kim Kardashian, Met Gala 2026 delivered defining celebrity fashion moments—here’s what the looks reveal about what’s next.
+
+By [Corein Carter](https://www.forbes.com/sites/coreincarter/) Contributor
+
+[Share Facebook](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fcoreincarter%2F2026%2F05%2F05%2Fmet-gala-2026-fashion-report-breaking-down-the-nights-key-trends%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F69fa04a312cb74b3e6a80e7a%2F0x0.jpg%3Fformat%3Djpg%26crop%3D1006%2C567%2Cx0%2Cy15%2Csafe%26width%3D440&name=Met%20Gala%202026%20Fashion%20Report%3A%20Breaking%20Down%20The%20Night%E2%80%99s%20Key%20Trends&caption=www.forbes.com&description=From%20Colman%20Domingo%20to%20Ciara%20and%20Kim%20Kardashian%2C%20Met%20Gala%202026%20delivered%20defining%20celebrity%20fashion%20moments%E2%80%94here%E2%80%99s%20what%20the%20looks%20reveal%20about%20what%E2%80%99s%20next.)[Share Twitter](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fcoreincarter%2F2026%2F05%2F05%2Fmet-gala-2026-fashion-report-breaking-down-the-nights-key-trends%2F&via=forbes&text=Met%20Gala%202026%20Fashion%20Report%3A%20Breaking%20Down%20The%20Night%E2%80%99s%20Key%20Trends)[Share Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fcoreincarter%2F2026%2F05%2F05%2Fmet-gala-2026-fashion-report-breaking-down-the-nights-key-trends%2F&title=Met%20Gala%202026%20Fashion%20Report%3A%20Breaking%20Down%20The%20Night%E2%80%99s%20Key%20Trends&summary=From%20Colman%20Domingo%20to%20Ciara%20and%20Kim%20Kardashian%2C%20Met%20Gala%202026%20delivered%20defining%20celebrity%20fashion%20moments%E2%80%94here%E2%80%99s%20what%20the%20looks%20reveal%20about%20what%E2%80%99s%20next.)[Share Email](mailto:?subject=Met%20Gala%202026%20Fashion%20Report%3A%20Breaking%20Down%20The%20Night%E2%80%99s%20Key%20Trends&body=Hi%2C%0A%0AI%20thought%20you%27d%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Fcoreincarter%2F2026%2F05%2F05%2Fmet-gala-2026-fashion-report-breaking-down-the-nights-key-trends%2F%0A%0AMet%20Gala%202026%20Fashion%20Report%3A%20Breaking%20Down%20The%20Night%E2%80%99s%20Key%20Trends%0A)
+
+[Graphic Met Gala 2026 Fashion Report: Breaking Down The Night’s Key Trends](https://www.forbes.com/sites/coreincarter/2026/05/05/met-gala-2026-fashion-report-breaking-down-the-nights-key-trends/)
+
+Mar 23, 2026
+
+[**Makeup By Mario Has ‘Accomplished So Much’ 6 Years In, But Founder Mario Dedivanovic Says The Brand Has ‘So Much More To Do’**](https://www.forbes.com/sites/rachelburchfield/2026/03/23/makeup-by-mario-has-accomplished-so-much-6-years-in-but-founder-mario-dedivanovic-says-the-brand-has-so-much-more-to-do/)
+
+Makeup by Mario was founded by celebrity makeup artist Mario Dedivanovic, perhaps most known for working with Kim Kardashian, six years ago in 2020.
+
+By [Rachel Burchfield](https://www.forbes.com/sites/rachelburchfield/) Contributor
+
+[Share Facebook](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Frachelburchfield%2F2026%2F03%2F23%2Fmakeup-by-mario-has-accomplished-so-much-6-years-in-but-founder-mario-dedivanovic-says-the-brand-has-so-much-more-to-do%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F69bc3daf17114bfbd5b592e9%2F0x0.jpg%3Fformat%3Djpg%26crop%3D3648%2C2051%2Cx0%2Cy629%2Csafe%26width%3D440&name=Makeup%20By%20Mario%20Has%20%E2%80%98Accomplished%20So%20Much%E2%80%99%206%20Years%20In%2C%20But%20Founder%20Mario%20Dedivanovic%20Says%20The%20Brand%20Has%20%E2%80%98So%20Much%20More%20To%20Do%E2%80%99&caption=www.forbes.com&description=Makeup%20by%20Mario%20was%20founded%20by%20celebrity%20makeup%20artist%20Mario%20Dedivanovic%2C%20perhaps%20most%20known%20for%20working%20with%20Kim%20Kardashian%2C%20six%20years%20ago%20in%202020.%20)[Share Twitter](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Frachelburchfield%2F2026%2F03%2F23%2Fmakeup-by-mario-has-accomplished-so-much-6-years-in-but-founder-mario-dedivanovic-says-the-brand-has-so-much-more-to-do%2F&via=forbes&text=Makeup%20By%20Mario%20Has%20%E2%80%98Accomplished%20So%20Much%E2%80%99%206%20Years%20In%2C%20But%20Founder%20Mario%20Dedivanovic%20Says%20The%20Brand%20Has%20%E2%80%98So%20Much%20More%20To%20Do%E2%80%99)[Share Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Frachelburchfield%2F2026%2F03%2F23%2Fmakeup-by-mario-has-accomplished-so-much-6-years-in-but-founder-mario-dedivanovic-says-the-brand-has-so-much-more-to-do%2F&title=Makeup%20By%20Mario%20Has%20%E2%80%98Accomplished%20So%20Much%E2%80%99%206%20Years%20In%2C%20But%20Founder%20Mario%20Dedivanovic%20Says%20The%20Brand%20Has%20%E2%80%98So%20Much%20More%20To%20Do%E2%80%99&summary=Makeup%20by%20Mario%20was%20founded%20by%20celebrity%20makeup%20artist%20Mario%20Dedivanovic%2C%20perhaps%20most%20known%20for%20working%20with%20Kim%20Kardashian%2C%20six%20years%20ago%20in%202020.%20)[Share Email](mailto:?subject=Makeup%20By%20Mario%20Has%20%E2%80%98Accomplished%20So%20Much%E2%80%99%206%20Years%20In%2C%20But%20Founder%20Mario%20Dedivanovic%20Says%20The%20Brand%20Has%20%E2%80%98So%20Much%20More%20To%20Do%E2%80%99&body=Hi%2C%0A%0AI%20thought%20you%27d%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Frachelburchfield%2F2026%2F03%2F23%2Fmakeup-by-mario-has-accomplished-so-much-6-years-in-but-founder-mario-dedivanovic-says-the-brand-has-so-much-more-to-do%2F%0A%0AMakeup%20By%20Mario%20Has%20%E2%80%98Accomplished%20So%20Much%E2%80%99%206%20Years%20In%2C%20But%20Founder%20Mario%20Dedivanovic%20Says%20The%20Brand%20Has%20%E2%80%98So%20Much%20More%20To%20Do%E2%80%99%0A)
+
+[Graphic Makeup By Mario Has ‘Accomplished So Much’ 6 Years In, But Founder Mario Dedivanovic Says The Brand Has ‘So Much More To Do’](https://www.forbes.com/sites/rachelburchfield/2026/03/23/makeup-by-mario-has-accomplished-so-much-6-years-in-but-founder-mario-dedivanovic-says-the-brand-has-so-much-more-to-do/)
+
 Feb 24, 2026
 
 [**Kim Kardashian Joins Relaunch Of Energy Drink That ‘Eliminates The Crash’—Walmart To Distribute Nationwide**](https://www.forbes.com/sites/martinadilicosa/2026/02/24/kim-kardashian-joins-relaunch-of-energy-drink-that-eliminates-the-crash-walmart-to-distribute-nationwide/)
@@ -113,30 +205,6 @@ By [Mark Faithfull](https://www.forbes.com/sites/markfaithfull/) Contributor
 
 [Graphic Kim Kardashian’s Skims Chicago Flagship The Shape Of Things To Come](https://www.forbes.com/sites/markfaithfull/2026/02/17/kim-kardashians-skims-chicago-flagship-the-shape-of-things-to-come/)
 
-Jan 20, 2026
-
-[**Celebrity Hairstylist Chris Appleton Releases A Book About Transformation—And Hair Is Only The ‘Entry Point’**](https://www.forbes.com/sites/rachelburchfield/2026/01/20/celebrity-hairstylist-chris-appleton-releases-a-book-about-transformation-and-hair-is-only-the-entry-point/)
-
-Chris Appleton, celebrity hairstylist to A-listers like Kim Kardashian and Jennifer Lopez, is releasing his first book, 'Your Roots Don't Define You,' on Jan. 20.
-
-By [Rachel Burchfield](https://www.forbes.com/sites/rachelburchfield/) Contributor
-
-[Share Facebook](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Frachelburchfield%2F2026%2F01%2F20%2Fcelebrity-hairstylist-chris-appleton-releases-a-book-about-transformation-and-hair-is-only-the-entry-point%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F696cf53fa895fd927dc1d62c%2F0x0.jpg%3Fformat%3Djpg%26width%3D440&name=Celebrity%20Hairstylist%20Chris%20Appleton%20Releases%20A%20Book%20About%20Transformation%E2%80%94And%20Hair%20Is%20Only%20The%20%E2%80%98Entry%20Point%E2%80%99&caption=www.forbes.com&description=Chris%20Appleton%2C%20celebrity%20hairstylist%20to%20A-listers%20like%20Kim%20Kardashian%20and%20Jennifer%20Lopez%2C%20is%20releasing%20his%20first%20book%2C%20%27Your%20Roots%20Don%27t%20Define%20You%2C%27%20on%20Jan.%2020.)[Share Twitter](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Frachelburchfield%2F2026%2F01%2F20%2Fcelebrity-hairstylist-chris-appleton-releases-a-book-about-transformation-and-hair-is-only-the-entry-point%2F&via=forbes&text=Celebrity%20Hairstylist%20Chris%20Appleton%20Releases%20A%20Book%20About%20Transformation%E2%80%94And%20Hair%20Is%20Only%20The%20%E2%80%98Entry%20Point%E2%80%99)[Share Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Frachelburchfield%2F2026%2F01%2F20%2Fcelebrity-hairstylist-chris-appleton-releases-a-book-about-transformation-and-hair-is-only-the-entry-point%2F&title=Celebrity%20Hairstylist%20Chris%20Appleton%20Releases%20A%20Book%20About%20Transformation%E2%80%94And%20Hair%20Is%20Only%20The%20%E2%80%98Entry%20Point%E2%80%99&summary=Chris%20Appleton%2C%20celebrity%20hairstylist%20to%20A-listers%20like%20Kim%20Kardashian%20and%20Jennifer%20Lopez%2C%20is%20releasing%20his%20first%20book%2C%20%27Your%20Roots%20Don%27t%20Define%20You%2C%27%20on%20Jan.%2020.)[Share Email](mailto:?subject=Celebrity%20Hairstylist%20Chris%20Appleton%20Releases%20A%20Book%20About%20Transformation%E2%80%94And%20Hair%20Is%20Only%20The%20%E2%80%98Entry%20Point%E2%80%99&body=Hi%2C%0A%0AI%20thought%20you%27d%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Frachelburchfield%2F2026%2F01%2F20%2Fcelebrity-hairstylist-chris-appleton-releases-a-book-about-transformation-and-hair-is-only-the-entry-point%2F%0A%0ACelebrity%20Hairstylist%20Chris%20Appleton%20Releases%20A%20Book%20About%20Transformation%E2%80%94And%20Hair%20Is%20Only%20The%20%E2%80%98Entry%20Point%E2%80%99%0A)
-
-[Graphic Celebrity Hairstylist Chris Appleton Releases A Book About Transformation—And Hair Is Only The ‘Entry Point’](https://www.forbes.com/sites/rachelburchfield/2026/01/20/celebrity-hairstylist-chris-appleton-releases-a-book-about-transformation-and-hair-is-only-the-entry-point/)
-
-Jan 14, 2026
-
-[**Italian Influencer Chiara Ferragni Found Not Guilty In Fraud Case That Almost Ended Her Career**](https://www.forbes.com/sites/martinadilicosa/2026/01/14/italian-influencer-chiara-ferragni-found-not-guilty-in-fraud-case-that-almost-ended-her-career/)
-
-The “Kim Kardashian of Italy” was accused of defrauding consumers over a 2022 charitable collaboration to sell branded “pandoro” Christmas cakes.
-
-By [Martina Di Licosa](https://www.forbes.com/sites/martinadilicosa/) Former Staff
-
-[Share Facebook](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmartinadilicosa%2F2026%2F01%2F14%2Fitalian-influencer-chiara-ferragni-found-not-guilty-in-fraud-case-that-almost-ended-her-career%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6967b9686f890eeb68aa92a6%2F0x0.jpg%3Fformat%3Djpg%26crop%3D3605%2C2026%2Cx0%2Cy186%2Csafe%26width%3D440&name=Italian%20Influencer%20Chiara%20Ferragni%20Found%20Not%20Guilty%20In%20Fraud%20Case%20That%20Almost%20Ended%20Her%20Career&caption=www.forbes.com&description=The%20%E2%80%9CKim%20Kardashian%20of%20Italy%E2%80%9D%20was%20accused%20of%20defrauding%20consumers%20over%20a%202022%20charitable%20collaboration%20to%20sell%20branded%20%E2%80%9Cpandoro%E2%80%9D%20Christmas%20cakes.%20)[Share Twitter](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmartinadilicosa%2F2026%2F01%2F14%2Fitalian-influencer-chiara-ferragni-found-not-guilty-in-fraud-case-that-almost-ended-her-career%2F&via=forbes&text=Italian%20Influencer%20Chiara%20Ferragni%20Found%20Not%20Guilty%20In%20Fraud%20Case%20That%20Almost%20Ended%20Her%20Career)[Share Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmartinadilicosa%2F2026%2F01%2F14%2Fitalian-influencer-chiara-ferragni-found-not-guilty-in-fraud-case-that-almost-ended-her-career%2F&title=Italian%20Influencer%20Chiara%20Ferragni%20Found%20Not%20Guilty%20In%20Fraud%20Case%20That%20Almost%20Ended%20Her%20Career&summary=The%20%E2%80%9CKim%20Kardashian%20of%20Italy%E2%80%9D%20was%20accused%20of%20defrauding%20consumers%20over%20a%202022%20charitable%20collaboration%20to%20sell%20branded%20%E2%80%9Cpandoro%E2%80%9D%20Christmas%20cakes.%20)[Share Email](mailto:?subject=Italian%20Influencer%20Chiara%20Ferragni%20Found%20Not%20Guilty%20In%20Fraud%20Case%20That%20Almost%20Ended%20Her%20Career&body=Hi%2C%0A%0AI%20thought%20you%27d%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Fmartinadilicosa%2F2026%2F01%2F14%2Fitalian-influencer-chiara-ferragni-found-not-guilty-in-fraud-case-that-almost-ended-her-career%2F%0A%0AItalian%20Influencer%20Chiara%20Ferragni%20Found%20Not%20Guilty%20In%20Fraud%20Case%20That%20Almost%20Ended%20Her%20Career%0A)
-
-[Graphic Italian Influencer Chiara Ferragni Found Not Guilty In Fraud Case That Almost Ended Her Career](https://www.forbes.com/sites/martinadilicosa/2026/01/14/italian-influencer-chiara-ferragni-found-not-guilty-in-fraud-case-that-almost-ended-her-career/)
-
 Dec 12, 2025
 
 [**Somehow, Kim Kardashian May Be One Of Fortnite’s Best Skins**](https://www.forbes.com/sites/paultassi/2025/12/12/somehow-kim-kardashian-may-be-one-of-fortnites-best-skins/)
@@ -160,20 +228,6 @@ By [Tim Lammers](https://www.forbes.com/sites/timlammers/) Contributor
 [Share Facebook](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Ftimlammers%2F2025%2F12%2F09%2Fwill-there-be-a-season-2-of-kim-kardashians-alls-fair-heres-the-good-news%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F69387514984d2573f822704b%2F0x0.jpg%3Fformat%3Djpg%26crop%3D1265%2C712%2Cx1530%2Cy571%2Csafe%26width%3D440&name=Will%20There%20Be%20A%20Season%202%20Of%20Kim%20Kardashian%E2%80%99s%20%E2%80%98All%E2%80%99s%20Fair%E2%80%99%3F%20Here%E2%80%99s%20The%20Good%20News&caption=www.forbes.com&description=%22All%E2%80%99s%20Fair%2C%22%20starring%20Kim%20Kardashian%2C%20wraps%20up%20its%20first%20season%20on%20Tuesday%20with%20a%20two-episode%20finale.%20What%E2%80%99s%20up%20next%20for%20the%20legal%20drama%3F)[Share Twitter](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Ftimlammers%2F2025%2F12%2F09%2Fwill-there-be-a-season-2-of-kim-kardashians-alls-fair-heres-the-good-news%2F&via=forbes&text=Will%20There%20Be%20A%20Season%202%20Of%20Kim%20Kardashian%E2%80%99s%20%E2%80%98All%E2%80%99s%20Fair%E2%80%99%3F%20Here%E2%80%99s%20The%20Good%20News)[Share Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Ftimlammers%2F2025%2F12%2F09%2Fwill-there-be-a-season-2-of-kim-kardashians-alls-fair-heres-the-good-news%2F&title=Will%20There%20Be%20A%20Season%202%20Of%20Kim%20Kardashian%E2%80%99s%20%E2%80%98All%E2%80%99s%20Fair%E2%80%99%3F%20Here%E2%80%99s%20The%20Good%20News&summary=%22All%E2%80%99s%20Fair%2C%22%20starring%20Kim%20Kardashian%2C%20wraps%20up%20its%20first%20season%20on%20Tuesday%20with%20a%20two-episode%20finale.%20What%E2%80%99s%20up%20next%20for%20the%20legal%20drama%3F)[Share Email](mailto:?subject=Will%20There%20Be%20A%20Season%202%20Of%20Kim%20Kardashian%E2%80%99s%20%E2%80%98All%E2%80%99s%20Fair%E2%80%99%3F%20Here%E2%80%99s%20The%20Good%20News&body=Hi%2C%0A%0AI%20thought%20you%27d%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Ftimlammers%2F2025%2F12%2F09%2Fwill-there-be-a-season-2-of-kim-kardashians-alls-fair-heres-the-good-news%2F%0A%0AWill%20There%20Be%20A%20Season%202%20Of%20Kim%20Kardashian%E2%80%99s%20%E2%80%98All%E2%80%99s%20Fair%E2%80%99%3F%20Here%E2%80%99s%20The%20Good%20News%0A)
 
 [Graphic Will There Be A Season 2 Of Kim Kardashian’s ‘All’s Fair’? Here’s The Good News](https://www.forbes.com/sites/timlammers/2025/12/09/will-there-be-a-season-2-of-kim-kardashians-alls-fair-heres-the-good-news/)
-
-Nov 14, 2025
-
-[**Kim Kardashian Is Richer Than Ever After New Skims Funding. Plus: Use Negative Self-Talk To Your Advantage**](https://www.forbes.com/sites/maggiemcgrath/2025/11/14/kim-kardashian-is-richer-than-ever-after-new-skims-funding-plus-use-negative-self-talk-to-your-advantage/)
-
-Welcome to this week’s ForbesWomen newsletter, which every Thursday brings news about the world’s top female entrepreneurs, leaders and investors straight to your inbox.
-
-By [Maggie McGrath](https://www.forbes.com/sites/maggiemcgrath/) Forbes Staff
-
-and [ForbesWomen Team](https://www.forbes.com/sites/forbeswomenteam/) Forbes Staff
-
-[Share Facebook](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmaggiemcgrath%2F2025%2F11%2F14%2Fkim-kardashian-is-richer-than-ever-after-new-skims-funding-plus-use-negative-self-talk-to-your-advantage%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6917a61d2c696f9bff3bc4dd%2F0x0.jpg%3Fformat%3Djpg%26width%3D440&name=Kim%20Kardashian%20Is%20Richer%20Than%20Ever%20After%20New%20Skims%20Funding.%20Plus%3A%20Use%20Negative%20Self-Talk%20To%20Your%20Advantage&caption=www.forbes.com&description=Welcome%20to%20this%20week%E2%80%99s%20ForbesWomen%20newsletter%2C%20which%20every%20Thursday%20brings%20news%20about%20the%20world%E2%80%99s%20top%20female%20entrepreneurs%2C%20leaders%20and%20investors%20straight%20to%20your%20inbox.)[Share Twitter](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmaggiemcgrath%2F2025%2F11%2F14%2Fkim-kardashian-is-richer-than-ever-after-new-skims-funding-plus-use-negative-self-talk-to-your-advantage%2F&via=forbes&text=Kim%20Kardashian%20Is%20Richer%20Than%20Ever%20After%20New%20Skims%20Funding.%20Plus%3A%20Use%20Negative%20Self-Talk%20To%20Your%20Advantage)[Share Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmaggiemcgrath%2F2025%2F11%2F14%2Fkim-kardashian-is-richer-than-ever-after-new-skims-funding-plus-use-negative-self-talk-to-your-advantage%2F&title=Kim%20Kardashian%20Is%20Richer%20Than%20Ever%20After%20New%20Skims%20Funding.%20Plus%3A%20Use%20Negative%20Self-Talk%20To%20Your%20Advantage&summary=Welcome%20to%20this%20week%E2%80%99s%20ForbesWomen%20newsletter%2C%20which%20every%20Thursday%20brings%20news%20about%20the%20world%E2%80%99s%20top%20female%20entrepreneurs%2C%20leaders%20and%20investors%20straight%20to%20your%20inbox.)[Share Email](mailto:?subject=Kim%20Kardashian%20Is%20Richer%20Than%20Ever%20After%20New%20Skims%20Funding.%20Plus%3A%20Use%20Negative%20Self-Talk%20To%20Your%20Advantage&body=Hi%2C%0A%0AI%20thought%20you%27d%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Fmaggiemcgrath%2F2025%2F11%2F14%2Fkim-kardashian-is-richer-than-ever-after-new-skims-funding-plus-use-negative-self-talk-to-your-advantage%2F%0A%0AKim%20Kardashian%20Is%20Richer%20Than%20Ever%20After%20New%20Skims%20Funding.%20Plus%3A%20Use%20Negative%20Self-Talk%20To%20Your%20Advantage%0A)
-
-[Graphic Kim Kardashian Is Richer Than Ever After New Skims Funding. Plus: Use Negative Self-Talk To Your Advantage](https://www.forbes.com/sites/maggiemcgrath/2025/11/14/kim-kardashian-is-richer-than-ever-after-new-skims-funding-plus-use-negative-self-talk-to-your-advantage/)
 
 Nov 12, 2025
 
@@ -287,10 +341,8 @@ More Articles
 
 ## also on forbes
 
-### [Kim Kardashian Joins Relaunch Of Energy Drink That ‘Eliminates The Crash’—Walmart To Distribute Nationwide](https://www.forbes.com/sites/martinadilicosa/2026/02/24/kim-kardashian-joins-relaunch-of-energy-drink-that-eliminates-the-crash-walmart-to-distribute-nationwide/)
+### [Lewis Hamilton’s Wealth Comments Resurface After Billionaire Girlfriend Kim Kardashian Seen At Monaco Grand Prix](https://www.forbes.com/sites/maryroeloffs/2026/06/09/lewis-hamiltons-wealth-comments-resurface-after-billionaire-girlfriend-kim-kardashian-seen-at-monaco-grand-prix/)
 
-### [Kim Kardashian’s Skims Chicago Flagship The Shape Of Things To Come](https://www.forbes.com/sites/markfaithfull/2026/02/17/kim-kardashians-skims-chicago-flagship-the-shape-of-things-to-come/)
+### [Met Gala 2026 Fashion Report: Breaking Down The Night’s Key Trends](https://www.forbes.com/sites/coreincarter/2026/05/05/met-gala-2026-fashion-report-breaking-down-the-nights-key-trends/)
 
-### [Celebrity Hairstylist Chris Appleton Releases A Book About Transformation—And Hair Is Only The ‘Entry Point’](https://www.forbes.com/sites/rachelburchfield/2026/01/20/celebrity-hairstylist-chris-appleton-releases-a-book-about-transformation-and-hair-is-only-the-entry-point/)
-
-render-sign-in
+### [Makeup By Mario Has ‘Accomplished So Much’ 6 Years In, But Founder Mario Dedivanovic Says The Brand Has ‘So Much More To Do’](https://www.forbes.com/sites/rachelburchfield/2026/03/23/makeup-by-mario-has-accomplished-so-much-6-years-in-but-founder-mario-dedivanovic-says-the-brand-has-so-much-more-to-do/)

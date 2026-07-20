@@ -2,7 +2,7 @@
 url: https://skims.com/pages/about
 source_type: skims.com
 title: About | SKIMS
-scraped_at: 2026-07-13T08:52:53.197848+00:00
+scraped_at: 2026-07-20T08:43:24.969393+00:00
 ---
 
 [Skip to main content](https://skims.com/pages/about#main-content)
