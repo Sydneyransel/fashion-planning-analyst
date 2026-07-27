@@ -2,14 +2,8 @@
 url: https://www.forbes.com/profile/kim-kardashian/
 source_type: forbes.com
 title: Kim Kardashian
-scraped_at: 2026-07-20T08:44:12.418850+00:00
+scraped_at: 2026-07-27T09:35:37.864238+00:00
 ---
-
-### Site Technologies
-
-We, and third parties in some cases, use cookies and similar technologies to better understand your actions and interests, customize your experiences, and provide content and advertising that is more relevant to you. We also use them to help ensure site security and to enhance functionality. You may opt out of the technologies used for targeted advertising or analytics by selecting Reject Optional Technologies. See our [Privacy Statement](https://www.forbes.com/privacy/english/) for more details on how we and other third parties use these technologies
-
-Accept Optional TechnologiesReject Optional TechnologiesManage Preferences
 
 PROFILE
 
@@ -21,11 +15,11 @@ $1.9B
 
 ### Real Time Net Worth
 
-as of 7/20/26
+as of 7/27/26
 
 Reflects change since 5 pm ET of prior trading day.
 
-[#2175 in the world today](https://www.forbes.com/real-time-billionaires/)
+[#2180 in the world today](https://www.forbes.com/real-time-billionaires/)
 
 [Share Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.forbes.com%2Fprofile%2Fkim-kardashian%2F)[Share Twitter](https://x.com/intent/tweet?text=Kim%20Kardashian&url=https%3A%2F%2Fwww.forbes.com%2Fprofile%2Fkim-kardashian%2F)[Share Linkedin](https://www.linkedin.com/shareArticle?mini=true?url=https%3A%2F%2Fwww.forbes.com%2Fprofile%2Fkim-kardashian%2F)[Share Email](mailto:?body=Kim%20Kardashian%20https%3A%2F%2Fwww.forbes.com%2Fprofile%2Fkim-kardashian%2F)
 
@@ -346,3 +340,5 @@ More Articles
 ### [Met Gala 2026 Fashion Report: Breaking Down The Night’s Key Trends](https://www.forbes.com/sites/coreincarter/2026/05/05/met-gala-2026-fashion-report-breaking-down-the-nights-key-trends/)
 
 ### [Makeup By Mario Has ‘Accomplished So Much’ 6 Years In, But Founder Mario Dedivanovic Says The Brand Has ‘So Much More To Do’](https://www.forbes.com/sites/rachelburchfield/2026/03/23/makeup-by-mario-has-accomplished-so-much-6-years-in-but-founder-mario-dedivanovic-says-the-brand-has-so-much-more-to-do/)
+
+render-sign-in
