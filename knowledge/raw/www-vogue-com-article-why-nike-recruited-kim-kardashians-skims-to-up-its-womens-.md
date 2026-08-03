@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-07-20T08:43:58.050271+00:00
+scraped_at: 2026-08-03T09:27:12.226730+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -21,21 +21,21 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 
 LATEST ON VOGUE
 
-[![How to Secure a Fashion Internship](https://assets.vogue.com/photos/6a5618d5ac87b37da7d54aef/1:1/w_640%2Cc_limit/undefined)\\
+[![LVMH Sells Patou to Previous Owner Dilesh Mehta](https://assets.vogue.com/photos/6a6cbe72a483614ae77c2cc1/1:1/w_640%2Cc_limit/undefined)\\
 \\
-How to Secure a Fashion Internship](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_popular4-2 "How to Secure a Fashion Internship")
+LVMH Sells Patou to Previous Owner Dilesh Mehta](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_popular4-2 "LVMH Sells Patou to Previous Owner Dilesh Mehta")
 
-[![How to Write a Fashion Résumé](https://assets.vogue.com/photos/6a4e447f95c7005c2f504b3a/1:1/w_640%2Cc_limit/undefined)\\
+[![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_640%2Cc_limit/undefined)\\
 \\
-How to Write a Fashion Résumé](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_popular4-2 "How to Write a Fashion Résumé")
+Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_popular4-2 "Inside the Neo Knitwear Boom")
 
-[![Should Brands Bet on Luxury Eyewear?](https://assets.vogue.com/photos/6a58de5c3c02e2aace939dfd/1:1/w_640%2Cc_limit/undefined)\\
+[![Mother’s Home: Inside the LA Brand’s First Standalone Store](https://assets.vogue.com/photos/6a6cbef5f8e0febf951a7603/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Should Brands Bet on Luxury Eyewear?](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_cral-top2-2 "Should Brands Bet on Luxury Eyewear?")
+Mother’s Home: Inside the LA Brand’s First Standalone Store](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_cral-top2-2 "Mother’s Home: Inside the LA Brand’s First Standalone Store")
 
-[![Burberry’s Q1 Revenues Rise 4%, Boosted by China and the US](https://assets.vogue.com/photos/6a5a2b933c02e2aace93b562/1:1/w_640%2Cc_limit/undefined)\\
+[![Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://assets.vogue.com/photos/6a6cc75e6bbece1ef5912f48/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Burberry’s Q1 Revenues Rise 4%, Boosted by China and the US](https://www.vogue.com/article/burberrys-q1-revenues-rise-4-boosted-by-china-and-the-us#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_cral-top2-2 "Burberry’s Q1 Revenues Rise 4%, Boosted by China and the US")
+Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_cral-top2-2 "Consumers Are Fatigued, Influencers Are Burnt Out. What Now?")
 
 ArrowArrow
 
@@ -70,7 +70,7 @@ Photos: Courtesy of Nike
 
 Most Popular
 
-- [![How to Secure a Fashion Internship](https://assets.vogue.com/photos/6a5618d5ac87b37da7d54aef/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
+- [![LVMH Sells Patou to Previous Owner Dilesh Mehta](https://assets.vogue.com/photos/6a6cbe72a483614ae77c2cc1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
 
 
 
@@ -86,7 +86,7 @@ Companies
 
 
 
-[How to Secure a Fashion Internship](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
+[LVMH Sells Patou to Previous Owner Dilesh Mehta](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
 
 
 
@@ -94,35 +94,9 @@ Companies
 
 
 
-By Cami Fateh
+By Laure Guilbault
 
-- [![How to Write a Fashion Résumé](https://assets.vogue.com/photos/6a4e447f95c7005c2f504b3a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
-
-
-
-
-
-
-
-
-
-Companies
-
-
-
-
-
-[How to Write a Fashion Résumé](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
-
-
-
-
-
-
-
-By Cami Fateh
-
-- [![Should Brands Bet on Luxury Eyewear?](https://assets.vogue.com/photos/6a58de5c3c02e2aace939dfd/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2_fallback_cral-top2-2)
+- [![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
 
 
 
@@ -132,13 +106,13 @@ By Cami Fateh
 
 
 
-Business
+Fashion Industry Trends
 
 
 
 
 
-[Should Brands Bet on Luxury Eyewear?](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2_fallback_cral-top2-2)
+[Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
 
 
 
@@ -146,7 +120,33 @@ Business
 
 
 
-By Joe Bobowicz
+By Ashley Ogawa Clarke
+
+- [![Mother’s Home: Inside the LA Brand’s First Standalone Store](https://assets.vogue.com/photos/6a6cbef5f8e0febf951a7603/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Retail
+
+
+
+
+
+[Mother’s Home: Inside the LA Brand’s First Standalone Store](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+By Booth Moore
 
 
 It also signals Nike’s commitment to developing technical products for women. Product innovation has been a pain point for Nike in recent years, Yarbrough says. Hill [acknowledged this](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December’s earnings; it forms the foundation of his turnaround strategy. In partnering with Skims on a joint brand, Nike is able to gain access to womenswear tech to help it rival the Alos and Lululemons of the world, which, Yarbrough says, would otherwise likely take Nike several years to develop, manufacture and scale. “This accelerates that path for Nike to compete with some of these other brands that have been growing rapidly.” It’s a smart shortcut, Hastings-Narayanin says.
@@ -163,7 +163,7 @@ These days, consumers want products that work, experts agree, so emphasis needs 
 
 Most Popular
 
-- [![How to Secure a Fashion Internship](https://assets.vogue.com/photos/6a5618d5ac87b37da7d54aef/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
+- [![LVMH Sells Patou to Previous Owner Dilesh Mehta](https://assets.vogue.com/photos/6a6cbe72a483614ae77c2cc1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
 
 
 
@@ -179,7 +179,7 @@ Companies
 
 
 
-[How to Secure a Fashion Internship](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
+[LVMH Sells Patou to Previous Owner Dilesh Mehta](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
 
 
 
@@ -187,35 +187,9 @@ Companies
 
 
 
-By Cami Fateh
+By Laure Guilbault
 
-- [![How to Write a Fashion Résumé](https://assets.vogue.com/photos/6a4e447f95c7005c2f504b3a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
-
-
-
-
-
-
-
-
-
-Companies
-
-
-
-
-
-[How to Write a Fashion Résumé](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2)
-
-
-
-
-
-
-
-By Cami Fateh
-
-- [![Should Brands Bet on Luxury Eyewear?](https://assets.vogue.com/photos/6a58de5c3c02e2aace939dfd/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2_fallback_cral-top2-2)
+- [![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
 
 
 
@@ -225,13 +199,13 @@ By Cami Fateh
 
 
 
-Business
+Fashion Industry Trends
 
 
 
 
 
-[Should Brands Bet on Luxury Eyewear?](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-right-rail_6f7cb652-1926-4ed9-ac86-d173de0b3546_popular4-2_fallback_cral-top2-2)
+[Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
 
 
 
@@ -239,7 +213,33 @@ Business
 
 
 
-By Joe Bobowicz
+By Ashley Ogawa Clarke
+
+- [![Mother’s Home: Inside the LA Brand’s First Standalone Store](https://assets.vogue.com/photos/6a6cbef5f8e0febf951a7603/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Retail
+
+
+
+
+
+[Mother’s Home: Inside the LA Brand’s First Standalone Store](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+By Booth Moore
 
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
@@ -264,34 +264,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![How to Secure a Fashion Internship](https://assets.vogue.com/photos/6a5618d5ac87b37da7d54aef/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_popular4-2)
+[![LVMH Sells Patou to Previous Owner Dilesh Mehta](https://assets.vogue.com/photos/6a6cbe72a483614ae77c2cc1/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_popular4-2)
 
 Companies
 
-[How to Secure a Fashion Internship](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_popular4-2)
+[LVMH Sells Patou to Previous Owner Dilesh Mehta](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_popular4-2)
 
-By Cami Fateh
+By Laure Guilbault
 
-[![How to Write a Fashion Résumé](https://assets.vogue.com/photos/6a4e447f95c7005c2f504b3a/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_popular4-2)
+[![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_popular4-2)
 
-Companies
+Fashion Industry Trends
 
-[How to Write a Fashion Résumé](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_popular4-2)
+[Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_popular4-2)
 
-By Cami Fateh
+By Ashley Ogawa Clarke
 
-[![Should Brands Bet on Luxury Eyewear?](https://assets.vogue.com/photos/6a58de5c3c02e2aace939dfd/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_cral-top2-2)
+[![Mother’s Home: Inside the LA Brand’s First Standalone Store](https://assets.vogue.com/photos/6a6cbef5f8e0febf951a7603/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_cral-top2-2)
 
-Business
+Retail
 
-[Should Brands Bet on Luxury Eyewear?](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_cral-top2-2)
+[Mother’s Home: Inside the LA Brand’s First Standalone Store](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_cral-top2-2)
 
-By Joe Bobowicz
+By Booth Moore
 
-[![Burberry’s Q1 Revenues Rise 4%, Boosted by China and the US](https://assets.vogue.com/photos/6a5a2b933c02e2aace93b562/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/burberrys-q1-revenues-rise-4-boosted-by-china-and-the-us#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_cral-top2-2)
+[![Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://assets.vogue.com/photos/6a6cc75e6bbece1ef5912f48/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_cral-top2-2)
 
-Earnings
+Fashion
 
-[Burberry’s Q1 Revenues Rise 4%, Boosted by China and the US](https://www.vogue.com/article/burberrys-q1-revenues-rise-4-boosted-by-china-and-the-us#intcid=_vogue-article-bottom-recirc_62ff627d-6bc2-4285-95c7-e7570139c52a_text2vec1_fallback_cral-top2-2)
+[Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_cral-top2-2)
 
 By Joe Bobowicz

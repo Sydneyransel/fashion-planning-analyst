@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-07-20T08:43:53.118072+00:00
+scraped_at: 2026-08-03T09:27:07.101227+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -21,21 +21,29 @@ The brand has signalled a buzzy new era for shapewear. It features nine shades a
 
 LATEST ON VOGUE
 
-[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)\\
+[![What Could Better Brand-Supplier Relationships Look Like?](https://assets.vogue.com/photos/6a60db7f2fa8bc7633a17f6a/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_97754a57-0003-443f-af33-0caff92765a7_text2vec1_fallback_roberta-similarity1 "The Vogue Business Funding Tracker")
-
-[![StockX Bets on Vintage](https://assets.vogue.com/photos/6a3bcd17fb20c669e9e4475d/1:1/w_640%2Cc_limit/undefined)\\
-\\
-StockX Bets on Vintage](https://www.vogue.com/article/stockx-bets-on-vintage#intcid=_vogue-article-bottom-recirc_97754a57-0003-443f-af33-0caff92765a7_text2vec1_fallback_roberta-similarity1 "StockX Bets on Vintage")
+What Could Better Brand-Supplier Relationships Look Like?](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1 "What Could Better Brand-Supplier Relationships Look Like?")
 
 [![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_97754a57-0003-443f-af33-0caff92765a7_text2vec1_fallback_roberta-similarity1 "The Vogue Business People Moves Tracker")
+The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1 "The Vogue Business People Moves Tracker")
+
+[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Vogue Business Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1 "The Vogue Business Funding Tracker")
+
+[![The Ongoing Probe Into Italy’s Supply Chains, Explained](https://assets.vogue.com/photos/6a5f9e97c0062590e8828195/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Ongoing Probe Into Italy’s Supply Chains, Explained](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1 "The Ongoing Probe Into Italy’s Supply Chains, Explained")
 
 [![The Vogue Business Spring/Summer 2027 Menswear Size Inclusivity Report](https://assets.vogue.com/photos/6a47db42dd42bc319730fdfa/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business Spring/Summer 2027 Menswear Size Inclusivity Report](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-menswear-size-inclusivity-report#intcid=_vogue-article-bottom-recirc_97754a57-0003-443f-af33-0caff92765a7_text2vec1_fallback_roberta-similarity1 "The Vogue Business Spring/Summer 2027 Menswear Size Inclusivity Report")
+The Vogue Business Spring/Summer 2027 Menswear Size Inclusivity Report](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-menswear-size-inclusivity-report#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1 "The Vogue Business Spring/Summer 2027 Menswear Size Inclusivity Report")
+
+[![Reformation Spoofs The Big Short’s Bathtub Scene to Seduce Investors](https://assets.vogue.com/photos/6a608523fe4e7a05075c7ed6/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Reformation Spoofs The Big Short’s Bathtub Scene to Seduce Investors](https://www.vogue.com/article/reformation-is-seducing-investors-the-big-short-style#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1 "Reformation Spoofs The Big Short’s Bathtub Scene to Seduce Investors")
 
 ArrowArrow
 
@@ -78,7 +86,7 @@ Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skim
 
 Most Popular
 
-- [![How to Secure a Fashion Internship](https://assets.vogue.com/photos/6a5618d5ac87b37da7d54aef/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-right-rail_02196ee4-e30c-4ee7-82d3-2680b4f0eab1_popular4-2)
+- [![LVMH Sells Patou to Previous Owner Dilesh Mehta](https://assets.vogue.com/photos/6a6cbe72a483614ae77c2cc1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
 
 
 
@@ -94,7 +102,7 @@ Companies
 
 
 
-[How to Secure a Fashion Internship](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-right-rail_02196ee4-e30c-4ee7-82d3-2680b4f0eab1_popular4-2)
+[LVMH Sells Patou to Previous Owner Dilesh Mehta](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
 
 
 
@@ -102,35 +110,9 @@ Companies
 
 
 
-By Cami Fateh
+By Laure Guilbault
 
-- [![How to Write a Fashion Résumé](https://assets.vogue.com/photos/6a4e447f95c7005c2f504b3a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-right-rail_02196ee4-e30c-4ee7-82d3-2680b4f0eab1_popular4-2)
-
-
-
-
-
-
-
-
-
-Companies
-
-
-
-
-
-[How to Write a Fashion Résumé](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-right-rail_02196ee4-e30c-4ee7-82d3-2680b4f0eab1_popular4-2)
-
-
-
-
-
-
-
-By Cami Fateh
-
-- [![Should Brands Bet on Luxury Eyewear?](https://assets.vogue.com/photos/6a58de5c3c02e2aace939dfd/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-right-rail_02196ee4-e30c-4ee7-82d3-2680b4f0eab1_popular4-2_fallback_cral-top2-2)
+- [![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
 
 
 
@@ -140,13 +122,39 @@ By Cami Fateh
 
 
 
-Global Markets
+Fashion Industry Trends
 
 
 
 
 
-[Should Brands Bet on Luxury Eyewear?](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-right-rail_02196ee4-e30c-4ee7-82d3-2680b4f0eab1_popular4-2_fallback_cral-top2-2)
+[Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
+
+
+
+
+
+
+
+By Ashley Ogawa Clarke
+
+- [![Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://assets.vogue.com/photos/6a6cc75e6bbece1ef5912f48/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -184,7 +192,7 @@ Skims
 
 Most Popular
 
-- [![How to Secure a Fashion Internship](https://assets.vogue.com/photos/6a5618d5ac87b37da7d54aef/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-right-rail_02196ee4-e30c-4ee7-82d3-2680b4f0eab1_popular4-2)
+- [![LVMH Sells Patou to Previous Owner Dilesh Mehta](https://assets.vogue.com/photos/6a6cbe72a483614ae77c2cc1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
 
 
 
@@ -200,7 +208,7 @@ Companies
 
 
 
-[How to Secure a Fashion Internship](https://www.vogue.com/article/how-to-secure-a-fashion-internship#intcid=_vogue-right-rail_02196ee4-e30c-4ee7-82d3-2680b4f0eab1_popular4-2)
+[LVMH Sells Patou to Previous Owner Dilesh Mehta](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
 
 
 
@@ -208,35 +216,9 @@ Companies
 
 
 
-By Cami Fateh
+By Laure Guilbault
 
-- [![How to Write a Fashion Résumé](https://assets.vogue.com/photos/6a4e447f95c7005c2f504b3a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-right-rail_02196ee4-e30c-4ee7-82d3-2680b4f0eab1_popular4-2)
-
-
-
-
-
-
-
-
-
-Companies
-
-
-
-
-
-[How to Write a Fashion Résumé](https://www.vogue.com/article/how-to-write-a-fashion-resume#intcid=_vogue-right-rail_02196ee4-e30c-4ee7-82d3-2680b4f0eab1_popular4-2)
-
-
-
-
-
-
-
-By Cami Fateh
-
-- [![Should Brands Bet on Luxury Eyewear?](https://assets.vogue.com/photos/6a58de5c3c02e2aace939dfd/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-right-rail_02196ee4-e30c-4ee7-82d3-2680b4f0eab1_popular4-2_fallback_cral-top2-2)
+- [![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
 
 
 
@@ -246,13 +228,39 @@ By Cami Fateh
 
 
 
-Global Markets
+Fashion Industry Trends
 
 
 
 
 
-[Should Brands Bet on Luxury Eyewear?](https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear#intcid=_vogue-right-rail_02196ee4-e30c-4ee7-82d3-2680b4f0eab1_popular4-2_fallback_cral-top2-2)
+[Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
+
+
+
+
+
+
+
+By Ashley Ogawa Clarke
+
+- [![Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://assets.vogue.com/photos/6a6cc75e6bbece1ef5912f48/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2_fallback_cral-top2-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2_fallback_cral-top2-2)
 
 
 
@@ -286,34 +294,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_97754a57-0003-443f-af33-0caff92765a7_text2vec1_fallback_roberta-similarity1)
+[![What Could Better Brand-Supplier Relationships Look Like?](https://assets.vogue.com/photos/6a60db7f2fa8bc7633a17f6a/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
+
+Sustainability
+
+[What Could Better Brand-Supplier Relationships Look Like?](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
+
+By Sophie Benson
+
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
 
 Companies
 
-[The _Vogue Business_ Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_97754a57-0003-443f-af33-0caff92765a7_text2vec1_fallback_roberta-similarity1)
-
-By Maliha Shoaib
-
-[![StockX Bets on Vintage](https://assets.vogue.com/photos/6a3bcd17fb20c669e9e4475d/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/stockx-bets-on-vintage#intcid=_vogue-article-bottom-recirc_97754a57-0003-443f-af33-0caff92765a7_text2vec1_fallback_roberta-similarity1)
-
-Executive Interviews
-
-[StockX Bets on Vintage](https://www.vogue.com/article/stockx-bets-on-vintage#intcid=_vogue-article-bottom-recirc_97754a57-0003-443f-af33-0caff92765a7_text2vec1_fallback_roberta-similarity1)
-
-By Joe Bobowicz
-
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_97754a57-0003-443f-af33-0caff92765a7_text2vec1_fallback_roberta-similarity1)
-
-Companies
-
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_97754a57-0003-443f-af33-0caff92765a7_text2vec1_fallback_roberta-similarity1)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
 
 By Vogue Business Team
 
-[![The Vogue Business Spring/Summer 2027 Menswear Size Inclusivity Report](https://assets.vogue.com/photos/6a47db42dd42bc319730fdfa/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-menswear-size-inclusivity-report#intcid=_vogue-article-bottom-recirc_97754a57-0003-443f-af33-0caff92765a7_text2vec1_fallback_roberta-similarity1)
+[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
 
-Fashion
+Companies
 
-[The _Vogue Business_ Spring/Summer 2027 Menswear Size Inclusivity Report](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-menswear-size-inclusivity-report#intcid=_vogue-article-bottom-recirc_97754a57-0003-443f-af33-0caff92765a7_text2vec1_fallback_roberta-similarity1)
+[The _Vogue Business_ Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
 
-By Amy Francombe
+By Vogue Business Team
+
+[![The Ongoing Probe Into Italy’s Supply Chains, Explained](https://assets.vogue.com/photos/6a5f9e97c0062590e8828195/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
+
+Sustainability
+
+[The Ongoing Probe Into Italy’s Supply Chains, Explained](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
+
+By Bella Webb
