@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-08-03T09:27:12.226730+00:00
+scraped_at: 2026-08-10T07:14:37.842882+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -21,21 +21,29 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 
 LATEST ON VOGUE
 
-[![LVMH Sells Patou to Previous Owner Dilesh Mehta](https://assets.vogue.com/photos/6a6cbe72a483614ae77c2cc1/1:1/w_640%2Cc_limit/undefined)\\
+[![Why Trendsetting South Korea Remains a Gem for Luxury](https://assets.vogue.com/photos/6a734890d6ea9933120d63ec/1:1/w_640%2Cc_limit/undefined)\\
 \\
-LVMH Sells Patou to Previous Owner Dilesh Mehta](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_popular4-2 "LVMH Sells Patou to Previous Owner Dilesh Mehta")
+Why Trendsetting South Korea Remains a Gem for Luxury](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2 "Why Trendsetting South Korea Remains a Gem for Luxury")
 
-[![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_640%2Cc_limit/undefined)\\
+[![4 Key Takeaways From Copenhagen Fashion Week SS27](https://assets.vogue.com/photos/6a760297db3d4f7ba25e3d49/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_popular4-2 "Inside the Neo Knitwear Boom")
+4 Key Takeaways From Copenhagen Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2 "4 Key Takeaways From Copenhagen Fashion Week SS27")
 
-[![Mother’s Home: Inside the LA Brand’s First Standalone Store](https://assets.vogue.com/photos/6a6cbef5f8e0febf951a7603/1:1/w_640%2Cc_limit/undefined)\\
+[![Less Perfect, More Practical: Diamonds’ New Path Forward](https://assets.vogue.com/photos/6a7466e8359ce11a95d508b5/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Mother’s Home: Inside the LA Brand’s First Standalone Store](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_cral-top2-2 "Mother’s Home: Inside the LA Brand’s First Standalone Store")
+Less Perfect, More Practical: Diamonds’ New Path Forward](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2 "Less Perfect, More Practical: Diamonds’ New Path Forward")
 
-[![Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://assets.vogue.com/photos/6a6cc75e6bbece1ef5912f48/1:1/w_640%2Cc_limit/undefined)\\
+[![How to Build Your Personal Brand](https://assets.vogue.com/photos/6a71a6f998f652db94fb763c/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_cral-top2-2 "Consumers Are Fatigued, Influencers Are Burnt Out. What Now?")
+How to Build Your Personal Brand](https://www.vogue.com/article/how-to-build-your-personal-brand#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2 "How to Build Your Personal Brand")
+
+[![Morgane Sézalory Is Introducing a More Mature Sézane](https://assets.vogue.com/photos/6a75f4bef9fbd3517250bfde/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Morgane Sézalory Is Introducing a More Mature Sézane](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_cral-top2-2 "Morgane Sézalory Is Introducing a More Mature Sézane")
+
+[![The Meaning of Consent in the Age of Content](https://assets.vogue.com/photos/6a75f6d15d3cdb5f50b94d9c/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Meaning of Consent in the Age of Content](https://www.vogue.com/article/the-meaning-of-consent-in-the-age-of-content#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_cral-top2-2 "The Meaning of Consent in the Age of Content")
 
 ArrowArrow
 
@@ -70,7 +78,7 @@ Photos: Courtesy of Nike
 
 Most Popular
 
-- [![LVMH Sells Patou to Previous Owner Dilesh Mehta](https://assets.vogue.com/photos/6a6cbe72a483614ae77c2cc1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
+- [![Why Trendsetting South Korea Remains a Gem for Luxury](https://assets.vogue.com/photos/6a734890d6ea9933120d63ec/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
 
 
 
@@ -80,13 +88,13 @@ Most Popular
 
 
 
-Companies
+Global Markets
 
 
 
 
 
-[LVMH Sells Patou to Previous Owner Dilesh Mehta](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
+[Why Trendsetting South Korea Remains a Gem for Luxury](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
 
 
 
@@ -94,9 +102,9 @@ Companies
 
 
 
-By Laure Guilbault
+By Kati Chitrakorn
 
-- [![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
+- [![4 Key Takeaways From Copenhagen Fashion Week SS27](https://assets.vogue.com/photos/6a760297db3d4f7ba25e3d49/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
 
 
 
@@ -106,13 +114,13 @@ By Laure Guilbault
 
 
 
-Fashion Industry Trends
+Business
 
 
 
 
 
-[Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
+[4 Key Takeaways From Copenhagen Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
 
 
 
@@ -120,9 +128,9 @@ Fashion Industry Trends
 
 
 
-By Ashley Ogawa Clarke
+By Bella Webb
 
-- [![Mother’s Home: Inside the LA Brand’s First Standalone Store](https://assets.vogue.com/photos/6a6cbef5f8e0febf951a7603/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2_fallback_cral-top2-2)
+- [![Less Perfect, More Practical: Diamonds’ New Path Forward](https://assets.vogue.com/photos/6a7466e8359ce11a95d508b5/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
 
 
 
@@ -132,13 +140,13 @@ By Ashley Ogawa Clarke
 
 
 
-Retail
+Business
 
 
 
 
 
-[Mother’s Home: Inside the LA Brand’s First Standalone Store](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2_fallback_cral-top2-2)
+[Less Perfect, More Practical: Diamonds’ New Path Forward](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
 
 
 
@@ -146,7 +154,7 @@ Retail
 
 
 
-By Booth Moore
+By Milena Martins-Alexandre
 
 
 It also signals Nike’s commitment to developing technical products for women. Product innovation has been a pain point for Nike in recent years, Yarbrough says. Hill [acknowledged this](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December’s earnings; it forms the foundation of his turnaround strategy. In partnering with Skims on a joint brand, Nike is able to gain access to womenswear tech to help it rival the Alos and Lululemons of the world, which, Yarbrough says, would otherwise likely take Nike several years to develop, manufacture and scale. “This accelerates that path for Nike to compete with some of these other brands that have been growing rapidly.” It’s a smart shortcut, Hastings-Narayanin says.
@@ -163,7 +171,7 @@ These days, consumers want products that work, experts agree, so emphasis needs 
 
 Most Popular
 
-- [![LVMH Sells Patou to Previous Owner Dilesh Mehta](https://assets.vogue.com/photos/6a6cbe72a483614ae77c2cc1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
+- [![Why Trendsetting South Korea Remains a Gem for Luxury](https://assets.vogue.com/photos/6a734890d6ea9933120d63ec/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
 
 
 
@@ -173,13 +181,13 @@ Most Popular
 
 
 
-Companies
+Global Markets
 
 
 
 
 
-[LVMH Sells Patou to Previous Owner Dilesh Mehta](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
+[Why Trendsetting South Korea Remains a Gem for Luxury](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
 
 
 
@@ -187,9 +195,9 @@ Companies
 
 
 
-By Laure Guilbault
+By Kati Chitrakorn
 
-- [![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
+- [![4 Key Takeaways From Copenhagen Fashion Week SS27](https://assets.vogue.com/photos/6a760297db3d4f7ba25e3d49/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
 
 
 
@@ -199,13 +207,13 @@ By Laure Guilbault
 
 
 
-Fashion Industry Trends
+Business
 
 
 
 
 
-[Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2)
+[4 Key Takeaways From Copenhagen Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
 
 
 
@@ -213,9 +221,9 @@ Fashion Industry Trends
 
 
 
-By Ashley Ogawa Clarke
+By Bella Webb
 
-- [![Mother’s Home: Inside the LA Brand’s First Standalone Store](https://assets.vogue.com/photos/6a6cbef5f8e0febf951a7603/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2_fallback_cral-top2-2)
+- [![Less Perfect, More Practical: Diamonds’ New Path Forward](https://assets.vogue.com/photos/6a7466e8359ce11a95d508b5/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
 
 
 
@@ -225,13 +233,13 @@ By Ashley Ogawa Clarke
 
 
 
-Retail
+Business
 
 
 
 
 
-[Mother’s Home: Inside the LA Brand’s First Standalone Store](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-right-rail_ee7e25a1-6ab2-42cf-834f-14dfa0a7ca9d_popular4-2_fallback_cral-top2-2)
+[Less Perfect, More Practical: Diamonds’ New Path Forward](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
 
 
 
@@ -239,7 +247,7 @@ Retail
 
 
 
-By Booth Moore
+By Milena Martins-Alexandre
 
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
@@ -264,34 +272,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![LVMH Sells Patou to Previous Owner Dilesh Mehta](https://assets.vogue.com/photos/6a6cbe72a483614ae77c2cc1/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_popular4-2)
+[![Why Trendsetting South Korea Remains a Gem for Luxury](https://assets.vogue.com/photos/6a734890d6ea9933120d63ec/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+
+Global Markets
+
+[Why Trendsetting South Korea Remains a Gem for Luxury](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+
+By Kati Chitrakorn
+
+[![4 Key Takeaways From Copenhagen Fashion Week SS27](https://assets.vogue.com/photos/6a760297db3d4f7ba25e3d49/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+
+Business
+
+[4 Key Takeaways From Copenhagen Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+
+By Bella Webb
+
+[![Less Perfect, More Practical: Diamonds’ New Path Forward](https://assets.vogue.com/photos/6a7466e8359ce11a95d508b5/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+
+Business
+
+[Less Perfect, More Practical: Diamonds’ New Path Forward](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+
+By Milena Martins-Alexandre
+
+[![How to Build Your Personal Brand](https://assets.vogue.com/photos/6a71a6f998f652db94fb763c/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-build-your-personal-brand#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
 
 Companies
 
-[LVMH Sells Patou to Previous Owner Dilesh Mehta](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_popular4-2)
+[How to Build Your Personal Brand](https://www.vogue.com/article/how-to-build-your-personal-brand#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
 
-By Laure Guilbault
-
-[![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_popular4-2)
-
-Fashion Industry Trends
-
-[Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_popular4-2)
-
-By Ashley Ogawa Clarke
-
-[![Mother’s Home: Inside the LA Brand’s First Standalone Store](https://assets.vogue.com/photos/6a6cbef5f8e0febf951a7603/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_cral-top2-2)
-
-Retail
-
-[Mother’s Home: Inside the LA Brand’s First Standalone Store](https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_cral-top2-2)
-
-By Booth Moore
-
-[![Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://assets.vogue.com/photos/6a6cc75e6bbece1ef5912f48/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_cral-top2-2)
-
-Fashion
-
-[Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-article-bottom-recirc_d9ac7cd4-7c6e-4c87-80ef-b5a184bc8cb7_text2vec1_fallback_cral-top2-2)
-
-By Joe Bobowicz
+By Cami Fateh

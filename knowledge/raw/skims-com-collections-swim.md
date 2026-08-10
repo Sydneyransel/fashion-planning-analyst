@@ -2,7 +2,7 @@
 url: https://skims.com/collections/swim
 source_type: skims.com
 title: Women's Swimwear | Sculpting, Flattering Swim Styles | SKIMS
-scraped_at: 2026-08-03T09:26:45.237204+00:00
+scraped_at: 2026-08-10T07:14:19.809150+00:00
 ---
 
 [Skip to main content](https://skims.com/collections/swim#main-content)
@@ -34,355 +34,193 @@ Filters (0)
 
 sortSizeBandCupStyleColorCollectionMaterial
 
-best seller
-
 [![SIGNATURE SWIM ULTIMATE PUSH-UP TIE BACK BIKINI TOP | ONYX ON A MODEL FRONT VIEW ](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BT-PLG-10074W-ONX-JA-SKIMS-SWIM_32985-FR.webp?v=1774935421&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
 \\
 ![SIGNATURE SWIM ULTIMATE PUSH-UP TIE BACK BIKINI TOP | ONYX FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SIGNATURESWIM-BT-PLG-10074W-ONX-FLT.jpg?v=1774935421&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/signature-swim-ultimate-push-up-tie-back-bikini-top-onyx)
 
-- onyx
-
-- ![AQUA OMBRE SNAKE](https://skims-sanity.imgix.net/images/hfqi0zm0/production/ba22ad17205210dc486993b59db3dec23e1d4760-100x100.jpg?auto=format&w=24&h=24&q=70&ixlib=react-9.11.0)
-
-aqua ombre snake
-
-- ![FOREST OMBRE SNAKE](https://skims-sanity.imgix.net/images/hfqi0zm0/production/1b61b5298b754bb1e0e41f585f97098f75a109b3-100x100.jpg?auto=format&w=24&h=24&q=70&ixlib=react-9.11.0)
-
-forest ombre snake
-
-- melon
-
-- sphene
-
-- ![ALMOND BANDANA](https://skims-sanity.imgix.net/images/hfqi0zm0/production/7a989979c335107322a0654c77cd65172d3ef0bb-100x100.jpg?auto=format&w=24&h=24&q=70&ixlib=react-9.11.0)
-
-almond bandana
-
-- ![ECRU BANDANA PRINT](https://skims-sanity.imgix.net/images/hfqi0zm0/production/af0531b3426dbada7a3d71a6548af1daa79887c3-100x100.jpg?auto=format&w=24&h=24&q=70&ixlib=react-9.11.0)
-
-ecru bandana print
-
-
-[SIGNATURE SWIM\\
-**ULTIMATE PUSH-UP TIE BACK BIKINI TOP** \\
-$62](https://skims.com/products/signature-swim-ultimate-push-up-tie-back-bikini-top-onyx "")
+[Best Seller\\
+\\
+**SIGNATURE SWIM**  **ultimate push-up tie back bikini top**\\
+\\
+$62](https://skims.com/products/signature-swim-ultimate-push-up-tie-back-bikini-top-onyx)
 
 [![SIGNATURE SWIM HIGH-WAISTED BIKINI BOTTOM | ONYX ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9 ](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BB-BRF-8474W-ONX-JB-SKIMS-SWIM_2181-FR.webp?v=1774935697&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
 \\
 ![SIGNATURE SWIM HIGH-WAISTED BIKINI BOTTOM | ONYX FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SIGNATURESWIM-BB-BRF-8474W-ONX-FLT.jpg?v=1774934957&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/signature-swim-high-waisted-bikini-bottom-onyx)
 
-- onyx
-
-- ![FOREST OMBRE SNAKE](https://skims-sanity.imgix.net/images/hfqi0zm0/production/1b61b5298b754bb1e0e41f585f97098f75a109b3-100x100.jpg?auto=format&w=24&h=24&q=70&ixlib=react-9.11.0)
-
-forest ombre snake
-
-- melon
-
-- ![ALMOND BANDANA](https://skims-sanity.imgix.net/images/hfqi0zm0/production/7a989979c335107322a0654c77cd65172d3ef0bb-100x100.jpg?auto=format&w=24&h=24&q=70&ixlib=react-9.11.0)
-
-almond bandana
-
-- ![ECRU BANDANA PRINT](https://skims-sanity.imgix.net/images/hfqi0zm0/production/af0531b3426dbada7a3d71a6548af1daa79887c3-100x100.jpg?auto=format&w=24&h=24&q=70&ixlib=react-9.11.0)
-
-ecru bandana print
-
-
-[SIGNATURE SWIM\\
-**HIGH-WAISTED BIKINI BOTTOM** \\
-$44](https://skims.com/products/signature-swim-high-waisted-bikini-bottom-onyx "")
-
-low stock
+[**SIGNATURE SWIM**  **high-waisted bikini bottom**\\
+\\
+$44](https://skims.com/products/signature-swim-high-waisted-bikini-bottom-onyx)
 
 [![ICONIC SWIM HARDWARE TRIANGLE BIKINI TOP | OBSIDIAN ON A MODEL BACK VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONT_FACING_PDP_17.webp?v=1780104682&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
 \\
 ![ICONIC SWIM HARDWARE TRIANGLE BIKINI TOP | OBSIDIAN FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-10682W-OBD-FLT.jpg?v=1779912180&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-hardware-triangle-bikini-top-obsidian)
 
-- obsidian
-
-
-[ICONIC SWIM\\
-**HARDWARE TRIANGLE BIKINI TOP** \\
-$68](https://skims.com/products/iconic-swim-hardware-triangle-bikini-top-obsidian "")
+[Low Stock\\
+\\
+**ICONIC SWIM**  **hardware triangle bikini top**\\
+\\
+$68](https://skims.com/products/iconic-swim-hardware-triangle-bikini-top-obsidian)
 
 [![ICONIC SWIM HARDWARE TIE SIDE BIKINI BOTTOM | OBSIDIAN ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BM-BIK-10683W-OBD-RB-SKIMS-SWIM_0009-FR.webp?v=1779912697&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
 \\
 ![ICONIC SWIM HARDWARE TIE SIDE BIKINI BOTTOM | OBSIDIAN FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-BM-BIK-10683W-OBD-FLT.jpg?v=1779912180&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-hardware-tie-side-bikini-bottom-obsidian)
 
-- obsidian
-
-
-[ICONIC SWIM\\
-**HARDWARE TIE SIDE BIKINI BOTTOM** \\
-$58](https://skims.com/products/iconic-swim-hardware-tie-side-bikini-bottom-obsidian "")
+[**ICONIC SWIM**  **hardware tie side bikini bottom**\\
+\\
+$58](https://skims.com/products/iconic-swim-hardware-tie-side-bikini-bottom-obsidian)
 
 [![COTTON COVER-UPS PLUNGE TWIST TOP | ONYX ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9 ](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-STT-7213W-ONX-JB-SKIMS-LOUNGEWEAR_0010-FR_a3c16576-05d2-4bb8-8530-1b595ac574c1.webp?v=1774936284&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-cotton-plunge-twist-top-onyx)
 
-- onyx
-
-- snow
-
-- egret
-
-- henna
-
-
-[SWIM COVER-UPS\\
-**COTTON PLUNGE TWIST TOP** \\
-$58](https://skims.com/products/swim-cover-ups-cotton-plunge-twist-top-onyx "")
-
-new
+[**SWIM COVER-UPS**  **cotton plunge twist top**\\
+\\
+$58$40\\
+\\
+Final Sale](https://skims.com/products/swim-cover-ups-cotton-plunge-twist-top-onyx)
 
 [![TERRY SMALL TOTE | SIENNA FLAT ON A WHITE BACKGROUND @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-ACCESSORIES-BP-BGS-8920W-SIE-FLT.jpg?v=1783976121&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)](https://skims.com/products/terry-small-tote-sienna)
 
-- sienna
-
-- stone
-
-- cyan
-
-- carmine
-
-
-[TERRY\\
-**SMALL TOTE** \\
-$58](https://skims.com/products/terry-small-tote-sienna "")
+[New\\
+\\
+**TERRY**  **small tote**\\
+\\
+$58](https://skims.com/products/terry-small-tote-sienna)
 
 [![ICONIC SWIM UNDERWIRE DEMI BIKINI TOP | OBSIDIAN ON A MODEL FRONT VIEW ](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TS-BIK-11455W-OBD-LB-SKIMS-SWIM_34905-FR.webp?v=1777311494&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
 \\
 ![ICONIC SWIM UNDERWIRE DEMI BIKINI TOP | OBSIDIAN FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-11455W-OBD-FLT.jpg?v=1777066914&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-underwire-bikini-top-obsidian)
 
-- obsidian
-
-- cobalt
-
-- carmine
-
-
-[ICONIC SWIM\\
-**UNDERWIRE BIKINI TOP** \\
-$68](https://skims.com/products/iconic-swim-underwire-bikini-top-obsidian "")
+[**ICONIC SWIM**  **underwire bikini top**\\
+\\
+$68](https://skims.com/products/iconic-swim-underwire-bikini-top-obsidian)
 
 [![SIGNATURE SWIM STRING BIKINI BOTTOM | ONYX ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9 ](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BB-BRF-8473W-ONX-FC-SKIMS-SWIM_0352-FR.webp?v=1772487059&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)\\
 \\
 ![SIGNATURE SWIM STRING BIKINI BOTTOM | ONYX LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BB-BRF-8473W-ONX.jpg?v=1772487059&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/signature-swim-string-bikini-bottom-onyx)
 
-- onyx
-
-- ![AQUA OMBRE SNAKE](https://skims-sanity.imgix.net/images/hfqi0zm0/production/ba22ad17205210dc486993b59db3dec23e1d4760-100x100.jpg?auto=format&w=24&h=24&q=70&ixlib=react-9.11.0)
-
-aqua ombre snake
-
-- ![FOREST OMBRE SNAKE](https://skims-sanity.imgix.net/images/hfqi0zm0/production/1b61b5298b754bb1e0e41f585f97098f75a109b3-100x100.jpg?auto=format&w=24&h=24&q=70&ixlib=react-9.11.0)
-
-forest ombre snake
-
-- sphene
-
-
-[SIGNATURE SWIM\\
-**STRING BIKINI BOTTOM** \\
-$42](https://skims.com/products/signature-swim-string-bikini-bottom-onyx "")
+[**SIGNATURE SWIM**  **string bikini bottom**\\
+\\
+$42](https://skims.com/products/signature-swim-string-bikini-bottom-onyx)
 
 [![ICONIC SWIM SEQUIN TRIANGLE BIKINI TOP | ESPRESSO ON A MODEL FRONT VIEW](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TS-BIK-11499W-ESP-RB-SKIMS-SWIM_0005-FR.webp?v=1779912694&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-sequin-triangle-bikini-top-espresso)
 
-- espresso
-
-- ![BISCOTTI SEQUINED ZEBRA](https://skims-sanity.imgix.net/images/hfqi0zm0/production/6017526924e21a41d6bcaee6c82b36b9d6cab3ff-100x100.jpg?auto=format&w=24&h=24&q=70&ixlib=react-9.11.0)
-
-biscotti sequined zebra
-
-
-[ICONIC SWIM\\
-**SEQUIN TRIANGLE BIKINI TOP** \\
-$78](https://skims.com/products/iconic-swim-sequin-triangle-bikini-top-espresso "")
+[**ICONIC SWIM**  **sequin triangle bikini top**\\
+\\
+$78$54\\
+\\
+Final Sale](https://skims.com/products/iconic-swim-sequin-triangle-bikini-top-espresso)
 
 [![ICONIC SWIM SEQUIN BIKINI BOTTOM | ESPRESSO ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BM-BIK-11500W-ESP-RB-SKIMS-SWIM_0007-FR.webp?v=1779912693&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)](https://skims.com/products/iconic-swim-sequin-bikini-bottom-espresso)
 
-- espresso
-
-- ![BISCOTTI SEQUINED ZEBRA](https://skims-sanity.imgix.net/images/hfqi0zm0/production/6017526924e21a41d6bcaee6c82b36b9d6cab3ff-100x100.jpg?auto=format&w=24&h=24&q=70&ixlib=react-9.11.0)
-
-biscotti sequined zebra
-
-
-[ICONIC SWIM\\
-**SEQUIN BIKINI BOTTOM** \\
-$74](https://skims.com/products/iconic-swim-sequin-bikini-bottom-espresso "")
-
-new
+[**ICONIC SWIM**  **sequin bikini bottom**\\
+\\
+$74$51\\
+\\
+Final Sale](https://skims.com/products/iconic-swim-sequin-bikini-bottom-espresso)
 
 [![TERRY MEDIUM TOTE | SIENNA FLAT ON A WHITE BACKGROUND @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-ACCESSORIES-BP-BGS-12336W-SIE-FLT.jpg?v=1783976096&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)](https://skims.com/products/terry-medium-tote-sienna)
 
-- sienna
-
-
-[TERRY\\
-**MEDIUM TOTE** \\
-$78](https://skims.com/products/terry-medium-tote-sienna "")
+[New\\
+\\
+**TERRY**  **medium tote**\\
+\\
+$78](https://skims.com/products/terry-medium-tote-sienna)
 
 [![COTTON COVER-UPS SARONG DRESS | ONYX ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9 ](https://skims.imgix.net/s/files/1/0259/5448/4284/files/CU-DRS-11608W-ONX-JASKIMS-LOUNGEWEAR_0005-FR.webp?v=1774642598&auto=format&fp-z=1&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&q=70&ixlib=react-9.11.0)](https://skims.com/products/swim-cover-ups-cotton-sarong-dress-onyx)
 
-- onyx
-
-- snow
-
-- carmine
-
-
-[SWIM COVER-UPS\\
-**COTTON SARONG DRESS** \\
-$98](https://skims.com/products/swim-cover-ups-cotton-sarong-dress-onyx "")
+[**SWIM COVER-UPS**  **cotton sarong dress**\\
+\\
+$98$68\\
+\\
+Final Sale](https://skims.com/products/swim-cover-ups-cotton-sarong-dress-onyx)
 
 [View More Products](https://skims.com/collections/swim?direction=next&cursor=eyJsYXN0X3ZhbHVlIjoiMTEiLCJsYXN0X2lkIjoxMDI0NzAyNzc4NjA4MSwib2Zmc2V0IjoxMX0%3D)
 
 ## WE THINK YOU'D LIKE
 
-1/3
+1/2
 
-[![MENS 5" BOXER BRIEF 3-PACK](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BOXER-BO-BBR-5295M-MIR_COMPOSITE_1_grande.jpg?v=1730864083&auto=format%2Ccompress&q=70)](https://skims.com/products/skims-stretch-mens-5-inch-boxer-brief-3-pack-gunmetal-multi)
+[![TRIANGLE CAMI AND BOY SHORT SET](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-SET-9793W-ONX-FLT_grande.jpg?v=1773088674&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-lace-triangle-cami-and-boy-short-set-onyx)
 
-[SKIMS STRETCH\\
+[Best Seller\\
 \\
-**MENS 5" BOXER BRIEF 3-PACK** \\
+**FITS EVERYBODY LACE**  **triangle cami and boy short set**\\
 \\
-$54](https://skims.com/products/skims-stretch-mens-5-inch-boxer-brief-3-pack-gunmetal-multi)
+$74](https://skims.com/products/fits-everybody-lace-triangle-cami-and-boy-short-set-onyx)
 
-[![LOGO PICOT THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5958W-STT-FLT_grande.jpg?v=1739556586&auto=format%2Ccompress&q=70)](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot)
+[![BOY SHORT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PN-BOY-9315-BGT-FLT_grande.jpg?v=1774392459&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-lace-boy-short-bubble-gum-tonal)
 
-[LIGHTWEIGHT COTTON\\
+[**FITS EVERYBODY LACE**  **boy short**\\
 \\
-**LOGO PICOT THONG** \\
+$20\\
 \\
-$14](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot)
+3 for $39](https://skims.com/products/fits-everybody-lace-boy-short-bubble-gum-tonal)
 
-[![LACE THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5957W-ALUS-FLT_grande.jpg?v=1783467926&auto=format%2Ccompress&q=70)](https://skims.com/products/lightweight-cotton-lace-thong-airspace-laguna-stripe)
+[![DIPPED THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-PANTY-PN-TNG-2683-ONX_642013a9-1145-4417-839c-ca908601608c_grande.jpg?v=1685752456&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-lace-dipped-thong-onyx)
 
-[LIGHTWEIGHT COTTON\\
+[Best Seller\\
 \\
-**LACE THONG** \\
+**FITS EVERYBODY LACE**  **dipped thong**\\
 \\
-$14](https://skims.com/products/lightweight-cotton-lace-thong-airspace-laguna-stripe)
+$20\\
+\\
+3 for $39](https://skims.com/products/fits-everybody-lace-dipped-thong-onyx)
 
-[![PUSH-UP BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRA-BR-UWR-2295-ONX_grande.jpg?v=1711847312&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-push-up-bra-onyx)
+[![LACE BOY SHORT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BY-BOY-5961W-AIR-FLT_grande.jpg?v=1783554045&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-lace-boy-short-airspace)
 
-[FITS EVERYBODY\\
+[new color\\
 \\
-**PUSH-UP BRA** \\
+**LIGHTWEIGHT COTTON**  **lace boy short**\\
 \\
-$58](https://skims.com/products/fits-everybody-push-up-bra-onyx)
+$14\\
+\\
+5 for $35](https://skims.com/products/lightweight-cotton-lace-boy-short-airspace)
 
-[![T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SSL-11852W-SNOW-SKIMS-ANGEL-FLT_grande.jpg?v=1768686600&auto=format%2Ccompress&q=70)](https://skims.com/products/worn-in-jersey-t-shirt-snow-skims-angel)
+[![STRAPLESS SHORTIE BODYSUIT](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-MDT-2914-CLAY_grande.jpg?v=1740086909&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/seamless-sculpt-strapless-shortie-bodysuit-clay)
 
-[WORN IN JERSEY\\
+[Best Seller\\
 \\
-**T-SHIRT** \\
+**SEAMLESS SCULPT**  **strapless shortie bodysuit** \\
 \\
-$58$29](https://skims.com/products/worn-in-jersey-t-shirt-snow-skims-angel)
+Strong\\
+\\
+$78](https://skims.com/products/seamless-sculpt-strapless-shortie-bodysuit-clay)
 
-[![THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-THG-0028-ONX-FL_grande.jpg?v=1697138190&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-thong-onyx)
+[![WIDE LACE BRIEF](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-BRF-10656W-STT-FLT_grande.jpg?v=1775691317&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-wide-lace-brief-soot-tonal)
 
-[FITS EVERYBODY\\
+[**LIGHTWEIGHT COTTON**  **wide lace brief**\\
 \\
-**THONG** \\
+$14\\
 \\
-$20](https://skims.com/products/fits-everybody-thong-onyx)
+5 for $35](https://skims.com/products/lightweight-cotton-wide-lace-brief-soot-tonal)
 
-[![LOGO PICOT STRING BIKINI](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BK-BIK-5960W-SNO-FLT_d8ff3929-bf77-4e56-a912-0ca56096c2c4_grande.jpg?v=1783544693&auto=format%2Ccompress&q=70)](https://skims.com/products/lightweight-cotton-logo-picot-string-bikini-snow)
+[![ULTIMATE TEARDROP PUSH-UP BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-PUS-10645W-SNO-FLT_17bb31eb-daee-4408-b0fb-0b2224c28bb9_grande.jpg?v=1771368660&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/everyday-cotton-ultimate-teardrop-push-up-bra-snow)
 
-[LIGHTWEIGHT COTTON\\
+[**EVERYDAY COTTON**  **ultimate teardrop push-up bra**\\
 \\
-**LOGO PICOT STRING BIKINI** \\
-\\
-$14](https://skims.com/products/lightweight-cotton-logo-picot-string-bikini-snow)
+$64](https://skims.com/products/everyday-cotton-ultimate-teardrop-push-up-bra-snow)
 
-[![T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TSH-0649-ONX-FL_grande.jpg?v=1615492274&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-t-shirt-onyx)
+[![CLASSIC JOGGER](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-JO-JOG-8364W-WAR-FLT_grande.jpg?v=1777070020&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-fleece-classic-jogger-washed-red)
 
-[FITS EVERYBODY\\
+[**COTTON FLEECE**  **classic jogger**\\
 \\
-**T-SHIRT** \\
-\\
-$48](https://skims.com/products/fits-everybody-t-shirt-onyx)
+$88$61](https://skims.com/products/cotton-fleece-classic-jogger-washed-red)
 
-[![T-SHIRT BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRA-BR-UWR-2294-ONX_grande.jpg?v=1711846780&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-t-shirt-bra-onyx)
+[![STRAPLESS BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BAN-3151-ONX_grande.jpg?v=1714671181&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-strapless-bra-onyx)
 
-[FITS EVERYBODY\\
+[Best Seller\\
 \\
-**T-SHIRT BRA** \\
+**FITS EVERYBODY**  **strapless bra**\\
 \\
-$54](https://skims.com/products/fits-everybody-t-shirt-bra-onyx)
+$54](https://skims.com/products/fits-everybody-strapless-bra-onyx)
 
-[![RIFT MESH](https://skims.imgix.net/s/files/1/0259/5448/4284/files/NIKESKIMS-RIFT-IO7694-PHO-FLT-1_grande.jpg?v=1768373175&auto=format%2Ccompress&q=70)](https://skims.com/products/nikeskims-footwear-rift-mesh-velvet-brown)
+[![LOGO PICOT THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5958W-STT-FLT_grande.jpg?v=1739556586&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot)
 
-[NikeSKIMS FOOTWEAR\\
+[**LIGHTWEIGHT COTTON**  **logo picot thong**\\
 \\
-**RIFT MESH** \\
+$14\\
 \\
-$150](https://skims.com/products/nikeskims-footwear-rift-mesh-velvet-brown)
-
-[![T-SHIRT DEMI BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRA-BR-WRL-1889-CLY_grande.jpg?v=1753903103&auto=format%2Ccompress&q=70)](https://skims.com/products/wireless-form-t-shirt-demi-bra-clay)
-
-[WIRELESS FORM\\
-\\
-**T-SHIRT DEMI BRA** \\
-\\
-$48](https://skims.com/products/wireless-form-t-shirt-demi-bra-clay)
-
-[![SCOOP BRALETTE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-SCP-2690-ONX_219d1370-2212-40d1-a169-928b12961a2b_grande.jpg?v=1705537516&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx)
-
-[FITS EVERYBODY LACE\\
-\\
-**SCOOP BRALETTE** \\
-\\
-$38](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx)
-
-[![SCOOP BRALETTE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BRL-10643W-PEO-FLT_grande.jpg?v=1781299212&auto=format%2Ccompress&q=70)](https://skims.com/products/everyday-cotton-scoop-bralette-peony)
-
-[EVERYDAY COTTON\\
-\\
-**SCOOP BRALETTE** \\
-\\
-$34](https://skims.com/products/everyday-cotton-scoop-bralette-peony)
-
-[![LACE BRIEF](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BR-BRF-5963W-STT-FLT_grande.jpg?v=1739556467&auto=format%2Ccompress&q=70)](https://skims.com/products/lightweight-cotton-lace-brief-soot)
-
-[LIGHTWEIGHT COTTON\\
-\\
-**LACE BRIEF** \\
-\\
-$14](https://skims.com/products/lightweight-cotton-lace-brief-soot)
-
-[![PICOT CAMI AND BOY SHORT SET](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TH-THG-8785W-UPK-FLT_grande.jpg?v=1782333213&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-picot-cami-and-boy-short-set-ultra-pink)
-
-[FITS EVERYBODY\\
-\\
-**PICOT CAMI AND BOY SHORT SET** \\
-\\
-$74](https://skims.com/products/fits-everybody-picot-cami-and-boy-short-set-ultra-pink)
-
-[![TANK](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TNK-0038-CMB_grande.jpg?v=1767132298&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-rib-tank-cherry-blossom)
-
-[COTTON RIB\\
-\\
-**TANK** \\
-\\
-$38](https://skims.com/products/cotton-rib-tank-cherry-blossom)
-
-[![FOLDOVER CAPRI](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BO-PAN-6154W-SOT-FLT_d932f97e-6728-4ad2-8578-5fafcc3dda03_grande.jpg?v=1782756808&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-jersey-foldover-capri-soot)
-
-[COTTON JERSEY\\
-\\
-**FOLDOVER CAPRI** \\
-\\
-$64](https://skims.com/products/cotton-jersey-foldover-capri-soot)
-
-[![RIFT SATIN](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-NIKE-IQ7158-OBS-1_grande.jpg?v=1769303619&auto=format%2Ccompress&q=70)](https://skims.com/products/nikeskims-footwear-rift-satin-black)
-
-[NikeSKIMS FOOTWEAR\\
-\\
-**RIFT SATIN** \\
-\\
-$160](https://skims.com/products/nikeskims-footwear-rift-satin-black)
+5 for $35](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot)
 
 ![](https://skims-sanity.imgix.net/images/hfqi0zm0/production/2a77aeeb62ae7cb081ed1f3e6c1838c1f2895b35-959x840.webp?auto=format&q=70&ixlib=react-9.11.0)
 
@@ -402,85 +240,83 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![BALCONETTE PUSH-UP BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-ONX-FLT_grande.jpg?v=1739333659&auto=format%2Ccompress&q=70)](https://skims.com/products/skims-ultimate-balconette-push-up-bra-onyx)
+[![CAMI SET](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-SST-7819W-PEBU-FLT_281_29_33bce6b4-4b74-4ce6-9bfa-38970a64e304_grande.jpg?v=1784156228&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/skims-sleep-cami-set-peony-butterfly-print)
 
-[SKIMS ULTIMATE\\
+[**SKIMS SLEEP**  **cami set**\\
 \\
-**BALCONETTE PUSH-UP BRA** \\
-\\
-$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-onyx)
+$78](https://skims.com/products/skims-sleep-cami-set-peony-butterfly-print)
 
-[![DIPPED THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-PANTY-PN-TNG-2683-ONX_642013a9-1145-4417-839c-ca908601608c_grande.jpg?v=1685752456&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-lace-dipped-thong-onyx)
+[![SCOOP BRALETTE](https://skims.imgix.net/s/files/1/0259/5448/4284/products/BR-SCN-0025-ONX-FL_grande.jpg?v=1711846398&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-scoop-bralette-onyx)
 
-[FITS EVERYBODY LACE\\
+[**FITS EVERYBODY**  **scoop bralette**\\
 \\
-**DIPPED THONG** \\
-\\
-$20](https://skims.com/products/fits-everybody-lace-dipped-thong-onyx)
+$34](https://skims.com/products/fits-everybody-scoop-bralette-onyx)
 
-[![UNLINED SCOOP BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BA-DEM-9062-BGT-FLT_grande.jpg?v=1774392125&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-bubble-gum-tonal)
+[![T-SHIRT BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRA-BR-UWR-2294-ONX_grande.jpg?v=1711846780&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-t-shirt-bra-onyx)
 
-[FITS EVERYBODY LACE\\
+[Best Seller\\
 \\
-**UNLINED SCOOP BRA** \\
+**FITS EVERYBODY**  **t-shirt bra**\\
 \\
-$54](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-bubble-gum-tonal)
+$54](https://skims.com/products/fits-everybody-t-shirt-bra-onyx)
 
-[![LACE THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5957W-ALUS-FLT_grande.jpg?v=1783467926&auto=format%2Ccompress&q=70)](https://skims.com/products/lightweight-cotton-lace-thong-airspace-laguna-stripe)
+[![WIDE LACE THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10655W-SNO-FLT_39a90ea7-2438-4e65-a2a3-e6e4e0543937_grande.jpg?v=1775673227&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-wide-lace-thong-snow)
 
-[LIGHTWEIGHT COTTON\\
+[**LIGHTWEIGHT COTTON**  **wide lace thong**\\
 \\
-**LACE THONG** \\
+$12\\
 \\
-$14](https://skims.com/products/lightweight-cotton-lace-thong-airspace-laguna-stripe)
+5 for $35](https://skims.com/products/lightweight-cotton-wide-lace-thong-snow)
 
-[![TEARDROP PUSH-UP BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-1881-CLY_d367fbfd-1b41-43ab-802e-592ed06a79dc_grande.jpg?v=1752524627&auto=format%2Ccompress&q=70)](https://skims.com/products/skims-ultimate-teardrop-push-up-bra-clay)
+[![LACE BRIEF](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BR-BRF-5963W-STT-FLT_grande.jpg?v=1739556467&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-lace-brief-soot)
 
-[SKIMS ULTIMATE\\
+[**LIGHTWEIGHT COTTON**  **lace brief**\\
 \\
-**TEARDROP PUSH-UP BRA** \\
+$14\\
 \\
-$64](https://skims.com/products/skims-ultimate-teardrop-push-up-bra-clay)
+5 for $35](https://skims.com/products/lightweight-cotton-lace-brief-soot)
 
-[![STRING THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-PANTY-PN-TNG-2684-ONX_00fa50ec-f718-4a4d-9191-cec3206775ed_grande.jpg?v=1685752457&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-lace-string-thong-onyx)
+[![POINTELLE LACE BRIEF](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BR-BRF-8499W-SPEP-FLT_grande.jpg?v=1783547307&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-pointelle-lace-brief-snow-peony-pin-dot)
 
-[FITS EVERYBODY LACE\\
+[new color\\
 \\
-**STRING THONG** \\
+**LIGHTWEIGHT COTTON**  **pointelle lace brief**\\
 \\
-$20](https://skims.com/products/fits-everybody-lace-string-thong-onyx)
+$14\\
+\\
+5 for $35](https://skims.com/products/lightweight-cotton-pointelle-lace-brief-snow-peony-pin-dot)
 
-[![UNLINED DEMI BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-2293-SIE_grande.jpg?v=1691774691&auto=format%2Ccompress&q=70)](https://skims.com/products/fits-everybody-unlined-demi-bra-sienna)
+[![T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-SOT-FLT_337890eb-b813-4d8c-b4fd-b94fb1ae7e59_grande.jpg?v=1767136369&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-jersey-t-shirt-soot)
 
-[FITS EVERYBODY\\
+[Best Seller\\
 \\
-**UNLINED DEMI BRA** \\
+**COTTON JERSEY**  **t-shirt**\\
 \\
-$48](https://skims.com/products/fits-everybody-unlined-demi-bra-sienna)
+$48](https://skims.com/products/cotton-jersey-t-shirt-soot)
 
-[![THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10647W-ONX-FLT_de74e74b-0169-4881-a79c-8d9a0cc5dabc_grande.jpg?v=1774284532&auto=format%2Ccompress&q=70)](https://skims.com/products/everyday-cotton-thong-onyx)
+[![STRING THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PN-THG-9370-BGT-FLT_grande.jpg?v=1774392244&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-lace-string-thong-bubble-gum-tonal)
 
-[EVERYDAY COTTON\\
+[**FITS EVERYBODY LACE**  **string thong**\\
 \\
-**THONG** \\
+$20\\
 \\
-$18](https://skims.com/products/everyday-cotton-thong-onyx)
+3 for $39](https://skims.com/products/fits-everybody-lace-string-thong-bubble-gum-tonal)
 
-[![TANK](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TNK-0038-CMB_grande.jpg?v=1767132298&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-rib-tank-cherry-blossom)
+[![TANGA BIKINI BOTTOM](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SIGNATURESWIM-BB-TNG-8472W-ALB-FLT_grande.jpg?v=1774643149&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/signature-swim-tanga-bikini-bottom-almond-bandana)
 
-[COTTON RIB\\
+[**SIGNATURE SWIM**  **tanga bikini bottom**\\
 \\
-**TANK** \\
-\\
-$38](https://skims.com/products/cotton-rib-tank-cherry-blossom)
+$42$29](https://skims.com/products/signature-swim-tanga-bikini-bottom-almond-bandana)
 
-[![T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0815-LHG_grande.jpg?v=1714175037&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-rib-t-shirt-light-heather-grey)
+[![POINTELLE LACE STRING THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-11112W-STT-FLT_grande.jpg?v=1775161412&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-soot-tonal)
 
-[COTTON RIB\\
+[Best Seller\\
 \\
-**T-SHIRT** \\
+**LIGHTWEIGHT COTTON**  **pointelle lace string thong**\\
 \\
-$48](https://skims.com/products/cotton-rib-t-shirt-light-heather-grey)
+$14\\
+\\
+5 for $35](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-soot-tonal)
 
 New
 

@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-08-03T09:27:07.101227+00:00
+scraped_at: 2026-08-10T07:14:33.551234+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -23,27 +23,19 @@ LATEST ON VOGUE
 
 [![What Could Better Brand-Supplier Relationships Look Like?](https://assets.vogue.com/photos/6a60db7f2fa8bc7633a17f6a/1:1/w_640%2Cc_limit/undefined)\\
 \\
-What Could Better Brand-Supplier Relationships Look Like?](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1 "What Could Better Brand-Supplier Relationships Look Like?")
-
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1 "The Vogue Business People Moves Tracker")
+What Could Better Brand-Supplier Relationships Look Like?](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1 "What Could Better Brand-Supplier Relationships Look Like?")
 
 [![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1 "The Vogue Business Funding Tracker")
+The Vogue Business Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1 "The Vogue Business Funding Tracker")
+
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1 "The Vogue Business People Moves Tracker")
 
 [![The Ongoing Probe Into Italy’s Supply Chains, Explained](https://assets.vogue.com/photos/6a5f9e97c0062590e8828195/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Ongoing Probe Into Italy’s Supply Chains, Explained](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1 "The Ongoing Probe Into Italy’s Supply Chains, Explained")
-
-[![The Vogue Business Spring/Summer 2027 Menswear Size Inclusivity Report](https://assets.vogue.com/photos/6a47db42dd42bc319730fdfa/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Vogue Business Spring/Summer 2027 Menswear Size Inclusivity Report](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-menswear-size-inclusivity-report#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1 "The Vogue Business Spring/Summer 2027 Menswear Size Inclusivity Report")
-
-[![Reformation Spoofs The Big Short’s Bathtub Scene to Seduce Investors](https://assets.vogue.com/photos/6a608523fe4e7a05075c7ed6/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Reformation Spoofs The Big Short’s Bathtub Scene to Seduce Investors](https://www.vogue.com/article/reformation-is-seducing-investors-the-big-short-style#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1 "Reformation Spoofs The Big Short’s Bathtub Scene to Seduce Investors")
+The Ongoing Probe Into Italy’s Supply Chains, Explained](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1 "The Ongoing Probe Into Italy’s Supply Chains, Explained")
 
 ArrowArrow
 
@@ -86,7 +78,7 @@ Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skim
 
 Most Popular
 
-- [![LVMH Sells Patou to Previous Owner Dilesh Mehta](https://assets.vogue.com/photos/6a6cbe72a483614ae77c2cc1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
+- [![Why Trendsetting South Korea Remains a Gem for Luxury](https://assets.vogue.com/photos/6a734890d6ea9933120d63ec/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
 
 
 
@@ -96,13 +88,13 @@ Most Popular
 
 
 
-Companies
+Global Markets
 
 
 
 
 
-[LVMH Sells Patou to Previous Owner Dilesh Mehta](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
+[Why Trendsetting South Korea Remains a Gem for Luxury](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
 
 
 
@@ -110,9 +102,9 @@ Companies
 
 
 
-By Laure Guilbault
+By Kati Chitrakorn
 
-- [![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
+- [![4 Key Takeaways From Copenhagen Fashion Week SS27](https://assets.vogue.com/photos/6a760297db3d4f7ba25e3d49/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
 
 
 
@@ -122,13 +114,13 @@ By Laure Guilbault
 
 
 
-Fashion Industry Trends
+Business
 
 
 
 
 
-[Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
+[4 Key Takeaways From Copenhagen Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
 
 
 
@@ -136,9 +128,9 @@ Fashion Industry Trends
 
 
 
-By Ashley Ogawa Clarke
+By Bella Webb
 
-- [![Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://assets.vogue.com/photos/6a6cc75e6bbece1ef5912f48/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2_fallback_cral-top2-2)
+- [![Less Perfect, More Practical: Diamonds’ New Path Forward](https://assets.vogue.com/photos/6a7466e8359ce11a95d508b5/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
 
 
 
@@ -148,13 +140,13 @@ By Ashley Ogawa Clarke
 
 
 
-Fashion
+Business
 
 
 
 
 
-[Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2_fallback_cral-top2-2)
+[Less Perfect, More Practical: Diamonds’ New Path Forward](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
 
 
 
@@ -162,7 +154,7 @@ Fashion
 
 
 
-By Joe Bobowicz
+By Milena Martins-Alexandre
 
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
@@ -192,7 +184,7 @@ Skims
 
 Most Popular
 
-- [![LVMH Sells Patou to Previous Owner Dilesh Mehta](https://assets.vogue.com/photos/6a6cbe72a483614ae77c2cc1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
+- [![Why Trendsetting South Korea Remains a Gem for Luxury](https://assets.vogue.com/photos/6a734890d6ea9933120d63ec/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
 
 
 
@@ -202,13 +194,13 @@ Most Popular
 
 
 
-Companies
+Global Markets
 
 
 
 
 
-[LVMH Sells Patou to Previous Owner Dilesh Mehta](https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
+[Why Trendsetting South Korea Remains a Gem for Luxury](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
 
 
 
@@ -216,9 +208,9 @@ Companies
 
 
 
-By Laure Guilbault
+By Kati Chitrakorn
 
-- [![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
+- [![4 Key Takeaways From Copenhagen Fashion Week SS27](https://assets.vogue.com/photos/6a760297db3d4f7ba25e3d49/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
 
 
 
@@ -228,13 +220,13 @@ By Laure Guilbault
 
 
 
-Fashion Industry Trends
+Business
 
 
 
 
 
-[Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2)
+[4 Key Takeaways From Copenhagen Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
 
 
 
@@ -242,9 +234,9 @@ Fashion Industry Trends
 
 
 
-By Ashley Ogawa Clarke
+By Bella Webb
 
-- [![Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://assets.vogue.com/photos/6a6cc75e6bbece1ef5912f48/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2_fallback_cral-top2-2)
+- [![Less Perfect, More Practical: Diamonds’ New Path Forward](https://assets.vogue.com/photos/6a7466e8359ce11a95d508b5/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
 
 
 
@@ -254,13 +246,13 @@ By Ashley Ogawa Clarke
 
 
 
-Fashion
+Business
 
 
 
 
 
-[Consumers Are Fatigued, Influencers Are Burnt Out. What Now?](https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now#intcid=_vogue-right-rail_4794f530-f898-4c1b-87ef-7da390867f6b_popular4-2_fallback_cral-top2-2)
+[Less Perfect, More Practical: Diamonds’ New Path Forward](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
 
 
 
@@ -268,7 +260,7 @@ Fashion
 
 
 
-By Joe Bobowicz
+By Milena Martins-Alexandre
 
 
 Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
@@ -294,34 +286,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![What Could Better Brand-Supplier Relationships Look Like?](https://assets.vogue.com/photos/6a60db7f2fa8bc7633a17f6a/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
+[![What Could Better Brand-Supplier Relationships Look Like?](https://assets.vogue.com/photos/6a60db7f2fa8bc7633a17f6a/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
 
 Sustainability
 
-[What Could Better Brand-Supplier Relationships Look Like?](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
+[What Could Better Brand-Supplier Relationships Look Like?](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
 
 By Sophie Benson
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
+[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
 
 Companies
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
+[The _Vogue Business_ Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
 
 By Vogue Business Team
 
-[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
 
 Companies
 
-[The _Vogue Business_ Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
 
 By Vogue Business Team
 
-[![The Ongoing Probe Into Italy’s Supply Chains, Explained](https://assets.vogue.com/photos/6a5f9e97c0062590e8828195/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
+[![The Ongoing Probe Into Italy’s Supply Chains, Explained](https://assets.vogue.com/photos/6a5f9e97c0062590e8828195/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
 
 Sustainability
 
-[The Ongoing Probe Into Italy’s Supply Chains, Explained](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc-bkt-a_e7895bd7-afb8-4da7-a60f-a2241540d070_text2vec1_fallback_roberta-similarity1)
+[The Ongoing Probe Into Italy’s Supply Chains, Explained](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
 
 By Bella Webb
