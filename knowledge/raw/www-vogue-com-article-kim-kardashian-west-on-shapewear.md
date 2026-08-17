@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-08-10T07:14:33.551234+00:00
+scraped_at: 2026-08-17T06:36:43.358335+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -18,26 +18,6 @@ In business terms, it’s worked out pretty well. In June, Kardashian West sold 
 The first hint of a move into the shapewear market dates back to January 2019 when Kardashian West flew to Miami for a Met Gala fitting with designer Manfred Thierry Mugler. An Instagram post of herself, with Mugler, showed her wearing nothing but a nude tank top and cycling shorts. What the 1.8 million people who liked the post didn’t know was that Kardashian West was wearing early samples of Skims.
 
 The brand has signalled a buzzy new era for shapewear. It features nine shades and sizing from XXS to XXXXXL, all wrapped around the alluring marketing clout of one of the world’s top media celebrities (count those 190 million Instagram followers) — attracting a broader audience than a typical shapewear brand. Skims has built an Instagram following of 2.1 million in double-quick time.
-
-LATEST ON VOGUE
-
-[![What Could Better Brand-Supplier Relationships Look Like?](https://assets.vogue.com/photos/6a60db7f2fa8bc7633a17f6a/1:1/w_640%2Cc_limit/undefined)\\
-\\
-What Could Better Brand-Supplier Relationships Look Like?](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1 "What Could Better Brand-Supplier Relationships Look Like?")
-
-[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Vogue Business Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1 "The Vogue Business Funding Tracker")
-
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1 "The Vogue Business People Moves Tracker")
-
-[![The Ongoing Probe Into Italy’s Supply Chains, Explained](https://assets.vogue.com/photos/6a5f9e97c0062590e8828195/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Ongoing Probe Into Italy’s Supply Chains, Explained](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1 "The Ongoing Probe Into Italy’s Supply Chains, Explained")
-
-ArrowArrow
 
 Kardashian West is keen to focus on the design qualities of the collection as much as her marketing appeal. “In the past, people might assume that shapewear is more like girdles — something that’s extremely uncomfortable,” she says. “I’ve worn corsets for events, I know how uncomfortable it is. That’s not the vibe of what I wanted.”
 
@@ -70,92 +50,7 @@ For shapewear brands, business remains challenging. Shapewear new arrivals at US
 
 Shapewear has tended to change little from year to year in design terms. That’s where Skims’s use of the drop model has changed the parameters — drawing on the similar model of KKW Beauty. Skims products sell out more rapidly than other players, says Marci. Discounting has proven unnecessary.
 
-#### Content
-
-To honor your privacy preferences, this content can only be viewed on the site it [originates](https://www.youtube-nocookie.com/embed/Ws05I4vZKOM) from.
-
 Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skims one year anniversary campaign.
-
-Most Popular
-
-- [![Why Trendsetting South Korea Remains a Gem for Luxury](https://assets.vogue.com/photos/6a734890d6ea9933120d63ec/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
-
-
-
-
-
-
-
-
-
-Global Markets
-
-
-
-
-
-[Why Trendsetting South Korea Remains a Gem for Luxury](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
-
-
-
-
-
-
-
-By Kati Chitrakorn
-
-- [![4 Key Takeaways From Copenhagen Fashion Week SS27](https://assets.vogue.com/photos/6a760297db3d4f7ba25e3d49/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
-
-
-
-
-
-
-
-
-
-Business
-
-
-
-
-
-[4 Key Takeaways From Copenhagen Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
-
-
-
-
-
-
-
-By Bella Webb
-
-- [![Less Perfect, More Practical: Diamonds’ New Path Forward](https://assets.vogue.com/photos/6a7466e8359ce11a95d508b5/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
-
-
-
-
-
-
-
-
-
-Business
-
-
-
-
-
-[Less Perfect, More Practical: Diamonds’ New Path Forward](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
-
-
-
-
-
-
-
-By Milena Martins-Alexandre
-
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
 
@@ -182,87 +77,6 @@ Not so long ago, shapewear was not considered particularly body positive or femi
 Skims launched bridal and maternity Solutionwear lines in September.
 Skims
 
-Most Popular
-
-- [![Why Trendsetting South Korea Remains a Gem for Luxury](https://assets.vogue.com/photos/6a734890d6ea9933120d63ec/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
-
-
-
-
-
-
-
-
-
-Global Markets
-
-
-
-
-
-[Why Trendsetting South Korea Remains a Gem for Luxury](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
-
-
-
-
-
-
-
-By Kati Chitrakorn
-
-- [![4 Key Takeaways From Copenhagen Fashion Week SS27](https://assets.vogue.com/photos/6a760297db3d4f7ba25e3d49/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
-
-
-
-
-
-
-
-
-
-Business
-
-
-
-
-
-[4 Key Takeaways From Copenhagen Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
-
-
-
-
-
-
-
-By Bella Webb
-
-- [![Less Perfect, More Practical: Diamonds’ New Path Forward](https://assets.vogue.com/photos/6a7466e8359ce11a95d508b5/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
-
-
-
-
-
-
-
-
-
-Business
-
-
-
-
-
-[Less Perfect, More Practical: Diamonds’ New Path Forward](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_29aaa3b1-4196-4285-b509-d5fde8ed5c94_popular4-2)
-
-
-
-
-
-
-
-By Milena Martins-Alexandre
-
-
 Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
 
 For its one-year anniversary campaign, Kardashian West enlisted Gen Z favourites like TikToker Addison Rae alongside fans of Skims to pose in individual billboard campaigns showing the product on people of all ages, sizes and ethnicities.
@@ -286,34 +100,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![What Could Better Brand-Supplier Relationships Look Like?](https://assets.vogue.com/photos/6a60db7f2fa8bc7633a17f6a/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
+
+Companies
+
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
+
+By Vogue Business Team
+
+[![What Could Better Brand-Supplier Relationships Look Like?](https://assets.vogue.com/photos/6a60db7f2fa8bc7633a17f6a/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
 
 Sustainability
 
-[What Could Better Brand-Supplier Relationships Look Like?](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
+[What Could Better Brand-Supplier Relationships Look Like?](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
 
 By Sophie Benson
 
-[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
+[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
 
 Companies
 
-[The _Vogue Business_ Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
+[The _Vogue Business_ Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
 
 By Vogue Business Team
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
-
-Companies
-
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
-
-By Vogue Business Team
-
-[![The Ongoing Probe Into Italy’s Supply Chains, Explained](https://assets.vogue.com/photos/6a5f9e97c0062590e8828195/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
+[![The Ongoing Probe Into Italy’s Supply Chains, Explained](https://assets.vogue.com/photos/6a5f9e97c0062590e8828195/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
 
 Sustainability
 
-[The Ongoing Probe Into Italy’s Supply Chains, Explained](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc_9ad024bd-9559-476b-a469-dc6cef6ffa2e_text2vec1_fallback_roberta-similarity1)
+[The Ongoing Probe Into Italy’s Supply Chains, Explained](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
 
 By Bella Webb

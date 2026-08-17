@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-08-10T07:14:37.842882+00:00
+scraped_at: 2026-08-17T06:36:47.954055+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -21,29 +21,29 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 
 LATEST ON VOGUE
 
-[![Why Trendsetting South Korea Remains a Gem for Luxury](https://assets.vogue.com/photos/6a734890d6ea9933120d63ec/1:1/w_640%2Cc_limit/undefined)\\
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a7da444b8654535e2bfc078/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Why Trendsetting South Korea Remains a Gem for Luxury](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2 "Why Trendsetting South Korea Remains a Gem for Luxury")
+The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2 "The Vogue Business Beauty Trend Tracker")
 
-[![4 Key Takeaways From Copenhagen Fashion Week SS27](https://assets.vogue.com/photos/6a760297db3d4f7ba25e3d49/1:1/w_640%2Cc_limit/undefined)\\
+[![How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business](https://assets.vogue.com/photos/6a7df8c4b8654535e2bfc462/1:1/w_640%2Cc_limit/undefined)\\
 \\
-4 Key Takeaways From Copenhagen Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2 "4 Key Takeaways From Copenhagen Fashion Week SS27")
+How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business](https://www.vogue.com/article/how-wonderskin-turned-tiktok-fame-into-a-dollar200-million-beauty-business#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2 "How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business")
 
-[![Less Perfect, More Practical: Diamonds’ New Path Forward](https://assets.vogue.com/photos/6a7466e8359ce11a95d508b5/1:1/w_640%2Cc_limit/undefined)\\
+[![How to Attract Gen Z’s New Club Kids](https://assets.vogue.com/photos/6a7dae1185167c013e4ff1d0/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Less Perfect, More Practical: Diamonds’ New Path Forward](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2 "Less Perfect, More Practical: Diamonds’ New Path Forward")
+How to Attract Gen Z’s New Club Kids](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2 "How to Attract Gen Z’s New Club Kids")
 
-[![How to Build Your Personal Brand](https://assets.vogue.com/photos/6a71a6f998f652db94fb763c/1:1/w_640%2Cc_limit/undefined)\\
+[![Carmen Busquets Partners with Parsons on Award for Disabled Students](https://assets.vogue.com/photos/6a7b3b59e94a156ac7e347de/1:1/w_640%2Cc_limit/undefined)\\
 \\
-How to Build Your Personal Brand](https://www.vogue.com/article/how-to-build-your-personal-brand#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2 "How to Build Your Personal Brand")
+Carmen Busquets Partners with Parsons on Award for Disabled Students](https://www.vogue.com/article/carmen-busquets-partners-with-parsons-on-award-for-disabled-students#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2 "Carmen Busquets Partners with Parsons on Award for Disabled Students")
 
-[![Morgane Sézalory Is Introducing a More Mature Sézane](https://assets.vogue.com/photos/6a75f4bef9fbd3517250bfde/1:1/w_640%2Cc_limit/undefined)\\
+[![Tapestry Revenues Climb 11% in Q4 on Coach Gains](https://assets.vogue.com/photos/6a7df3c57c43c883a806bf32/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Morgane Sézalory Is Introducing a More Mature Sézane](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_cral-top2-2 "Morgane Sézalory Is Introducing a More Mature Sézane")
+Tapestry Revenues Climb 11% in Q4 on Coach Gains](https://www.vogue.com/article/tapestry-revenues-climb-11-in-q4-on-coach-gains#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2 "Tapestry Revenues Climb 11% in Q4 on Coach Gains")
 
-[![The Meaning of Consent in the Age of Content](https://assets.vogue.com/photos/6a75f6d15d3cdb5f50b94d9c/1:1/w_640%2Cc_limit/undefined)\\
+[![Frasers Group Acquires Harvey Nichols](https://assets.vogue.com/photos/6a7c5fa6609000192b841386/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Meaning of Consent in the Age of Content](https://www.vogue.com/article/the-meaning-of-consent-in-the-age-of-content#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_cral-top2-2 "The Meaning of Consent in the Age of Content")
+Frasers Group Acquires Harvey Nichols](https://www.vogue.com/article/frasers-group-to-acquire-retailer-harvey-nichols#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2 "Frasers Group Acquires Harvey Nichols")
 
 ArrowArrow
 
@@ -78,7 +78,7 @@ Photos: Courtesy of Nike
 
 Most Popular
 
-- [![Why Trendsetting South Korea Remains a Gem for Luxury](https://assets.vogue.com/photos/6a734890d6ea9933120d63ec/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
+- [![How Exclusive Access Became the New Birkin](https://assets.vogue.com/photos/6a7ca1408ae678a697559eb4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-exclusive-access-became-the-new-birkin#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
 
 
 
@@ -88,13 +88,13 @@ Most Popular
 
 
 
-Global Markets
+Companies
 
 
 
 
 
-[Why Trendsetting South Korea Remains a Gem for Luxury](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
+[How Exclusive Access Became the New Birkin](https://www.vogue.com/article/how-exclusive-access-became-the-new-birkin#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
 
 
 
@@ -102,9 +102,9 @@ Global Markets
 
 
 
-By Kati Chitrakorn
+By Amy Francombe
 
-- [![4 Key Takeaways From Copenhagen Fashion Week SS27](https://assets.vogue.com/photos/6a760297db3d4f7ba25e3d49/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
+- [![How to Attract Gen Z’s New Club Kids](https://assets.vogue.com/photos/6a7dae1185167c013e4ff1d0/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
 
 
 
@@ -114,13 +114,13 @@ By Kati Chitrakorn
 
 
 
-Business
+Fashion Industry Trends
 
 
 
 
 
-[4 Key Takeaways From Copenhagen Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
+[How to Attract Gen Z’s New Club Kids](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
 
 
 
@@ -128,9 +128,9 @@ Business
 
 
 
-By Bella Webb
+By Kyle MacNeill
 
-- [![Less Perfect, More Practical: Diamonds’ New Path Forward](https://assets.vogue.com/photos/6a7466e8359ce11a95d508b5/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
+- [![Morgane Sézalory Is Introducing a More Mature Sézane](https://assets.vogue.com/photos/6a75f4bef9fbd3517250bfde/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
 
 
 
@@ -140,13 +140,13 @@ By Bella Webb
 
 
 
-Business
+Executive Interviews
 
 
 
 
 
-[Less Perfect, More Practical: Diamonds’ New Path Forward](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
+[Morgane Sézalory Is Introducing a More Mature Sézane](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
 
 
 
@@ -154,7 +154,7 @@ Business
 
 
 
-By Milena Martins-Alexandre
+By Hilary Milnes
 
 
 It also signals Nike’s commitment to developing technical products for women. Product innovation has been a pain point for Nike in recent years, Yarbrough says. Hill [acknowledged this](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December’s earnings; it forms the foundation of his turnaround strategy. In partnering with Skims on a joint brand, Nike is able to gain access to womenswear tech to help it rival the Alos and Lululemons of the world, which, Yarbrough says, would otherwise likely take Nike several years to develop, manufacture and scale. “This accelerates that path for Nike to compete with some of these other brands that have been growing rapidly.” It’s a smart shortcut, Hastings-Narayanin says.
@@ -171,7 +171,7 @@ These days, consumers want products that work, experts agree, so emphasis needs 
 
 Most Popular
 
-- [![Why Trendsetting South Korea Remains a Gem for Luxury](https://assets.vogue.com/photos/6a734890d6ea9933120d63ec/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
+- [![How Exclusive Access Became the New Birkin](https://assets.vogue.com/photos/6a7ca1408ae678a697559eb4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-exclusive-access-became-the-new-birkin#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
 
 
 
@@ -181,13 +181,13 @@ Most Popular
 
 
 
-Global Markets
+Companies
 
 
 
 
 
-[Why Trendsetting South Korea Remains a Gem for Luxury](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
+[How Exclusive Access Became the New Birkin](https://www.vogue.com/article/how-exclusive-access-became-the-new-birkin#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
 
 
 
@@ -195,9 +195,9 @@ Global Markets
 
 
 
-By Kati Chitrakorn
+By Amy Francombe
 
-- [![4 Key Takeaways From Copenhagen Fashion Week SS27](https://assets.vogue.com/photos/6a760297db3d4f7ba25e3d49/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
+- [![How to Attract Gen Z’s New Club Kids](https://assets.vogue.com/photos/6a7dae1185167c013e4ff1d0/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
 
 
 
@@ -207,13 +207,13 @@ By Kati Chitrakorn
 
 
 
-Business
+Fashion Industry Trends
 
 
 
 
 
-[4 Key Takeaways From Copenhagen Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
+[How to Attract Gen Z’s New Club Kids](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
 
 
 
@@ -221,9 +221,9 @@ Business
 
 
 
-By Bella Webb
+By Kyle MacNeill
 
-- [![Less Perfect, More Practical: Diamonds’ New Path Forward](https://assets.vogue.com/photos/6a7466e8359ce11a95d508b5/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
+- [![Morgane Sézalory Is Introducing a More Mature Sézane](https://assets.vogue.com/photos/6a75f4bef9fbd3517250bfde/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
 
 
 
@@ -233,13 +233,13 @@ By Bella Webb
 
 
 
-Business
+Executive Interviews
 
 
 
 
 
-[Less Perfect, More Practical: Diamonds’ New Path Forward](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-right-rail_8a7a5689-ad44-48c0-8df0-170a2e97e7ff_popular4-2)
+[Morgane Sézalory Is Introducing a More Mature Sézane](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
 
 
 
@@ -247,7 +247,7 @@ Business
 
 
 
-By Milena Martins-Alexandre
+By Hilary Milnes
 
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
@@ -272,34 +272,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![Why Trendsetting South Korea Remains a Gem for Luxury](https://assets.vogue.com/photos/6a734890d6ea9933120d63ec/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a7da444b8654535e2bfc078/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
 
-Global Markets
+Beauty
 
-[Why Trendsetting South Korea Remains a Gem for Luxury](https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
 
-By Kati Chitrakorn
+By Vogue Business Team
 
-[![4 Key Takeaways From Copenhagen Fashion Week SS27](https://assets.vogue.com/photos/6a760297db3d4f7ba25e3d49/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+[![How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business](https://assets.vogue.com/photos/6a7df8c4b8654535e2bfc462/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-wonderskin-turned-tiktok-fame-into-a-dollar200-million-beauty-business#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
 
-Business
+Beauty
 
-[4 Key Takeaways From Copenhagen Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+[How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business](https://www.vogue.com/article/how-wonderskin-turned-tiktok-fame-into-a-dollar200-million-beauty-business#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
 
-By Bella Webb
+By Amy Francombe
 
-[![Less Perfect, More Practical: Diamonds’ New Path Forward](https://assets.vogue.com/photos/6a7466e8359ce11a95d508b5/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+[![How to Attract Gen Z’s New Club Kids](https://assets.vogue.com/photos/6a7dae1185167c013e4ff1d0/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
 
-Business
+Fashion Industry Trends
 
-[Less Perfect, More Practical: Diamonds’ New Path Forward](https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+[How to Attract Gen Z’s New Club Kids](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
 
-By Milena Martins-Alexandre
+By Kyle MacNeill
 
-[![How to Build Your Personal Brand](https://assets.vogue.com/photos/6a71a6f998f652db94fb763c/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-build-your-personal-brand#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+[![Carmen Busquets Partners with Parsons on Award for Disabled Students](https://assets.vogue.com/photos/6a7b3b59e94a156ac7e347de/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/carmen-busquets-partners-with-parsons-on-award-for-disabled-students#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
 
-Companies
+Executive Interviews
 
-[How to Build Your Personal Brand](https://www.vogue.com/article/how-to-build-your-personal-brand#intcid=_vogue-article-bottom-recirc-bkt-a_e6538f75-0059-4a8a-bdb7-3718664004bc_text2vec1_fallback_popular4-2)
+[Carmen Busquets Partners with Parsons on Award for Disabled Students](https://www.vogue.com/article/carmen-busquets-partners-with-parsons-on-award-for-disabled-students#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
 
-By Cami Fateh
+By Hilary Milnes
