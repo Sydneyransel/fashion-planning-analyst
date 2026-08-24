@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-08-17T06:36:47.954055+00:00
+scraped_at: 2026-08-24T06:39:39.843373+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -21,29 +21,21 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 
 LATEST ON VOGUE
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a7da444b8654535e2bfc078/1:1/w_640%2Cc_limit/undefined)\\
+[![Inside Ubrique: The Small Spanish Town Dominating Luxury Leather](https://assets.vogue.com/photos/6a6a2d576a166354b4544e31/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2 "The Vogue Business Beauty Trend Tracker")
+Inside Ubrique: The Small Spanish Town Dominating Luxury Leather](https://www.vogue.com/article/inside-ubrique-the-small-spanish-town-dominating-luxury-leather#intcid=_vogue-article-bottom-recirc_6e53488f-45ac-4a3f-bf98-ffca62e21bc7_text2vec1_fallback_modern-bert "Inside Ubrique: The Small Spanish Town Dominating Luxury Leather")
 
-[![How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business](https://assets.vogue.com/photos/6a7df8c4b8654535e2bfc462/1:1/w_640%2Cc_limit/undefined)\\
+[![We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why](https://assets.vogue.com/photos/6a68c6db4e8db1ed5e9e3d61/1:1/w_640%2Cc_limit/undefined)\\
 \\
-How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business](https://www.vogue.com/article/how-wonderskin-turned-tiktok-fame-into-a-dollar200-million-beauty-business#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2 "How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business")
+We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why](https://www.vogue.com/article/were-all-on-a-mediterranean-beauty-diet-this-summer-heres-why#intcid=_vogue-article-bottom-recirc_6e53488f-45ac-4a3f-bf98-ffca62e21bc7_text2vec1_fallback_modern-bert "We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why")
 
-[![How to Attract Gen Z’s New Club Kids](https://assets.vogue.com/photos/6a7dae1185167c013e4ff1d0/1:1/w_640%2Cc_limit/undefined)\\
+[![Alo International CEO Benedetta Petruzzo on the Brand’s Big Euro Summer](https://assets.vogue.com/photos/6a70a4cdb1d675158a413c75/1:1/w_640%2Cc_limit/undefined)\\
 \\
-How to Attract Gen Z’s New Club Kids](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2 "How to Attract Gen Z’s New Club Kids")
+Alo International CEO Benedetta Petruzzo on the Brand’s Big Euro Summer](https://www.vogue.com/article/alo-international-ceo-benedetta-petruzzo-on-the-brands-big-euro-summer#intcid=_vogue-article-bottom-recirc_6e53488f-45ac-4a3f-bf98-ffca62e21bc7_text2vec1_fallback_modern-bert "Alo International CEO Benedetta Petruzzo on the Brand’s Big Euro Summer")
 
-[![Carmen Busquets Partners with Parsons on Award for Disabled Students](https://assets.vogue.com/photos/6a7b3b59e94a156ac7e347de/1:1/w_640%2Cc_limit/undefined)\\
+[![Now Public, Reformation Is Worth $886 Million. What’s Next?](https://assets.vogue.com/photos/6a6b9bd7eacdde3c623f5e9b/1:1/w_640%2Cc_limit/undefined)\\
 \\
-Carmen Busquets Partners with Parsons on Award for Disabled Students](https://www.vogue.com/article/carmen-busquets-partners-with-parsons-on-award-for-disabled-students#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2 "Carmen Busquets Partners with Parsons on Award for Disabled Students")
-
-[![Tapestry Revenues Climb 11% in Q4 on Coach Gains](https://assets.vogue.com/photos/6a7df3c57c43c883a806bf32/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Tapestry Revenues Climb 11% in Q4 on Coach Gains](https://www.vogue.com/article/tapestry-revenues-climb-11-in-q4-on-coach-gains#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2 "Tapestry Revenues Climb 11% in Q4 on Coach Gains")
-
-[![Frasers Group Acquires Harvey Nichols](https://assets.vogue.com/photos/6a7c5fa6609000192b841386/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Frasers Group Acquires Harvey Nichols](https://www.vogue.com/article/frasers-group-to-acquire-retailer-harvey-nichols#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2 "Frasers Group Acquires Harvey Nichols")
+Now Public, Reformation Is Worth $886 Million. What’s Next?](https://www.vogue.com/article/now-public-reformation-is-worth-dollar886-million-whats-next#intcid=_vogue-article-bottom-recirc_6e53488f-45ac-4a3f-bf98-ffca62e21bc7_text2vec1_fallback_modern-bert "Now Public, Reformation Is Worth $886 Million. What’s Next?")
 
 ArrowArrow
 
@@ -78,33 +70,7 @@ Photos: Courtesy of Nike
 
 Most Popular
 
-- [![How Exclusive Access Became the New Birkin](https://assets.vogue.com/photos/6a7ca1408ae678a697559eb4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-exclusive-access-became-the-new-birkin#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
-
-
-
-
-
-
-
-
-
-Companies
-
-
-
-
-
-[How Exclusive Access Became the New Birkin](https://www.vogue.com/article/how-exclusive-access-became-the-new-birkin#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
-
-
-
-
-
-
-
-By Amy Francombe
-
-- [![How to Attract Gen Z’s New Club Kids](https://assets.vogue.com/photos/6a7dae1185167c013e4ff1d0/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
+- [![The Business of Katseye](https://assets.vogue.com/photos/6a8729f456ed2a8d7ba947f4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-business-of-katseye#intcid=_vogue-right-rail_5fd0dbd1-191e-459a-9847-792783e22a9c_popular4-2)
 
 
 
@@ -120,7 +86,7 @@ Fashion Industry Trends
 
 
 
-[How to Attract Gen Z’s New Club Kids](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
+[The Business of Katseye](https://www.vogue.com/article/the-business-of-katseye#intcid=_vogue-right-rail_5fd0dbd1-191e-459a-9847-792783e22a9c_popular4-2)
 
 
 
@@ -128,9 +94,35 @@ Fashion Industry Trends
 
 
 
-By Kyle MacNeill
+By Kati Chitrakorn
 
-- [![Morgane Sézalory Is Introducing a More Mature Sézane](https://assets.vogue.com/photos/6a75f4bef9fbd3517250bfde/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
+- [![Should Luxury Brands Reduce their Prices?](https://assets.vogue.com/photos/6a85d131d421819b949ec13b/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/should-luxury-brands-reduce-their-prices#intcid=_vogue-right-rail_5fd0dbd1-191e-459a-9847-792783e22a9c_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[Should Luxury Brands Reduce their Prices?](https://www.vogue.com/article/should-luxury-brands-reduce-their-prices#intcid=_vogue-right-rail_5fd0dbd1-191e-459a-9847-792783e22a9c_popular4-2)
+
+
+
+
+
+
+
+By Lucy Maguire
+
+- [![Morgane Sézalory Is Introducing a More Mature Sézane](https://assets.vogue.com/photos/6a75f4bef9fbd3517250bfde/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-right-rail_5fd0dbd1-191e-459a-9847-792783e22a9c_popular4-2)
 
 
 
@@ -146,7 +138,7 @@ Executive Interviews
 
 
 
-[Morgane Sézalory Is Introducing a More Mature Sézane](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
+[Morgane Sézalory Is Introducing a More Mature Sézane](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-right-rail_5fd0dbd1-191e-459a-9847-792783e22a9c_popular4-2)
 
 
 
@@ -171,33 +163,7 @@ These days, consumers want products that work, experts agree, so emphasis needs 
 
 Most Popular
 
-- [![How Exclusive Access Became the New Birkin](https://assets.vogue.com/photos/6a7ca1408ae678a697559eb4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-exclusive-access-became-the-new-birkin#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
-
-
-
-
-
-
-
-
-
-Companies
-
-
-
-
-
-[How Exclusive Access Became the New Birkin](https://www.vogue.com/article/how-exclusive-access-became-the-new-birkin#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
-
-
-
-
-
-
-
-By Amy Francombe
-
-- [![How to Attract Gen Z’s New Club Kids](https://assets.vogue.com/photos/6a7dae1185167c013e4ff1d0/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
+- [![The Business of Katseye](https://assets.vogue.com/photos/6a8729f456ed2a8d7ba947f4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-business-of-katseye#intcid=_vogue-right-rail_5fd0dbd1-191e-459a-9847-792783e22a9c_popular4-2)
 
 
 
@@ -213,7 +179,7 @@ Fashion Industry Trends
 
 
 
-[How to Attract Gen Z’s New Club Kids](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
+[The Business of Katseye](https://www.vogue.com/article/the-business-of-katseye#intcid=_vogue-right-rail_5fd0dbd1-191e-459a-9847-792783e22a9c_popular4-2)
 
 
 
@@ -221,9 +187,35 @@ Fashion Industry Trends
 
 
 
-By Kyle MacNeill
+By Kati Chitrakorn
 
-- [![Morgane Sézalory Is Introducing a More Mature Sézane](https://assets.vogue.com/photos/6a75f4bef9fbd3517250bfde/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
+- [![Should Luxury Brands Reduce their Prices?](https://assets.vogue.com/photos/6a85d131d421819b949ec13b/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/should-luxury-brands-reduce-their-prices#intcid=_vogue-right-rail_5fd0dbd1-191e-459a-9847-792783e22a9c_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[Should Luxury Brands Reduce their Prices?](https://www.vogue.com/article/should-luxury-brands-reduce-their-prices#intcid=_vogue-right-rail_5fd0dbd1-191e-459a-9847-792783e22a9c_popular4-2)
+
+
+
+
+
+
+
+By Lucy Maguire
+
+- [![Morgane Sézalory Is Introducing a More Mature Sézane](https://assets.vogue.com/photos/6a75f4bef9fbd3517250bfde/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-right-rail_5fd0dbd1-191e-459a-9847-792783e22a9c_popular4-2)
 
 
 
@@ -239,7 +231,7 @@ Executive Interviews
 
 
 
-[Morgane Sézalory Is Introducing a More Mature Sézane](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-right-rail_40e2ae52-3be4-4804-b084-398e8b273b05_popular4-2)
+[Morgane Sézalory Is Introducing a More Mature Sézane](https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane#intcid=_vogue-right-rail_5fd0dbd1-191e-459a-9847-792783e22a9c_popular4-2)
 
 
 
@@ -272,34 +264,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a7da444b8654535e2bfc078/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
+[![Inside Ubrique: The Small Spanish Town Dominating Luxury Leather](https://assets.vogue.com/photos/6a6a2d576a166354b4544e31/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/inside-ubrique-the-small-spanish-town-dominating-luxury-leather#intcid=_vogue-article-bottom-recirc_6e53488f-45ac-4a3f-bf98-ffca62e21bc7_text2vec1_fallback_modern-bert)
 
-Beauty
+Sustainability
 
-[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
+[Inside Ubrique: The Small Spanish Town Dominating Luxury Leather](https://www.vogue.com/article/inside-ubrique-the-small-spanish-town-dominating-luxury-leather#intcid=_vogue-article-bottom-recirc_6e53488f-45ac-4a3f-bf98-ffca62e21bc7_text2vec1_fallback_modern-bert)
 
-By Vogue Business Team
+By Bella Webb
 
-[![How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business](https://assets.vogue.com/photos/6a7df8c4b8654535e2bfc462/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-wonderskin-turned-tiktok-fame-into-a-dollar200-million-beauty-business#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
+[![We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why](https://assets.vogue.com/photos/6a68c6db4e8db1ed5e9e3d61/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/were-all-on-a-mediterranean-beauty-diet-this-summer-heres-why#intcid=_vogue-article-bottom-recirc_6e53488f-45ac-4a3f-bf98-ffca62e21bc7_text2vec1_fallback_modern-bert)
 
-Beauty
+Skincare
 
-[How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business](https://www.vogue.com/article/how-wonderskin-turned-tiktok-fame-into-a-dollar200-million-beauty-business#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
+[We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why](https://www.vogue.com/article/were-all-on-a-mediterranean-beauty-diet-this-summer-heres-why#intcid=_vogue-article-bottom-recirc_6e53488f-45ac-4a3f-bf98-ffca62e21bc7_text2vec1_fallback_modern-bert)
 
-By Amy Francombe
+By Kati Chitrakorn
 
-[![How to Attract Gen Z’s New Club Kids](https://assets.vogue.com/photos/6a7dae1185167c013e4ff1d0/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
-
-Fashion Industry Trends
-
-[How to Attract Gen Z’s New Club Kids](https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
-
-By Kyle MacNeill
-
-[![Carmen Busquets Partners with Parsons on Award for Disabled Students](https://assets.vogue.com/photos/6a7b3b59e94a156ac7e347de/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/carmen-busquets-partners-with-parsons-on-award-for-disabled-students#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
+[![Alo International CEO Benedetta Petruzzo on the Brand’s Big Euro Summer](https://assets.vogue.com/photos/6a70a4cdb1d675158a413c75/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/alo-international-ceo-benedetta-petruzzo-on-the-brands-big-euro-summer#intcid=_vogue-article-bottom-recirc_6e53488f-45ac-4a3f-bf98-ffca62e21bc7_text2vec1_fallback_modern-bert)
 
 Executive Interviews
 
-[Carmen Busquets Partners with Parsons on Award for Disabled Students](https://www.vogue.com/article/carmen-busquets-partners-with-parsons-on-award-for-disabled-students#intcid=_vogue-article-bottom-recirc-bkt-a_14463e87-3088-45dd-a6c2-01f6b4105b0c_text2vec1_fallback_cral-top2-2)
+[Alo International CEO Benedetta Petruzzo on the Brand’s Big Euro Summer](https://www.vogue.com/article/alo-international-ceo-benedetta-petruzzo-on-the-brands-big-euro-summer#intcid=_vogue-article-bottom-recirc_6e53488f-45ac-4a3f-bf98-ffca62e21bc7_text2vec1_fallback_modern-bert)
+
+By Lucy Maguire
+
+[![Now Public, Reformation Is Worth $886 Million. What’s Next?](https://assets.vogue.com/photos/6a6b9bd7eacdde3c623f5e9b/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/now-public-reformation-is-worth-dollar886-million-whats-next#intcid=_vogue-article-bottom-recirc_6e53488f-45ac-4a3f-bf98-ffca62e21bc7_text2vec1_fallback_modern-bert)
+
+Companies
+
+[Now Public, Reformation Is Worth $886 Million. What’s Next?](https://www.vogue.com/article/now-public-reformation-is-worth-dollar886-million-whats-next#intcid=_vogue-article-bottom-recirc_6e53488f-45ac-4a3f-bf98-ffca62e21bc7_text2vec1_fallback_modern-bert)
 
 By Hilary Milnes

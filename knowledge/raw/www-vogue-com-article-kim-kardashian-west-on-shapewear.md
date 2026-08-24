@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-08-17T06:36:43.358335+00:00
+scraped_at: 2026-08-24T06:39:34.549492+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -18,6 +18,34 @@ In business terms, it’s worked out pretty well. In June, Kardashian West sold 
 The first hint of a move into the shapewear market dates back to January 2019 when Kardashian West flew to Miami for a Met Gala fitting with designer Manfred Thierry Mugler. An Instagram post of herself, with Mugler, showed her wearing nothing but a nude tank top and cycling shorts. What the 1.8 million people who liked the post didn’t know was that Kardashian West was wearing early samples of Skims.
 
 The brand has signalled a buzzy new era for shapewear. It features nine shades and sizing from XXS to XXXXXL, all wrapped around the alluring marketing clout of one of the world’s top media celebrities (count those 190 million Instagram followers) — attracting a broader audience than a typical shapewear brand. Skims has built an Instagram following of 2.1 million in double-quick time.
+
+LATEST ON VOGUE
+
+[![Inside Ubrique: The Small Spanish Town Dominating Luxury Leather](https://assets.vogue.com/photos/6a6a2d576a166354b4544e31/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Inside Ubrique: The Small Spanish Town Dominating Luxury Leather](https://www.vogue.com/article/inside-ubrique-the-small-spanish-town-dominating-luxury-leather#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert "Inside Ubrique: The Small Spanish Town Dominating Luxury Leather")
+
+[![We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why](https://assets.vogue.com/photos/6a68c6db4e8db1ed5e9e3d61/1:1/w_640%2Cc_limit/undefined)\\
+\\
+We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why](https://www.vogue.com/article/were-all-on-a-mediterranean-beauty-diet-this-summer-heres-why#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert "We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why")
+
+[![A First Look Inside Atlanta’s New Jeffrey Boutique](https://assets.vogue.com/photos/6a6a2318bfca994488d4bac2/1:1/w_640%2Cc_limit/undefined)\\
+\\
+A First Look Inside Atlanta’s New Jeffrey Boutique](https://www.vogue.com/article/a-first-look-inside-atlantas-new-jeffrey-boutique#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert "A First Look Inside Atlanta’s New Jeffrey Boutique")
+
+[![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert "Inside the Neo Knitwear Boom")
+
+[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Vogue Business Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert "The Vogue Business Funding Tracker")
+
+[![Alo International CEO Benedetta Petruzzo on the Brand’s Big Euro Summer](https://assets.vogue.com/photos/6a70a4cdb1d675158a413c75/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Alo International CEO Benedetta Petruzzo on the Brand’s Big Euro Summer](https://www.vogue.com/article/alo-international-ceo-benedetta-petruzzo-on-the-brands-big-euro-summer#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert "Alo International CEO Benedetta Petruzzo on the Brand’s Big Euro Summer")
+
+ArrowArrow
 
 Kardashian West is keen to focus on the design qualities of the collection as much as her marketing appeal. “In the past, people might assume that shapewear is more like girdles — something that’s extremely uncomfortable,” she says. “I’ve worn corsets for events, I know how uncomfortable it is. That’s not the vibe of what I wanted.”
 
@@ -50,7 +78,92 @@ For shapewear brands, business remains challenging. Shapewear new arrivals at US
 
 Shapewear has tended to change little from year to year in design terms. That’s where Skims’s use of the drop model has changed the parameters — drawing on the similar model of KKW Beauty. Skims products sell out more rapidly than other players, says Marci. Discounting has proven unnecessary.
 
+#### Content
+
+To honor your privacy preferences, this content can only be viewed on the site it [originates](https://www.youtube-nocookie.com/embed/Ws05I4vZKOM) from.
+
 Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skims one year anniversary campaign.
+
+Most Popular
+
+- [![The Business of Katseye](https://assets.vogue.com/photos/6a8729f456ed2a8d7ba947f4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-business-of-katseye#intcid=_vogue-right-rail_dda87daf-ba23-40cb-b9cc-2485f164c351_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion Industry Trends
+
+
+
+
+
+[The Business of Katseye](https://www.vogue.com/article/the-business-of-katseye#intcid=_vogue-right-rail_dda87daf-ba23-40cb-b9cc-2485f164c351_popular4-2)
+
+
+
+
+
+
+
+By Kati Chitrakorn
+
+- [![The GLP-1 Pill Era Is Forcing Beauty to Change Again](https://assets.vogue.com/photos/6a871e4b7a16eefdeeeb2fd1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-glp-1-pill-era-is-forcing-beauty-to-change-again#intcid=_vogue-right-rail_dda87daf-ba23-40cb-b9cc-2485f164c351_popular4-2)
+
+
+
+
+
+
+
+
+
+Beauty
+
+
+
+
+
+[The GLP-1 Pill Era Is Forcing Beauty to Change Again](https://www.vogue.com/article/the-glp-1-pill-era-is-forcing-beauty-to-change-again#intcid=_vogue-right-rail_dda87daf-ba23-40cb-b9cc-2485f164c351_popular4-2)
+
+
+
+
+
+
+
+By Perdita Nouril
+
+- [![Should Luxury Brands Reduce their Prices?](https://assets.vogue.com/photos/6a85d131d421819b949ec13b/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/should-luxury-brands-reduce-their-prices#intcid=_vogue-right-rail_dda87daf-ba23-40cb-b9cc-2485f164c351_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[Should Luxury Brands Reduce their Prices?](https://www.vogue.com/article/should-luxury-brands-reduce-their-prices#intcid=_vogue-right-rail_dda87daf-ba23-40cb-b9cc-2485f164c351_popular4-2)
+
+
+
+
+
+
+
+By Lucy Maguire
+
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
 
@@ -77,6 +190,87 @@ Not so long ago, shapewear was not considered particularly body positive or femi
 Skims launched bridal and maternity Solutionwear lines in September.
 Skims
 
+Most Popular
+
+- [![The Business of Katseye](https://assets.vogue.com/photos/6a8729f456ed2a8d7ba947f4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-business-of-katseye#intcid=_vogue-right-rail_dda87daf-ba23-40cb-b9cc-2485f164c351_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion Industry Trends
+
+
+
+
+
+[The Business of Katseye](https://www.vogue.com/article/the-business-of-katseye#intcid=_vogue-right-rail_dda87daf-ba23-40cb-b9cc-2485f164c351_popular4-2)
+
+
+
+
+
+
+
+By Kati Chitrakorn
+
+- [![The GLP-1 Pill Era Is Forcing Beauty to Change Again](https://assets.vogue.com/photos/6a871e4b7a16eefdeeeb2fd1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-glp-1-pill-era-is-forcing-beauty-to-change-again#intcid=_vogue-right-rail_dda87daf-ba23-40cb-b9cc-2485f164c351_popular4-2)
+
+
+
+
+
+
+
+
+
+Beauty
+
+
+
+
+
+[The GLP-1 Pill Era Is Forcing Beauty to Change Again](https://www.vogue.com/article/the-glp-1-pill-era-is-forcing-beauty-to-change-again#intcid=_vogue-right-rail_dda87daf-ba23-40cb-b9cc-2485f164c351_popular4-2)
+
+
+
+
+
+
+
+By Perdita Nouril
+
+- [![Should Luxury Brands Reduce their Prices?](https://assets.vogue.com/photos/6a85d131d421819b949ec13b/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/should-luxury-brands-reduce-their-prices#intcid=_vogue-right-rail_dda87daf-ba23-40cb-b9cc-2485f164c351_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+[Should Luxury Brands Reduce their Prices?](https://www.vogue.com/article/should-luxury-brands-reduce-their-prices#intcid=_vogue-right-rail_dda87daf-ba23-40cb-b9cc-2485f164c351_popular4-2)
+
+
+
+
+
+
+
+By Lucy Maguire
+
+
 Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
 
 For its one-year anniversary campaign, Kardashian West enlisted Gen Z favourites like TikToker Addison Rae alongside fans of Skims to pose in individual billboard campaigns showing the product on people of all ages, sizes and ethnicities.
@@ -100,34 +294,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
-
-Companies
-
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
-
-By Vogue Business Team
-
-[![What Could Better Brand-Supplier Relationships Look Like?](https://assets.vogue.com/photos/6a60db7f2fa8bc7633a17f6a/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
+[![Inside Ubrique: The Small Spanish Town Dominating Luxury Leather](https://assets.vogue.com/photos/6a6a2d576a166354b4544e31/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/inside-ubrique-the-small-spanish-town-dominating-luxury-leather#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert)
 
 Sustainability
 
-[What Could Better Brand-Supplier Relationships Look Like?](https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
-
-By Sophie Benson
-
-[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
-
-Companies
-
-[The _Vogue Business_ Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
-
-By Vogue Business Team
-
-[![The Ongoing Probe Into Italy’s Supply Chains, Explained](https://assets.vogue.com/photos/6a5f9e97c0062590e8828195/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
-
-Sustainability
-
-[The Ongoing Probe Into Italy’s Supply Chains, Explained](https://www.vogue.com/article/the-ongoing-probe-into-italys-supply-chains-explained#intcid=_vogue-article-bottom-recirc_f11f8ee5-da6d-4592-920f-8490423b6a36_text2vec1_fallback_roberta-similarity1)
+[Inside Ubrique: The Small Spanish Town Dominating Luxury Leather](https://www.vogue.com/article/inside-ubrique-the-small-spanish-town-dominating-luxury-leather#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert)
 
 By Bella Webb
+
+[![We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why](https://assets.vogue.com/photos/6a68c6db4e8db1ed5e9e3d61/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/were-all-on-a-mediterranean-beauty-diet-this-summer-heres-why#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert)
+
+Skincare
+
+[We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why](https://www.vogue.com/article/were-all-on-a-mediterranean-beauty-diet-this-summer-heres-why#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert)
+
+By Kati Chitrakorn
+
+[![A First Look Inside Atlanta’s New Jeffrey Boutique](https://assets.vogue.com/photos/6a6a2318bfca994488d4bac2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/a-first-look-inside-atlantas-new-jeffrey-boutique#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert)
+
+Business
+
+[A First Look Inside Atlanta’s New Jeffrey Boutique](https://www.vogue.com/article/a-first-look-inside-atlantas-new-jeffrey-boutique#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert)
+
+By Hilary Milnes
+
+[![Inside the Neo Knitwear Boom](https://assets.vogue.com/photos/6a68b99463540ad2b52f2306/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert)
+
+Fashion Industry Trends
+
+[Inside the Neo Knitwear Boom](https://www.vogue.com/article/inside-the-neo-knitwear-boom#intcid=_vogue-article-bottom-recirc-bkt-a_a062ec87-d9ee-4dff-8d28-c701abfa8eef_text2vec1_fallback_modern-bert)
+
+By Ashley Ogawa Clarke
