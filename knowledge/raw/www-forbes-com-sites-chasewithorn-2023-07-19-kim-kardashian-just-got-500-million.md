@@ -2,7 +2,7 @@
 url: https://www.forbes.com/sites/chasewithorn/2023/07/19/kim-kardashian-just-got-500-million-richer-thanks-to-skims/
 source_type: forbes.com
 title: Now valued higher than ever, the shapewear startup just added a half-billion to the richest Kardashian’s fortune.
-scraped_at: 2026-06-29T10:27:10.453054+00:00
+scraped_at: 2026-08-31T12:18:34.565663+00:00
 ---
 
 [Billionaires](https://www.forbes.com/worlds-billionaires/)
@@ -30,52 +30,6 @@ Her net worth now stands at $1.7 billion, according to _Forbes_’ calculations,
 Many high-flying startups are raising money at lower valuations than before–or [holding off](https://www.bloomberg.com/news/articles/2023-04-24/tech-startups-vcs-brace-for-wave-of-down-rounds-as-downturn-lingers "https://www.bloomberg.com/news/articles/2023-04-24/tech-startups-vcs-brace-for-wave-of-down-rounds-as-downturn-lingers") on seeking new capital altogether–amid [the slowdown in private markets](https://www.forbes.com/sites/mattdurot/2023/01/27/fallen-unicorns-startup-billionaires-nearly-100-billion-poorer-than-a-year-ago/?sh=3421ffd51e37 "https://www.forbes.com/sites/mattdurot/2023/01/27/fallen-unicorns-startup-billionaires-nearly-100-billion-poorer-than-a-year-ago/?sh=3421ffd51e37"). Not Skims, which has continued to expand into clothing, loungewear and swimwear.
 
 “It has grown quickly and we’re so proud of that,” Kardashian [told _The New York Times_](https://www.nytimes.com/2023/07/19/business/dealbook/skims-kim-kardashian-fundraise.html "https://www.nytimes.com/2023/07/19/business/dealbook/skims-kim-kardashian-fundraise.html") in an interview. “We’ve had a really good flow of product launches.”
-
-Subscribe to Continue Reading
-
-Become a member and unlock unlimited digital access, expert analysis and exclusive member benefits.
-
-Already a member?Sign In
-
-Monthly
-
-Digital Membership
-
-$12.99
-
-Billed monthly
-
-Subscribe
-
-Annual
-
-LESS THAN $2/WEEK
-
-Digital Membership
-
-$89
-
-Billed annually
-
-Subscribe
-
-Two Year
-
-Digital Membership
-
-$165
-
-Billed biennially
-
-Subscribe
-
-Subscriptions renew automatically. Taxes added at checkout. You may cancel your subscription at any time.
-
-Premium access to exclusive events, thought-provoking conversations with global leaders and more, all available on-demand.
-
-Elevated browsing experience with fewer ads and unlimited article saving power an enhanced reading experience.
-
-[Back to the Home page](https://www.forbes.com/)
 
 Skims says it’s profitable and expects to hit $750 million in sales this year, according to the _Times_, up from $500 million in 2022. Kardashian cofounded the business in 2019 with partners Jens Grede, who serves as CEO, and [Emma Grede](https://www.forbes.com/sites/jemimamcevoy/2022/06/14/keeping-up-with-the-kardashians-meet-the-woman-who-made-a-fortune-helping-build-the-familys-billion-dollar-business-empire/?sh=3f9df887d90b "https://www.forbes.com/sites/jemimamcevoy/2022/06/14/keeping-up-with-the-kardashians-meet-the-woman-who-made-a-fortune-helping-build-the-familys-billion-dollar-business-empire/?sh=3f9df887d90b"), who is chief product officer.
 
@@ -124,15 +78,15 @@ Subscriptions renew automatically. You may cancel your subscription at any time.
 
 render-sign-in
 
-[Become a Forbes Member](https://account.forbes.com/membership?eventSource=overlay-sale-strikethrough)
+[Become a Forbes Member](https://account.forbes.com/membership?eventSource=overlay-offer)
 
 \|
 
-FLASH SALE
+MEMBERSHIP OFFER
 
 ~~89~~
 
-59.99
+69
 
 For Your First Year
 
@@ -140,4 +94,4 @@ For Your First Year
 Supercharge your mission with unparalleled insights and member-exclusive benefits.
 
 
-[Become a Forbes Member](https://account.forbes.com/membership?eventSource=overlay-sale-strikethrough) No Thanks
+[Become a Forbes Member](https://account.forbes.com/membership?eventSource=overlay-offer) No Thanks

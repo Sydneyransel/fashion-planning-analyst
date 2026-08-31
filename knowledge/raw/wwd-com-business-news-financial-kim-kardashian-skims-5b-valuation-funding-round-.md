@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/
 source_type: wwd.com
 title: Kim Kardashian's Skims Hits $5B Valuation With New Funding Round
-scraped_at: 2026-07-20T08:44:03.246626+00:00
+scraped_at: 2026-08-31T12:18:05.663053+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/financial/kim-kardashian-skims-5b-valuation-funding-round-1238346675/#pagetop)
 
-Eye
-
-### [The Beaches Reflect on a Breakout Year](https://wwd.com/eye/people/the-beaches-band-behind-the-scenes-tour-1239067895/)
-
 Business
 
-### [Burberry Needs to Ramp Up Growth](https://wwd.com/business-news/financial/burberry-growth-analysts-first-quarter-1239074174/)
+### [Italian Fashion Brands Navigate Major C-suite Changes](https://wwd.com/business-news/business-features/italian-fashion-brands-navigate-major-c-suite-changes-1239128308/)
 
-Accessories
+Fashion
 
-### [Dolce & Gabbana Celebrates Italy’s Goldsmithing Traditions](https://wwd.com/accessories-news/jewelry/dolce-gabbana-high-jewelry-italy-goldsmithing-traditions-1239073308/)
+### [Off-White, Ib Kamara Part Ways](https://wwd.com/fashion-news/designer-luxury/off-white-creative-director-ib-kamara-exit-1239173495/)
+
+Fashion
+
+### [Kris Van Assche Is Reintroducing His Signature Label](https://wwd.com/fashion-news/designer-luxury/kris-van-assche-relaunch-signature-label-1239164399/)
 
 ![NEW YORK, NEW YORK - SEPTEMBER 24: NikeSKIMS dancers perform at the NikeSKIMS "Bodies at Work" event at the New York Public Library on September 24, 2025 in New York City. (Photo by Valerie Terranova/Getty Images)](https://wwd.com/wp-content/uploads/2025/09/skims-presentation-photosc.jpg?w=800&h=533&crop=1)
 
@@ -59,19 +59,19 @@ The new money came from Goldman Sachs Alternatives and BDT & MSD Partners.
 
 ### Related Articles
 
-![Sarah Sherman, Flo Milli and Rama Duwaji wearing Nike Air Rift shoes.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Erin Magee](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Shoe Trends](https://wwd.com/business-news/shoe-trends/)
+[Markets](https://wwd.com/business-news/markets/)
 
-### [The Summer of the Nike Air Rift: How Celebrities Are Styling the Revived Split-toe Shoe](https://wwd.com/footwear-news/shoe-trends/nike-air-rift-shoe-trend-2026-1239063022/)
+### [Skims Elevates Kim Schraub to Chief Brand Officer and Names Erin Magee Chief Design Officer](https://wwd.com/business-news/markets/skims-kim-schraub-chief-brand-officer-erin-magee-chief-design-officer-1239143755/)
 
-![The Wall Street bull outside the New York Stock Exchange in New York.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Kim Kardashian for Broc Shot](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Financial](https://wwd.com/business-news/financial/)
+[Beauty Features](https://wwd.com/business-news/beauty-features/)
 
-### [Will Investors Bet on Fashion After SpaceX's Moonshot?](https://wwd.com/business-news/financial/reformation-fashion-ipos-vs-spacex-moonshot-1239046314/)
+### [EXCLUSIVE: Kim Kardashian Partners With Broc Shot After Using the Supplement for Psoriasis](https://wwd.com/beauty-industry-news/beauty-features/kim-kardashian-broc-shot-psoriasis-supplement-1239117839/)
 
-[Skims](https://wwd.com/pop-culture/culture-news/ultrathin-models-fashion-research-skims-1239030017/) got its start in shapewear, but has been branching out in apparel and looking more into beauty, recently [hiring Diarrha N’Diaye](https://wwd.com/beauty-industry-news/color-cosmetics/kim-kardashian-skims-ami-cole-founder-hire-1238331656/) to be executive vice president of beauty and fragrance.
+[Skims](https://wwd.com/shop/shop-beauty/skims-tangle-teezer-brushes-restock-how-to-buy-1239100153/) got its start in shapewear, but has been branching out in apparel and looking more into beauty, recently [hiring Diarrha N’Diaye](https://wwd.com/beauty-industry-news/color-cosmetics/kim-kardashian-skims-ami-cole-founder-hire-1238331656/) to be executive vice president of beauty and fragrance.
 
 
 
@@ -124,7 +124,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![Ciara at the TIME100 Sports Gala in New York.](https://wwd.com/wp-content/uploads/2026/07/MixCollage-17-Jul-2026-12-22-PM-539.jpg?w=1024)](https://wwd.com/pop-culture/celebrity-news/ciara-bob-trend-time-100-sports-gala-1239073826/)
+- [![A worker sorts incoming clothing items at Artikel2’s sorting center in Stockholm on April 10, 2025. Sweden's recycling centres are overflowing with clothes after an EU-wide ban this year on throwing away textiles, leaving overwhelmed municipalities eager to have fast fashion giants take responsibility (Photo by Jonathan NACKSTRAND / AFP)](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/sourcing-journal/logistics/textile-recycling-financing-brand-offtake-1239173908/)
 
 
 
@@ -134,67 +134,45 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Ciara Embraces Bold Hair Trend at the 2026 TIME100 Sports Gala](https://wwd.com/pop-culture/celebrity-news/ciara-bob-trend-time-100-sports-gala-1239073826/)
+### [Textile Recycling Needs Billions. Investors Want Guarantees.](https://wwd.com/sourcing-journal/logistics/textile-recycling-financing-brand-offtake-1239173908/)
 
 
 
-  - [Celebrity News](https://wwd.com/business-news/celebrity-news/)
-
-  - By
-
-
-    [Kaleigh Werner](https://wwd.com/wwd-masthead/kwerner@wwd.com/)
-
-
-- [![Frame jeans Amsterdam flagship](https://wwd.com/wp-content/uploads/2026/07/20260707_OGT_FRAME_AMSTERDAM_004.jpg?w=1024)](https://wwd.com/business-news/retail/frame-opens-amsterdam-flagship-global-retail-expansion-1239062738/)
-
-
-
-
-
-
-
-
-
-### [EXCLUSIVE: Frame Opens Amsterdam Flagship as It Eyes Expansion](https://wwd.com/business-news/retail/frame-opens-amsterdam-flagship-global-retail-expansion-1239062738/)
-
-
-
-  - [Retail](https://wwd.com/business-news/retail/)
+  - [Logistics](https://wwd.com/business-news/logistics/)
 
   - By
 
 
-    [Rhonda Richford](https://wwd.com/wwd-masthead/rrichford/)
+    [Alexandra Harrell](https://wwd.com/wwd-masthead/aharrell/)
 
 
-- [![Emil DeJohn](https://wwd.com/wp-content/uploads/2026/07/1b148667-a221-4b8a-8f3b-b603727a2fe2.jpg?w=514)](https://wwd.com/fashion-news/designer-luxury/emil-dejohn-philadelphia-based-fashion-designer-and-college-professor-dies-88-1239050216/)
-
-
-
+- [![Simon's Brickell City Centre](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/real-estate/simon-launches-a-media-network-1239166436/)
 
 
 
 
 
 
-### [Emil DeJohn, Philadelphia-based Fashion Designer and College Professor, Dies at 88](https://wwd.com/fashion-news/designer-luxury/emil-dejohn-philadelphia-based-fashion-designer-and-college-professor-dies-88-1239050216/)
 
 
 
-  - [Designer and Luxury](https://wwd.com/business-news/designer-luxury/)
+### [Simon Launches Media Network](https://wwd.com/business-news/real-estate/simon-launches-a-media-network-1239166436/)
+
+
+
+  - [Real Estate](https://wwd.com/business-news/real-estate/)
 
   - By
 
 
-    [Lisa Lockwood](https://wwd.com/wwd-masthead/lisa-lockwood/)
+    [David Moin](https://wwd.com/wwd-masthead/david-moin/)
 
 
-[![Kim Kardashian's Skims Hits $5B Valuation With New Funding Round](https://wwd.com/wp-content/uploads/2026/06/dvf.png?w=910&h=511&crop=1)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
+[![Ferran Torres](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/ferran-torres-talks-world-cup-and-that-hat/)
 
-### CEO Talks: Diane Von Furstenberg
+### Ferran Torres Talks World Cup and That Hat
 
-WWD and Women's Wear Daily are part of Penske Media Corporation. © 2026 Fairchild Publishing, LLC. All Rights Reserved.
+WWD and Women's Wear Daily are part of PMX Global, LLC, a subsidiary of Penske Media Corporation. © 2026 Fairchild Publishing, LLC. All rights reserved.
 
 [Powered by WordPress.com VIP](https://vip.wordpress.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit)
 
@@ -265,10 +243,10 @@ Log In Sign Up
   - [Spring Bridal 2026](https://wwd.com/runway/spring-bridal-2026/)
 - ### [Footwear News](https://wwd.com/footwear-news/)Expand footwear-news menu
 
-  - [Shoe Industry News](https://wwd.com/footwear-news/shoe-industry-news/)
-  - [Shoe Features](https://wwd.com/footwear-news/shoe-features/)
-  - [Shoe Trends](https://wwd.com/footwear-news/shoe-trends/)
-  - [Sneaker News](https://wwd.com/footwear-news/sneaker-news/)
+  - [Shoe Industry News](https://wwd.com/fashion-news/shoe-industry-news/)
+  - [Shoe Features](https://wwd.com/fashion-news/shoe-features/)
+  - [Shoe Trends](https://wwd.com/fashion-news/shoe-trends/)
+  - [Sneaker News](https://wwd.com/fashion-news/sneaker-news/)
 - ### [Sourcing Journal](https://wwd.com/sourcing-journal/)Expand sourcing-journal menu
 
   - [Denim](https://wwd.com/sourcing-journal/sj-denim/)

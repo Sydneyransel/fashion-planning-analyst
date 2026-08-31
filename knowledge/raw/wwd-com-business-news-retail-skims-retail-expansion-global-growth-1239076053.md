@@ -2,22 +2,22 @@
 url: https://wwd.com/business-news/retail/skims-retail-expansion-global-growth-1239076053/
 source_type: wwd.com
 title: Skims' Retail Expansion: Jens Grede on 100+ Stores by 2027
-scraped_at: 2026-07-27T09:35:32.340437+00:00
+scraped_at: 2026-08-31T12:18:19.928315+00:00
 ---
 
 [Skip to main content](https://wwd.com/business-news/retail/skims-retail-expansion-global-growth-1239076053/#pagetop)
 
 Business
 
-### [The CEO Pay Peak in Fashion and Retail](https://wwd.com/business-news/financial/ceo-pay-trends-fashion-retail-2025-1239081368/)
+### [Italian Fashion Brands Navigate Major C-suite Changes](https://wwd.com/business-news/business-features/italian-fashion-brands-navigate-major-c-suite-changes-1239128308/)
 
-Business
+Fashion
 
-### [Dior Brings the Tuileries to China](https://wwd.com/business-news/retail/dior-tuileries-china-multi-city-pop-ups-1239082540/)
+### [Off-White, Ib Kamara Part Ways](https://wwd.com/fashion-news/designer-luxury/off-white-creative-director-ib-kamara-exit-1239173495/)
 
-Business
+Fashion
 
-### [Saudi Arabia to Showcase Fashion, Food at Selfridges](https://wwd.com/business-news/retail/saudi-arabia-fashion-food-design-selfridges-corner-shop-1239081869/)
+### [Kris Van Assche Is Reintroducing His Signature Label](https://wwd.com/fashion-news/designer-luxury/kris-van-assche-relaunch-signature-label-1239164399/)
 
 ![Skims - London Flagship - Regent Street](https://wwd.com/wp-content/uploads/2026/07/SkimsLondon.jpg?w=1000&h=563&crop=1)
 
@@ -53,21 +53,21 @@ Skims' new London Flagship on Regent Street.© Mark Cocksedge
 
 But [Skims](https://wwd.com/tag/skims/) — the brand she cofounded with Jens and Emma Grede in 2019 — has its real base in something much more tactile.
 
-The market, the media and the world at large have oversimplified [Skims](https://wwd.com/fashion-news/designer-luxury/skims-emerging-brand-vettese-sculptural-rtw-capsule-1239077335/), said [Jens Grede, chief executive officer](https://wwd.com/fashion-news/fashion-features/feature/who-owns-skims-1236845025/), in an interview ahead of the opening of the brand’s London flagship, which is part of a new retail push.
+The market, the media and the world at large have oversimplified [Skims](https://wwd.com/shop/shop-beauty/skims-tangle-teezer-brushes-restock-how-to-buy-1239100153/), said [Jens Grede, chief executive officer](https://wwd.com/fashion-news/fashion-features/feature/who-owns-skims-1236845025/), in an interview ahead of the opening of the brand’s London flagship, which is part of a new retail push.
 
 ### Related Articles
 
-![Tracy Nguyen](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Erin Magee](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Fashion Scoops](https://wwd.com/business-news/fashion-scoops/)
+[Markets](https://wwd.com/business-news/markets/)
 
-### [Skims Promotes Tracy Nguyen to Chief Communications Officer](https://wwd.com/fashion-news/fashion-scoops/skims-promotes-tracy-nguyen-chief-communications-officer-1239080786/)
+### [Skims Elevates Kim Schraub to Chief Brand Officer and Names Erin Magee Chief Design Officer](https://wwd.com/business-news/markets/skims-kim-schraub-chief-brand-officer-erin-magee-chief-design-officer-1239143755/)
 
-![two models wearing nikeskims athleisure; nikeskims triangle bra and capri leggings; best nikeskims sales deals discounts 2026](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
+![Kim Kardashian for Broc Shot](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)
 
-[Fashion](https://wwd.com/business-news/shop-fashion/)
+[Beauty Features](https://wwd.com/business-news/beauty-features/)
 
-### [NikeSkims Rarely Ever Goes on Sale (But We Found Over 70 Activewear Pieces That Are 25% Off Right Now)](https://wwd.com/shop/shop-fashion/best-nikeskims-deals-discounts-sales-at-nike-buy-online-1239081221/)
+### [EXCLUSIVE: Kim Kardashian Partners With Broc Shot After Using the Supplement for Psoriasis](https://wwd.com/beauty-industry-news/beauty-features/kim-kardashian-broc-shot-psoriasis-supplement-1239117839/)
 
 “They miss that — beyond the celebrity campaigns and the collaborations with Fendi or Dolce & Gabbana or partnership with Nike, or beyond the Will Ferrells or Hailey \[Bieber\] or even Kim — what Kim and I really designed is a fabric company first and foremost,” Grede said.
 
@@ -174,7 +174,7 @@ Sign up for WWD news straight to your inbox every day
 
 [Sign up](https://preferences.mail.wwd.com/preferences)
 
-- [![Michelle Yeoh wears Schiaparelli and Hunter Schafer wears Marc Jacobs at Prime Video's "Blade Runner 2099" and "The Lord Of The Rings: The Rings Of Power" Hall H panel at the 2026 Comic-Con International: San Diego on July 24, 2026 in San Diego, Calif.](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/pop-culture/celebrity-news/michelle-yeoh-hunter-schafer-comic-con-outfits-1239081924/)
+- [![Jessie Randall](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/retail/loeffler-randall-flagship-london-chiltern-street-1239147554/)
 
 
 
@@ -184,67 +184,45 @@ Sign up for WWD news straight to your inbox every day
 
 
 
-### [Michelle Yeoh and Hunter Schafer Are a Designer Fashion Duo at Comic-Con](https://wwd.com/pop-culture/celebrity-news/michelle-yeoh-hunter-schafer-comic-con-outfits-1239081924/)
+### [Loeffler Randall Opens First International Flagship on London’s Chiltern Street](https://wwd.com/business-news/retail/loeffler-randall-flagship-london-chiltern-street-1239147554/)
 
 
 
-  - [Celebrity News](https://wwd.com/business-news/celebrity-news/)
-
-  - By
-
-
-    [Julia Teti](https://wwd.com/wwd-masthead/julia-teti/)
-
-
-- [![Luxury Retail Stocks Slide Amid Economic and Global Uncertainty](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/financial/luxury-retail-stock-market-uncertainty-1239059457/)
-
-
-
-
-
-
-
-
-
-### [Luxury Retail Gets Swept Up in Stock Market Uncertainty](https://wwd.com/business-news/financial/luxury-retail-stock-market-uncertainty-1239059457/)
-
-
-
-  - [Financial](https://wwd.com/business-news/financial/)
+  - [Retail](https://wwd.com/business-news/retail/)
 
   - By
 
 
-    [Evan Clark](https://wwd.com/wwd-masthead/evan-clark/)
+    [Tianwei Zhang](https://wwd.com/wwd-masthead/tianwei-zhang/)
 
 
-- [![Yohji Yamamoto Drawings](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/fashion-news/fashion-scoops/yohji-yamamoto-drawings-book-thames-hudson-alexandre-samson-1239077184/)
-
-
-
+- [![Simon's Brickell City Centre](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/business-news/real-estate/simon-launches-a-media-network-1239166436/)
 
 
 
 
 
 
-### [New Book Reveals Yohji Yamamoto’s Sketches Are as Sharp as His Tailoring](https://wwd.com/fashion-news/fashion-scoops/yohji-yamamoto-drawings-book-thames-hudson-alexandre-samson-1239077184/)
 
 
 
-  - [Fashion Scoops](https://wwd.com/business-news/fashion-scoops/)
+### [Simon Launches Media Network](https://wwd.com/business-news/real-estate/simon-launches-a-media-network-1239166436/)
+
+
+
+  - [Real Estate](https://wwd.com/business-news/real-estate/)
 
   - By
 
 
-    [Lily Templeton](https://wwd.com/wwd-masthead/lily-templeton/)
+    [David Moin](https://wwd.com/wwd-masthead/david-moin/)
 
 
-[![Skims' Retail Expansion: Jens Grede on 100+ Stores by 2027](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/ceo-talks-diane-von-furstenberg/)
+[![Ferran Torres](https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/public/lazyload-fallback.gif)](https://wwd.com/video/ferran-torres-talks-world-cup-and-that-hat/)
 
-### CEO Talks: Diane Von Furstenberg
+### Ferran Torres Talks World Cup and That Hat
 
-WWD and Women's Wear Daily are part of Penske Media Corporation. © 2026 Fairchild Publishing, LLC. All Rights Reserved.
+WWD and Women's Wear Daily are part of PMX Global, LLC, a subsidiary of Penske Media Corporation. © 2026 Fairchild Publishing, LLC. All rights reserved.
 
 [Powered by WordPress.com VIP](https://vip.wordpress.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit)
 
@@ -315,10 +293,10 @@ Log In Sign Up
   - [Spring Bridal 2026](https://wwd.com/runway/spring-bridal-2026/)
 - ### [Footwear News](https://wwd.com/footwear-news/)Expand footwear-news menu
 
-  - [Shoe Industry News](https://wwd.com/footwear-news/shoe-industry-news/)
-  - [Shoe Features](https://wwd.com/footwear-news/shoe-features/)
-  - [Shoe Trends](https://wwd.com/footwear-news/shoe-trends/)
-  - [Sneaker News](https://wwd.com/footwear-news/sneaker-news/)
+  - [Shoe Industry News](https://wwd.com/fashion-news/shoe-industry-news/)
+  - [Shoe Features](https://wwd.com/fashion-news/shoe-features/)
+  - [Shoe Trends](https://wwd.com/fashion-news/shoe-trends/)
+  - [Sneaker News](https://wwd.com/fashion-news/sneaker-news/)
 - ### [Sourcing Journal](https://wwd.com/sourcing-journal/)Expand sourcing-journal menu
 
   - [Denim](https://wwd.com/sourcing-journal/sj-denim/)
@@ -374,3 +352,11 @@ Log In Sign Up
   - [Shoes](https://wwd.com/shop/shop-shoes/)
 
 ad
+
+reCAPTCHA
+
+Recaptcha requires verification.
+
+protected by **reCAPTCHA**
+
+reCAPTCHA is changing its terms of service. [Take action.](https://google.com/recaptcha/admin/migrate)
