@@ -2,7 +2,7 @@
 url: https://skims.com/collections/loungewear
 source_type: skims.com
 title: Women's Loungewear | SKIMS
-scraped_at: 2026-08-31T12:16:46.433391+00:00
+scraped_at: 2026-09-07T11:09:32.204263+00:00
 ---
 
 [Skip to main content](https://skims.com/collections/loungewear#main-content)
@@ -40,16 +40,74 @@ Filter
 Sort
 
 [![](<Base64-Image-Removed>)\\
-![COTTON JERSEY LONG SLEEVE T-SHIRT | LIGHT HEATHER GREY ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-TSH-0647-LHG-LD-SKIMS-LOUNGEWEAR_0002-FR.webp?v=1780252976&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
+![COTTON RIB TANK | ESPRESSO ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-TNK-0038-ESP-XC-SKIMS-LOUNGEWEAR_0281-FR.webp?v=1787766637&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
 \\
 ![](<Base64-Image-Removed>)\\
-![COTTON JERSEY LONG SLEEVE T-SHIRT | LIGHT HEATHER GREY FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-LHG-FLT.jpg?v=1739827357&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-light-heather-grey)
+![COTTON RIB TANK | ESPRESSO FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TNK-0038-ESP-FLT_cdb165ae-4f0e-4cd2-bf1a-8499d0bbaa1e.jpg?v=1787781738&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-rib-tank-espresso)
+
+[new color\\
+\\
+**COTTON RIB**  **tank**\\
+\\
+$38](https://skims.com/products/cotton-rib-tank-espresso)
+
+[![](<Base64-Image-Removed>)\\
+![ESSENTIAL SWEATERS LONG SLEEVE V NECK | ESPRESSO & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-LSL-12416W-ESP-XC-SKIMS-LOUNGEWEAR_1172_SD_19da50d4-cb46-4e12-abb8-483bd28b7a4c.webp?v=1788385710&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
+\\
+![](<Base64-Image-Removed>)\\
+![ESSENTIAL SWEATERS LONG SLEEVE V NECK | ESPRESSO FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-LSL-12416W-ESP-FLT.jpg?v=1788377638&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/essential-knit-long-sleeve-v-neck-espresso)
+
+[New\\
+\\
+**ESSENTIAL KNIT**  **long sleeve v neck**\\
+\\
+$88](https://skims.com/products/essential-knit-long-sleeve-v-neck-espresso)
+
+[![](<Base64-Image-Removed>)\\
+![ESSENTIAL SWEATERS WRAP SWEATER | ESPRESSO & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-LSL-13107W-ESP-XC-SKIMS-LOUNGEWEAR_1198_SD.webp?v=1788380143&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
+\\
+![](<Base64-Image-Removed>)\\
+![ESSENTIAL SWEATERS ROUNDED CARDIGAN | ESPRESSO FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-LSL-13107W-ESP-FLT.jpg?v=1788377640&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/essential-knit-wrap-sweater-espresso)
+
+[New\\
+\\
+**ESSENTIAL KNIT**  **wrap sweater**\\
+\\
+$88](https://skims.com/products/essential-knit-wrap-sweater-espresso)
+
+[![](<Base64-Image-Removed>)\\
+![ESSENTIAL SWEATERS ROUNDED CROPPED CARDIGAN | ESPRESSO & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-LSL-12407W-ESP-XC-SKIMS-LOUNGEWEAR_46828_SD.webp?v=1788380142&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
+\\
+![](<Base64-Image-Removed>)\\
+![ESSENTIAL SWEATERS WRAP SWEATER | ESPRESSO FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-LSL-12407W-ESP-FLT.jpg?v=1788377635&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/essential-sweaters-rounded-cropped-cardigan-espresso)
+
+[New\\
+\\
+**ESSENTIAL KNIT**  **rounded cropped cardigan**\\
+\\
+$98](https://skims.com/products/essential-sweaters-rounded-cropped-cardigan-espresso)
+
+[![](<Base64-Image-Removed>)\\
+![COTTON JERSEY LOGO T-SHIRT | LHG ARCHED SKIMS PLAID ON A MODEL | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SSL-13012W-GKAP-XA-SKIMS-LOUNGEWEAR_0996-SD.webp?v=1785740965&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
+\\
+![](<Base64-Image-Removed>)\\
+![COTTON JERSEY LOGO T-SHIRT | LHG ARCHED SKIMS PLAID & LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-TP-SSL-13012W-LHG-FLT.jpg?v=1785740630&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-jersey-logo-t-shirt-light-heather-grey-arched-skims-plaid)
+
+[**COTTON JERSEY**  **logo t-shirt**\\
+\\
+$54](https://skims.com/products/cotton-jersey-logo-t-shirt-light-heather-grey-arched-skims-plaid)
+
+[![](<Base64-Image-Removed>)\\
+![COTTON JERSEY LONG SLEEVE T-SHIRT | ESPRESSO ON A MODEL FRONT VIEW](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-TSH-0647-ESP-XC-SKIMS-LOUNGEWEAR_0917-FR_3a789741-ecd5-4ff2-8b0f-3272aab34772.webp?v=1788195678&auto=format%2Ccompress&w=1692&h=1692&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.45000000000000007&fp-z=1.1666666666666667&q=70)\\
+\\
+![](<Base64-Image-Removed>)\\
+![COTTON JERSEY LONG SLEEVE T-SHIRT | ESPRESSO FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-ESP-FLT_3f4b1cc6-0fc6-4b59-9401-90a21b3b47fc.jpg?v=1787781730&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-espresso)
 
 [Best Seller\\
 \\
 **COTTON JERSEY**  **long sleeve t-shirt**\\
 \\
-$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-light-heather-grey)
+$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-espresso)
 
 [![](<Base64-Image-Removed>)\\
 ![COTTON JERSEY LONG SLEEVE T-SHIRT | DARK HEATHER GREY ON A MODEL FRONT VIEW@ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-TSH-0647-DHG-XB-SKIMS-LOUNGEWEAR_0003-FR_649057b9-53f6-49db-87fd-ce6a1c4e5369.webp?v=1787839117&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
@@ -64,16 +122,16 @@ $58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-light-heather-
 $58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-dark-heather-grey)
 
 [![](<Base64-Image-Removed>)\\
-![COTTON JERSEY LONG SLEEVE T-SHIRT | ESPRESSO ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-TSH-0647-ESP-XC-SKIMS-LOUNGEWEAR_0917-FR_bc8d9771-74eb-4402-8493-b8ee54a07636.webp?v=1787839118&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
+![COTTON JERSEY T-SHIRT | SOOT ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-TSH-0638-SOT-MA-SKIMS-LOUNGEWEAR_0006-FR.webp?v=1783027126&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
 \\
 ![](<Base64-Image-Removed>)\\
-![COTTON JERSEY LONG SLEEVE T-SHIRT | ESPRESSO FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-ESP-FLT_3f4b1cc6-0fc6-4b59-9401-90a21b3b47fc.jpg?v=1787781730&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-espresso)
+![COTTON JERSEY T-SHIRT | SOOT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-SOT-FLT_337890eb-b813-4d8c-b4fd-b94fb1ae7e59.jpg?v=1767136369&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-jersey-t-shirt-soot)
 
-[new color\\
+[Best Seller\\
 \\
-**COTTON JERSEY**  **long sleeve t-shirt**\\
+**COTTON JERSEY**  **t-shirt**\\
 \\
-$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-espresso)
+$48](https://skims.com/products/cotton-jersey-t-shirt-soot)
 
 [![](<Base64-Image-Removed>)\\
 ![COTTON JERSEY CAMI | ESPRESSO ON A MODEL FRONT VIEW@ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SL-CAM-6368W-ESP-XB-SKIMS-LOUNGEWEAR_0028-FR_318808d8-bbac-4c24-86e2-edbc7720695e.webp?v=1787839120&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
@@ -88,172 +146,114 @@ $58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-espresso)
 $48](https://skims.com/products/cotton-jersey-cami-espresso)
 
 [![](<Base64-Image-Removed>)\\
-![COTTON JERSEY STRAIGHT LEG PANT | DARK HEATHER GREY ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-PNT-1384-DHG-XA-SKIMS-LOUNGEWEAR_46595-FR_c3619902-e28c-416b-9bec-b25a6ce75026.webp?v=1787841497&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
+![COTTON RIB ZIP UP TOP | LIGHT HEATHER GREY ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-LSL-12811W-LHG-XB-SKIMS-LOUNGEWEAR_0040-FR_9cbd13dc-f9d6-4209-ab21-5348f62156ff.webp?v=1787839121&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
 \\
 ![](<Base64-Image-Removed>)\\
-![COTTON JERSEY STRAIGHT LEG PANT | DARK HEATHER GREY FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-1384-DHG-FLT.jpg?v=1787781730&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-jersey-straight-leg-pant-dark-heather-grey)
+![COTTON RIB ZIP UP TOP | LIGHT HEATHER GREY FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-LSL-12811W-LHG-FLT_7e37a6f3-75eb-467f-994d-f6606f2776b4.jpg?v=1787781741&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-rib-zip-up-top-light-heather-grey)
 
-[new color\\
+[New\\
 \\
-**COTTON JERSEY**  **straight leg pant**\\
+**COTTON RIB**  **zip up top**\\
 \\
-$68](https://skims.com/products/cotton-jersey-straight-leg-pant-dark-heather-grey)
+$64](https://skims.com/products/cotton-rib-zip-up-top-light-heather-grey)
 
 [![](<Base64-Image-Removed>)\\
-![COTTON JERSEY FOLDOVER PANT | ESPRESSO ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-PNT-0715-ESP-XA-SKIMS-LOUNGEWEAR_1721-FR_eb32c9f6-eca2-4f8a-871a-666d57d944fb.webp?v=1787839122&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
+![COTTON FLEECE CLASSIC CREWNECK | LHG ARCHED SKIMS PLAID ON A MODEL | FLT@ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-LSL-13021W-GKAP-XC-SKIMS-LOUNGEWEAR_0013-FR.webp?v=1785794413&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
 \\
 ![](<Base64-Image-Removed>)\\
-![COTTON JERSEY FOLDOVER PANT | ESPRESSO FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-ESP-FLT_bc4d69c4-febd-4b60-a1d0-7477893a2962.jpg?v=1787781729&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-jersey-foldover-pant-espresso)
+![COTTON FLEECE CLASSIC CREWNECK | LHG ARCHED SKIMS PLAID ON A MODEL | FLT@ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-TP-LSL-13021W-LHG-FLT.jpg?v=1785737754&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-fleece-classic-crewneck-light-heather-grey-arched-skims-plaid)
 
-[new color\\
+[**COTTON FLEECE**  **classic crewneck**\\
 \\
-**COTTON JERSEY**  **foldover pant**\\
-\\
-$68](https://skims.com/products/cotton-jersey-foldover-pant-espresso)
+$98](https://skims.com/products/cotton-fleece-classic-crewneck-light-heather-grey-arched-skims-plaid)
 
 [![](<Base64-Image-Removed>)\\
-![COTTON JERSEY STRAIGHT LEG PANT | ESPRESSO ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-PNT-1384-ESP-XB-SKIMS-LOUNGEWEAR_0011-FR_524ff3d7-eb90-447e-8687-a0812c02640b.webp?v=1787839118&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
+![FITS EVERYBODY T-SHIRT | CURRANT ON A MODEL | FLT@ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-TSH-9048-CUR-XD-SKIMS-LOUNGEWEAR_0009-FR.webp?v=1785538465&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
 \\
 ![](<Base64-Image-Removed>)\\
-![COTTON JERSEY STRAIGHT LEG PANT | ESPRESSO FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-1384-ESP-FLT_2861f1aa-8e25-4684-a719-69ef25430310.jpg?v=1787781730&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-jersey-straight-leg-pant-espresso)
+![FITS EVERYBODY T-SHIRT | CURRANT FLAT ON A WHITE BACKGROUND | FLT@ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-TSH-9048-CUR-FLT.jpg?v=1785706118&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/fits-everybody-t-shirt-currant)
 
-[new color\\
+[**FITS EVERYBODY**  **t-shirt**\\
 \\
-**COTTON JERSEY**  **straight leg pant**\\
-\\
-$68](https://skims.com/products/cotton-jersey-straight-leg-pant-espresso)
+$48](https://skims.com/products/fits-everybody-t-shirt-currant)
 
-[![](<Base64-Image-Removed>)\\
-![COTTON JERSEY FOLDOVER PANT | MUTED MAUVE ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-PNT-0715-MUT-XB-SKIMS-LOUNGEWEAR_0024-FR_6fed56e0-cc22-43d8-8fc8-9e666d94a72d.webp?v=1787839120&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![COTTON JERSEY FOLDOVER PANT | MUTED MAUVE FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-MUT-FLT.jpg?v=1787781727&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-jersey-foldover-pant-muted-mauve)
-
-[new color\\
-\\
-**COTTON JERSEY**  **foldover pant**\\
-\\
-$68](https://skims.com/products/cotton-jersey-foldover-pant-muted-mauve)
-
-[![](<Base64-Image-Removed>)\\
-![COTTON JERSEY LOGO T-SHIRT | LHG ARCHED SKIMS PLAID ON A MODEL | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SSL-13012W-GKAP-XA-SKIMS-LOUNGEWEAR_0996-SD.webp?v=1785740965&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![COTTON JERSEY LOGO T-SHIRT | LHG ARCHED SKIMS PLAID & LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-TP-SSL-13012W-LHG-FLT.jpg?v=1785740630&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-jersey-logo-t-shirt-light-heather-grey-arched-skims-plaid)
-
-[**COTTON JERSEY**  **logo t-shirt**\\
-\\
-$54](https://skims.com/products/cotton-jersey-logo-t-shirt-light-heather-grey-arched-skims-plaid)
-
-[![](<Base64-Image-Removed>)\\
-![COTTON JERSEY T-SHIRT | CURRANT ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-TSH-0638-CUR-XC-SKIMS-LOUNGEWEAR_46628-FR.webp?v=1787766544&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![COTTON JERSEY T-SHIRT | CURRANT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-CUR-FLT_fbedd90b-d4b9-4502-86cb-e4af28180c49.jpg?v=1787781730&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-jersey-t-shirt-currant)
-
-[new color\\
-\\
-**COTTON JERSEY**  **t-shirt**\\
-\\
-$48](https://skims.com/products/cotton-jersey-t-shirt-currant)
-
-[![](<Base64-Image-Removed>)\\
-![COTTON JERSEY T-SHIRT | SOOT ON A MODEL FRONT VIEW @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-TSH-0638-SOT-MA-SKIMS-LOUNGEWEAR_0006-FR.webp?v=1783027126&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![COTTON JERSEY T-SHIRT | SOOT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-SOT-FLT_337890eb-b813-4d8c-b4fd-b94fb1ae7e59.jpg?v=1767136369&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-jersey-t-shirt-soot)
-
-[Best Seller\\
-\\
-**COTTON JERSEY**  **t-shirt**\\
-\\
-$48](https://skims.com/products/cotton-jersey-t-shirt-soot)
-
-[![](<Base64-Image-Removed>)\\
-![COTTON JERSEY SCOOP NECK LONG SLEEVE TOP | CURRANT ON A MODEL | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/LS-LST-7908W-CUR-XD-SKIMS-LOUNGEWEAR_0017-FR.webp?v=1785742695&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![COTTON JERSEY SCOOP NECK LONG SLEEVE TOP | CURRANT FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-LS-LST-7908W-CUR-FLT.jpg?v=1785538859&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-jersey-scoop-neck-long-sleeve-top-currant)
-
-[**COTTON JERSEY**  **scoop neck long sleeve top**\\
-\\
-$58](https://skims.com/products/cotton-jersey-scoop-neck-long-sleeve-top-currant)
-
-[View More Products](https://skims.com/collections/loungewear?direction=next&cursor=eyJsYXN0X3ZhbHVlIjoiMTEiLCJsYXN0X2lkIjoxMDI0NzA2NjQ4NTA4OSwib2Zmc2V0IjoxMX0%3D)
+[View More Products](https://skims.com/collections/loungewear?direction=next&cursor=eyJsYXN0X3ZhbHVlIjoiMTEiLCJsYXN0X2lkIjoxMDI0NzA2ODA1Nzk1Mywib2Zmc2V0IjoxMX0%3D)
 
 ## WE THINK YOU'D LIKE
 
 1/2
 
-[![T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-SOT-FLT_337890eb-b813-4d8c-b4fd-b94fb1ae7e59_grande.jpg?v=1767136369&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-jersey-t-shirt-soot)
+[![TUBE TOP](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-TUB-9645W-SOT-FLT_433faa66-a57c-483f-a2a2-be5059010428_grande.jpg?v=1775253208&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-jersey-tube-top-soot)
+
+[**COTTON JERSEY**  **tube top**\\
+\\
+$48](https://skims.com/products/cotton-jersey-tube-top-soot)
+
+[![TANGLE TEEZER X SKIMS THE ULTIMATE DETANGLER](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-ACCESSORIES-10201-092-USA-3-CLY-1-FLT_grande.jpg?v=1785532799&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/tangle-teezer-x-skims-the-ultimate-detangler-straight-to-wavy-clay)
+
+[**tangle teezer x skims the ultimate detangler**\\
+\\
+$20](https://skims.com/products/tangle-teezer-x-skims-the-ultimate-detangler-straight-to-wavy-clay)
+
+[![POINTELLE LACE STRING THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-11112W-VER-FLT_grande.jpg?v=1785776634&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-villa-egret-runway-stripe)
+
+[**LIGHTWEIGHT COTTON**  **pointelle lace string thong**\\
+\\
+$14\\
+\\
+5 for $35](https://skims.com/products/lightweight-cotton-pointelle-lace-string-thong-villa-egret-runway-stripe)
+
+[![LOGO T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-TP-SSL-13012W-LHG-FLT_grande.jpg?v=1785740630&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-jersey-logo-t-shirt-light-heather-grey-arched-skims-plaid)
+
+[**COTTON JERSEY**  **logo t-shirt**\\
+\\
+$54](https://skims.com/products/cotton-jersey-logo-t-shirt-light-heather-grey-arched-skims-plaid)
+
+[![CORE SCULPT PLUNGE THONG BODYSUIT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SHAPEWEAR-BD-THG-7118W-ONX_grande.jpg?v=1753896272&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/skims-body-core-sculpt-plunge-thong-bodysuit-onyx)
 
 [Best Seller\\
 \\
-**COTTON JERSEY**  **t-shirt**\\
+**SKIMS BODY**  **core sculpt plunge thong bodysuit** \\
 \\
-$48](https://skims.com/products/cotton-jersey-t-shirt-soot)
-
-[![DIPPED THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-PN-THG-9357-SOT-FLT_grande.jpg?v=1751413529&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/stretch-lace-dipped-thong-soot)
-
-[**STRETCH LACE**  **dipped thong**\\
+Extra Strong\\
 \\
-$20\\
-\\
-3 for $39](https://skims.com/products/stretch-lace-dipped-thong-soot)
+$98](https://skims.com/products/skims-body-core-sculpt-plunge-thong-bodysuit-onyx)
 
-[![BOY SHORT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-PN-BYS-0273-KYN-FLT_grande.jpg?v=1739829066&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-jersey-boy-short-kyanite)
+[![LOGO PICOT HIPSTER](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-HP-HIP-5977W-SNO-FLT_ab934844-2c87-4365-a6f6-22ad75047986_grande.jpg?v=1783544691&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-logo-picot-hipster-snow)
+
+[**LIGHTWEIGHT COTTON**  **logo picot hipster**\\
+\\
+$14\\
+\\
+5 for $35](https://skims.com/products/lightweight-cotton-logo-picot-hipster-snow)
+
+[![ZIP UP TOP](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-LSL-12811W-CBM-FLT_grande.jpg?v=1787781740&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-rib-zip-up-top-cherry-blossom)
+
+[New\\
+\\
+**COTTON RIB**  **zip up top**\\
+\\
+$64](https://skims.com/products/cotton-rib-zip-up-top-cherry-blossom)
+
+[![SCOOP BRALETTE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-SCP-2690-ONX_219d1370-2212-40d1-a169-928b12961a2b_grande.jpg?v=1705537516&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx)
 
 [Best Seller\\
 \\
-**COTTON JERSEY**  **boy short**\\
+**FITS EVERYBODY LACE**  **scoop bralette**\\
 \\
-$20\\
-\\
-3 for $39](https://skims.com/products/cotton-jersey-boy-short-kyanite)
+$38](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx)
 
-[![ULTIMATE TEARDROP PUSH-UP BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-PUS-10645W-SNO-FLT_17bb31eb-daee-4408-b0fb-0b2224c28bb9_grande.jpg?v=1771368660&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/everyday-cotton-ultimate-teardrop-push-up-bra-snow)
+[![CLASSIC ZIP UP HOODIE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-TP-SCL-11862W-LHG_grande.jpg?v=1785537930&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-fleece-classic-zip-up-hoodie-light-heather-grey-arched-skims-plaid)
 
-[**EVERYDAY COTTON**  **ultimate teardrop push-up bra**\\
+[**COTTON FLEECE**  **classic zip up hoodie**\\
 \\
-$64](https://skims.com/products/everyday-cotton-ultimate-teardrop-push-up-bra-snow)
+$108](https://skims.com/products/cotton-fleece-classic-zip-up-hoodie-light-heather-grey-arched-skims-plaid)
 
 [![T-SHIRT BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9221-CUR-FLT_grande.jpg?v=1785706111&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-t-shirt-bra-currant)
 
 [**FITS EVERYBODY**  **t-shirt bra**\\
 \\
 $54](https://skims.com/products/fits-everybody-t-shirt-bra-currant)
-
-[![CLASSIC STRAIGHT LEG PANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BT-PNT-11859W-LHG_grande.jpg?v=1785537929&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-fleece-classic-straight-leg-pant-light-heather-grey-arched-skims-plaid)
-
-[**COTTON FLEECE**  **classic straight leg pant**\\
-\\
-$98](https://skims.com/products/cotton-fleece-classic-straight-leg-pant-light-heather-grey-arched-skims-plaid)
-
-[![STRAIGHT LEG PANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-SP-PNT-1384-CUR-FLT_a62b87cd-7b93-4174-84aa-a7cb25eb5292_grande.jpg?v=1785779176&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-jersey-straight-leg-pant-currant)
-
-[**COTTON JERSEY**  **straight leg pant**\\
-\\
-$68](https://skims.com/products/cotton-jersey-straight-leg-pant-currant)
-
-[![TRIANGLE BIKINI TOP](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-10627W-CMB_grande.jpg?v=1772696418&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/signature-swim-triangle-bikini-top-cherry-blossom-contrast)
-
-[**SIGNATURE SWIM**  **triangle bikini top**\\
-\\
-$44$30](https://skims.com/products/signature-swim-triangle-bikini-top-cherry-blossom-contrast)
-
-[![T-SHIRT DEMI BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRA-BR-WRL-1889-ONX_grande.jpg?v=1674593136&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/wireless-form-t-shirt-demi-bra-onyx)
-
-[**WIRELESS FORM**  **t-shirt demi bra**\\
-\\
-$48](https://skims.com/products/wireless-form-t-shirt-demi-bra-onyx)
-
-[![LOGO PICOT THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5958W-STT-FLT_grande.jpg?v=1739556586&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot)
-
-[**LIGHTWEIGHT COTTON**  **logo picot thong**\\
-\\
-$14\\
-\\
-5 for $35](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot)
 
 ![SKIMS LOUNGEWEAR](https://skims-sanity.imgix.net/images/hfqi0zm0/production/702bc1683b13c83a0227756dccfbf5084cd6b3da-800x470.jpg?auto=format&q=70&ixlib=react-9.11.0)
 
@@ -347,7 +347,7 @@ Tops
 
 ColorColor
 
-- [ ] Black[ ] Blue[ ] Brown[ ] Deep Neutral[ ] Green[ ] Grey[ ] Light Neutral[ ] Medium Neutral[ ] Pink[ ] Purple[ ] Red[ ] White
+- [ ] Black[ ] Blue[ ] Deep Neutral[ ] Green[ ] Grey[ ] Light Neutral[ ] Medium Neutral[ ] Pink[ ] Purple[ ] Red[ ] White
 
 Bundle TypeBundle Type
 
@@ -377,6 +377,10 @@ Cotton Rib
 
 
 Drapey French Terry
+
+
+
+Essential Sweaters
 
 
 
@@ -443,7 +447,7 @@ Sleeveless
 
 View 12+ Items
 
-# Oops...
+Oops...
 
 You have no items in your bag
 
@@ -451,74 +455,76 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![CLASSIC STRAIGHT LEG PANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BT-PNT-11859W-LHG_grande.jpg?v=1785537929&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-fleece-classic-straight-leg-pant-light-heather-grey-arched-skims-plaid)
+[![LONG SLEEVE T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-SOT-FLT_2781d3b4-eded-4093-ba43-0d16b1ad2c56_grande.jpg?v=1767136370&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot)
 
-[**COTTON FLEECE**  **classic straight leg pant**\\
+[Best Seller\\
 \\
-$98](https://skims.com/products/cotton-fleece-classic-straight-leg-pant-light-heather-grey-arched-skims-plaid)
+**COTTON JERSEY**  **long sleeve t-shirt**\\
+\\
+$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot)
 
-[![CHEEKY BRIEF](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-PN-BIK-9333-CUR-FLT_grande.jpg?v=1785706117&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-cheeky-brief-currant)
+[![OVERSIZED PANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/NIKESKIMS-ACTIVEWEAR-IU2224-241-FLT_grande.jpg?v=1783987643&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/nikeskims-stretch-nylon-oversized-pant-resin)
 
-[**FITS EVERYBODY**  **cheeky brief**\\
+[**NikeSKIMS STRETCH NYLON**  **oversized pant**\\
+\\
+$128](https://skims.com/products/nikeskims-stretch-nylon-oversized-pant-resin)
+
+[![SUPER PUSH-UP BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-PLG-2632-CLY_grande.jpg?v=1753904348&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/wireless-form-super-push-up-bra-clay)
+
+[**WIRELESS FORM**  **super push-up bra**\\
+\\
+$58](https://skims.com/products/wireless-form-super-push-up-bra-clay)
+
+[![CLASSIC JOGGER](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-JO-JOG-8600W-CUR_grande.jpg?v=1785537928&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-fleece-classic-jogger-currant-arched-skims-plaid)
+
+[**COTTON FLEECE**  **classic jogger**\\
+\\
+$98](https://skims.com/products/cotton-fleece-classic-jogger-currant-arched-skims-plaid)
+
+[![LACE HIPSTER](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-HIP-10654W-AIR-FLT_grande.jpg?v=1783467926&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-lace-hipster-airspace)
+
+[**LIGHTWEIGHT COTTON**  **lace hipster**\\
+\\
+$14\\
+\\
+5 for $35](https://skims.com/products/lightweight-cotton-lace-hipster-airspace)
+
+[![TANGLE TEEZER X SKIMS THE ULTIMATE DETANGLER](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-ACCESSORIES-10201-092-USA-3-CLY-1-FLT_grande.jpg?v=1785532799&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/tangle-teezer-x-skims-the-ultimate-detangler-straight-to-wavy-clay)
+
+[**tangle teezer x skims the ultimate detangler**\\
+\\
+$20](https://skims.com/products/tangle-teezer-x-skims-the-ultimate-detangler-straight-to-wavy-clay)
+
+[![STRAIGHT LEG PANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-SP-PNT-1384-CUR-FLT_a62b87cd-7b93-4174-84aa-a7cb25eb5292_grande.jpg?v=1785779176&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-jersey-straight-leg-pant-currant)
+
+[new color\\
+\\
+**COTTON JERSEY**  **straight leg pant**\\
+\\
+$68](https://skims.com/products/cotton-jersey-straight-leg-pant-currant)
+
+[![SCOOP BRALETTE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-SCP-2690-ONX_219d1370-2212-40d1-a169-928b12961a2b_grande.jpg?v=1705537516&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx)
+
+[Best Seller\\
+\\
+**FITS EVERYBODY LACE**  **scoop bralette**\\
+\\
+$38](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx)
+
+[![STRING THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10646W-ONX-FLT_51565f8a-33ca-4eb6-8ff6-27595fe79018_grande.jpg?v=1774285068&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/everyday-cotton-string-thong-onyx)
+
+[**EVERYDAY COTTON**  **string thong**\\
 \\
 $20\\
 \\
-3 for $39](https://skims.com/products/fits-everybody-cheeky-brief-currant)
+3 for $39](https://skims.com/products/everyday-cotton-string-thong-onyx)
 
-[![LACE THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5957W-AIR-FLT_grande.jpg?v=1783467923&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-lace-thong-airspace)
-
-[**LIGHTWEIGHT COTTON**  **lace thong**\\
-\\
-$14\\
-\\
-5 for $35](https://skims.com/products/lightweight-cotton-lace-thong-airspace)
-
-[![POINTELLE LACE BRIEF](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BR-BRF-8499W-VER-FLT_grande.jpg?v=1785776634&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-pointelle-lace-brief-villa-egret-runway-stripe)
-
-[**LIGHTWEIGHT COTTON**  **pointelle lace brief**\\
-\\
-$14\\
-\\
-5 for $35](https://skims.com/products/lightweight-cotton-pointelle-lace-brief-villa-egret-runway-stripe)
-
-[![T-SHIRT DEMI BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRA-BR-WRL-1889-ONX_grande.jpg?v=1674593136&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/wireless-form-t-shirt-demi-bra-onyx)
-
-[**WIRELESS FORM**  **t-shirt demi bra**\\
-\\
-$48](https://skims.com/products/wireless-form-t-shirt-demi-bra-onyx)
-
-[![TRIANGLE BIKINI TOP](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SWIM-TS-BIK-10627W-CMB_grande.jpg?v=1772696418&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/signature-swim-triangle-bikini-top-cherry-blossom-contrast)
-
-[**SIGNATURE SWIM**  **triangle bikini top**\\
-\\
-$44$30](https://skims.com/products/signature-swim-triangle-bikini-top-cherry-blossom-contrast)
-
-[![LONG SLEEVE T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0650-ONX-FL_eff52af7-a691-4535-9651-502207485741_grande.jpg?v=1708556288&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-long-sleeve-t-shirt-onyx)
+[![CLASSIC STRAIGHT LEG PANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-BO-STR-4003-LHG-2_4d0eeb73-4486-47e8-b634-21eef5671c01_grande.jpg?v=1735852680&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-fleece-classic-straight-leg-pant-light-heather-grey)
 
 [Best Seller\\
 \\
-**FITS EVERYBODY**  **long sleeve t-shirt**\\
+**COTTON FLEECE**  **classic straight leg pant**\\
 \\
-$58](https://skims.com/products/fits-everybody-long-sleeve-t-shirt-onyx)
-
-[![T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TSH-0649-ONX-FL_grande.jpg?v=1615492274&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-t-shirt-onyx)
-
-[Best Seller\\
-\\
-**FITS EVERYBODY**  **t-shirt**\\
-\\
-$48](https://skims.com/products/fits-everybody-t-shirt-onyx)
-
-[![TRIANGLE BRALETTE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-ST-SET-7638W-PWB-FLT_grande.jpg?v=1774396675&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/stretch-lace-triangle-bralette-powder-blue)
-
-[**STRETCH LACE**  **triangle bralette**\\
-\\
-$44](https://skims.com/products/stretch-lace-triangle-bralette-powder-blue)
-
-[![T-SHIRT BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9221-CUR-FLT_grande.jpg?v=1785706111&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-t-shirt-bra-currant)
-
-[**FITS EVERYBODY**  **t-shirt bra**\\
-\\
-$54](https://skims.com/products/fits-everybody-t-shirt-bra-currant)
+$88](https://skims.com/products/cotton-fleece-classic-straight-leg-pant-light-heather-grey)
 
 Back to Cart

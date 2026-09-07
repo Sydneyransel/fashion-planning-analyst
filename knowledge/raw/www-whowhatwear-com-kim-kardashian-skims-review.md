@@ -2,7 +2,7 @@
 url: https://www.whowhatwear.com/kim-kardashian-skims-review
 source_type: whowhatwear.com
 title: 5 Editors Review Skims, Kim Kardashian's New Shapewear | Who What Wear
-scraped_at: 2026-08-31T12:18:59.477206+00:00
+scraped_at: 2026-09-07T11:10:14.921154+00:00
 ---
 
 ×
@@ -11,7 +11,7 @@ scraped_at: 2026-08-31T12:18:59.477206+00:00
 
 Be the first to know
 
-## I'm a Shopping Expert—8 Trends I'm Buying for Fall 2026 and 8 I'm Skipping
+## 5 Copenhagen Trends Coming in Hot for 2027
 
 Enter your email to see the list
 
@@ -29,7 +29,7 @@ Join NowNot now, thanks
 
 ## Thanks for signing up
 
-[Show me](https://www.whowhatwear.com/fashion/shopping/fall-2026-fashion-trends?utm_source=user-acquisition-cta)
+[Show me](https://www.whowhatwear.com/fashion/runway/copenhagen-fashion-week-runway-spring-summer-2027?utm_source=user-acquisition-cta)
 
 ×
 
@@ -37,7 +37,7 @@ Join NowNot now, thanks
 
 Be the first to know
 
-## I'm a Shopping Expert—8 Trends I'm Buying for Fall 2026 and 8 I'm Skipping
+## 5 Copenhagen Trends Coming in Hot for 2027
 
 Enter your email to see the list
 
@@ -55,4 +55,4 @@ Join NowNot now, thanks
 
 ## Thanks for signing up
 
-[Show me](https://www.whowhatwear.com/fashion/shopping/fall-2026-fashion-trends?utm_source=user-acquisition-cta)
+[Show me](https://www.whowhatwear.com/fashion/runway/copenhagen-fashion-week-runway-spring-summer-2027?utm_source=user-acquisition-cta)

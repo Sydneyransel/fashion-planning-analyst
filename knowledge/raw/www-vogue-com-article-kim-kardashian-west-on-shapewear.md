@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-08-31T12:17:19.391983+00:00
+scraped_at: 2026-09-07T11:09:51.541226+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -100,34 +100,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![The Vogue Business Funding Tracker](https://assets.vogue.com/photos/69e0ca9595c2b15af7b51179/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_8bf97fae-f0ae-4c42-a032-c55dd89164f3_text2vec1_fallback_modern-bert)
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a9979225492e7d5614fd6cb/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
 
-Companies
+Beauty
 
-[The _Vogue Business_ Funding Tracker](https://www.vogue.com/article/the-vogue-business-funding-tracker#intcid=_vogue-article-bottom-recirc_8bf97fae-f0ae-4c42-a032-c55dd89164f3_text2vec1_fallback_modern-bert)
+[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
 
 By Vogue Business Team
 
-[![Alo International CEO Benedetta Petruzzo on the Brand’s Big Euro Summer](https://assets.vogue.com/photos/6a70a4cdb1d675158a413c75/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/alo-international-ceo-benedetta-petruzzo-on-the-brands-big-euro-summer#intcid=_vogue-article-bottom-recirc_8bf97fae-f0ae-4c42-a032-c55dd89164f3_text2vec1_fallback_modern-bert)
-
-Executive Interviews
-
-[Alo International CEO Benedetta Petruzzo on the Brand’s Big Euro Summer](https://www.vogue.com/article/alo-international-ceo-benedetta-petruzzo-on-the-brands-big-euro-summer#intcid=_vogue-article-bottom-recirc_8bf97fae-f0ae-4c42-a032-c55dd89164f3_text2vec1_fallback_modern-bert)
-
-By Lucy Maguire
-
-[![How to Build Your Personal Brand](https://assets.vogue.com/photos/6a79a14490048894e89ae482/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-build-your-personal-brand#intcid=_vogue-article-bottom-recirc_8bf97fae-f0ae-4c42-a032-c55dd89164f3_text2vec1_fallback_modern-bert)
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
 
 Companies
 
-[How to Build Your Personal Brand](https://www.vogue.com/article/how-to-build-your-personal-brand#intcid=_vogue-article-bottom-recirc_8bf97fae-f0ae-4c42-a032-c55dd89164f3_text2vec1_fallback_modern-bert)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
 
-By Cami Fateh
+By Vogue Business Team
 
-[![Ferragamo Hits Growth in the Second Quarter](https://assets.vogue.com/photos/6a70cc5cb7c7c0918c617850/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/ferragamo-hits-growth-in-the-second-quarter#intcid=_vogue-article-bottom-recirc_8bf97fae-f0ae-4c42-a032-c55dd89164f3_text2vec1_fallback_modern-bert)
+[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
 
-Earnings
+Technology
 
-[Ferragamo Hits Growth in the Second Quarter](https://www.vogue.com/article/ferragamo-hits-growth-in-the-second-quarter#intcid=_vogue-article-bottom-recirc_8bf97fae-f0ae-4c42-a032-c55dd89164f3_text2vec1_fallback_modern-bert)
+[The _Vogue Business_ AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
 
-By Ella Graveney
+By Amy O’Brien
+
+[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6a85c5ba52f24e34118c9d83/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
+
+Future Edit
+
+[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
+
+By Lucy Maguire

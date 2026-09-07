@@ -2,7 +2,7 @@
 url: https://skims.com/pages/about
 source_type: skims.com
 title: About | SKIMS
-scraped_at: 2026-08-31T12:16:13.470008+00:00
+scraped_at: 2026-09-07T11:09:07.040089+00:00
 ---
 
 [Skip to main content](https://skims.com/pages/about#main-content)
@@ -39,7 +39,7 @@ Sale
 USD
 
 
-# Oops...
+Oops...
 
 You have no items in your bag
 

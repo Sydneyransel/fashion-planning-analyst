@@ -2,7 +2,7 @@
 url: https://www.harpersbazaar.com/fashion/trends/a44807389/skims-push-up-bra-launch/
 source_type: harpersbazaar.com
 title: Skims' Push-Up Bra Wants to Be the Most Comfortable Push-Up Bra
-scraped_at: 2026-08-31T12:18:43.760094+00:00
+scraped_at: 2026-09-07T11:10:08.651524+00:00
 ---
 
 [Skip to Content](https://www.harpersbazaar.com/fashion/trends/a44807389/skims-push-up-bra-launch/#main-content)
@@ -55,37 +55,37 @@ Advertisement - Continue Reading Below
 
 ## Readers Also Read
 
-[![Collection of stylish black women's shoes displayed in a collage format.](https://hips.hearstapps.com/hmg-prod/images/833c18d9-9046-4ab6-bf3e-8dc15f8eda14.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
+[![A woman in a maroon sweater and navy pants stands on a city street near a subway entrance.](https://hips.hearstapps.com/hmg-prod/images/bc3d827d-4b74-478a-b211-5cdf22c4daca.jpg?crop=1xw:1.0xh;center,top&resize=360:*)\\
 \\
-Opera Shoes Are Having a Moment](https://www.harpersbazaar.com/fashion/trends/a73348238/opera-pumps-trend-2026/) [![Five models showcase diverse fashion styles on a runway, featuring vibrant colors, textures, and innovative designs.](https://hips.hearstapps.com/hmg-prod/images/0ede1c86-2abd-439f-bde0-c91539bdce0a.jpg?crop=0.562xw:1xh;0.02xw,0xh&resize=360:*)\\
+It’s All About the Polo Sweater This Fall](https://www.harpersbazaar.com/fashion/trends/a73542991/long-sleeve-polo-trend-2026/) [![Five models showcase diverse fashion styles on a runway, featuring vibrant colors, textures, and innovative designs.](https://hips.hearstapps.com/hmg-prod/images/0ede1c86-2abd-439f-bde0-c91539bdce0a.jpg?crop=0.562xw:1xh;0.02xw,0xh&resize=360:*)\\
 \\
-These Are Fall’s Standout Denim Trends](https://www.harpersbazaar.com/fashion/trends/a73455542/fall-denim-trends-2026/) [![Fashionable women in various outfits showcasing modern street style trends.](https://hips.hearstapps.com/hmg-prod/images/4992a807-edeb-416d-9fce-b10737cb1ee1.jpg?crop=0.5625xw:1xh;center,top&resize=360:*)\\
+These Are Fall’s Standout Denim Trends](https://www.harpersbazaar.com/fashion/trends/a73455542/fall-denim-trends-2026/) [![fall 2026 boot trends](https://hips.hearstapps.com/hmg-prod/images/b47f7e62-2b74-4f91-bcea-d8a5848bfb3e.jpg?crop=0.562xw:1xh;0.416xw,0xh&resize=360:*)\\
 \\
-Your Fall Outfit Playbook Is Here](https://www.harpersbazaar.com/fashion/trends/a73296450/best-fall-outfits-2026/) [![fall 2026 boot trends](https://hips.hearstapps.com/hmg-prod/images/b47f7e62-2b74-4f91-bcea-d8a5848bfb3e.jpg?crop=0.562xw:1xh;0.416xw,0xh&resize=360:*)\\
+The Season’s Top Fall/Winter 2026 Boot Trends](https://www.harpersbazaar.com/fashion/trends/a73494709/fall-boot-trends-2026/) [![A collage of fashion outfits featuring bold styles and colors in a home setting.](https://hips.hearstapps.com/hmg-prod/images/56b0f406-31f6-4dbf-8463-6f3fe24f7e94.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
 \\
-The Season’s Top Fall/Winter 2026 Boot Trends](https://www.harpersbazaar.com/fashion/trends/a73494709/fall-boot-trends-2026/)
+How to Wear J.Crew When You’re Not Quite Preppy](https://www.harpersbazaar.com/fashion/trends/a73533320/alternative-jcrew-styling-outfits/)
 
 Advertisement - Continue Reading Below
 
-[![A collage showcasing various iconic outfits worn by Princess Diana throughout her life.](https://hips.hearstapps.com/hmg-prod/images/1ca23597-26e0-4141-a8ba-91fe040a36f6.jpg?crop=0.562xw:1xh;0.229xw,0xh&resize=360:*)\\
+[![HBZ jazz shoes in a stylish design for dancers](https://hips.hearstapps.com/hmg-prod/images/03940376-d847-40d8-ae7c-c385616a22b8.jpg?crop=0.5625xw:1xh;center,top&resize=360:*)\\
 \\
-A Timeline of Princess Diana’s Best Looks](https://www.harpersbazaar.com/fashion/street-style/g71796192/princess-diana-best-looks-style-evolution/) [![Fashion collage featuring women in various outfits and accessories, including dresses, blouses, bags, and shoes.](https://hips.hearstapps.com/hmg-prod/images/b53a5eb4-e022-4add-8977-732ec0bcb641.jpg?crop=0.562xw:1xh;0.192xw,0xh&resize=360:*)\\
+Jazz Shoes Are the New Ballet Flats](https://www.harpersbazaar.com/fashion/trends/a71414138/jazz-shoes-trend-2026/) [![Collection of stylish black women's shoes displayed in a collage format.](https://hips.hearstapps.com/hmg-prod/images/833c18d9-9046-4ab6-bf3e-8dc15f8eda14.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
 \\
-Your Essential Fall Capsule Wardrobe](https://www.harpersbazaar.com/fashion/trends/g73287109/fall-capsule-wardrobe-2026/) [![HBZ jazz shoes in a stylish design for dancers](https://hips.hearstapps.com/hmg-prod/images/03940376-d847-40d8-ae7c-c385616a22b8.jpg?crop=0.5625xw:1xh;center,top&resize=360:*)\\
+Opera Shoes Are Having a Moment](https://www.harpersbazaar.com/fashion/trends/a73348238/opera-pumps-trend-2026/) [![Young woman in a black leather jacket holding a denim tote bag adorned with accessories and a red polka dot scarf.](https://hips.hearstapps.com/hmg-prod/images/e492c5d5-7163-4f7b-84f8-b6c593e05f60.jpg?crop=1xw:1.0xh;center,top&resize=360:*)\\
 \\
-Jazz Shoes Are the New Ballet Flats](https://www.harpersbazaar.com/fashion/trends/a71414138/jazz-shoes-trend-2026/) [![Model holding a large olive green handbag while showcasing a minimalist fashion look.](https://hips.hearstapps.com/hmg-prod/images/768f5cde-8303-4062-8527-128a386c9221.jpg?crop=1xw:1.0xh;center,top&resize=360:*)\\
+Gap’s Debut Handbag Collection Arrives This Fall](https://www.harpersbazaar.com/fashion/trends/a73571359/gapbag-collection/) [![Fashionable women in various outfits showcasing modern street style trends.](https://hips.hearstapps.com/hmg-prod/images/4992a807-edeb-416d-9fce-b10737cb1ee1.jpg?crop=0.5625xw:1xh;center,top&resize=360:*)\\
 \\
-Fall’s Chicest Accessory? A Slouchy Bag](https://www.harpersbazaar.com/fashion/trends/g73521371/best-slouchy-bags-2026/)
+Your Fall Outfit Playbook Is Here](https://www.harpersbazaar.com/fashion/trends/a73296450/best-fall-outfits-2026/)
 
-[![A collage of women in stylish outfits featuring skirts, sweaters, and accessories in various urban settings.](https://hips.hearstapps.com/hmg-prod/images/a03357ac-f60c-4f05-96ce-df0bf300d93b.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
+[![Five women showcasing diverse fashionable outfits on city streets, featuring various styles and accessories.](https://hips.hearstapps.com/hmg-prod/images/ab34e93d-ea27-476a-adcf-2ceaeb593a6c.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
 \\
-The Fall Sweater Trends Everyone Will Be Wearing](https://www.harpersbazaar.com/fashion/trends/a73425900/best-fall-sweaters-2026/) [![A casually dressed woman with long hair poses thoughtfully on her hands and knees against a softly lit background.](https://hips.hearstapps.com/hmg-prod/images/1267532f-6ce0-450d-8f1e-d47cd9d1b16c.png?crop=0.796xw:1xh;0.039xw,0xh&resize=360:*)\\
+7 Fresh Ways to Style Loafers This Fall](https://www.harpersbazaar.com/fashion/trends/a73593141/how-to-style-loafers-fall-outfits/) [![Fashion collage featuring women in various outfits and accessories, including dresses, blouses, bags, and shoes.](https://hips.hearstapps.com/hmg-prod/images/b53a5eb4-e022-4add-8977-732ec0bcb641.jpg?crop=0.562xw:1xh;0.192xw,0xh&resize=360:*)\\
 \\
-Tate McRae Leads Fall 2026 Calvin Klein Campaign](https://www.harpersbazaar.com/fashion/designers/a73513689/tate-mcrae-fall-2026-calvin-klein-denim-campaign-interview/) [![A collection of stylish handbags held by models on a runway.](https://hips.hearstapps.com/hmg-prod/images/ea355045-e1fd-49b4-9872-33676bfe35ee.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
+Your Essential Fall Capsule Wardrobe](https://www.harpersbazaar.com/fashion/trends/g73287109/fall-capsule-wardrobe-2026/) [![Celebrity Sightings: Day 4 - The 79th Annual Cannes Film Festival](https://hips.hearstapps.com/hmg-prod/images/f60b01ca-8455-45f8-b06f-ce64b79b92ab.jpeg?crop=1xw:0.750480769231xh;center,top&resize=360:*)\\
 \\
-This Fall’s Best Bag Trends Really Mean Business](https://www.harpersbazaar.com/fashion/trends/a73445481/fall-winter-bag-trends-2026/) [![fashion showcase featuring various female models in diverse outfits](https://hips.hearstapps.com/hmg-prod/images/f23d3a0d-04b9-4549-a3d6-a9db7e64a66a.jpg?crop=0.490xw:0.872xh;0.255xw,0.0256xh&resize=360:*)\\
+Put Down Your White Sneakers. Try These Instead.](https://www.harpersbazaar.com/fashion/trends/g71337748/best-metallic-sneakers/) [![Five stylish women showcasing diverse fashion looks on city streets.](https://hips.hearstapps.com/hmg-prod/images/c03982fd-2841-45c0-acd3-979dba006379.jpg?crop=0.5624xw:1xh;center,top&resize=360:*)\\
 \\
-Our Top 15 Trends from the Fall 2026 Runways](https://www.harpersbazaar.com/fashion/fashion-week/a70735627/fall-2026-runway-trends/)
+It’s Time for a Fall Sneaker Refresh](https://www.harpersbazaar.com/fashion/trends/a73375392/fall-sneaker-trends-2026/)
 
 Advertisement - Continue Reading Below
 
