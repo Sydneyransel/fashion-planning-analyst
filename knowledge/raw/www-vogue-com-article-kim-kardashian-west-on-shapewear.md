@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-09-07T11:09:51.541226+00:00
+scraped_at: 2026-09-14T11:20:43.811535+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -100,34 +100,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a9979225492e7d5614fd6cb/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6aa2d6a176b1913dd8e96909/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
 
 Beauty
 
-[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
+[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
 
 By Vogue Business Team
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
 
 Companies
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
 
 By Vogue Business Team
 
-[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
+[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
 
 Technology
 
-[The _Vogue Business_ AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
+[The _Vogue Business_ AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
 
 By Amy O’Brien
 
-[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6a85c5ba52f24e34118c9d83/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
+[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6aa2ed6dcdd9bd0c0d343002/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
 
 Future Edit
 
-[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_6337856e-e2ca-4f05-b142-4b302ee60816_text2vec1_fallback_modern-bert)
+[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
 
 By Lucy Maguire

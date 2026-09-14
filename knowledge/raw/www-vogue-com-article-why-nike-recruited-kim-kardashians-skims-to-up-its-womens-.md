@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-09-07T11:09:56.162018+00:00
+scraped_at: 2026-09-14T11:20:47.788839+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -21,21 +21,21 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 
 LATEST ON VOGUE
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a9979225492e7d5614fd6cb/1:1/w_640%2Cc_limit/undefined)\\
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6aa2d6a176b1913dd8e96909/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_821fe27a-b593-4b38-9e25-4655dd0aa93d_text2vec1_fallback_modern-bert "The Vogue Business Beauty Trend Tracker")
+The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert "The Vogue Business Beauty Trend Tracker")
 
-[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6a85c5ba52f24e34118c9d83/1:1/w_640%2Cc_limit/undefined)\\
+[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6aa2ed6dcdd9bd0c0d343002/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_821fe27a-b593-4b38-9e25-4655dd0aa93d_text2vec1_fallback_modern-bert "The Vogue Business TikTok Trend Tracker")
+The Vogue Business TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert "The Vogue Business TikTok Trend Tracker")
 
 [![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_821fe27a-b593-4b38-9e25-4655dd0aa93d_text2vec1_fallback_modern-bert "The Vogue Business People Moves Tracker")
+The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert "The Vogue Business People Moves Tracker")
 
-[![What You Missed at the Building a Career in Fashion Event](https://assets.vogue.com/photos/6a6cd332ca48e9e1a0543ad2/1:1/w_640%2Cc_limit/undefined)\\
+[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)\\
 \\
-What You Missed at the Building a Career in Fashion Event](https://www.vogue.com/article/building-a-career-in-fashion-london#intcid=_vogue-article-bottom-recirc_821fe27a-b593-4b38-9e25-4655dd0aa93d_text2vec1_fallback_modern-bert "What You Missed at the Building a Career in Fashion Event")
+The Vogue Business AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert "The Vogue Business AI Tracker")
 
 ArrowArrow
 
@@ -70,7 +70,7 @@ Photos: Courtesy of Nike
 
 Most Popular
 
-- [![Beyond Lab-Grown: How Dorsey Is Building a New Kind of Jewelry Brand](https://assets.vogue.com/photos/6a9887db90588c0661342138/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/beyond-lab-grown-how-dorsey-is-building-a-new-kind-of-jewelry-brand#intcid=_vogue-right-rail_9faf2a4e-d6b4-413c-81a4-67162ab39359_popular4-2)
+- [![The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
 
 
 
@@ -80,23 +80,13 @@ Most Popular
 
 
 
-Business
+Events
 
 
 
 
 
-[Beyond Lab-Grown: How Dorsey Is Building a New Kind of Jewelry Brand](https://www.vogue.com/article/beyond-lab-grown-how-dorsey-is-building-a-new-kind-of-jewelry-brand#intcid=_vogue-right-rail_9faf2a4e-d6b4-413c-81a4-67162ab39359_popular4-2)
-
-
-
-
-
-
-
-By Madeleine Schulz
-
-- [![Julie Kegels Wins 2026 LVMH Prize, Lii Wins Karl Lagerfeld and Yoshita 1967 Wins Savoir-Faire](https://assets.vogue.com/photos/6a9ac5d5aa743506e7efb92c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/julie-kegels-wins-2026-lvmh-prize-lii-wins-karl-lagerfeld-and-yoshita-1967-wins-savoir-faire#intcid=_vogue-right-rail_9faf2a4e-d6b4-413c-81a4-67162ab39359_popular4-2)
+[The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
 
 
 
@@ -104,15 +94,51 @@ By Madeleine Schulz
 
 
 
+By Vogue Business Team
+
+- [![How To Fix Charity Retail](https://assets.vogue.com/photos/6aa185a33eebf61ae5b334c4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-fix-charity-retail#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
 
 
-Creative Directors
 
 
 
 
 
-[Julie Kegels Wins 2026 LVMH Prize, Lii Wins Karl Lagerfeld and Yoshita 1967 Wins Savoir-Faire](https://www.vogue.com/article/julie-kegels-wins-2026-lvmh-prize-lii-wins-karl-lagerfeld-and-yoshita-1967-wins-savoir-faire#intcid=_vogue-right-rail_9faf2a4e-d6b4-413c-81a4-67162ab39359_popular4-2)
+
+
+Sustainability
+
+
+
+
+
+[How To Fix Charity Retail](https://www.vogue.com/article/how-to-fix-charity-retail#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
+
+
+
+
+
+
+
+By Tansy Hoskins
+
+- [![Bye Bye Clean Girl: 6 Trend Predictions for Spring/Summer 2027](https://assets.vogue.com/photos/6a9ee7e31718576a195655fe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/bye-bye-clean-girl-6-trend-predictions-for-spring-summer-2027#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion Industry Trends
+
+
+
+
+
+[Bye Bye Clean Girl: 6 Trend Predictions for Spring/Summer 2027](https://www.vogue.com/article/bye-bye-clean-girl-6-trend-predictions-for-spring-summer-2027#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
 
 
 
@@ -121,32 +147,6 @@ Creative Directors
 
 
 By Lucy Maguire
-
-- [![4 Key Takeaways From Tokyo Fashion Week SS27](https://assets.vogue.com/photos/6a9dc5b37535d323802c751e/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/4-key-takeaways-from-tokyo-fashion-week-ss27#intcid=_vogue-right-rail_9faf2a4e-d6b4-413c-81a4-67162ab39359_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-
-
-Business
-
-
-
-
-
-[4 Key Takeaways From Tokyo Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-tokyo-fashion-week-ss27#intcid=_vogue-right-rail_9faf2a4e-d6b4-413c-81a4-67162ab39359_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-By Ashley Ogawa Clarke
 
 
 It also signals Nike’s commitment to developing technical products for women. Product innovation has been a pain point for Nike in recent years, Yarbrough says. Hill [acknowledged this](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December’s earnings; it forms the foundation of his turnaround strategy. In partnering with Skims on a joint brand, Nike is able to gain access to womenswear tech to help it rival the Alos and Lululemons of the world, which, Yarbrough says, would otherwise likely take Nike several years to develop, manufacture and scale. “This accelerates that path for Nike to compete with some of these other brands that have been growing rapidly.” It’s a smart shortcut, Hastings-Narayanin says.
@@ -163,7 +163,7 @@ These days, consumers want products that work, experts agree, so emphasis needs 
 
 Most Popular
 
-- [![Beyond Lab-Grown: How Dorsey Is Building a New Kind of Jewelry Brand](https://assets.vogue.com/photos/6a9887db90588c0661342138/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/beyond-lab-grown-how-dorsey-is-building-a-new-kind-of-jewelry-brand#intcid=_vogue-right-rail_9faf2a4e-d6b4-413c-81a4-67162ab39359_popular4-2)
+- [![The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
 
 
 
@@ -173,23 +173,13 @@ Most Popular
 
 
 
-Business
+Events
 
 
 
 
 
-[Beyond Lab-Grown: How Dorsey Is Building a New Kind of Jewelry Brand](https://www.vogue.com/article/beyond-lab-grown-how-dorsey-is-building-a-new-kind-of-jewelry-brand#intcid=_vogue-right-rail_9faf2a4e-d6b4-413c-81a4-67162ab39359_popular4-2)
-
-
-
-
-
-
-
-By Madeleine Schulz
-
-- [![Julie Kegels Wins 2026 LVMH Prize, Lii Wins Karl Lagerfeld and Yoshita 1967 Wins Savoir-Faire](https://assets.vogue.com/photos/6a9ac5d5aa743506e7efb92c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/julie-kegels-wins-2026-lvmh-prize-lii-wins-karl-lagerfeld-and-yoshita-1967-wins-savoir-faire#intcid=_vogue-right-rail_9faf2a4e-d6b4-413c-81a4-67162ab39359_popular4-2)
+[The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
 
 
 
@@ -197,15 +187,51 @@ By Madeleine Schulz
 
 
 
+By Vogue Business Team
+
+- [![How To Fix Charity Retail](https://assets.vogue.com/photos/6aa185a33eebf61ae5b334c4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-fix-charity-retail#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
 
 
-Creative Directors
 
 
 
 
 
-[Julie Kegels Wins 2026 LVMH Prize, Lii Wins Karl Lagerfeld and Yoshita 1967 Wins Savoir-Faire](https://www.vogue.com/article/julie-kegels-wins-2026-lvmh-prize-lii-wins-karl-lagerfeld-and-yoshita-1967-wins-savoir-faire#intcid=_vogue-right-rail_9faf2a4e-d6b4-413c-81a4-67162ab39359_popular4-2)
+
+
+Sustainability
+
+
+
+
+
+[How To Fix Charity Retail](https://www.vogue.com/article/how-to-fix-charity-retail#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
+
+
+
+
+
+
+
+By Tansy Hoskins
+
+- [![Bye Bye Clean Girl: 6 Trend Predictions for Spring/Summer 2027](https://assets.vogue.com/photos/6a9ee7e31718576a195655fe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/bye-bye-clean-girl-6-trend-predictions-for-spring-summer-2027#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion Industry Trends
+
+
+
+
+
+[Bye Bye Clean Girl: 6 Trend Predictions for Spring/Summer 2027](https://www.vogue.com/article/bye-bye-clean-girl-6-trend-predictions-for-spring-summer-2027#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
 
 
 
@@ -214,32 +240,6 @@ Creative Directors
 
 
 By Lucy Maguire
-
-- [![4 Key Takeaways From Tokyo Fashion Week SS27](https://assets.vogue.com/photos/6a9dc5b37535d323802c751e/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/4-key-takeaways-from-tokyo-fashion-week-ss27#intcid=_vogue-right-rail_9faf2a4e-d6b4-413c-81a4-67162ab39359_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-
-
-Business
-
-
-
-
-
-[4 Key Takeaways From Tokyo Fashion Week SS27](https://www.vogue.com/article/4-key-takeaways-from-tokyo-fashion-week-ss27#intcid=_vogue-right-rail_9faf2a4e-d6b4-413c-81a4-67162ab39359_popular4-2_fallback_cral-top2-2)
-
-
-
-
-
-
-
-By Ashley Ogawa Clarke
 
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
@@ -264,34 +264,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6a9979225492e7d5614fd6cb/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_821fe27a-b593-4b38-9e25-4655dd0aa93d_text2vec1_fallback_modern-bert)
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6aa2d6a176b1913dd8e96909/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
 
 Beauty
 
-[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_821fe27a-b593-4b38-9e25-4655dd0aa93d_text2vec1_fallback_modern-bert)
+[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
 
 By Vogue Business Team
 
-[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6a85c5ba52f24e34118c9d83/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_821fe27a-b593-4b38-9e25-4655dd0aa93d_text2vec1_fallback_modern-bert)
+[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6aa2ed6dcdd9bd0c0d343002/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
 
 Future Edit
 
-[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_821fe27a-b593-4b38-9e25-4655dd0aa93d_text2vec1_fallback_modern-bert)
+[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
 
 By Lucy Maguire
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_821fe27a-b593-4b38-9e25-4655dd0aa93d_text2vec1_fallback_modern-bert)
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
 
 Companies
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_821fe27a-b593-4b38-9e25-4655dd0aa93d_text2vec1_fallback_modern-bert)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
 
 By Vogue Business Team
 
-[![What You Missed at the Building a Career in Fashion Event](https://assets.vogue.com/photos/6a6cd332ca48e9e1a0543ad2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/building-a-career-in-fashion-london#intcid=_vogue-article-bottom-recirc_821fe27a-b593-4b38-9e25-4655dd0aa93d_text2vec1_fallback_modern-bert)
+[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
 
-Events
+Technology
 
-[What You Missed at the Building a Career in Fashion Event](https://www.vogue.com/article/building-a-career-in-fashion-london#intcid=_vogue-article-bottom-recirc_821fe27a-b593-4b38-9e25-4655dd0aa93d_text2vec1_fallback_modern-bert)
+[The _Vogue Business_ AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
 
-By Vogue Business Team
+By Amy O’Brien
