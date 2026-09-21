@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-09-14T11:20:43.811535+00:00
+scraped_at: 2026-09-21T11:34:08.146610+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -18,6 +18,26 @@ In business terms, it’s worked out pretty well. In June, Kardashian West sold 
 The first hint of a move into the shapewear market dates back to January 2019 when Kardashian West flew to Miami for a Met Gala fitting with designer Manfred Thierry Mugler. An Instagram post of herself, with Mugler, showed her wearing nothing but a nude tank top and cycling shorts. What the 1.8 million people who liked the post didn’t know was that Kardashian West was wearing early samples of Skims.
 
 The brand has signalled a buzzy new era for shapewear. It features nine shades and sizing from XXS to XXXXXL, all wrapped around the alluring marketing clout of one of the world’s top media celebrities (count those 190 million Instagram followers) — attracting a broader audience than a typical shapewear brand. Skims has built an Instagram following of 2.1 million in double-quick time.
+
+LATEST ON VOGUE
+
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6aac0acfadf1db6e9fe754f3/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_2155d349-20b1-402f-83db-e727c1ec478b_modern-bert "The Vogue Business Beauty Trend Tracker")
+
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_2155d349-20b1-402f-83db-e727c1ec478b_modern-bert "The Vogue Business People Moves Tracker")
+
+[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Vogue Business AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_2155d349-20b1-402f-83db-e727c1ec478b_modern-bert "The Vogue Business AI Tracker")
+
+[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6aa2ed6dcdd9bd0c0d343002/1:1/w_640%2Cc_limit/undefined)\\
+\\
+The Vogue Business TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_2155d349-20b1-402f-83db-e727c1ec478b_modern-bert "The Vogue Business TikTok Trend Tracker")
+
+ArrowArrow
 
 Kardashian West is keen to focus on the design qualities of the collection as much as her marketing appeal. “In the past, people might assume that shapewear is more like girdles — something that’s extremely uncomfortable,” she says. “I’ve worn corsets for events, I know how uncomfortable it is. That’s not the vibe of what I wanted.”
 
@@ -50,7 +70,92 @@ For shapewear brands, business remains challenging. Shapewear new arrivals at US
 
 Shapewear has tended to change little from year to year in design terms. That’s where Skims’s use of the drop model has changed the parameters — drawing on the similar model of KKW Beauty. Skims products sell out more rapidly than other players, says Marci. Discounting has proven unnecessary.
 
+#### Content
+
+To honor your privacy preferences, this content can only be viewed on the site it [originates](https://www.youtube-nocookie.com/embed/Ws05I4vZKOM) from.
+
 Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skims one year anniversary campaign.
+
+Most Popular
+
+- [![Frédéric Arnault Inaugurates Loro Piana’s New Knitwear Plant](https://assets.vogue.com/photos/6aaec325d329c6a2062c6e32/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/frederic-arnault-inaugurates-loro-pianas-new-knitwear-plant#intcid=_vogue-right-rail_2deca445-d8ce-4c42-a5f8-b09bf066d032_popular4-2)
+
+
+
+
+
+
+
+
+
+Companies
+
+
+
+
+
+[Frédéric Arnault Inaugurates Loro Piana’s New Knitwear Plant](https://www.vogue.com/article/frederic-arnault-inaugurates-loro-pianas-new-knitwear-plant#intcid=_vogue-right-rail_2deca445-d8ce-4c42-a5f8-b09bf066d032_popular4-2)
+
+
+
+
+
+
+
+By Laure Guilbault
+
+- [![“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://assets.vogue.com/photos/6aae97620b3dc4119d6d0dbb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion#intcid=_vogue-right-rail_2deca445-d8ce-4c42-a5f8-b09bf066d032_popular4-2)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion#intcid=_vogue-right-rail_2deca445-d8ce-4c42-a5f8-b09bf066d032_popular4-2)
+
+
+
+
+
+
+
+By Lucy Maguire
+
+- [![The Booming Business of Hair Loss](https://assets.vogue.com/photos/6aac082993d83eb3fd537bdd/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-booming-business-of-hair-loss#intcid=_vogue-right-rail_2deca445-d8ce-4c42-a5f8-b09bf066d032_popular4-2)
+
+
+
+
+
+
+
+
+
+Beauty
+
+
+
+
+
+[The Booming Business of Hair Loss](https://www.vogue.com/article/the-booming-business-of-hair-loss#intcid=_vogue-right-rail_2deca445-d8ce-4c42-a5f8-b09bf066d032_popular4-2)
+
+
+
+
+
+
+
+By Hannah Coates
+
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
 
@@ -77,6 +182,87 @@ Not so long ago, shapewear was not considered particularly body positive or femi
 Skims launched bridal and maternity Solutionwear lines in September.
 Skims
 
+Most Popular
+
+- [![Frédéric Arnault Inaugurates Loro Piana’s New Knitwear Plant](https://assets.vogue.com/photos/6aaec325d329c6a2062c6e32/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/frederic-arnault-inaugurates-loro-pianas-new-knitwear-plant#intcid=_vogue-right-rail_2deca445-d8ce-4c42-a5f8-b09bf066d032_popular4-2)
+
+
+
+
+
+
+
+
+
+Companies
+
+
+
+
+
+[Frédéric Arnault Inaugurates Loro Piana’s New Knitwear Plant](https://www.vogue.com/article/frederic-arnault-inaugurates-loro-pianas-new-knitwear-plant#intcid=_vogue-right-rail_2deca445-d8ce-4c42-a5f8-b09bf066d032_popular4-2)
+
+
+
+
+
+
+
+By Laure Guilbault
+
+- [![“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://assets.vogue.com/photos/6aae97620b3dc4119d6d0dbb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion#intcid=_vogue-right-rail_2deca445-d8ce-4c42-a5f8-b09bf066d032_popular4-2)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion#intcid=_vogue-right-rail_2deca445-d8ce-4c42-a5f8-b09bf066d032_popular4-2)
+
+
+
+
+
+
+
+By Lucy Maguire
+
+- [![The Booming Business of Hair Loss](https://assets.vogue.com/photos/6aac082993d83eb3fd537bdd/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-booming-business-of-hair-loss#intcid=_vogue-right-rail_2deca445-d8ce-4c42-a5f8-b09bf066d032_popular4-2)
+
+
+
+
+
+
+
+
+
+Beauty
+
+
+
+
+
+[The Booming Business of Hair Loss](https://www.vogue.com/article/the-booming-business-of-hair-loss#intcid=_vogue-right-rail_2deca445-d8ce-4c42-a5f8-b09bf066d032_popular4-2)
+
+
+
+
+
+
+
+By Hannah Coates
+
+
 Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
 
 For its one-year anniversary campaign, Kardashian West enlisted Gen Z favourites like TikToker Addison Rae alongside fans of Skims to pose in individual billboard campaigns showing the product on people of all ages, sizes and ethnicities.
@@ -100,34 +286,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6aa2d6a176b1913dd8e96909/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6aac0acfadf1db6e9fe754f3/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_2155d349-20b1-402f-83db-e727c1ec478b_modern-bert)
 
 Beauty
 
-[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
+[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_2155d349-20b1-402f-83db-e727c1ec478b_modern-bert)
 
 By Vogue Business Team
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_2155d349-20b1-402f-83db-e727c1ec478b_modern-bert)
 
 Companies
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_2155d349-20b1-402f-83db-e727c1ec478b_modern-bert)
 
 By Vogue Business Team
 
-[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
+[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_2155d349-20b1-402f-83db-e727c1ec478b_modern-bert)
 
 Technology
 
-[The _Vogue Business_ AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
+[The _Vogue Business_ AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_2155d349-20b1-402f-83db-e727c1ec478b_modern-bert)
 
 By Amy O’Brien
 
-[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6aa2ed6dcdd9bd0c0d343002/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
+[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6aa2ed6dcdd9bd0c0d343002/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_2155d349-20b1-402f-83db-e727c1ec478b_modern-bert)
 
 Future Edit
 
-[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_ee7be517-a7b0-43a7-93df-7d726c9cd860_modern-bert)
+[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_2155d349-20b1-402f-83db-e727c1ec478b_modern-bert)
 
 By Lucy Maguire

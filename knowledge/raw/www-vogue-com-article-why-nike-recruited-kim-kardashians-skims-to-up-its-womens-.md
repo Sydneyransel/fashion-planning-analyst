@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-09-14T11:20:47.788839+00:00
+scraped_at: 2026-09-21T11:34:12.635484+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -21,21 +21,29 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 
 LATEST ON VOGUE
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6aa2d6a176b1913dd8e96909/1:1/w_640%2Cc_limit/undefined)\\
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6aac0acfadf1db6e9fe754f3/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert "The Vogue Business Beauty Trend Tracker")
+The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert "The Vogue Business Beauty Trend Tracker")
 
 [![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6aa2ed6dcdd9bd0c0d343002/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert "The Vogue Business TikTok Trend Tracker")
+The Vogue Business TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert "The Vogue Business TikTok Trend Tracker")
 
 [![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert "The Vogue Business People Moves Tracker")
+The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert "The Vogue Business People Moves Tracker")
 
 [![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert "The Vogue Business AI Tracker")
+The Vogue Business AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert "The Vogue Business AI Tracker")
+
+[![Frédéric Arnault Inaugurates Loro Piana’s New Knitwear Plant](https://assets.vogue.com/photos/6aaec325d329c6a2062c6e32/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Frédéric Arnault Inaugurates Loro Piana’s New Knitwear Plant](https://www.vogue.com/article/frederic-arnault-inaugurates-loro-pianas-new-knitwear-plant#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert_fallback_popular4-2 "Frédéric Arnault Inaugurates Loro Piana’s New Knitwear Plant")
+
+[![“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://assets.vogue.com/photos/6aae97620b3dc4119d6d0dbb/1:1/w_640%2Cc_limit/undefined)\\
+\\
+“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert_fallback_popular4-2 "“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion")
 
 ArrowArrow
 
@@ -70,7 +78,7 @@ Photos: Courtesy of Nike
 
 Most Popular
 
-- [![The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
+- [![Frédéric Arnault Inaugurates Loro Piana’s New Knitwear Plant](https://assets.vogue.com/photos/6aaec325d329c6a2062c6e32/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/frederic-arnault-inaugurates-loro-pianas-new-knitwear-plant#intcid=_vogue-right-rail_dd5235dd-9653-47e7-b2d5-77196e71607e_popular4-2)
 
 
 
@@ -80,23 +88,13 @@ Most Popular
 
 
 
-Events
+Companies
 
 
 
 
 
-[The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
-
-
-
-
-
-
-
-By Vogue Business Team
-
-- [![How To Fix Charity Retail](https://assets.vogue.com/photos/6aa185a33eebf61ae5b334c4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-fix-charity-retail#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
+[Frédéric Arnault Inaugurates Loro Piana’s New Knitwear Plant](https://www.vogue.com/article/frederic-arnault-inaugurates-loro-pianas-new-knitwear-plant#intcid=_vogue-right-rail_dd5235dd-9653-47e7-b2d5-77196e71607e_popular4-2)
 
 
 
@@ -104,25 +102,9 @@ By Vogue Business Team
 
 
 
+By Laure Guilbault
 
-
-Sustainability
-
-
-
-
-
-[How To Fix Charity Retail](https://www.vogue.com/article/how-to-fix-charity-retail#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
-
-
-
-
-
-
-
-By Tansy Hoskins
-
-- [![Bye Bye Clean Girl: 6 Trend Predictions for Spring/Summer 2027](https://assets.vogue.com/photos/6a9ee7e31718576a195655fe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/bye-bye-clean-girl-6-trend-predictions-for-spring-summer-2027#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
+- [![“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://assets.vogue.com/photos/6aae97620b3dc4119d6d0dbb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion#intcid=_vogue-right-rail_dd5235dd-9653-47e7-b2d5-77196e71607e_popular4-2)
 
 
 
@@ -132,13 +114,13 @@ By Tansy Hoskins
 
 
 
-Fashion Industry Trends
+Business
 
 
 
 
 
-[Bye Bye Clean Girl: 6 Trend Predictions for Spring/Summer 2027](https://www.vogue.com/article/bye-bye-clean-girl-6-trend-predictions-for-spring-summer-2027#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
+[“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion#intcid=_vogue-right-rail_dd5235dd-9653-47e7-b2d5-77196e71607e_popular4-2)
 
 
 
@@ -147,6 +129,32 @@ Fashion Industry Trends
 
 
 By Lucy Maguire
+
+- [![The Booming Business of Hair Loss](https://assets.vogue.com/photos/6aac082993d83eb3fd537bdd/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-booming-business-of-hair-loss#intcid=_vogue-right-rail_dd5235dd-9653-47e7-b2d5-77196e71607e_popular4-2)
+
+
+
+
+
+
+
+
+
+Beauty
+
+
+
+
+
+[The Booming Business of Hair Loss](https://www.vogue.com/article/the-booming-business-of-hair-loss#intcid=_vogue-right-rail_dd5235dd-9653-47e7-b2d5-77196e71607e_popular4-2)
+
+
+
+
+
+
+
+By Hannah Coates
 
 
 It also signals Nike’s commitment to developing technical products for women. Product innovation has been a pain point for Nike in recent years, Yarbrough says. Hill [acknowledged this](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December’s earnings; it forms the foundation of his turnaround strategy. In partnering with Skims on a joint brand, Nike is able to gain access to womenswear tech to help it rival the Alos and Lululemons of the world, which, Yarbrough says, would otherwise likely take Nike several years to develop, manufacture and scale. “This accelerates that path for Nike to compete with some of these other brands that have been growing rapidly.” It’s a smart shortcut, Hastings-Narayanin says.
@@ -163,7 +171,7 @@ These days, consumers want products that work, experts agree, so emphasis needs 
 
 Most Popular
 
-- [![The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
+- [![Frédéric Arnault Inaugurates Loro Piana’s New Knitwear Plant](https://assets.vogue.com/photos/6aaec325d329c6a2062c6e32/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/frederic-arnault-inaugurates-loro-pianas-new-knitwear-plant#intcid=_vogue-right-rail_dd5235dd-9653-47e7-b2d5-77196e71607e_popular4-2)
 
 
 
@@ -173,23 +181,13 @@ Most Popular
 
 
 
-Events
+Companies
 
 
 
 
 
-[The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
-
-
-
-
-
-
-
-By Vogue Business Team
-
-- [![How To Fix Charity Retail](https://assets.vogue.com/photos/6aa185a33eebf61ae5b334c4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-to-fix-charity-retail#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
+[Frédéric Arnault Inaugurates Loro Piana’s New Knitwear Plant](https://www.vogue.com/article/frederic-arnault-inaugurates-loro-pianas-new-knitwear-plant#intcid=_vogue-right-rail_dd5235dd-9653-47e7-b2d5-77196e71607e_popular4-2)
 
 
 
@@ -197,25 +195,9 @@ By Vogue Business Team
 
 
 
+By Laure Guilbault
 
-
-Sustainability
-
-
-
-
-
-[How To Fix Charity Retail](https://www.vogue.com/article/how-to-fix-charity-retail#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
-
-
-
-
-
-
-
-By Tansy Hoskins
-
-- [![Bye Bye Clean Girl: 6 Trend Predictions for Spring/Summer 2027](https://assets.vogue.com/photos/6a9ee7e31718576a195655fe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/bye-bye-clean-girl-6-trend-predictions-for-spring-summer-2027#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
+- [![“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://assets.vogue.com/photos/6aae97620b3dc4119d6d0dbb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion#intcid=_vogue-right-rail_dd5235dd-9653-47e7-b2d5-77196e71607e_popular4-2)
 
 
 
@@ -225,13 +207,13 @@ By Tansy Hoskins
 
 
 
-Fashion Industry Trends
+Business
 
 
 
 
 
-[Bye Bye Clean Girl: 6 Trend Predictions for Spring/Summer 2027](https://www.vogue.com/article/bye-bye-clean-girl-6-trend-predictions-for-spring-summer-2027#intcid=_vogue-right-rail_a704b01a-625a-4ced-96d2-85367cba724b_popular4-2)
+[“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion#intcid=_vogue-right-rail_dd5235dd-9653-47e7-b2d5-77196e71607e_popular4-2)
 
 
 
@@ -240,6 +222,32 @@ Fashion Industry Trends
 
 
 By Lucy Maguire
+
+- [![The Booming Business of Hair Loss](https://assets.vogue.com/photos/6aac082993d83eb3fd537bdd/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-booming-business-of-hair-loss#intcid=_vogue-right-rail_dd5235dd-9653-47e7-b2d5-77196e71607e_popular4-2)
+
+
+
+
+
+
+
+
+
+Beauty
+
+
+
+
+
+[The Booming Business of Hair Loss](https://www.vogue.com/article/the-booming-business-of-hair-loss#intcid=_vogue-right-rail_dd5235dd-9653-47e7-b2d5-77196e71607e_popular4-2)
+
+
+
+
+
+
+
+By Hannah Coates
 
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
@@ -264,34 +272,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6aa2d6a176b1913dd8e96909/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6aac0acfadf1db6e9fe754f3/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert)
 
 Beauty
 
-[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
+[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert)
 
 By Vogue Business Team
 
-[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6aa2ed6dcdd9bd0c0d343002/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
+[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6aa2ed6dcdd9bd0c0d343002/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert)
 
 Future Edit
 
-[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
+[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert)
 
 By Lucy Maguire
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert)
 
 Companies
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert)
 
 By Vogue Business Team
 
-[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
+[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert)
 
 Technology
 
-[The _Vogue Business_ AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_18018e61-bb8e-46a9-8f2c-8af72cd64cda_modern-bert)
+[The _Vogue Business_ AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_c452fa47-dd9f-4a49-a8ad-6150b88ce1f7_modern-bert)
 
 By Amy O’Brien

@@ -2,7 +2,7 @@
 url: https://skims.com/pages/about
 source_type: skims.com
 title: About | SKIMS
-scraped_at: 2026-09-14T11:20:06.282349+00:00
+scraped_at: 2026-09-21T11:33:40.582809+00:00
 ---
 
 [Skip to main content](https://skims.com/pages/about#main-content)
@@ -47,13 +47,13 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![FITS EVERYBODY THONG | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-THG-0028-ONX-FL_grande.jpg?v=1697138190&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-thong-onyx "FITS EVERYBODY THONG | ONYX")
+[![FITS EVERYBODY LACE SCOOP BRALETTE | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-SCP-2690-ONX_219d1370-2212-40d1-a169-928b12961a2b_grande.jpg?v=1705537516&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx "FITS EVERYBODY LACE SCOOP BRALETTE | ONYX")
 
-[FITS EVERYBODY\\
+[FITS EVERYBODY LACE\\
 \\
-**THONG**\\
+**SCOOP BRALETTE**\\
 \\
-$20](https://skims.com/products/fits-everybody-thong-onyx)
+$38](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx)
 
 Color
 
@@ -65,33 +65,13 @@ Select Size
 
 Add to Bag
 
-[![LIGHTWEIGHT COTTON LACE THONG | CARNATION CONTRAST](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5957W-CRC_grande.jpg?v=1768431023&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-lace-thong-carnation-contrast "LIGHTWEIGHT COTTON LACE THONG | CARNATION CONTRAST")
-
-[LIGHTWEIGHT COTTON\\
-\\
-**LACE THONG**\\
-\\
-$14\\
-\\
-$7](https://skims.com/products/lightweight-cotton-lace-thong-carnation-contrast)
-
-Color
-
-carnation contrast
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![COTTON RIB LEGGING | LIGHT HEATHER GREY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-LEG-0039-HEG-FL_ba476484-a994-4ef5-a921-235c5ab61801_grande.jpg?v=1709751464&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-legging-light-heather-grey "COTTON RIB LEGGING | LIGHT HEATHER GREY")
+[![COTTON RIB BOXER | LIGHT HEATHER GREY](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-UNDERWEAR-PN-HWB-0042-HEG-FL_grande.jpg?v=1621644655&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-boxer-light-heather-grey "COTTON RIB BOXER | LIGHT HEATHER GREY")
 
 [COTTON RIB\\
 \\
-**LEGGING**\\
+**BOXER**\\
 \\
-$56](https://skims.com/products/cotton-rib-legging-light-heather-grey)
+$38](https://skims.com/products/cotton-rib-boxer-light-heather-grey)
 
 Color
 
@@ -103,17 +83,17 @@ Select Size
 
 Add to Bag
 
-[![COTTON FLEECE CLASSIC STRAIGHT LEG PANT | CURRANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-PNT-8385W-CUR-FLT_grande.jpg?v=1785737605&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-classic-straight-leg-pant-currant "COTTON FLEECE CLASSIC STRAIGHT LEG PANT | CURRANT")
+[![SOFT LOUNGE SLEEP SET | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-SET-0600-ONX-COMPOSITE_grande.jpg?v=1773095503&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/soft-lounge-sleep-set-onyx "SOFT LOUNGE SLEEP SET | ONYX")
 
-[COTTON FLEECE\\
+[SOFT LOUNGE\\
 \\
-**CLASSIC STRAIGHT LEG PANT**\\
+**SLEEP SET**\\
 \\
-$88](https://skims.com/products/cotton-fleece-classic-straight-leg-pant-currant)
+$128](https://skims.com/products/soft-lounge-sleep-set-onyx)
 
 Color
 
-currant
+onyx
 
 Select Size
 
@@ -121,17 +101,17 @@ Select Size
 
 Add to Bag
 
-[![FITS EVERYBODY T-SHIRT BRA | CURRANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9221-CUR-FLT_grande.jpg?v=1785706111&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-t-shirt-bra-currant "FITS EVERYBODY T-SHIRT BRA | CURRANT")
+[![FITS EVERYBODY BALCONETTE BRA | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BL-BAL-8709W-CLY-FLT_grande.jpg?v=1776208719&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-balconette-bra-clay "FITS EVERYBODY BALCONETTE BRA | CLAY")
 
 [FITS EVERYBODY\\
 \\
-**T-SHIRT BRA**\\
+**BALCONETTE BRA**\\
 \\
-$54](https://skims.com/products/fits-everybody-t-shirt-bra-currant)
+$54](https://skims.com/products/fits-everybody-balconette-bra-clay)
 
 Color
 
-currant
+clay
 
 Select Band Size
 
@@ -143,17 +123,41 @@ Select Cup Size
 
 Add to Bag
 
-[![SKIMS COTTON MENS 3" BOXER BRIEF 3-PACK | HEATHER MULTI](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BOXER-BO-BTR-5302M-CHK-COMPOSITE-1_a0014373-da55-4fcd-aa93-d5899e89893c_grande.jpg?v=1730861358&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-cotton-mens-3-inch-boxer-brief-3-pack-heather-multi "SKIMS COTTON MENS 3\" BOXER BRIEF 3-PACK | HEATHER MULTI")
+[![SKIMS ULTIMATE BALCONETTE PUSH-UP BRA | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-CLY-FLT_grande.jpg?v=1739333853&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay "SKIMS ULTIMATE BALCONETTE PUSH-UP BRA | CLAY")
 
-[SKIMS COTTON\\
+[SKIMS ULTIMATE\\
 \\
-**MENS 3" BOXER BRIEF 3-PACK**\\
+**BALCONETTE PUSH-UP BRA**\\
 \\
-$48](https://skims.com/products/skims-cotton-mens-3-inch-boxer-brief-3-pack-heather-multi)
+$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay)
 
 Color
 
-heather multi
+clay
+
+Select Band Size
+
+Select Band Size
+
+Select Cup Size
+
+Select Cup Size
+
+Add to Bag
+
+[![COTTON FLEECE HOODIE | HALITE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PL-PLO-8365W-HLT-FLT_grande.jpg?v=1767136359&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-hoodie-halite "COTTON FLEECE HOODIE | HALITE")
+
+[COTTON FLEECE\\
+\\
+**HOODIE**\\
+\\
+$98\\
+\\
+$68](https://skims.com/products/cotton-fleece-hoodie-halite)
+
+Color
+
+halite
 
 Select Size
 
@@ -161,19 +165,17 @@ Select Size
 
 Add to Bag
 
-[![LIGHTWEIGHT COTTON STRING THONG | DELTA LEOPARD](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-8779W-DLP-SW_ac280a62-2ffc-4f6a-a457-645f0399c8c0_grande.jpg?v=1756930547&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-string-thong-delta-leopard "LIGHTWEIGHT COTTON STRING THONG | DELTA LEOPARD")
+[![FITS EVERYBODY LACE CAMI BODYSUIT | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BODYSUIT-BD-THG-2693-ONX_409519b7-d28c-4d64-af0b-6f2d41dc9b09_grande.jpg?v=1685752452&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-cami-bodysuit-onyx "FITS EVERYBODY LACE CAMI BODYSUIT | ONYX")
 
-[LIGHTWEIGHT COTTON\\
+[FITS EVERYBODY LACE\\
 \\
-**STRING THONG**\\
+**CAMI BODYSUIT**\\
 \\
-$10\\
-\\
-$5](https://skims.com/products/lightweight-cotton-string-thong-delta-leopard)
+$64](https://skims.com/products/fits-everybody-lace-cami-bodysuit-onyx)
 
 Color
 
-delta leopard
+onyx
 
 Select Size
 
@@ -181,53 +183,53 @@ Select Size
 
 Add to Bag
 
-[![COTTON JERSEY FOLDOVER PANT | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-SOT-FLT_grande.jpg?v=1739822020&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-foldover-pant-soot "COTTON JERSEY FOLDOVER PANT | SOOT")
+[![COTTON FLEECE ZIP UP HOODIE | LIGHT HEATHER GREY ARCHED SKIMS PLAID](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-TP-SCL-11862W-LHG_grande.jpg?v=1785537930&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-zip-up-hoodie-light-heather-grey-arched-skims-plaid "COTTON FLEECE ZIP UP HOODIE | LIGHT HEATHER GREY ARCHED SKIMS PLAID")
+
+[COTTON FLEECE\\
+\\
+**ZIP UP HOODIE**\\
+\\
+$108](https://skims.com/products/cotton-fleece-zip-up-hoodie-light-heather-grey-arched-skims-plaid)
+
+Color
+
+lhg arched skims plaid
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![COTTON RIB ZIP UP TOP | CHERRY BLOSSOM](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-LSL-12811W-CBM-FLT_grande.jpg?v=1787781740&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-zip-up-top-cherry-blossom "COTTON RIB ZIP UP TOP | CHERRY BLOSSOM")
+
+[COTTON RIB\\
+\\
+**ZIP UP TOP**\\
+\\
+$64](https://skims.com/products/cotton-rib-zip-up-top-cherry-blossom)
+
+Color
+
+cherry blossom
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![COTTON JERSEY LONG SLEEVE T-SHIRT | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-SOT-FLT_2781d3b4-eded-4093-ba43-0d16b1ad2c56_grande.jpg?v=1767136370&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot "COTTON JERSEY LONG SLEEVE T-SHIRT | SOOT")
 
 [COTTON JERSEY\\
 \\
-**FOLDOVER PANT**\\
+**LONG SLEEVE T-SHIRT**\\
 \\
-$68](https://skims.com/products/cotton-jersey-foldover-pant-soot)
+$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot)
 
 Color
 
 soot
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![LIGHTWEIGHT COTTON LACE BOY SHORT | AIRSPACE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BY-BOY-5961W-AIR-FLT_grande.jpg?v=1783554045&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-lace-boy-short-airspace "LIGHTWEIGHT COTTON LACE BOY SHORT | AIRSPACE")
-
-[LIGHTWEIGHT COTTON\\
-\\
-**LACE BOY SHORT**\\
-\\
-$14](https://skims.com/products/lightweight-cotton-lace-boy-short-airspace)
-
-Color
-
-airspace
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![FITS EVERYBODY LACE STRING THONG | BUBBLE GUM TONAL](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PN-THG-9370-BGT-FLT_grande.jpg?v=1774392244&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-string-thong-bubble-gum-tonal "FITS EVERYBODY LACE STRING THONG | BUBBLE GUM TONAL")
-
-[FITS EVERYBODY LACE\\
-\\
-**STRING THONG**\\
-\\
-$20](https://skims.com/products/fits-everybody-lace-string-thong-bubble-gum-tonal)
-
-Color
-
-bubble gum tonal
 
 Select Size
 
