@@ -2,7 +2,7 @@
 url: https://skims.com/collections/dresses
 source_type: skims.com
 title: SKIMS | SKIMS
-scraped_at: 2026-09-21T11:34:02.327316+00:00
+scraped_at: 2026-09-28T12:28:46.733835+00:00
 ---
 
 [Skip to main content](https://skims.com/collections/dresses#main-content)

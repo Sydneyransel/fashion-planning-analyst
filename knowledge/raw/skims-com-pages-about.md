@@ -2,7 +2,7 @@
 url: https://skims.com/pages/about
 source_type: skims.com
 title: About | SKIMS
-scraped_at: 2026-09-21T11:33:40.582809+00:00
+scraped_at: 2026-09-28T12:28:19.968619+00:00
 ---
 
 [Skip to main content](https://skims.com/pages/about#main-content)
@@ -47,17 +47,41 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![FITS EVERYBODY LACE SCOOP BRALETTE | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-SCP-2690-ONX_219d1370-2212-40d1-a169-928b12961a2b_grande.jpg?v=1705537516&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx "FITS EVERYBODY LACE SCOOP BRALETTE | ONYX")
+[![FITS EVERYBODY UNLINED DEMI BRA | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-2293-CLY_grande.jpg?v=1691774607&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-unlined-demi-bra-clay "FITS EVERYBODY UNLINED DEMI BRA | CLAY")
 
-[FITS EVERYBODY LACE\\
+[FITS EVERYBODY\\
 \\
-**SCOOP BRALETTE**\\
+**UNLINED DEMI BRA**\\
 \\
-$38](https://skims.com/products/fits-everybody-lace-scoop-bralette-onyx)
+$48](https://skims.com/products/fits-everybody-unlined-demi-bra-clay)
 
 Color
 
-onyx
+clay
+
+Select Band Size
+
+Select Band Size
+
+Select Cup Size
+
+Select Cup Size
+
+Add to Bag
+
+[![LIGHTWEIGHT COTTON LACE THONG | CARNATION CONTRAST](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5957W-CRC_grande.jpg?v=1768431023&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-lace-thong-carnation-contrast "LIGHTWEIGHT COTTON LACE THONG | CARNATION CONTRAST")
+
+[LIGHTWEIGHT COTTON\\
+\\
+**LACE THONG**\\
+\\
+$14\\
+\\
+$7](https://skims.com/products/lightweight-cotton-lace-thong-carnation-contrast)
+
+Color
+
+carnation contrast
 
 Select Size
 
@@ -65,13 +89,53 @@ Select Size
 
 Add to Bag
 
-[![COTTON RIB BOXER | LIGHT HEATHER GREY](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-UNDERWEAR-PN-HWB-0042-HEG-FL_grande.jpg?v=1621644655&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-boxer-light-heather-grey "COTTON RIB BOXER | LIGHT HEATHER GREY")
+[![LIGHTWEIGHT COTTON LOGO PICOT HIPSTER | SNOW](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-HP-HIP-5977W-SNO-FLT_ab934844-2c87-4365-a6f6-22ad75047986_grande.jpg?v=1783544691&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-logo-picot-hipster-snow "LIGHTWEIGHT COTTON LOGO PICOT HIPSTER | SNOW")
 
-[COTTON RIB\\
+[LIGHTWEIGHT COTTON\\
 \\
-**BOXER**\\
+**LOGO PICOT HIPSTER**\\
 \\
-$38](https://skims.com/products/cotton-rib-boxer-light-heather-grey)
+$14](https://skims.com/products/lightweight-cotton-logo-picot-hipster-snow)
+
+Color
+
+snow
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![FITS EVERYBODY BALCONETTE BRA | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BL-BAL-8709W-ONX-FLT_grande.jpg?v=1776442263&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-balconette-bra-onyx "FITS EVERYBODY BALCONETTE BRA | ONYX")
+
+[FITS EVERYBODY\\
+\\
+**BALCONETTE BRA**\\
+\\
+$54](https://skims.com/products/fits-everybody-balconette-bra-onyx)
+
+Color
+
+onyx
+
+Select Band Size
+
+Select Band Size
+
+Select Cup Size
+
+Select Cup Size
+
+Add to Bag
+
+[![COTTON FLEECE STRAIGHT LEG PANT | LIGHT HEATHER GREY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-BO-STR-4003-LHG-2_4d0eeb73-4486-47e8-b634-21eef5671c01_grande.jpg?v=1735852680&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-straight-leg-pant-light-heather-grey "COTTON FLEECE STRAIGHT LEG PANT | LIGHT HEATHER GREY")
+
+[COTTON FLEECE\\
+\\
+**STRAIGHT LEG PANT**\\
+\\
+$88](https://skims.com/products/cotton-fleece-straight-leg-pant-light-heather-grey)
 
 Color
 
@@ -83,31 +147,13 @@ Select Size
 
 Add to Bag
 
-[![SOFT LOUNGE SLEEP SET | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-SET-0600-ONX-COMPOSITE_grande.jpg?v=1773095503&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/soft-lounge-sleep-set-onyx "SOFT LOUNGE SLEEP SET | ONYX")
+[![WIRELESS FORM SUPER PUSH-UP BRA | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-PLG-2632-CLY_grande.jpg?v=1753904348&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/wireless-form-super-push-up-bra-clay "WIRELESS FORM SUPER PUSH-UP BRA | CLAY")
 
-[SOFT LOUNGE\\
+[WIRELESS FORM\\
 \\
-**SLEEP SET**\\
+**SUPER PUSH-UP BRA**\\
 \\
-$128](https://skims.com/products/soft-lounge-sleep-set-onyx)
-
-Color
-
-onyx
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![FITS EVERYBODY BALCONETTE BRA | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BL-BAL-8709W-CLY-FLT_grande.jpg?v=1776208719&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-balconette-bra-clay "FITS EVERYBODY BALCONETTE BRA | CLAY")
-
-[FITS EVERYBODY\\
-\\
-**BALCONETTE BRA**\\
-\\
-$54](https://skims.com/products/fits-everybody-balconette-bra-clay)
+$58](https://skims.com/products/wireless-form-super-push-up-bra-clay)
 
 Color
 
@@ -123,59 +169,17 @@ Select Cup Size
 
 Add to Bag
 
-[![SKIMS ULTIMATE BALCONETTE PUSH-UP BRA | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-CLY-FLT_grande.jpg?v=1739333853&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay "SKIMS ULTIMATE BALCONETTE PUSH-UP BRA | CLAY")
-
-[SKIMS ULTIMATE\\
-\\
-**BALCONETTE PUSH-UP BRA**\\
-\\
-$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay)
-
-Color
-
-clay
-
-Select Band Size
-
-Select Band Size
-
-Select Cup Size
-
-Select Cup Size
-
-Add to Bag
-
-[![COTTON FLEECE HOODIE | HALITE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PL-PLO-8365W-HLT-FLT_grande.jpg?v=1767136359&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-hoodie-halite "COTTON FLEECE HOODIE | HALITE")
-
-[COTTON FLEECE\\
-\\
-**HOODIE**\\
-\\
-$98\\
-\\
-$68](https://skims.com/products/cotton-fleece-hoodie-halite)
-
-Color
-
-halite
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![FITS EVERYBODY LACE CAMI BODYSUIT | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BODYSUIT-BD-THG-2693-ONX_409519b7-d28c-4d64-af0b-6f2d41dc9b09_grande.jpg?v=1685752452&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-cami-bodysuit-onyx "FITS EVERYBODY LACE CAMI BODYSUIT | ONYX")
+[![FITS EVERYBODY LACE STRING THONG | BUBBLE GUM TONAL](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PN-THG-9370-BGT-FLT_grande.jpg?v=1774392244&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-string-thong-bubble-gum-tonal "FITS EVERYBODY LACE STRING THONG | BUBBLE GUM TONAL")
 
 [FITS EVERYBODY LACE\\
 \\
-**CAMI BODYSUIT**\\
+**STRING THONG**\\
 \\
-$64](https://skims.com/products/fits-everybody-lace-cami-bodysuit-onyx)
+$20](https://skims.com/products/fits-everybody-lace-string-thong-bubble-gum-tonal)
 
 Color
 
-onyx
+bubble gum tonal
 
 Select Size
 
@@ -183,53 +187,57 @@ Select Size
 
 Add to Bag
 
-[![COTTON FLEECE ZIP UP HOODIE | LIGHT HEATHER GREY ARCHED SKIMS PLAID](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-TP-SCL-11862W-LHG_grande.jpg?v=1785537930&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-zip-up-hoodie-light-heather-grey-arched-skims-plaid "COTTON FLEECE ZIP UP HOODIE | LIGHT HEATHER GREY ARCHED SKIMS PLAID")
-
-[COTTON FLEECE\\
-\\
-**ZIP UP HOODIE**\\
-\\
-$108](https://skims.com/products/cotton-fleece-zip-up-hoodie-light-heather-grey-arched-skims-plaid)
-
-Color
-
-lhg arched skims plaid
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![COTTON RIB ZIP UP TOP | CHERRY BLOSSOM](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-LSL-12811W-CBM-FLT_grande.jpg?v=1787781740&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-zip-up-top-cherry-blossom "COTTON RIB ZIP UP TOP | CHERRY BLOSSOM")
-
-[COTTON RIB\\
-\\
-**ZIP UP TOP**\\
-\\
-$64](https://skims.com/products/cotton-rib-zip-up-top-cherry-blossom)
-
-Color
-
-cherry blossom
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![COTTON JERSEY LONG SLEEVE T-SHIRT | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-SOT-FLT_2781d3b4-eded-4093-ba43-0d16b1ad2c56_grande.jpg?v=1767136370&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot "COTTON JERSEY LONG SLEEVE T-SHIRT | SOOT")
+[![COTTON JERSEY TUBE TOP | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-TUB-9645W-SOT-FLT_433faa66-a57c-483f-a2a2-be5059010428_grande.jpg?v=1775253208&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-tube-top-soot "COTTON JERSEY TUBE TOP | SOOT")
 
 [COTTON JERSEY\\
 \\
-**LONG SLEEVE T-SHIRT**\\
+**TUBE TOP**\\
 \\
-$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot)
+$48](https://skims.com/products/cotton-jersey-tube-top-soot)
 
 Color
 
 soot
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![SHEER MODAL LONG SLEEVE BOATNECK TOP | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-LS-LST-6143W-ONX-FLT_6ad70c83-e744-40d8-bb78-e2aedfdc2057_grande.jpg?v=1775251454&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/sheer-modal-long-sleeve-boatneck-top-onyx "SHEER MODAL LONG SLEEVE BOATNECK TOP | ONYX")
+
+[SHEER MODAL\\
+\\
+**LONG SLEEVE BOATNECK TOP**\\
+\\
+$74\\
+\\
+$51](https://skims.com/products/sheer-modal-long-sleeve-boatneck-top-onyx)
+
+Color
+
+onyx
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![LIGHTWEIGHT COTTON LOGO PICOT SCOOP BRALETTE | BABY PINK ARROWED HEARTS](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BRL-11450W-BPK-FLT_grande.jpg?v=1770067181&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-logo-picot-scoop-bralette-baby-pink-arrowed-hearts "LIGHTWEIGHT COTTON LOGO PICOT SCOOP BRALETTE | BABY PINK ARROWED HEARTS")
+
+[LIGHTWEIGHT COTTON\\
+\\
+**LOGO PICOT SCOOP BRALETTE**\\
+\\
+$24\\
+\\
+$16](https://skims.com/products/lightweight-cotton-logo-picot-scoop-bralette-baby-pink-arrowed-hearts)
+
+Color
+
+baby pink arrowed hearts
 
 Select Size
 
