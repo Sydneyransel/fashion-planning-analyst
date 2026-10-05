@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-09-28T12:28:57.799143+00:00
+scraped_at: 2026-10-05T13:09:10.797021+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -21,21 +21,29 @@ The brand has signalled a buzzy new era for shapewear. It features nine shades a
 
 LATEST ON VOGUE
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6ab5481205acf3e596816f4c/1:1/w_640%2Cc_limit/undefined)\\
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6abe87ff531180ce5b04832f/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_ebf3a6d6-7a7e-4a0c-8a7d-96f91612919a_modern-bert "The Vogue Business Beauty Trend Tracker")
+The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert "The Vogue Business Beauty Trend Tracker")
 
 [![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_ebf3a6d6-7a7e-4a0c-8a7d-96f91612919a_modern-bert "The Vogue Business People Moves Tracker")
+The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert "The Vogue Business People Moves Tracker")
 
 [![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_ebf3a6d6-7a7e-4a0c-8a7d-96f91612919a_modern-bert "The Vogue Business AI Tracker")
+The Vogue Business AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert "The Vogue Business AI Tracker")
 
-[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6aa2ed6dcdd9bd0c0d343002/1:1/w_640%2Cc_limit/undefined)\\
+[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6abd3963fe9901c003f6c227/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_ebf3a6d6-7a7e-4a0c-8a7d-96f91612919a_modern-bert "The Vogue Business TikTok Trend Tracker")
+The Vogue Business TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert "The Vogue Business TikTok Trend Tracker")
+
+[![In the Queue for John Galliano’s Zara](https://assets.vogue.com/photos/6abecfe1daaf5bd02522cbb6/1:1/w_640%2Cc_limit/undefined)\\
+\\
+In the Queue for John Galliano’s Zara](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert_fallback_popular4-2 "In the Queue for John Galliano’s Zara")
+
+[![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_640%2Cc_limit/undefined)\\
+\\
+Register to Attend \| The Vogue Business Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert_fallback_popular4-2 "Register to Attend | The Vogue Business Fashion Month SS27 Lookback")
 
 ArrowArrow
 
@@ -62,6 +70,87 @@ Kardashian West acknowledges a touch of good fortune in the timing of the move i
 
 The expansion across product categories allows consumers to build a capsule of neutral basics that they can mix and match. “That’s why we do a lot of the same skin tones,” says Kardashian West. “If you like a bra from one collection and you want matching underwear or shapewear, that’ll be available for you.”
 
+Most Popular
+
+- [![In the Queue for John Galliano’s Zara](https://assets.vogue.com/photos/6abecfe1daaf5bd02522cbb6/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion Industry Trends
+
+
+
+
+
+[In the Queue for John Galliano’s Zara](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+By Joe Bobowicz
+
+- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+
+
+Events
+
+
+
+
+
+[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+By Vogue Business Team
+
+- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+
+
+Events
+
+
+
+
+
+[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+By Vogue Business Team
+
+
 Nina Marston of Euromonitor says Skims is changing the shapewear market. “It’s ’leisurie’, lingerie or shapewear that you can wear under clothes or on their own, inside and out of the house.” The global underwear market, which includes shapewear, is still expected to decline by 11 per cent in 2020 to $107 billion, according to Euromonitor, but that is a smaller decline than general apparel.
 
 For shapewear brands, business remains challenging. Shapewear new arrivals at US online retailers are down 15 per cent this year compared with 2019, according to retail market intelligence company Edited. Legacy shapewear players in particular are seeing sales decline, driving prices down across the category to boost sell-through, according to Kayla Marci, market analyst at Edited. US retailers stocking shapewear brands Spanx, Wacoal, Miraclesuit and Maidenform are seeing increased discounts (+13 per cent) and reduced sell-through (-10 per cent) in the category.
@@ -78,7 +167,33 @@ Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skim
 
 Most Popular
 
-- [![How Vogue Business and Bond Fêted New York Fashion Week](https://assets.vogue.com/photos/6ab25a63633b9022f86e56f9/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-vogue-business-and-bond-feted-new-york-fashion-week#intcid=_vogue-right-rail_02f72662-10d2-43d9-858c-f20302d43050_popular4-2)
+- [![In the Queue for John Galliano’s Zara](https://assets.vogue.com/photos/6abecfe1daaf5bd02522cbb6/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion Industry Trends
+
+
+
+
+
+[In the Queue for John Galliano’s Zara](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+By Joe Bobowicz
+
+- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
 
 
 
@@ -94,33 +209,7 @@ Events
 
 
 
-[How _Vogue Business_ and Bond Fêted New York Fashion Week](https://www.vogue.com/article/how-vogue-business-and-bond-feted-new-york-fashion-week#intcid=_vogue-right-rail_02f72662-10d2-43d9-858c-f20302d43050_popular4-2)
-
-
-
-
-
-
-
-By Vogue Business in partnership with Bond
-
-- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_02f72662-10d2-43d9-858c-f20302d43050_popular4-2)
-
-
-
-
-
-
-
-
-
-Events
-
-
-
-
-
-[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_02f72662-10d2-43d9-858c-f20302d43050_popular4-2)
+[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
 
 
 
@@ -130,7 +219,7 @@ Events
 
 By Vogue Business Team
 
-- [![Buy a Ticket | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_02f72662-10d2-43d9-858c-f20302d43050_popular4-2)
+- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
 
 
 
@@ -146,7 +235,7 @@ Events
 
 
 
-[Buy a Ticket \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_02f72662-10d2-43d9-858c-f20302d43050_popular4-2)
+[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
 
 
 
@@ -173,6 +262,87 @@ The body-positivity movement has pushed [diversity and inclusion](https://www.mc
 
 “Before, shapewear was assumed to be more of an older garment, something that was more taboo, that you wouldn’t really talk about,” she says. “Skims is about normalising shapewear and showing the younger generation how it can be worn so many ways.”
 
+Most Popular
+
+- [![In the Queue for John Galliano’s Zara](https://assets.vogue.com/photos/6abecfe1daaf5bd02522cbb6/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion Industry Trends
+
+
+
+
+
+[In the Queue for John Galliano’s Zara](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+By Joe Bobowicz
+
+- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+
+
+Events
+
+
+
+
+
+[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+By Vogue Business Team
+
+- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+
+
+Events
+
+
+
+
+
+[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+By Vogue Business Team
+
+
 In September, Skims was criticised on social media for launching maternity shapewear. “There were some people that didn’t understand what it was really trying to do,” says Kardashian West. “I wanted it to be extra comfortable and secure to provide support.”
 
 Not so long ago, shapewear was not considered particularly body positive or feminist, says Euromonitor’s Marston. “Skims and other emerging players have really managed to turn the message around and promote this idea of body inclusivity.”
@@ -182,9 +352,37 @@ Not so long ago, shapewear was not considered particularly body positive or femi
 Skims launched bridal and maternity Solutionwear lines in September.
 Skims
 
+Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
+
 Most Popular
 
-- [![How Vogue Business and Bond Fêted New York Fashion Week](https://assets.vogue.com/photos/6ab25a63633b9022f86e56f9/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-vogue-business-and-bond-feted-new-york-fashion-week#intcid=_vogue-right-rail_02f72662-10d2-43d9-858c-f20302d43050_popular4-2)
+- [![In the Queue for John Galliano’s Zara](https://assets.vogue.com/photos/6abecfe1daaf5bd02522cbb6/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+
+
+Fashion Industry Trends
+
+
+
+
+
+[In the Queue for John Galliano’s Zara](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+
+
+
+
+
+
+
+By Joe Bobowicz
+
+- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
 
 
 
@@ -200,33 +398,7 @@ Events
 
 
 
-[How _Vogue Business_ and Bond Fêted New York Fashion Week](https://www.vogue.com/article/how-vogue-business-and-bond-feted-new-york-fashion-week#intcid=_vogue-right-rail_02f72662-10d2-43d9-858c-f20302d43050_popular4-2)
-
-
-
-
-
-
-
-By Vogue Business in partnership with Bond
-
-- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_02f72662-10d2-43d9-858c-f20302d43050_popular4-2)
-
-
-
-
-
-
-
-
-
-Events
-
-
-
-
-
-[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_02f72662-10d2-43d9-858c-f20302d43050_popular4-2)
+[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
 
 
 
@@ -236,7 +408,7 @@ Events
 
 By Vogue Business Team
 
-- [![Buy a Ticket | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_02f72662-10d2-43d9-858c-f20302d43050_popular4-2)
+- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
 
 
 
@@ -252,7 +424,7 @@ Events
 
 
 
-[Buy a Ticket \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_02f72662-10d2-43d9-858c-f20302d43050_popular4-2)
+[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
 
 
 
@@ -262,8 +434,6 @@ Events
 
 By Vogue Business Team
 
-
-Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
 
 For its one-year anniversary campaign, Kardashian West enlisted Gen Z favourites like TikToker Addison Rae alongside fans of Skims to pose in individual billboard campaigns showing the product on people of all ages, sizes and ethnicities.
 
@@ -286,34 +456,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6ab5481205acf3e596816f4c/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_ebf3a6d6-7a7e-4a0c-8a7d-96f91612919a_modern-bert)
+[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6abe87ff531180ce5b04832f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
 
 Beauty
 
-[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc_ebf3a6d6-7a7e-4a0c-8a7d-96f91612919a_modern-bert)
+[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
 
 By Vogue Business Team
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_ebf3a6d6-7a7e-4a0c-8a7d-96f91612919a_modern-bert)
+[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
 
 Companies
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc_ebf3a6d6-7a7e-4a0c-8a7d-96f91612919a_modern-bert)
+[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
 
 By Vogue Business Team
 
-[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_ebf3a6d6-7a7e-4a0c-8a7d-96f91612919a_modern-bert)
+[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
 
 Technology
 
-[The _Vogue Business_ AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc_ebf3a6d6-7a7e-4a0c-8a7d-96f91612919a_modern-bert)
+[The _Vogue Business_ AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
 
 By Amy O’Brien
 
-[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6aa2ed6dcdd9bd0c0d343002/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_ebf3a6d6-7a7e-4a0c-8a7d-96f91612919a_modern-bert)
+[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6abd3963fe9901c003f6c227/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
 
 Future Edit
 
-[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc_ebf3a6d6-7a7e-4a0c-8a7d-96f91612919a_modern-bert)
+[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
 
 By Lucy Maguire
