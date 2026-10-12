@@ -2,7 +2,7 @@
 url: https://skims.com/pages/about
 source_type: skims.com
 title: About | SKIMS
-scraped_at: 2026-10-05T13:08:37.924504+00:00
+scraped_at: 2026-10-12T13:59:52.079405+00:00
 ---
 
 [Skip to main content](https://skims.com/pages/about#main-content)
@@ -47,42 +47,6 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![EVERYDAY COTTON THONG | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10647W-ONX-FLT_de74e74b-0169-4881-a79c-8d9a0cc5dabc_grande.jpg?v=1774284532&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-thong-onyx "EVERYDAY COTTON THONG | ONYX")
-
-[EVERYDAY COTTON\\
-\\
-**THONG**\\
-\\
-$18](https://skims.com/products/everyday-cotton-thong-onyx)
-
-Color
-
-onyx
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![COTTON RIB TANK | MARBLE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TNK-0038-MBL_1fd02f30-7b19-4367-90f6-5b452d75c439_grande.jpg?v=1690313907&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-tank-marble "COTTON RIB TANK | MARBLE")
-
-[COTTON RIB\\
-\\
-**TANK**\\
-\\
-$38](https://skims.com/products/cotton-rib-tank-marble)
-
-Color
-
-marble
-
-Select Size
-
-Select Size
-
-Add to Bag
-
 [![SKIMS ULTIMATE TEARDROP PUSH-UP BRA | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-1881-ONX_826cb71e-a716-49ce-8388-c85d69f5ff09_grande.jpg?v=1691617003&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-ultimate-teardrop-push-up-bra-onyx "SKIMS ULTIMATE TEARDROP PUSH-UP BRA | ONYX")
 
 [SKIMS ULTIMATE\\
@@ -105,6 +69,138 @@ Select Cup Size
 
 Add to Bag
 
+[![NikeSKIMS PERFORMANCE COTTON BLEND SHORT SLEEVE V-NECK CROP TOP | OBSIDIAN](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-IV6646-OBS-FLT_grande.jpg?v=1789351118&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/nikeskims-performance-cotton-blend-crop-short-sleeve-v-neck-crop-top-obsidian "NikeSKIMS PERFORMANCE COTTON BLEND SHORT SLEEVE V-NECK CROP TOP | OBSIDIAN")
+
+[NikeSKIMS PERFORMANCE COTTON BLEND\\
+\\
+**SHORT SLEEVE V-NECK CROP TOP**\\
+\\
+$58](https://skims.com/products/nikeskims-performance-cotton-blend-crop-short-sleeve-v-neck-crop-top-obsidian)
+
+Color
+
+obsidian
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![LIGHTWEIGHT COTTON LOGO PICOT THONG | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5958W-STT-FLT_grande.jpg?v=1739556586&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot "LIGHTWEIGHT COTTON LOGO PICOT THONG | SOOT")
+
+[LIGHTWEIGHT COTTON\\
+\\
+**LOGO PICOT THONG**\\
+\\
+$14](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot)
+
+Color
+
+soot
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![LIGHTWEIGHT COTTON STRING THONG | DELTA LEOPARD](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-8779W-DLP-SW_ac280a62-2ffc-4f6a-a457-645f0399c8c0_grande.jpg?v=1756930547&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-string-thong-delta-leopard "LIGHTWEIGHT COTTON STRING THONG | DELTA LEOPARD")
+
+[LIGHTWEIGHT COTTON\\
+\\
+**STRING THONG**\\
+\\
+$10\\
+\\
+$5](https://skims.com/products/lightweight-cotton-string-thong-delta-leopard)
+
+Color
+
+delta leopard
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![SKIMS COTTON MENS 5" BOXER BRIEF 3-PACK | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BOXER-BO-BBR-5303M-ONX_COMPOSITE_e87fc299-f789-4732-966d-bbf85fa4b6e5_grande.jpg?v=1730860559&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-cotton-mens-5-inch-boxer-brief-3-pack-onyx "SKIMS COTTON MENS 5\" BOXER BRIEF 3-PACK | ONYX")
+
+[SKIMS COTTON\\
+\\
+**MENS 5" BOXER BRIEF 3-PACK**\\
+\\
+$48](https://skims.com/products/skims-cotton-mens-5-inch-boxer-brief-3-pack-onyx)
+
+Color
+
+onyx
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![EVERYDAY COTTON STRING THONG | CURRANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10646W-CUR-FLT_grande.jpg?v=1789676053&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-string-thong-currant "EVERYDAY COTTON STRING THONG | CURRANT")
+
+[EVERYDAY COTTON\\
+\\
+**STRING THONG**\\
+\\
+$20](https://skims.com/products/everyday-cotton-string-thong-currant)
+
+Color
+
+currant
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![FITS EVERYBODY LACE UNLINED SCOOP BRA | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9062-ESP-FLT_13f108b6-f327-43a8-b915-ed6b42871c09_grande.jpg?v=1787343636&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-espresso "FITS EVERYBODY LACE UNLINED SCOOP BRA | ESPRESSO")
+
+[FITS EVERYBODY LACE\\
+\\
+**UNLINED SCOOP BRA**\\
+\\
+$54](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-espresso)
+
+Color
+
+espresso
+
+Select Band Size
+
+Select Band Size
+
+Select Cup Size
+
+Select Cup Size
+
+Add to Bag
+
+[![COTTON RIB TANK | MARBLE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TNK-0038-MBL_1fd02f30-7b19-4367-90f6-5b452d75c439_grande.jpg?v=1690313907&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-tank-marble "COTTON RIB TANK | MARBLE")
+
+[COTTON RIB\\
+\\
+**TANK**\\
+\\
+$38](https://skims.com/products/cotton-rib-tank-marble)
+
+Color
+
+marble
+
+Select Size
+
+Select Size
+
+Add to Bag
+
 [![COTTON JERSEY LONG SLEEVE T-SHIRT | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-SOT-FLT_2781d3b4-eded-4093-ba43-0d16b1ad2c56_grande.jpg?v=1767136370&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot "COTTON JERSEY LONG SLEEVE T-SHIRT | SOOT")
 
 [COTTON JERSEY\\
@@ -123,119 +219,17 @@ Select Size
 
 Add to Bag
 
-[![FITS EVERYBODY BALCONETTE BRA | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BL-BAL-8709W-ONX-FLT_grande.jpg?v=1776442263&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-balconette-bra-onyx "FITS EVERYBODY BALCONETTE BRA | ONYX")
+[![NikeSKIMS RIBBED SEAMLESS 26" LEGGING | OBSIDIAN](https://skims.imgix.net/s/files/1/0259/5448/4284/files/NIKESKIMS-ACTIVEWEAR-IR5014-054-FLT_grande.jpg?v=1783986337&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/nikeskims-ribbed-seamless-26-inch-legging-obsidian "NikeSKIMS RIBBED SEAMLESS 26\" LEGGING | OBSIDIAN")
 
-[FITS EVERYBODY\\
+[NikeSKIMS RIBBED SEAMLESS\\
 \\
-**BALCONETTE BRA**\\
+**26" LEGGING**\\
 \\
-$54](https://skims.com/products/fits-everybody-balconette-bra-onyx)
+$88](https://skims.com/products/nikeskims-ribbed-seamless-26-inch-legging-obsidian)
 
 Color
 
-onyx
-
-Select Band Size
-
-Select Band Size
-
-Select Cup Size
-
-Select Cup Size
-
-Add to Bag
-
-[![SEAMLESS SCULPT MID THIGH SHORT | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BO-SHO-3363-CLY_grande.jpg?v=1740086302&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/seamless-sculpt-mid-thigh-short-clay "SEAMLESS SCULPT MID THIGH SHORT | CLAY")
-
-[SEAMLESS SCULPT\\
-\\
-**MID THIGH SHORT**\\
-\\
-$44](https://skims.com/products/seamless-sculpt-mid-thigh-short-clay)
-
-Color
-
-clay
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![FITS EVERYBODY LACE ONESIE | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-OS-MDT-4131-ONX_4b5521d1-d007-464c-829a-f423df65f8c1_grande.jpg?v=1757604907&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-onesie-onyx "FITS EVERYBODY LACE ONESIE | ONYX")
-
-[FITS EVERYBODY LACE\\
-\\
-**ONESIE**\\
-\\
-$78](https://skims.com/products/fits-everybody-lace-onesie-onyx)
-
-Color
-
-onyx
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![SKIMS ULTIMATE STRAPLESS PUSH-UP BRA | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAN-3208-CLY_1_grande.jpg?v=1752527526&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-ultimate-strapless-push-up-bra-clay "SKIMS ULTIMATE STRAPLESS PUSH-UP BRA | CLAY")
-
-[SKIMS ULTIMATE\\
-\\
-**STRAPLESS PUSH-UP BRA**\\
-\\
-$64](https://skims.com/products/skims-ultimate-strapless-push-up-bra-clay)
-
-Color
-
-clay
-
-Select Band Size
-
-Select Band Size
-
-Select Cup Size
-
-Select Cup Size
-
-Add to Bag
-
-[![WIRELESS FORM T-SHIRT DEMI BRA | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRA-BR-WRL-1889-CLY_grande.jpg?v=1753903103&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/wireless-form-t-shirt-demi-bra-clay "WIRELESS FORM T-SHIRT DEMI BRA | CLAY")
-
-[WIRELESS FORM\\
-\\
-**T-SHIRT DEMI BRA**\\
-\\
-$48](https://skims.com/products/wireless-form-t-shirt-demi-bra-clay)
-
-Color
-
-clay
-
-Select Band Size
-
-Select Band Size
-
-Select Cup Size
-
-Select Cup Size
-
-Add to Bag
-
-[![COTTON FLEECE ZIP UP HOODIE | LIGHT HEATHER GREY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-ZUP-4476-LHG-CLOSED_grande.jpg?v=1735590863&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-zip-up-hoodie-light-heather-grey "COTTON FLEECE ZIP UP HOODIE | LIGHT HEATHER GREY")
-
-[COTTON FLEECE\\
-\\
-**ZIP UP HOODIE**\\
-\\
-$98](https://skims.com/products/cotton-fleece-zip-up-hoodie-light-heather-grey)
-
-Color
-
-light heather grey
+obsidian
 
 Select Size
 

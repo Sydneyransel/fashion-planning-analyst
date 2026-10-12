@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-10-05T13:09:10.797021+00:00
+scraped_at: 2026-10-12T14:00:35.001429+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -21,29 +21,21 @@ The brand has signalled a buzzy new era for shapewear. It features nine shades a
 
 LATEST ON VOGUE
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6abe87ff531180ce5b04832f/1:1/w_640%2Cc_limit/undefined)\\
+[![Is Commercial Still a Dirty Word in Fashion?](https://assets.vogue.com/photos/6ac8c880e3043fe366287048/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert "The Vogue Business Beauty Trend Tracker")
+Is Commercial Still a Dirty Word in Fashion?](https://www.vogue.com/article/is-commercial-still-a-dirty-word-in-fashion#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd "Is Commercial Still a Dirty Word in Fashion?")
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
+[![Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?](https://assets.vogue.com/photos/6ac6540c8c0d85d71b8f5c3a/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert "The Vogue Business People Moves Tracker")
+Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?](https://www.vogue.com/article/would-you-pay-to-redesign-your-clothes-rather-than-get-rid-of-them#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd "Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?")
 
-[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)\\
+[![Skirts, Shoes and Celine Dion: Key Takeaways From Paris Fashion Week Spring/Summer 2027](https://assets.vogue.com/photos/6ac52816fec2cdfb41ec29c1/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert "The Vogue Business AI Tracker")
+Skirts, Shoes and Celine Dion: Key Takeaways From Paris Fashion Week Spring/Summer 2027](https://www.vogue.com/article/skirts-shoes-and-celine-dion-key-takeaways-from-paris-fashion-week-spring-summer-2027#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd "Skirts, Shoes and Celine Dion: Key Takeaways From Paris Fashion Week Spring/Summer 2027")
 
-[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6abd3963fe9901c003f6c227/1:1/w_640%2Cc_limit/undefined)\\
+[![In the Age of AI, Fashion Wants to Turn You On](https://assets.vogue.com/photos/6ac7b4488c136e96d3769f59/1:1/w_640%2Cc_limit/undefined)\\
 \\
-The Vogue Business TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert "The Vogue Business TikTok Trend Tracker")
-
-[![In the Queue for John Galliano’s Zara](https://assets.vogue.com/photos/6abecfe1daaf5bd02522cbb6/1:1/w_640%2Cc_limit/undefined)\\
-\\
-In the Queue for John Galliano’s Zara](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert_fallback_popular4-2 "In the Queue for John Galliano’s Zara")
-
-[![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Register to Attend \| The Vogue Business Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert_fallback_popular4-2 "Register to Attend | The Vogue Business Fashion Month SS27 Lookback")
+In the Age of AI, Fashion Wants to Turn You On](https://www.vogue.com/article/in-the-age-of-ai-fashion-wants-to-turn-you-on#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd "In the Age of AI, Fashion Wants to Turn You On")
 
 ArrowArrow
 
@@ -72,7 +64,7 @@ The expansion across product categories allows consumers to build a capsule of n
 
 Most Popular
 
-- [![In the Queue for John Galliano’s Zara](https://assets.vogue.com/photos/6abecfe1daaf5bd02522cbb6/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+- [![Anthony Vaccarello Bows Out at Saint Laurent](https://assets.vogue.com/photos/6ab3b1f1df91bde3537097a7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -82,13 +74,13 @@ Most Popular
 
 
 
-Fashion Industry Trends
+Creative Directors
 
 
 
 
 
-[In the Queue for John Galliano’s Zara](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+[Anthony Vaccarello Bows Out at Saint Laurent](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -96,9 +88,35 @@ Fashion Industry Trends
 
 
 
-By Joe Bobowicz
+By Luke Leitch
 
-- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+- [![The Top 10 Most-Viewed SS27 Shows on Vogue Runway](https://assets.vogue.com/photos/6ac8d96a11ad75543eea75e1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+
+
+
+
+
+
+
+
+
+Runway
+
+
+
+
+
+[The Top 10 Most-Viewed SS27 Shows on _Vogue Runway_](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+
+
+
+
+
+
+
+By Nicole Phelps
+
+- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -114,33 +132,7 @@ Events
 
 
 
-[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
-
-
-
-
-
-
-
-By Vogue Business Team
-
-- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
-
-
-
-
-
-
-
-
-
-Events
-
-
-
-
-
-[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -167,7 +159,7 @@ Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skim
 
 Most Popular
 
-- [![In the Queue for John Galliano’s Zara](https://assets.vogue.com/photos/6abecfe1daaf5bd02522cbb6/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+- [![Anthony Vaccarello Bows Out at Saint Laurent](https://assets.vogue.com/photos/6ab3b1f1df91bde3537097a7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -177,13 +169,13 @@ Most Popular
 
 
 
-Fashion Industry Trends
+Creative Directors
 
 
 
 
 
-[In the Queue for John Galliano’s Zara](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+[Anthony Vaccarello Bows Out at Saint Laurent](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -191,9 +183,35 @@ Fashion Industry Trends
 
 
 
-By Joe Bobowicz
+By Luke Leitch
 
-- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+- [![The Top 10 Most-Viewed SS27 Shows on Vogue Runway](https://assets.vogue.com/photos/6ac8d96a11ad75543eea75e1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+
+
+
+
+
+
+
+
+
+Runway
+
+
+
+
+
+[The Top 10 Most-Viewed SS27 Shows on _Vogue Runway_](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+
+
+
+
+
+
+
+By Nicole Phelps
+
+- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -209,33 +227,7 @@ Events
 
 
 
-[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
-
-
-
-
-
-
-
-By Vogue Business Team
-
-- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
-
-
-
-
-
-
-
-
-
-Events
-
-
-
-
-
-[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -264,7 +256,7 @@ The body-positivity movement has pushed [diversity and inclusion](https://www.mc
 
 Most Popular
 
-- [![In the Queue for John Galliano’s Zara](https://assets.vogue.com/photos/6abecfe1daaf5bd02522cbb6/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+- [![Anthony Vaccarello Bows Out at Saint Laurent](https://assets.vogue.com/photos/6ab3b1f1df91bde3537097a7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -274,13 +266,13 @@ Most Popular
 
 
 
-Fashion Industry Trends
+Creative Directors
 
 
 
 
 
-[In the Queue for John Galliano’s Zara](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+[Anthony Vaccarello Bows Out at Saint Laurent](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -288,9 +280,35 @@ Fashion Industry Trends
 
 
 
-By Joe Bobowicz
+By Luke Leitch
 
-- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+- [![The Top 10 Most-Viewed SS27 Shows on Vogue Runway](https://assets.vogue.com/photos/6ac8d96a11ad75543eea75e1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+
+
+
+
+
+
+
+
+
+Runway
+
+
+
+
+
+[The Top 10 Most-Viewed SS27 Shows on _Vogue Runway_](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+
+
+
+
+
+
+
+By Nicole Phelps
+
+- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -306,33 +324,7 @@ Events
 
 
 
-[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
-
-
-
-
-
-
-
-By Vogue Business Team
-
-- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
-
-
-
-
-
-
-
-
-
-Events
-
-
-
-
-
-[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -356,7 +348,7 @@ Young consumers also [care about how brands react](https://www.voguebusiness.com
 
 Most Popular
 
-- [![In the Queue for John Galliano’s Zara](https://assets.vogue.com/photos/6abecfe1daaf5bd02522cbb6/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+- [![Anthony Vaccarello Bows Out at Saint Laurent](https://assets.vogue.com/photos/6ab3b1f1df91bde3537097a7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -366,13 +358,13 @@ Most Popular
 
 
 
-Fashion Industry Trends
+Creative Directors
 
 
 
 
 
-[In the Queue for John Galliano’s Zara](https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+[Anthony Vaccarello Bows Out at Saint Laurent](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -380,9 +372,35 @@ Fashion Industry Trends
 
 
 
-By Joe Bobowicz
+By Luke Leitch
 
-- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+- [![The Top 10 Most-Viewed SS27 Shows on Vogue Runway](https://assets.vogue.com/photos/6ac8d96a11ad75543eea75e1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+
+
+
+
+
+
+
+
+
+Runway
+
+
+
+
+
+[The Top 10 Most-Viewed SS27 Shows on _Vogue Runway_](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+
+
+
+
+
+
+
+By Nicole Phelps
+
+- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -398,33 +416,7 @@ Events
 
 
 
-[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
-
-
-
-
-
-
-
-By Vogue Business Team
-
-- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
-
-
-
-
-
-
-
-
-
-Events
-
-
-
-
-
-[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=_vogue-right-rail_456edb94-5afb-4a0e-af15-8803da6b7403_popular4-2)
+[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
 
 
 
@@ -456,34 +448,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6abe87ff531180ce5b04832f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
+[![Is Commercial Still a Dirty Word in Fashion?](https://assets.vogue.com/photos/6ac8c880e3043fe366287048/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/is-commercial-still-a-dirty-word-in-fashion#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
 
-Beauty
+Fashion Industry Trends
 
-[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
+[Is Commercial Still a Dirty Word in Fashion?](https://www.vogue.com/article/is-commercial-still-a-dirty-word-in-fashion#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
 
-By Vogue Business Team
+By Joe Bobowicz
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
+[![Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?](https://assets.vogue.com/photos/6ac6540c8c0d85d71b8f5c3a/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/would-you-pay-to-redesign-your-clothes-rather-than-get-rid-of-them#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
 
-Companies
+Sustainability
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
+[Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?](https://www.vogue.com/article/would-you-pay-to-redesign-your-clothes-rather-than-get-rid-of-them#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
 
-By Vogue Business Team
+By Bella Webb
 
-[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
+[![Skirts, Shoes and Celine Dion: Key Takeaways From Paris Fashion Week Spring/Summer 2027](https://assets.vogue.com/photos/6ac52816fec2cdfb41ec29c1/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/skirts-shoes-and-celine-dion-key-takeaways-from-paris-fashion-week-spring-summer-2027#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
 
-Technology
+Fashion
 
-[The _Vogue Business_ AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
+[Skirts, Shoes and Celine Dion: Key Takeaways From Paris Fashion Week Spring/Summer 2027](https://www.vogue.com/article/skirts-shoes-and-celine-dion-key-takeaways-from-paris-fashion-week-spring-summer-2027#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
 
-By Amy O’Brien
+By Laure Guilbault
 
-[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6abd3963fe9901c003f6c227/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
+[![In the Age of AI, Fashion Wants to Turn You On](https://assets.vogue.com/photos/6ac7b4488c136e96d3769f59/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/in-the-age-of-ai-fashion-wants-to-turn-you-on#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
 
-Future Edit
+Fashion
 
-[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=_vogue-article-bottom-recirc-bkt-a_8c358914-03b1-46fd-876f-26739b701e40_modern-bert)
+[In the Age of AI, Fashion Wants to Turn You On](https://www.vogue.com/article/in-the-age-of-ai-fashion-wants-to-turn-you-on#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
 
-By Lucy Maguire
+By Amy Francombe
