@@ -2,10 +2,12 @@
 url: https://www.vogue.com/article/kim-kardashian-nikeskims-collection-debut
 source_type: vogue.com
 title: Kim Kardashian Introduces NikeSkims—And Shares Her Go-To Exercise, Workout Playlist, and Gym Essentials  | Vogue
-scraped_at: 2026-10-05T13:09:14.160717+00:00
+scraped_at: 2026-10-19T11:41:26.864120+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-nikeskims-collection-debut#main-content)
+
+All products featured on Vogue are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products through these links.
 
 Save StorySave this story
 
@@ -34,7 +36,169 @@ Photo: Hugh Wilson
 Kim Kardashian in NikeSkims
 Photo: Hugh Wilson
 
+Most Popular
+
+- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+
 The seven different collections offer something for every customer. The Matte collection includes 21 matte-finish styles that feature mid-level compression; The Shine collection includes 11 stretchy styles with a subtle sheen finish; The Airy collection features breathable, mesh-inspired knit pieces. Other collections include the Vintage Seamless collection (featuring more worn-in, vintage-inspired pieces), and the Matte Tricot collection (featuring minimal track-inspired pieces). For Kardashian, it was important to create pieces that can fit into a busy lifestyle. “You can wear some of the pieces out at night and look really great, or there’s super casual pieces strictly for working out,” she says. “I wanted people to feel like there was something for everyone.”
+
+Most Popular
+
+- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
 
 The top athletes that NikeSkims tapped for their debut campaign, meanwhile, also reflected this diverse range of needs and styles. The first campaign video, titled _Bodies at Work_, was directed by Janicza Bravo, and features more than 50 athletes from across Nike’s portfolio—including Serena Williams, Chloe Kim, Sha’Carri Richardson, Jordan Chiles, Madisen Skinner, and more, all of whom sport a variety of pieces, from the zip-up hoodies to the stretchy shorts. “I love the quality, and how it moves with me and supports me in all the right areas,” says American gymnast Jordan Chiles of the pieces. “I feel sleek, comfortable, and completely myself.” Snowboarding pro Chloe King adds, “You can definitely tell NikeSkims is made for women—I think that’s the biggest thing.”
 
@@ -42,6 +206,87 @@ The top athletes that NikeSkims tapped for their debut campaign, meanwhile, also
 
 Chloe Kim in NikeSkims
 Photo: Hugh Wilson
+
+Most Popular
+
+- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
 
 With the official launch date coming up this Friday, consumers and Kardashian fans will soon have the opportunity to dress like a star athlete, too. Until then, Kardashian delves further into the inspiration for the brand below—and dishes on her go-to exercise, workout playlist, and what she herself wears to the gym.
 
@@ -52,6 +297,87 @@ With the official launch date coming up this Friday, consumers and Kardashian fa
 **You could have done a one-time Nike x Skims collab and be done with it, so why was it important for you to create a new brand that will continue on?**
 
 We wanted to form a whole new brand together to make sure that it was a lasting relationship, and that we both had equal shares in the innovation and development of the product. When you do a collab, it’s so much fun, but I really wanted this to be a forever thing. Something that we can grow and evolve together. With all of the distribution that Nike has all over the world, I also want people to feel the NikeSkims brand all over the world. And I don’t think we could have accomplished that in one collection.
+
+Most Popular
+
+- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
 
 ![Madisen Skinner in NikeSkims](https://assets.vogue.com/photos/68d00eeb265201cbd41b73af/master/w_1600%2Cc_limit/RG11JH-P01_FA25_NikeSKIMS_HW__LOOKBOOK_Madisen_Currant_Look-28_0023_FINALS.jpg)
 
@@ -67,6 +393,87 @@ Photo: Hugh Wilson
 
 I always have these little cellulite tests that I do in my fittings—certain requirements that I have in my head, like how a fabric has to have a certain amount of thickness, to really hold and snatch everything in place. I also didn’t want anything that’s annoying or frustrating to put on. Sometimes, shapewear can be really restricting, but we’ve done a really good job at making sure it’s still really comfortable; I wanted our activewear to feel that way, too. Chloe \[Kim\] was trying it on last night, and she called me and was like, “Oh my God, I can’t believe that I don’t have to tailor anything!” I was like, “Yeah babe, that’s Skims for you.”
 
+Most Popular
+
+- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+
 **What do you personally like to wear to work out? Are there any pieces from the line you’ve been testing out?**
 
 I always want pieces that I feel really comfortable in and look really good in at the gym, so that it will motivate me to want to go more. Before, I used to really stick to a legging and a sports bra—I’m a creature of habit. I absolutely love all of our leggings and sports bras. I typically never wear a top over \[a bra\], but now I love layering our tops, like our thin little turtleneck top. I love the fabric. I’ve never worn a long-sleeved top to work out in before, but now I’ll put a sports bra under it, and maybe even a hoodie over it. Or I will wear the leggings with baggy shorts over it. There’s over 10,000 ways to mix all of these pieces. Someone once told me that, if you have all the right pieces in your closet, you don’t really need a stylist to put it together for you—they’ll just always work. If you have curated collection in your closet, not too many pieces, then nothing can be misconstrued—you’re always going to look good. I feel like that’s what this collection is.
@@ -74,6 +481,87 @@ I always want pieces that I feel really comfortable in and look really good in a
 **You were among those who set the trend of wearing athleisure as fashion, like when you reignited the [bike shorts trend](https://www.vogue.com/article/kim-kardashian-west-style-trends). So was that something you were thinking about when ideating these pieces?**
 
 I definitely wanted pieces that I can wear to meetings. Sometimes, I don’t have time to really change in between my day. I’ll wake up, put on a workout outfit, take my kids to school, come back, work out, and then go right into a meeting. And I’ll want to look cute and decent doing it. I want to be able to do it all—and with these pieces, you can.
+
+Most Popular
+
+- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
 
 ![Beatriz Hatz in NikeSkims](https://assets.vogue.com/photos/68d00eebcf43c71ffde5ce5e/master/w_1600%2Cc_limit/RG11JH-P01_FA25_NikeSKIMS_HW__LOOKBOOK_Beatriz_DarkSepia_Look-39_0022_FINALS.jpg)
 
@@ -83,6 +571,87 @@ Photo: Hugh Wilson
 **What’s some of your current workout obsessions? What’s the routine looking like?**
 
 I’m a big weightlifter, so I do lots of weights. I’ve had some back issues, so I’ve had to readjust just some of my workouts, but I _have_ to do lower body in order to stay toned. I do a few days of upper body. I usually pick a body part, and we stick to that for the day. I do an hour and a half a day, with weights and stretching, and a little bit of cardio. I love pilates, so I will incorporate that, and I love wearing our pilates leggings. I find when I don’t incorporate pilates at least once a week, I can feel it in my back. I definitely need that lengthening and stretching.
+
+Most Popular
+
+- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
 
 **Are you a morning workout person, or evening?**
 
@@ -106,6 +675,87 @@ Photo: Hugh Wilson
 
 Any dancing workout. Honestly, I know I should get into hot yoga, but I did it once and I fell asleep. Just with the mood, and you lay down and close your eyes. I can fall asleep anywhere, so put me in the position to fall asleep, and I will.
 
+Most Popular
+
+- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+
 **There are so many amazing Olympians in your campaign, and I was wondering if there was a sport you could ever see yourself being good at, if you really trained at it?**
 
 I’m a pretty good soccer player. I know people wouldn’t know that, but I played soccer my whole life. I wouldn’t say I would be good enough to be an Olympic soccer player, but I dabbled in that when I was a kid. I remember doing a report on the Olympics in the fourth grade, about the decathlon with my stepdad, and they asked if you would be doing one of these, what would it be? I guess maybe one of the running sports. I’m a better runner than people would assume. Actually, I take it back: I would compete in the winter Olympics, for skiing. Skiing is my thing.
@@ -118,6 +768,87 @@ I just love seeing them in action. Everyone did a different workout for the camp
 
 Kim Kardashian in NikeSkims
 Photo: Hugh Wilson
+
+Most Popular
+
+- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
 
 **Do you have any dream athletes to dress in your pieces in the future?**
 
@@ -160,6 +891,87 @@ SKIMS](https://cna.st/p/8MtTDYkRzKk4NMpfJ4TqzuCMxo11wWfZQgoDcPD5uVnXLBf3cwWFDnYg
 
 [$98\\
 NIKE](https://cna.st/p/51fk68Dsj97AZ15LYmGQKo663SuRDQF8kbj75P1F8q52hXB2LWWmSPWRdduGDytEPVrHC5fkPzTdPkpb399qQtHsErH6VK1NTn2qvamanRXm9TsAc2p6PoorwTFGQKqpmGKgVeq5Cm9n5WDdVaddNYSqVqV6wsS4DiEHP9d6xQtJVrBSixfs1NXwxr13tJCK1Q6X2SN9KnyJ6otFAH94wVgZnPqZRwPcMuPZMLp2Aw1QXCiLUpUKmVfAgfVc9AXpdZdQsZgrCXKi6PoLr28FoDxW4PPMoMEA1ZGU4z8bFSFoV253pjvv16QZpWXqWh6fstQeaW5jDpNiMVQPRA6TPcXHLVenaPsaJWVvzRBSiXLRHKB6h6Hi3ZiTfJmYuJtk3SYtT9vm5M6V2cm2j9WB9TTgfu4Gpo6inAV1UJoFPZAoKEseZ5XZtgbycboWRfi7o6h27Wi3hoEjsSHGyqQxFVNNkNhPs3kdEkEjdidLiWSpvsZE7uWAKyBzd9ayKSUVf7xCBB3Bmwi9J8GWU6WoXiZBR5DkMMe6SF8t7GaJ1YVrKZNJbANb9h4)
+
+Most Popular
+
+- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
 
 [![](https://assets.vogue.com/photos/68dbdffb09991603ebea29fc/3:4/w_748%2Cc_limit/image6.jpg)](https://cna.st/p/m1C6KgLs7ft5yUXVGuYDUYSZ1UEZKkdHAC833svWVKKy1YuSbrDj2BgwEp3gKiU8HMUqRY4TYehKgPUNwHKDPjhCn9n27eGeBZsDpVPLZrhXMbgAseBSdjPw62z7seHpFfm4X7CbioW8995so9DnxYiTE19pWttGMpoJ3khQ5vtefEawcbK3NT8qsNbcYudc43obET5J7W5VE3acWufoT26yf9JcMrV5ES1shLYSgDs7oirLFpXsLDceSchP8ewecefvxKAKB4c9cGNT2NaHF2UJznMtAT4gu88exFhCbo4hARMjw8SWYUKPf6JpRydZCBeN9cUZ8bqTNuh3Fqarg9tyPCD5E4kWAKaosZshHeso64V5b6rhTKMmT9SeMmYuqdaLAWFuTB6jxnWWAXDNkynkstHpkmKCRXe1x4MQMZUi4tBJjZ1bHbs6pMWefNyY2nAE2XjPwJg9bgv1JWY9K2uY3j1MzJkPJ7PFMyF3NhuRjEfhQHmvaZZZVgcVxMG1hGXJK1679MwMe6HUs57yjz2)
 
@@ -220,6 +1032,87 @@ SKIMS](https://cna.st/p/7j2VjzU7gdmWipShpfLAVN5DqJL5jMsabxAnwuKyLTG3LaHmPM7bNtLY
 
 [$58\\
 NIKE](https://cna.st/p/fvAuoSfwLjncQrimT8n2kGb6ZK4367WBFSQ1d66V6EhPWAWjVRyzZZ7AX7og1a4bX1TJ1AkqQHX5hSJtGDEiSSD7evys1bpDjU7ubHZuQ1zAftUNsUDj1iiebjyp4HDQpkyuUbEHQNLy5w8shHP6CgtH2vuuuyT53gi35L7xmiBjRaTX94qdSN5PBCuhvQ7J5T4fhFFi21ACiKbERebHzeo1zP7jphZHW1dap12roa81f4KDDUXvSP1sKP5sUKJKn2UoXfXb2oZ1zozeoZc8WBRK9EsFZvxfwvZgRPLbm3wDWqfB2hwgrhPkABK5rQTLVS23GGGdkQyBuz91R618xyVxce34UMwoHWSftS6ppbXWGD8FJfxKUfYRj1Ue8T9MUgmT51XxbCRRyGuaGHYzmE2swyS4tyoZe5CEHXjqoMcR59DxTkC8wMQ1sUNEHkHtZSZ55d13n4Bts5xYncP1EARyjecM1vjVLTzZvygqn1ZMrCUUQkk6Q2vFqz1GCGQVGNtN5fVXALXxHWjQjQiRrLcS9YHEUg66Av1F9xNhKgaSdA3LS6UZaQTtaKerZDGn)
+
+Most Popular
+
+- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
+- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+
+
+Celebrity Style
+
+
+
+
+
+[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+
+
+
+
+
+
+
+By Christian Allaire
+
 
 [![](https://assets.vogue.com/photos/68dbdfed06c2c8d697e1852f/3:4/w_748%2Cc_limit/image4.jpg)](https://cna.st/p/3G1KErbfKLibgygSWYkViYwbnj7HZqxizBdRyVUh1G7GDWCDLbKL4K1gEGbtd3ffbYZSVZ5huGyjqaFZVFu7N74jCCAe3jNP74ZFwSA97x9A76CU92kXyCxauMbgDi4RUWemBp61WMk9QQkc4zkdGtteaV57pMGh3XRDwLvt9YhhaxtF193TYqeA2xdvu1vEE6mBbsrTqBdV2PAbddUtNvp7WS6WRG1rK7Zmn79P7uZgA1GbTMgfJznXwnSpP6TASCUDWt8QeHRp5JNVMgeJw7boM6dhGFVGgfLdmYFMzzwnWA4J9LPnC2Msi1QBu1Lq4qf2iu8HQ7ty9VhQMC6Auo3M58htTMJQ1aoDvRDMEeyeT9jaD1Ev4pssu8e4E88iaCM1EurBYP7zEXea95NiStf6Jadua2CMYyR3W1HGThkCFQBNKqj1KpJ3XZhmSWbB76hS4QvyH5XGkbDhDJf7vdF9qJWmmHaVXFU8XkG4LTGRooy6knmTtA6dYupcF2gtnhBXareWVfeUgFhv7bN42)
 

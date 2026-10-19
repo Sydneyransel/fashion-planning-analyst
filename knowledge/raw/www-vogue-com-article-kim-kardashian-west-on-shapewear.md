@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-10-12T14:00:35.001429+00:00
+scraped_at: 2026-10-19T11:41:21.784361+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -18,26 +18,6 @@ In business terms, it’s worked out pretty well. In June, Kardashian West sold 
 The first hint of a move into the shapewear market dates back to January 2019 when Kardashian West flew to Miami for a Met Gala fitting with designer Manfred Thierry Mugler. An Instagram post of herself, with Mugler, showed her wearing nothing but a nude tank top and cycling shorts. What the 1.8 million people who liked the post didn’t know was that Kardashian West was wearing early samples of Skims.
 
 The brand has signalled a buzzy new era for shapewear. It features nine shades and sizing from XXS to XXXXXL, all wrapped around the alluring marketing clout of one of the world’s top media celebrities (count those 190 million Instagram followers) — attracting a broader audience than a typical shapewear brand. Skims has built an Instagram following of 2.1 million in double-quick time.
-
-LATEST ON VOGUE
-
-[![Is Commercial Still a Dirty Word in Fashion?](https://assets.vogue.com/photos/6ac8c880e3043fe366287048/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Is Commercial Still a Dirty Word in Fashion?](https://www.vogue.com/article/is-commercial-still-a-dirty-word-in-fashion#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd "Is Commercial Still a Dirty Word in Fashion?")
-
-[![Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?](https://assets.vogue.com/photos/6ac6540c8c0d85d71b8f5c3a/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?](https://www.vogue.com/article/would-you-pay-to-redesign-your-clothes-rather-than-get-rid-of-them#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd "Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?")
-
-[![Skirts, Shoes and Celine Dion: Key Takeaways From Paris Fashion Week Spring/Summer 2027](https://assets.vogue.com/photos/6ac52816fec2cdfb41ec29c1/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Skirts, Shoes and Celine Dion: Key Takeaways From Paris Fashion Week Spring/Summer 2027](https://www.vogue.com/article/skirts-shoes-and-celine-dion-key-takeaways-from-paris-fashion-week-spring-summer-2027#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd "Skirts, Shoes and Celine Dion: Key Takeaways From Paris Fashion Week Spring/Summer 2027")
-
-[![In the Age of AI, Fashion Wants to Turn You On](https://assets.vogue.com/photos/6ac7b4488c136e96d3769f59/1:1/w_640%2Cc_limit/undefined)\\
-\\
-In the Age of AI, Fashion Wants to Turn You On](https://www.vogue.com/article/in-the-age-of-ai-fashion-wants-to-turn-you-on#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd "In the Age of AI, Fashion Wants to Turn You On")
-
-ArrowArrow
 
 Kardashian West is keen to focus on the design qualities of the collection as much as her marketing appeal. “In the past, people might assume that shapewear is more like girdles — something that’s extremely uncomfortable,” she says. “I’ve worn corsets for events, I know how uncomfortable it is. That’s not the vibe of what I wanted.”
 
@@ -64,59 +44,7 @@ The expansion across product categories allows consumers to build a capsule of n
 
 Most Popular
 
-- [![Anthony Vaccarello Bows Out at Saint Laurent](https://assets.vogue.com/photos/6ab3b1f1df91bde3537097a7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-
-
-Creative Directors
-
-
-
-
-
-[Anthony Vaccarello Bows Out at Saint Laurent](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-By Luke Leitch
-
-- [![The Top 10 Most-Viewed SS27 Shows on Vogue Runway](https://assets.vogue.com/photos/6ac8d96a11ad75543eea75e1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-
-
-Runway
-
-
-
-
-
-[The Top 10 Most-Viewed SS27 Shows on _Vogue Runway_](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-By Nicole Phelps
-
-- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
 
 
 
@@ -132,7 +60,7 @@ Events
 
 
 
-[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
 
 
 
@@ -141,6 +69,58 @@ Events
 
 
 By Vogue Business Team
+
+- [![Retail Executives Speak Out After Store Looting in Paris](https://assets.vogue.com/photos/6ad5377af740f89d4b29d83d/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[Retail Executives Speak Out After Store Looting in Paris](https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+
+
+
+
+
+
+
+By Laure Guilbault
+
+- [![Seán McGirr Departs McQueen](https://assets.vogue.com/photos/6ad0dae76c0555e8b6841ba2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/sean-mcgirr-departs-mcqueen#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+
+
+
+
+
+
+
+
+
+Creative Directors
+
+
+
+
+
+[Seán McGirr Departs McQueen](https://www.vogue.com/article/sean-mcgirr-departs-mcqueen#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+
+
+
+
+
+
+
+By Laure Guilbault
 
 
 Nina Marston of Euromonitor says Skims is changing the shapewear market. “It’s ’leisurie’, lingerie or shapewear that you can wear under clothes or on their own, inside and out of the house.” The global underwear market, which includes shapewear, is still expected to decline by 11 per cent in 2020 to $107 billion, according to Euromonitor, but that is a smaller decline than general apparel.
@@ -159,59 +139,7 @@ Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skim
 
 Most Popular
 
-- [![Anthony Vaccarello Bows Out at Saint Laurent](https://assets.vogue.com/photos/6ab3b1f1df91bde3537097a7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-
-
-Creative Directors
-
-
-
-
-
-[Anthony Vaccarello Bows Out at Saint Laurent](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-By Luke Leitch
-
-- [![The Top 10 Most-Viewed SS27 Shows on Vogue Runway](https://assets.vogue.com/photos/6ac8d96a11ad75543eea75e1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-
-
-Runway
-
-
-
-
-
-[The Top 10 Most-Viewed SS27 Shows on _Vogue Runway_](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-By Nicole Phelps
-
-- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
 
 
 
@@ -227,7 +155,7 @@ Events
 
 
 
-[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
 
 
 
@@ -236,6 +164,58 @@ Events
 
 
 By Vogue Business Team
+
+- [![Retail Executives Speak Out After Store Looting in Paris](https://assets.vogue.com/photos/6ad5377af740f89d4b29d83d/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[Retail Executives Speak Out After Store Looting in Paris](https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+
+
+
+
+
+
+
+By Laure Guilbault
+
+- [![Seán McGirr Departs McQueen](https://assets.vogue.com/photos/6ad0dae76c0555e8b6841ba2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/sean-mcgirr-departs-mcqueen#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+
+
+
+
+
+
+
+
+
+Creative Directors
+
+
+
+
+
+[Seán McGirr Departs McQueen](https://www.vogue.com/article/sean-mcgirr-departs-mcqueen#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+
+
+
+
+
+
+
+By Laure Guilbault
 
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
@@ -256,59 +236,7 @@ The body-positivity movement has pushed [diversity and inclusion](https://www.mc
 
 Most Popular
 
-- [![Anthony Vaccarello Bows Out at Saint Laurent](https://assets.vogue.com/photos/6ab3b1f1df91bde3537097a7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-
-
-Creative Directors
-
-
-
-
-
-[Anthony Vaccarello Bows Out at Saint Laurent](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-By Luke Leitch
-
-- [![The Top 10 Most-Viewed SS27 Shows on Vogue Runway](https://assets.vogue.com/photos/6ac8d96a11ad75543eea75e1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-
-
-Runway
-
-
-
-
-
-[The Top 10 Most-Viewed SS27 Shows on _Vogue Runway_](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-By Nicole Phelps
-
-- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
 
 
 
@@ -324,7 +252,7 @@ Events
 
 
 
-[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
+[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
 
 
 
@@ -333,6 +261,58 @@ Events
 
 
 By Vogue Business Team
+
+- [![Retail Executives Speak Out After Store Looting in Paris](https://assets.vogue.com/photos/6ad5377af740f89d4b29d83d/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+[Retail Executives Speak Out After Store Looting in Paris](https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+
+
+
+
+
+
+
+By Laure Guilbault
+
+- [![Seán McGirr Departs McQueen](https://assets.vogue.com/photos/6ad0dae76c0555e8b6841ba2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/sean-mcgirr-departs-mcqueen#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+
+
+
+
+
+
+
+
+
+Creative Directors
+
+
+
+
+
+[Seán McGirr Departs McQueen](https://www.vogue.com/article/sean-mcgirr-departs-mcqueen#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+
+
+
+
+
+
+
+By Laure Guilbault
 
 
 In September, Skims was criticised on social media for launching maternity shapewear. “There were some people that didn’t understand what it was really trying to do,” says Kardashian West. “I wanted it to be extra comfortable and secure to provide support.”
@@ -345,87 +325,6 @@ Skims launched bridal and maternity Solutionwear lines in September.
 Skims
 
 Young consumers also [care about how brands react](https://www.voguebusiness.com/consumers/marketing-to-gen-z-during-covid-19) to the pandemic. Recognising its status as a rare success story through Covid-19, Skims donated $1 million across a range of charities including the LA Regional Food Bank and the National Domestic Workers Alliance. “Since we’re doing so well, it was really important to make a donation and give back to our community,” says Kardashian West.
-
-Most Popular
-
-- [![Anthony Vaccarello Bows Out at Saint Laurent](https://assets.vogue.com/photos/6ab3b1f1df91bde3537097a7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-
-
-Creative Directors
-
-
-
-
-
-[Anthony Vaccarello Bows Out at Saint Laurent](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-By Luke Leitch
-
-- [![The Top 10 Most-Viewed SS27 Shows on Vogue Runway](https://assets.vogue.com/photos/6ac8d96a11ad75543eea75e1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-
-
-Runway
-
-
-
-
-
-[The Top 10 Most-Viewed SS27 Shows on _Vogue Runway_](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-By Nicole Phelps
-
-- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-
-
-Events
-
-
-
-
-
-[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=08976636-f455-4423-995c-6726a0eee0e7)
-
-
-
-
-
-
-
-By Vogue Business Team
-
 
 For its one-year anniversary campaign, Kardashian West enlisted Gen Z favourites like TikToker Addison Rae alongside fans of Skims to pose in individual billboard campaigns showing the product on people of all ages, sizes and ethnicities.
 
@@ -448,34 +347,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![Is Commercial Still a Dirty Word in Fashion?](https://assets.vogue.com/photos/6ac8c880e3043fe366287048/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/is-commercial-still-a-dirty-word-in-fashion#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
+[![“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://assets.vogue.com/photos/6aae97620b3dc4119d6d0dbb/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion#intcid=e469c737-29ba-4595-a912-396d8bc86061)
+
+Fashion Month
+
+[“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion#intcid=e469c737-29ba-4595-a912-396d8bc86061)
+
+By Lucy Maguire
+
+[![Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://assets.vogue.com/photos/6acd005f760cb71dd6d4bfb2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=e469c737-29ba-4595-a912-396d8bc86061)
+
+Companies
+
+[Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=e469c737-29ba-4595-a912-396d8bc86061)
+
+By Madeleine Schulz
+
+[![Consumers Want Freaky Shoes. Brands Are Stepping It Up](https://assets.vogue.com/photos/6ac3e39cf8046983f88fc8d2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/consumers-want-freaky-shoes-brands-are-stepping-it-up#intcid=e469c737-29ba-4595-a912-396d8bc86061)
 
 Fashion Industry Trends
 
-[Is Commercial Still a Dirty Word in Fashion?](https://www.vogue.com/article/is-commercial-still-a-dirty-word-in-fashion#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
+[Consumers Want Freaky Shoes. Brands Are Stepping It Up](https://www.vogue.com/article/consumers-want-freaky-shoes-brands-are-stepping-it-up#intcid=e469c737-29ba-4595-a912-396d8bc86061)
+
+By Madeleine Schulz
+
+[![Inside the Dr. Martens Comeback](https://assets.vogue.com/photos/6ab183bb837fcebb54b0c845/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-dr-martens-comeback#intcid=e469c737-29ba-4595-a912-396d8bc86061)
+
+Fashion Month
+
+[Inside the Dr. Martens Comeback](https://www.vogue.com/article/inside-the-dr-martens-comeback#intcid=e469c737-29ba-4595-a912-396d8bc86061)
 
 By Joe Bobowicz
-
-[![Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?](https://assets.vogue.com/photos/6ac6540c8c0d85d71b8f5c3a/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/would-you-pay-to-redesign-your-clothes-rather-than-get-rid-of-them#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
-
-Sustainability
-
-[Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?](https://www.vogue.com/article/would-you-pay-to-redesign-your-clothes-rather-than-get-rid-of-them#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
-
-By Bella Webb
-
-[![Skirts, Shoes and Celine Dion: Key Takeaways From Paris Fashion Week Spring/Summer 2027](https://assets.vogue.com/photos/6ac52816fec2cdfb41ec29c1/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/skirts-shoes-and-celine-dion-key-takeaways-from-paris-fashion-week-spring-summer-2027#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
-
-Fashion
-
-[Skirts, Shoes and Celine Dion: Key Takeaways From Paris Fashion Week Spring/Summer 2027](https://www.vogue.com/article/skirts-shoes-and-celine-dion-key-takeaways-from-paris-fashion-week-spring-summer-2027#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
-
-By Laure Guilbault
-
-[![In the Age of AI, Fashion Wants to Turn You On](https://assets.vogue.com/photos/6ac7b4488c136e96d3769f59/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/in-the-age-of-ai-fashion-wants-to-turn-you-on#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
-
-Fashion
-
-[In the Age of AI, Fashion Wants to Turn You On](https://www.vogue.com/article/in-the-age-of-ai-fashion-wants-to-turn-you-on#intcid=eb8a4c1e-45c2-4980-97d0-e905449be3dd)
-
-By Amy Francombe

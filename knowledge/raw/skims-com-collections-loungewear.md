@@ -2,7 +2,7 @@
 url: https://skims.com/collections/loungewear
 source_type: skims.com
 title: Women's Loungewear | SKIMS
-scraped_at: 2026-10-12T14:00:19.100349+00:00
+scraped_at: 2026-10-19T11:41:09.970603+00:00
 ---
 
 [Skip to main content](https://skims.com/collections/loungewear#main-content)
@@ -34,21 +34,87 @@ Robes](https://skims.com/collections/robes)
 Filter
 Sort
 
-[![](<Base64-Image-Removed>)\\
-![COTTON FLEECE ZIP UP ONESIE HEATHER GREY CAMPAIGN IMAGERY | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONT_FACING_PDP_COTTON_FLEECE-3.webp?v=1789588713&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![COTTON FLEECE ZIP UP ONESIE | HEATHER GREY FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-OP-ONS-12967W-HEG-FLT.jpg?v=1788980731&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-fleece-zip-up-onesie)
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/FRONT_FACING_PDP_COTTON_FLEECE-3.webp?v=1789588713&auto=format%2Ccompress&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)](https://skims.com/products/cotton-fleece-zip-up-onesie)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-OP-ONS-12967W-HEG-FLT.jpg?v=1788980731&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-fleece-zip-up-onesie)
+
+[View ZIP UP ONESIE](https://skims.com/products/cotton-fleece-zip-up-onesie)
+
+[View ZIP UP ONESIE](https://skims.com/products/cotton-fleece-zip-up-onesie)
+
+[View ZIP UP ONESIE](https://skims.com/products/cotton-fleece-zip-up-onesie)
+
+[View ZIP UP ONESIE](https://skims.com/products/cotton-fleece-zip-up-onesie)
+
+[View ZIP UP ONESIE](https://skims.com/products/cotton-fleece-zip-up-onesie)
 
 [**COTTON FLEECE**  **zip up onesie**\\
 \\
 $128](https://skims.com/products/cotton-fleece-zip-up-onesie)
 
-[![](<Base64-Image-Removed>)\\
-![COTTON FLEECE HOODIE WITH EMBOSSED LOGO | FOG & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SCL-14069W-FOG-BB-SKIMS-LOUNGEWEAR_0072-FR.webp?v=1791216168&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BT-PNT-12268W-FOG-BA-SKIMS-LOUNGEWEAR_0075-FR_a7406d15-81c0-4296-a452-078eb7d753f5.webp?v=1791925052&auto=format%2Ccompress&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)](https://skims.com/products/cotton-rib-mid-rise-legging-fog)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-_BT-PNT-12268W-FOG-FLT.jpg?v=1791997461&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-rib-mid-rise-legging-fog)
+
+[View MID RISE LEGGING](https://skims.com/products/cotton-rib-mid-rise-legging-fog)
+
+[View MID RISE LEGGING](https://skims.com/products/cotton-rib-mid-rise-legging-fog)
+
+[View MID RISE LEGGING](https://skims.com/products/cotton-rib-mid-rise-legging-fog)
+
+[View MID RISE LEGGING](https://skims.com/products/cotton-rib-mid-rise-legging-fog)
+
+[View MID RISE LEGGING](https://skims.com/products/cotton-rib-mid-rise-legging-fog)
+
+[New\\
 \\
-![](<Base64-Image-Removed>)\\
-![COTTON FLEECE HOODIE WITH EMBOSSED LOGO | FOG FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14069W-FOG-FLT_7478da8b-a509-4bbe-ad01-e26bb427664e.jpg?v=1791228309&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-fog)
+**COTTON RIB**  **mid rise legging**\\
+\\
+$64](https://skims.com/products/cotton-rib-mid-rise-legging-fog)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SCL-14070W-ESP-AE-SKIMS-LOUNGEWEAR_0004-FR.webp?v=1789673010&auto=format%2Ccompress&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-espresso)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14070W-ESP-FLT.jpg?v=1789604690&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-espresso)
+
+[View ZIP UP HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-espresso)
+
+[View ZIP UP HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-espresso)
+
+[View ZIP UP HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-espresso)
+
+[View ZIP UP HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-espresso)
+
+[**COTTON FLEECE**  **zip up hoodie with embossed logo**\\
+\\
+$98](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-espresso)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SCL-13479W-ONX-AE-SKIMS-LOUNGEWEAR_0029-SD.webp?v=1789672111&auto=format%2Ccompress&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-onyx)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-13479W-ONX-FLT.jpg?v=1789604687&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-onyx)
+
+[View MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-onyx)
+
+[View MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-onyx)
+
+[View MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-onyx)
+
+[View MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-onyx)
+
+[**COTTON FLEECE**  **mock neck quarter zip with embossed logo**\\
+\\
+$98](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-onyx)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SCL-14069W-FOG-BB-SKIMS-LOUNGEWEAR_0072-FR.webp?v=1791216168&auto=format%2Ccompress&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-fog)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14069W-FOG-FLT_7478da8b-a509-4bbe-ad01-e26bb427664e.jpg?v=1791228309&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-fog)
+
+[View HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-fog)
+
+[View HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-fog)
+
+[View HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-fog)
+
+[View HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-fog)
 
 [New\\
 \\
@@ -56,11 +122,33 @@ $128](https://skims.com/products/cotton-fleece-zip-up-onesie)
 \\
 $98](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-fog)
 
-[![](<Base64-Image-Removed>)\\
-![COTTON FLEECE MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO | FOG & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SCL-13479W-FOG-BC-SKIMS-LOUNGEWEAR_0009-SD.webp?v=1791216155&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SCL-14069W-ESP-AD-SKIMS-LOUNGEWEAR_0011-FR.webp?v=1789672440&auto=format%2Ccompress&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-espresso)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14069W-ESP-FLT.jpg?v=1789604686&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-espresso)
+
+[View HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-espresso)
+
+[View HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-espresso)
+
+[View HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-espresso)
+
+[**COTTON FLEECE**  **hoodie with embossed logo**\\
 \\
-![](<Base64-Image-Removed>)\\
-![COTTON FLEECE MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO | FOG FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-13479W-FOG-FLT_32f13080-596e-4ed9-bc67-591b79cde2c0.jpg?v=1791228314&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-fog)
+$98](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-espresso)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SCL-13479W-FOG-BC-SKIMS-LOUNGEWEAR_0009-SD.webp?v=1791216155&auto=format%2Ccompress&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-fog)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-13479W-FOG-FLT_32f13080-596e-4ed9-bc67-591b79cde2c0.jpg?v=1791228314&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-fog)
+
+[View MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-fog)
+
+[View MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-fog)
+
+[View MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-fog)
+
+[View MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-fog)
+
+[View MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-fog)
 
 [New\\
 \\
@@ -68,11 +156,17 @@ $98](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-fog)
 \\
 $98](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-fog)
 
-[![](<Base64-Image-Removed>)\\
-![COTTON FLEECE ZIP UP HOODIE WITH EMBOSSED LOGO | FOG & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SCL-14070W-FOG-BA-SKIMS-LOUNGEWEAR_0011-FR.webp?v=1791216175&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![COTTON FLEECE ZIP UP HOODIE WITH EMBOSSED LOGO | FOG FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14070W-FOG-FLT_bd892bda-4031-4370-a1b3-9fd5e32eea54.jpg?v=1791228310&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-fog)
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SCL-14070W-FOG-BA-SKIMS-LOUNGEWEAR_0011-FR.webp?v=1791216175&auto=format%2Ccompress&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-fog)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14070W-FOG-FLT_bd892bda-4031-4370-a1b3-9fd5e32eea54.jpg?v=1791228310&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-fog)
+
+[View ZIP UP HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-fog)
+
+[View ZIP UP HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-fog)
+
+[View ZIP UP HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-fog)
+
+[View ZIP UP HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-fog)
 
 [New\\
 \\
@@ -80,127 +174,73 @@ $98](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embosse
 \\
 $98](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-fog)
 
-[![](<Base64-Image-Removed>)\\
-![COTTON FLEECE JOGGER WITH EMBOSSED LOGO | FOG & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BT-PNT-14072W-FOG-BA-SKIMS-LOUNGEWEAR_0007-FR_0ac56a0b-c030-412a-84b4-599a4f5b5ed5.webp?v=1791216204&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![COTTON FLEECE JOGGER WITH EMBOSSED LOGO | FOG FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BT-PNT-14072W-FOG-FLT_03da2656-039c-4c58-91c1-28275daa88d1.jpg?v=1791228307&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-fleece-jogger-with-embossed-logo-fog)
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SCL-14069W-ONX-AD-SKIMS-LOUNGEWEAR_0002-FR.webp?v=1789672451&auto=format%2Ccompress&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-onyx)
 
-[New\\
-\\
-**COTTON FLEECE**  **jogger with embossed logo**\\
-\\
-$88](https://skims.com/products/cotton-fleece-jogger-with-embossed-logo-fog)
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14069W-ONX-FLT.jpg?v=1789604688&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-onyx)
 
-[![](<Base64-Image-Removed>)\\
-![COTTON FLEECE DOUBLE WAISTBAND PANT WITH EMBOSSED LOGO | FOG & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BT-PNT-14031W-FOG-BC-SKIMS-LOUNGEWEAR_0006-FR.webp?v=1791216161&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![COTTON FLEECE DOUBLE WAISTBAND PANT WITH EMBOSSED LOGO | FOG FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BT-PNT-14031W-FOG-FLT_532a3d96-0a03-4aa1-9293-a71463dbb253.jpg?v=1791228308&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/cotton-fleece-double-waistband-pant-with-embossed-logo-fog)
+[View HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-onyx)
 
-[New\\
-\\
-**COTTON FLEECE**  **double waistband pant with embossed logo**\\
-\\
-$98](https://skims.com/products/cotton-fleece-double-waistband-pant-with-embossed-logo-fog)
+[View HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-onyx)
 
-[![](<Base64-Image-Removed>)\\
-![SWEATER KNIT LOGO ZIP UP MOCK NECK SWEATER | ONYX EGRET & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-LSL-13536W-ONX-BA-SKIMS-LOUNGEWEAR_0021-FR.webp?v=1791236916&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![SWEATER KNIT LOGO ZIP UP MOCK NECK SWEATER | ONYX EGRET & LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOGOSWEATERKNIT-TP-LSL-13536W-ONES-FLT.jpg?v=1791236916&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/sweater-knit-logo-zip-up-mock-neck-sweater-onyx-egret)
+[View HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-onyx)
 
-[New\\
-\\
-**SWEATER KNIT**  **logo zip up mock neck sweater**\\
-\\
-$108](https://skims.com/products/sweater-knit-logo-zip-up-mock-neck-sweater-onyx-egret)
+[View HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-onyx)
 
-[![](<Base64-Image-Removed>)\\
-![SWEATER KNIT LOGO ZIP UP MOCK NECK SWEATER | COCOA EGRET & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-LSL-13536W-COA-BC-SKIMS-LOUNGEWEAR_0001-FR_37402a27-2a7b-4803-8071-013e7eca405d.webp?v=1791236967&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
+[**COTTON FLEECE**  **hoodie with embossed logo**\\
 \\
-![](<Base64-Image-Removed>)\\
-![SWEATER KNIT LOGO ZIP UP MOCK NECK SWEATER | COCOA EGRET & LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/ChangeText-SKIMS-LOGOSWEATERKNIT-TP-LSL-13536W-CEML-FLT_b594af8b-2d4d-4d32-941b-4cf1adf9c14f.jpg?v=1791236994&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/sweater-knit-logo-zip-up-mock-neck-sweater-cocoa-egret)
+$98](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-onyx)
 
-[New\\
-\\
-**SWEATER KNIT**  **logo zip up mock neck sweater**\\
-\\
-$108](https://skims.com/products/sweater-knit-logo-zip-up-mock-neck-sweater-cocoa-egret)
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SCL-14068W-ESP-AE-SKIMS-LOUNGEWEAR_0005-FR.webp?v=1789677196&auto=format%2Ccompress&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)](https://skims.com/products/cotton-fleece-crewneck-with-embossed-logo-espresso)
 
-[![](<Base64-Image-Removed>)\\
-![TEXTURED KNIT BRUSHED OVERSIZED PULLOVER | LAGOON HEATHER & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SCL-13153W-LGH-BD-SKIMS-LOUNGEWEAR_1180-FR.webp?v=1791216174&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![TEXTURED KNIT BRUSHED OVERSIZED PULLOVER | LAGOON HEATHER FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-13153W-LGH-FLT_8044680b-3d23-452e-b02a-427ab3793a83.jpg?v=1791228312&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/textured-knit-brushed-oversized-pullover-lagoon-heather)
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14068W-ESP-FLT.jpg?v=1789604683&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-fleece-crewneck-with-embossed-logo-espresso)
 
-[New\\
-\\
-**TEXTURED KNIT**  **brushed oversized pullover**\\
-\\
-$158](https://skims.com/products/textured-knit-brushed-oversized-pullover-lagoon-heather)
+[View CREWNECK WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-crewneck-with-embossed-logo-espresso)
 
-[![](<Base64-Image-Removed>)\\
-![SWEATER KNIT LOGO ZIP UP MOCK NECK SWEATER | SIENNA EGRET & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-LSL-13536W-SIE-BB-SKIMS-LOUNGEWEAR_0051-FR_4dc85384-48f9-49ac-ad5d-69eff0cc181f.webp?v=1791236983&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![SWEATER KNIT LOGO ZIP UP MOCK NECK SWEATER | SIENNA EGRET & LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOGOSWEATERKNIT-TP-LSL-13536W-SEML-FLT_75b37056-013e-4d7f-8c76-91ee07f89acd.jpg?v=1791237001&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/sweater-knit-logo-zip-up-mock-neck-sweater-sienna-egret)
+[View CREWNECK WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-crewneck-with-embossed-logo-espresso)
 
-[New\\
-\\
-**SWEATER KNIT**  **logo zip up mock neck sweater**\\
-\\
-$108](https://skims.com/products/sweater-knit-logo-zip-up-mock-neck-sweater-sienna-egret)
+[View CREWNECK WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-crewneck-with-embossed-logo-espresso)
 
-[![](<Base64-Image-Removed>)\\
-![SWEATER KNIT LOGO PULLOVER | COCOA EGRET & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-LSL-12224W-COA-BC-SKIMS-LOUNGEWEAR_0001-SD.webp?v=1791236911&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![SWEATER KNIT LOGO PULLOVER | COCOA EGRET & LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/ChangeText-SKIMS-LOGOSWEATERKNIT-TP-LSL-12224W-CEML-FLT.jpg?v=1791236886&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/sweater-knit-logo-pullover-cocoa-egret)
+[View CREWNECK WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-crewneck-with-embossed-logo-espresso)
 
-[New\\
+[**COTTON FLEECE**  **crewneck with embossed logo**\\
 \\
-**SWEATER KNIT**  **logo pullover**\\
-\\
-$98](https://skims.com/products/sweater-knit-logo-pullover-cocoa-egret)
+$88](https://skims.com/products/cotton-fleece-crewneck-with-embossed-logo-espresso)
 
-[![](<Base64-Image-Removed>)\\
-![SWEATER KNIT LOGO PULLOVER | SIENNA EGRET & LAYS FLAT ON A WHITE BACKGROUND | FLT @ | FOCUS: 0.0, 1.0, 0.9](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-LSL-12224W-SIE-BB-SKIMS-LOUNGEWEAR_0008-FR.webp?v=1791237001&auto=format%2Ccompress&w=2000&h=2000&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)\\
-\\
-![](<Base64-Image-Removed>)\\
-![SWEATER KNIT LOGO PULLOVER | SIENNA EGRET & LAYS FLAT ON A WHITE BACKGROUND | FLT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOGOSWEATERKNIT-TP-LSL-12224W-SEML-FLT.jpg?v=1791237004&auto=format%2Ccompress&w=2000&h=2000&q=70)](https://skims.com/products/sweater-knit-logo-pullover-sienna-egret)
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/TP-SCL-14070W-HEG-AE-SKIMS-LOUNGEWEAR_0031-FR.webp?v=1789595042&auto=format%2Ccompress&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-heather-grey)
 
-[New\\
-\\
-**SWEATER KNIT**  **logo pullover**\\
-\\
-$98](https://skims.com/products/sweater-knit-logo-pullover-sienna-egret)
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14070W-HEG-FLT.jpg?v=1789604691&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-heather-grey)
 
-[View More Products](https://skims.com/collections/loungewear?direction=next&cursor=eyJsYXN0X3ZhbHVlIjoiMTEiLCJsYXN0X2lkIjoxMDI0NzEwNTY3NTYxNywib2Zmc2V0IjoxMX0%3D)
+[View ZIP UP HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-heather-grey)
+
+[View ZIP UP HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-heather-grey)
+
+[View ZIP UP HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-heather-grey)
+
+[View ZIP UP HOODIE WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-heather-grey)
+
+[**COTTON FLEECE**  **zip up hoodie with embossed logo**\\
+\\
+$98](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-heather-grey)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/BT-PNT-14071W-ESP-AB-SKIMS-LOUNGEWEAR_0009-FR.webp?v=1789670454&auto=format%2Ccompress&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&q=70)](https://skims.com/products/cotton-fleece-straight-leg-pant-with-embossed-logo-espresso)
+
+[![](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BT-PNT-14071W-ESP-FLT.jpg?v=1789604682&auto=format%2Ccompress&q=70)](https://skims.com/products/cotton-fleece-straight-leg-pant-with-embossed-logo-espresso)
+
+[View STRAIGHT LEG PANT WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-straight-leg-pant-with-embossed-logo-espresso)
+
+[View STRAIGHT LEG PANT WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-straight-leg-pant-with-embossed-logo-espresso)
+
+[View STRAIGHT LEG PANT WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-straight-leg-pant-with-embossed-logo-espresso)
+
+[View STRAIGHT LEG PANT WITH EMBOSSED LOGO](https://skims.com/products/cotton-fleece-straight-leg-pant-with-embossed-logo-espresso)
+
+[**COTTON FLEECE**  **straight leg pant with embossed logo**\\
+\\
+$88](https://skims.com/products/cotton-fleece-straight-leg-pant-with-embossed-logo-espresso)
+
+[View More Products](https://skims.com/collections/loungewear?direction=next&cursor=eyJsYXN0X3ZhbHVlIjoiMTEiLCJsYXN0X2lkIjoxMDI0NzA4MDczOTE2OSwib2Zmc2V0IjoxMX0%3D)
 
 ## WE THINK YOU'D LIKE
-
-[![PUSH-UP BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-2295-SND_cbda8796-6404-4dc1-917f-7d2ae970de3b_grande.jpg?v=1682637438&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-push-up-bra-cherry-blossom)
-
-[new color\\
-\\
-**FITS EVERYBODY**  **push-up bra**\\
-\\
-$58](https://skims.com/products/fits-everybody-push-up-bra-cherry-blossom)
-
-[![FOLDOVER PANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-SOT-FLT_grande.jpg?v=1739822020&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-jersey-foldover-pant-soot)
-
-[Best Seller\\
-\\
-**COTTON JERSEY**  **foldover pant**\\
-\\
-$68](https://skims.com/products/cotton-jersey-foldover-pant-soot)
-
-[![SUPER PUSH-UP BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-PL-PLG-8711W-ONX-FLT_grande.jpg?v=1751561396&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/skims-ultimate-super-push-up-bra-onyx)
-
-[**SKIMS ULTIMATE**  **super push-up bra**\\
-\\
-$68](https://skims.com/products/skims-ultimate-super-push-up-bra-onyx)
 
 [![TANK](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TNK-0038-MBL_1fd02f30-7b19-4367-90f6-5b452d75c439_grande.jpg?v=1690313907&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-rib-tank-marble)
 
@@ -210,103 +250,133 @@ $68](https://skims.com/products/skims-ultimate-super-push-up-bra-onyx)
 \\
 $38](https://skims.com/products/cotton-rib-tank-marble)
 
-[![OVERSIZED PANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-IU2224-OBS_grande.jpg?v=1778006343&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/nikeskims-stretch-nylon-oversized-pant-obsidian)
+[![SLEEP SET](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-SET-0600-ONX-COMPOSITE_grande.jpg?v=1773095503&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/soft-lounge-sleep-set-onyx)
 
-[**NikeSKIMS STRETCH NYLON**  **oversized pant**\\
+[**SOFT LOUNGE**  **sleep set**\\
 \\
-$128](https://skims.com/products/nikeskims-stretch-nylon-oversized-pant-obsidian)
+$128](https://skims.com/products/soft-lounge-sleep-set-onyx)
 
-[![HOODIE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PL-PLO-8365W-HLT-FLT_grande.jpg?v=1767136359&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-fleece-hoodie-halite)
-
-[**COTTON FLEECE**  **hoodie**\\
-\\
-$98$68](https://skims.com/products/cotton-fleece-hoodie-halite)
-
-[![MENS 3" BOXER BRIEF 3-PACK](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BOXER-BO-BTR-5302M-CHK-COMPOSITE-1_a0014373-da55-4fcd-aa93-d5899e89893c_grande.jpg?v=1730861358&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/skims-cotton-mens-3-inch-boxer-brief-3-pack-heather-multi)
-
-[**SKIMS COTTON**  **mens 3" boxer brief 3-pack**\\
-\\
-$48](https://skims.com/products/skims-cotton-mens-3-inch-boxer-brief-3-pack-heather-multi)
-
-[![LOGO PICOT THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5958W-STT-FLT_grande.jpg?v=1739556586&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot)
+[![STRAPLESS BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BAN-3151-CLY_grande.jpg?v=1714671252&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-strapless-bra-clay)
 
 [Best Seller\\
 \\
-**LIGHTWEIGHT COTTON**  **logo picot thong**\\
+**FITS EVERYBODY**  **strapless bra**\\
 \\
-$14\\
-\\
-5 for $35](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot)
+$54](https://skims.com/products/fits-everybody-strapless-bra-clay)
 
-[![STRAIGHT LEG PANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-BO-STR-4003-LHG-2_4d0eeb73-4486-47e8-b634-21eef5671c01_grande.jpg?v=1735852680&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-fleece-straight-leg-pant-light-heather-grey)
+[![BALCONETTE PUSH-UP BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-CLY-FLT_grande.jpg?v=1739333853&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay)
 
 [Best Seller\\
 \\
-**COTTON FLEECE**  **straight leg pant**\\
+**SKIMS ULTIMATE**  **balconette push-up bra**\\
 \\
-$88](https://skims.com/products/cotton-fleece-straight-leg-pant-light-heather-grey)
+$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay)
 
-[![T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TSH-0649-ONX-FL_grande.jpg?v=1615492274&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-t-shirt-onyx)
+[![BOXY ZIP UP JACKET](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-12927W-ESP-FLT_7290654b-7706-4950-881c-c44b85ea67a7_grande.jpg?v=1791227214&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/teddy-boxy-zip-up-jacket-espresso)
+
+[New\\
+\\
+**TEDDY**  **boxy zip up jacket**\\
+\\
+$168](https://skims.com/products/teddy-boxy-zip-up-jacket-espresso)
+
+[![SCOOP BRALETTE](https://skims.imgix.net/s/files/1/0259/5448/4284/products/BR-SCN-0025-ONX-FL_grande.jpg?v=1711846398&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-scoop-bralette-onyx)
 
 [Best Seller\\
 \\
-**FITS EVERYBODY**  **t-shirt**\\
+**FITS EVERYBODY**  **scoop bralette**\\
 \\
-$48](https://skims.com/products/fits-everybody-t-shirt-onyx)
+$34](https://skims.com/products/fits-everybody-scoop-bralette-onyx)
 
-[![LONG SLIP DRESS](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-DRS-0596-ONX-FL_grande.jpg?v=1708554715&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/soft-lounge-long-slip-dress-onyx)
+[![UNLINED DEMI BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-2293-CLY_grande.jpg?v=1691774607&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-unlined-demi-bra-clay)
+
+[**FITS EVERYBODY**  **unlined demi bra**\\
+\\
+$48](https://skims.com/products/fits-everybody-unlined-demi-bra-clay)
+
+[![PANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUGEWEAR-BO-PNT-12958W-IRO-FLT_grande.jpg?v=1790015118&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cloud-sleep-pant-iron)
+
+[New\\
+\\
+**CLOUD SLEEP**  **pant**\\
+\\
+$78](https://skims.com/products/cloud-sleep-pant-iron)
+
+[![HENLEY LONG SLEEVE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-LSL-13400W-SOT-FLT_bfdd4252-d11a-4f31-910b-e334a32ff6be_grande.jpg?v=1787781745&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-rib-henley-long-sleeve-soot)
+
+[**COTTON RIB**  **henley long sleeve**\\
+\\
+$64](https://skims.com/products/cotton-rib-henley-long-sleeve-soot)
+
+[![THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10647W-ONX-FLT_de74e74b-0169-4881-a79c-8d9a0cc5dabc_grande.jpg?v=1774284532&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/everyday-cotton-thong-onyx)
 
 [Best Seller\\
 \\
-**SOFT LOUNGE**  **long slip dress**\\
+**EVERYDAY COTTON**  **thong**\\
 \\
-$88](https://skims.com/products/soft-lounge-long-slip-dress-onyx)
-
-[![UNLINED DEMI BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UNL-10812W-SNO-FLT_grande.jpg?v=1771368902&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/everyday-cotton-unlined-demi-bra-snow)
-
-[**EVERYDAY COTTON**  **unlined demi bra**\\
+$18\\
 \\
-$48](https://skims.com/products/everyday-cotton-unlined-demi-bra-snow)
+3 for $39](https://skims.com/products/everyday-cotton-thong-onyx)
 
-[![TUBE TOP](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-TUB-9645W-SOT-FLT_433faa66-a57c-483f-a2a2-be5059010428_grande.jpg?v=1775253208&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-jersey-tube-top-soot)
+[![HOODIE WITH EMBOSSED LOGO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14069W-ESP-FLT_grande.jpg?v=1789604686&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-espresso)
 
-[**COTTON JERSEY**  **tube top**\\
+[**COTTON FLEECE**  **hoodie with embossed logo**\\
 \\
-$48](https://skims.com/products/cotton-jersey-tube-top-soot)
+$98](https://skims.com/products/cotton-fleece-hoodie-with-embossed-logo-espresso)
 
-[![ULTIMATE TEARDROP PUSH-UP BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-PUS-10645W-LHG-FLT_grande.jpg?v=1771368569&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/everyday-cotton-ultimate-teardrop-push-up-bra-light-heather-grey)
+[![ZIP UP HOODIE WITH EMBOSSED LOGO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14070W-ESP-FLT_grande.jpg?v=1789604690&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-espresso)
 
-[**EVERYDAY COTTON**  **ultimate teardrop push-up bra**\\
+[**COTTON FLEECE**  **zip up hoodie with embossed logo**\\
 \\
-$64](https://skims.com/products/everyday-cotton-ultimate-teardrop-push-up-bra-light-heather-grey)
+$98](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-espresso)
 
-[![POINTELLE SCOOP BRALETTE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BRL-11251W-VER-FLT_grande.jpg?v=1785776634&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/lightweight-cotton-pointelle-scoop-bralette-villa-egret-runway-stripe)
-
-[**LIGHTWEIGHT COTTON**  **pointelle scoop bralette**\\
-\\
-$24\\
-\\
-2 for $40](https://skims.com/products/lightweight-cotton-pointelle-scoop-bralette-villa-egret-runway-stripe)
-
-[![LONG SLEEVE T-SHIRT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-SOT-FLT_2781d3b4-eded-4093-ba43-0d16b1ad2c56_grande.jpg?v=1767136370&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot)
+[![TRIANGLE BRALETTE](https://skims.imgix.net/s/files/1/0259/5448/4284/products/BR-TRI-0024-ONX-FL_grande.jpg?v=1711845815&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-triangle-bralette-onyx)
 
 [Best Seller\\
 \\
-**COTTON JERSEY**  **long sleeve t-shirt**\\
+**FITS EVERYBODY**  **triangle bralette**\\
 \\
-$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot)
+$34](https://skims.com/products/fits-everybody-triangle-bralette-onyx)
 
-[![LONG SLEEVE BUTTON UP SET](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-PNS-4086-LHG-FLT_grande.jpg?v=1773089827&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/skims-sleep-long-sleeve-button-up-set-light-heather-grey)
+[![T-SHIRT BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRA-BR-UWR-2294-COA_grande.jpg?v=1711846750&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-t-shirt-bra-cocoa)
 
-[**SKIMS SLEEP**  **long sleeve button up set**\\
+[now in AA sizes\\
 \\
-$98](https://skims.com/products/skims-sleep-long-sleeve-button-up-set-light-heather-grey)
-
-[![UNLINED SCOOP BRA](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9062-ESP-FLT_13f108b6-f327-43a8-b915-ed6b42871c09_grande.jpg?v=1787343636&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-espresso)
-
-[**FITS EVERYBODY LACE**  **unlined scoop bra**\\
+**FITS EVERYBODY**  **t-shirt bra**\\
 \\
-$54](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-espresso)
+$54](https://skims.com/products/fits-everybody-t-shirt-bra-cocoa)
+
+[![DIPPED THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PN-THG-9371-BGT-FLT_grande.jpg?v=1774392324&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-lace-dipped-thong-bubble-gum-tonal)
+
+[Best Seller\\
+\\
+**FITS EVERYBODY LACE**  **dipped thong**\\
+\\
+$20\\
+\\
+3 for $39](https://skims.com/products/fits-everybody-lace-dipped-thong-bubble-gum-tonal)
+
+[![MENS 3" BOXER BRIEF 3-PACK](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BOXER-BO-BTR-5294M-OBS_COMPOSITE_b18c7a2f-0489-4201-80ae-add008120097_1_grande.jpg?v=1730865297&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/skims-stretch-mens-3-inch-boxer-brief-3-pack-obsidian)
+
+[**SKIMS STRETCH**  **mens 3" boxer brief 3-pack**\\
+\\
+$54](https://skims.com/products/skims-stretch-mens-3-inch-boxer-brief-3-pack-obsidian)
+
+[![LACE CAMI AND PANT SLEEP SET](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-LON-13567W-ONX-B-COMPOSITE-FLT_grande.jpg?v=1790700826&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/skims-sleep-lace-cami-and-pant-sleep-set-onyx)
+
+[**SKIMS SLEEP**  **lace cami and pant sleep set**\\
+\\
+$98](https://skims.com/products/skims-sleep-lace-cami-and-pant-sleep-set-onyx)
+
+[![T-STRING THONG](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-PANTY-PN-THG-2070-ONX_grande.jpg?v=1664306102&auto=format%2Ccompress&w=1&h=1&q=70)](https://skims.com/products/fits-everybody-t-string-thong-onyx)
+
+[Best Seller\\
+\\
+**FITS EVERYBODY**  **t-string thong**\\
+\\
+$20\\
+\\
+3 for $39](https://skims.com/products/fits-everybody-t-string-thong-onyx)
 
 ![SKIMS LOUNGEWEAR](https://skims-sanity.imgix.net/images/hfqi0zm0/production/9e267b1b886ea883d4b6807db67054679292bee8-1247x733.webp?auto=format&q=70&ixlib=react-9.11.0)
 
@@ -342,6 +412,33 @@ Sale
 USD
 
 
+Help
+
+- [Return Center](https://skims.com/pages/returns)
+- [Order & Return Tracking](https://skims.com/track-order)
+- [Size Guides](https://skims.com/pages/size-guides)
+- [Ordering](https://skims.com/pages/ordering)
+- [Shipping](https://skims.com/pages/shipping)
+- [FAQs](https://skims.com/pages/faqs)
+- [Contact Us](https://skims.com/pages/contact-us)
+- Live Chat
+
+More
+
+- [About](https://skims.com/pages/about)
+- [SKIMS Rewards](https://skims.com/pages/rewards)
+- [E-Gift Card](https://skims.com/products/e-gift-card)
+- [Store Locator](https://skims.com/pages/store-locator)
+- [Environmental and Social Partnerships](https://skims.com/pages/environmental-and-social-partnerships)
+- [Careers](https://skims.pinpointhq.com/)
+- [Blog](https://skims.com/blogs/solutions)
+
+- [Instagram (opens in new tab)](https://www.instagram.com/skims)
+- [Facebook (opens in new tab)](https://www.facebook.com/skimsbody)
+- [Youtube (opens in new tab)](https://www.youtube.com/c/skims)
+- [X (opens in new tab)](https://x.com/skims)
+- [Tiktok (opens in new tab)](https://www.tiktok.com/@skims)
+
 Oops...
 
 You have no items in your bag
@@ -350,13 +447,13 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![COTTON FLEECE MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-13479W-ONX-FLT_grande.jpg?v=1789604687&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-onyx "COTTON FLEECE MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO | ONYX")
+[![SOFT LOUNGE SLEEP SET | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-SET-0600-ONX-COMPOSITE_grande.jpg?v=1773095503&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/soft-lounge-sleep-set-onyx "SOFT LOUNGE SLEEP SET | ONYX")
 
-[COTTON FLEECE\\
+[SOFT LOUNGE\\
 \\
-**MOCK NECK QUARTER ZIP WITH EMBOSSED LOGO**\\
+**SLEEP SET**\\
 \\
-$98](https://skims.com/products/cotton-fleece-mock-neck-quarter-zip-with-embossed-logo-onyx)
+$128](https://skims.com/products/soft-lounge-sleep-set-onyx)
 
 Color
 
@@ -368,49 +465,13 @@ Select Size
 
 Add to Bag
 
-[![LIGHTWEIGHT COTTON POINTELLE SCOOP BRALETTE | VILLA EGRET RUNWAY STRIPE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BRL-11251W-VER-FLT_grande.jpg?v=1785776634&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-pointelle-scoop-bralette-villa-egret-runway-stripe "LIGHTWEIGHT COTTON POINTELLE SCOOP BRALETTE | VILLA EGRET RUNWAY STRIPE")
-
-[LIGHTWEIGHT COTTON\\
-\\
-**POINTELLE SCOOP BRALETTE**\\
-\\
-$24](https://skims.com/products/lightweight-cotton-pointelle-scoop-bralette-villa-egret-runway-stripe)
-
-Color
-
-villa egret runway stripe
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![COTTON JERSEY STRAIGHT LEG PANT | CURRANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-SP-PNT-1384-CUR-FLT_a62b87cd-7b93-4174-84aa-a7cb25eb5292_grande.jpg?v=1785779176&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-straight-leg-pant-currant "COTTON JERSEY STRAIGHT LEG PANT | CURRANT")
-
-[COTTON JERSEY\\
-\\
-**STRAIGHT LEG PANT**\\
-\\
-$68](https://skims.com/products/cotton-jersey-straight-leg-pant-currant)
-
-Color
-
-currant
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![SKIMS ULTIMATE STRAPLESS PUSH-UP BRA | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAN-3208-CLY_1_grande.jpg?v=1752527526&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-ultimate-strapless-push-up-bra-clay "SKIMS ULTIMATE STRAPLESS PUSH-UP BRA | CLAY")
+[![SKIMS ULTIMATE TEARDROP PUSH-UP BRA | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-UWR-1881-CLY_d367fbfd-1b41-43ab-802e-592ed06a79dc_grande.jpg?v=1752524627&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-ultimate-teardrop-push-up-bra-clay "SKIMS ULTIMATE TEARDROP PUSH-UP BRA | CLAY")
 
 [SKIMS ULTIMATE\\
 \\
-**STRAPLESS PUSH-UP BRA**\\
+**TEARDROP PUSH-UP BRA**\\
 \\
-$64](https://skims.com/products/skims-ultimate-strapless-push-up-bra-clay)
+$64](https://skims.com/products/skims-ultimate-teardrop-push-up-bra-clay)
 
 Color
 
@@ -426,17 +487,17 @@ Select Cup Size
 
 Add to Bag
 
-[![STRETCH LACE TRIANGLE BRALETTE | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-ST-SET-7638W-SOT_grande.jpg?v=1737160744&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/stretch-lace-triangle-bralette-soot "STRETCH LACE TRIANGLE BRALETTE | SOOT")
+[![COTTON RIB LEGGING | SOOT CONTRAST](https://skims.imgix.net/s/files/1/0259/5448/4284/files/LG-BTM-13563W-SCNT-DB-SKIMS-LOUNGEWEAR_0028-FR.webp?v=1791845404&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-legging-soot-contrast "COTTON RIB LEGGING | SOOT CONTRAST")
 
-[STRETCH LACE\\
+[COTTON RIB\\
 \\
-**TRIANGLE BRALETTE**\\
+**LEGGING**\\
 \\
-$44](https://skims.com/products/stretch-lace-triangle-bralette-soot)
+$64](https://skims.com/products/cotton-rib-legging-soot-contrast)
 
 Color
 
-soot
+soot contrast
 
 Select Size
 
@@ -444,17 +505,17 @@ Select Size
 
 Add to Bag
 
-[![COTTON JERSEY T-SHIRT | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0638-SOT-FLT_337890eb-b813-4d8c-b4fd-b94fb1ae7e59_grande.jpg?v=1767136369&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-t-shirt-soot "COTTON JERSEY T-SHIRT | SOOT")
+[![NikeSKIMS PERFORMANCE COTTON BLEND SHORT SLEEVE V-NECK CROP TOP | OBSIDIAN](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-IV6646-OBS-FLT_grande.jpg?v=1789351118&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/nikeskims-performance-cotton-blend-crop-short-sleeve-v-neck-crop-top-obsidian "NikeSKIMS PERFORMANCE COTTON BLEND SHORT SLEEVE V-NECK CROP TOP | OBSIDIAN")
 
-[COTTON JERSEY\\
+[NikeSKIMS PERFORMANCE COTTON BLEND\\
 \\
-**T-SHIRT**\\
+**SHORT SLEEVE V-NECK CROP TOP**\\
 \\
-$48](https://skims.com/products/cotton-jersey-t-shirt-soot)
+$58](https://skims.com/products/nikeskims-performance-cotton-blend-crop-short-sleeve-v-neck-crop-top-obsidian)
 
 Color
 
-soot
+obsidian
 
 Select Size
 
@@ -462,75 +523,111 @@ Select Size
 
 Add to Bag
 
-[![WIRELESS FORM SUPER PUSH-UP BRA | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-PLG-2632-CLY_grande.jpg?v=1753904348&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/wireless-form-super-push-up-bra-clay "WIRELESS FORM SUPER PUSH-UP BRA | CLAY")
-
-[WIRELESS FORM\\
-\\
-**SUPER PUSH-UP BRA**\\
-\\
-$58](https://skims.com/products/wireless-form-super-push-up-bra-clay)
-
-Color
-
-clay
-
-Select Band Size
-
-Select Band Size
-
-Select Cup Size
-
-Select Cup Size
-
-Add to Bag
-
-[![COTTON JERSEY LONG SLEEVE T-SHIRT | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-SOT-FLT_2781d3b4-eded-4093-ba43-0d16b1ad2c56_grande.jpg?v=1767136370&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot "COTTON JERSEY LONG SLEEVE T-SHIRT | SOOT")
-
-[COTTON JERSEY\\
-\\
-**LONG SLEEVE T-SHIRT**\\
-\\
-$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot)
-
-Color
-
-soot
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![FITS EVERYBODY LACE DIPPED THONG | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-PANTY-PN-TNG-2683-ONX_642013a9-1145-4417-839c-ca908601608c_grande.jpg?v=1685752456&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-dipped-thong-onyx "FITS EVERYBODY LACE DIPPED THONG | ONYX")
-
-[FITS EVERYBODY LACE\\
-\\
-**DIPPED THONG**\\
-\\
-$20](https://skims.com/products/fits-everybody-lace-dipped-thong-onyx)
-
-Color
-
-onyx
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![COTTON FLEECE ZIP UP HOODIE WITH EMBOSSED LOGO | CHERRY BLOSSOM](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14070W-CBM-FLT_grande.jpg?v=1789604690&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-cherry-blossom "COTTON FLEECE ZIP UP HOODIE WITH EMBOSSED LOGO | CHERRY BLOSSOM")
+[![COTTON FLEECE ZIP UP HOODIE WITH EMBOSSED LOGO | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14070W-ESP-FLT_grande.jpg?v=1789604690&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-espresso "COTTON FLEECE ZIP UP HOODIE WITH EMBOSSED LOGO | ESPRESSO")
 
 [COTTON FLEECE\\
 \\
 **ZIP UP HOODIE WITH EMBOSSED LOGO**\\
 \\
-$98](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-cherry-blossom)
+$98](https://skims.com/products/cotton-fleece-zip-up-hoodie-with-embossed-logo-espresso)
 
 Color
 
-cherry blossom
+espresso
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![COTTON JERSEY FOLDOVER CAPRI | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BO-PAN-6154W-SOT-FLT_d932f97e-6728-4ad2-8578-5fafcc3dda03_grande.jpg?v=1782756808&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-foldover-capri-soot "COTTON JERSEY FOLDOVER CAPRI | SOOT")
+
+[COTTON JERSEY\\
+\\
+**FOLDOVER CAPRI**\\
+\\
+$64](https://skims.com/products/cotton-jersey-foldover-capri-soot)
+
+Color
+
+soot
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![COTTON FLEECE STRAIGHT LEG PANT WITH EMBOSSED LOGO | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BT-PNT-14071W-ESP-FLT_grande.jpg?v=1789604682&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-straight-leg-pant-with-embossed-logo-espresso "COTTON FLEECE STRAIGHT LEG PANT WITH EMBOSSED LOGO | ESPRESSO")
+
+[COTTON FLEECE\\
+\\
+**STRAIGHT LEG PANT WITH EMBOSSED LOGO**\\
+\\
+$88](https://skims.com/products/cotton-fleece-straight-leg-pant-with-embossed-logo-espresso)
+
+Color
+
+espresso
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![FITS EVERYBODY STRAPLESS BRA | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BAN-3151-CLY_grande.jpg?v=1714671252&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-strapless-bra-clay "FITS EVERYBODY STRAPLESS BRA | CLAY")
+
+[FITS EVERYBODY\\
+\\
+**STRAPLESS BRA**\\
+\\
+$54](https://skims.com/products/fits-everybody-strapless-bra-clay)
+
+Color
+
+clay
+
+Select Band Size
+
+Select Band Size
+
+Select Cup Size
+
+Select Cup Size
+
+Add to Bag
+
+[![FITS EVERYBODY T-STRING THONG | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-PANTY-PN-THG-2070-ONX_grande.jpg?v=1664306102&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-t-string-thong-onyx "FITS EVERYBODY T-STRING THONG | ONYX")
+
+[FITS EVERYBODY\\
+\\
+**T-STRING THONG**\\
+\\
+$20](https://skims.com/products/fits-everybody-t-string-thong-onyx)
+
+Color
+
+onyx
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![EVERYDAY COTTON TRIANGLE BRALETTE | CURRANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BRL-10642W-CUR-FLT_fa5523a4-67ff-48cf-95ca-ae527c2a4d76_grande.jpg?v=1789594430&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-triangle-bralette-currant "EVERYDAY COTTON TRIANGLE BRALETTE | CURRANT")
+
+[EVERYDAY COTTON\\
+\\
+**TRIANGLE BRALETTE**\\
+\\
+$34](https://skims.com/products/everyday-cotton-triangle-bralette-currant)
+
+Color
+
+currant
 
 Select Size
 
