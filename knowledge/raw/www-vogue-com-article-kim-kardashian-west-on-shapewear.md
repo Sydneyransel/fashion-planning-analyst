@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-10-19T11:41:21.784361+00:00
+scraped_at: 2026-10-26T11:58:04.271026+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -44,7 +44,7 @@ The expansion across product categories allows consumers to build a capsule of n
 
 Most Popular
 
-- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -60,7 +60,7 @@ Events
 
 
 
-[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -70,7 +70,7 @@ Events
 
 By Vogue Business Team
 
-- [![Retail Executives Speak Out After Store Looting in Paris](https://assets.vogue.com/photos/6ad5377af740f89d4b29d83d/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+- [![How Vestiaire Collective Is Keeping Stolen Goods From Being Resold](https://assets.vogue.com/photos/6adb7f49539b866296e5c03f/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -80,23 +80,13 @@ By Vogue Business Team
 
 
 
-Business
+Sustainability
 
 
 
 
 
-[Retail Executives Speak Out After Store Looting in Paris](https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
-
-
-
-
-
-
-
-By Laure Guilbault
-
-- [![Seán McGirr Departs McQueen](https://assets.vogue.com/photos/6ad0dae76c0555e8b6841ba2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/sean-mcgirr-departs-mcqueen#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+[How Vestiaire Collective Is Keeping Stolen Goods From Being Resold](https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -104,15 +94,9 @@ By Laure Guilbault
 
 
 
+By Sophie Lou Wilson
 
-
-Creative Directors
-
-
-
-
-
-[Seán McGirr Departs McQueen](https://www.vogue.com/article/sean-mcgirr-departs-mcqueen#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+- [![Fashion Is Betting on Spooky Season](https://assets.vogue.com/photos/6adb6d98290d2be4fe80cee2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/fashion-is-betting-on-spooky-season#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -120,7 +104,23 @@ Creative Directors
 
 
 
-By Laure Guilbault
+
+
+Fashion Industry Trends
+
+
+
+
+
+[Fashion Is Betting on Spooky Season](https://www.vogue.com/article/fashion-is-betting-on-spooky-season#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+
+
+
+
+
+
+
+By Joe Bobowicz
 
 
 Nina Marston of Euromonitor says Skims is changing the shapewear market. “It’s ’leisurie’, lingerie or shapewear that you can wear under clothes or on their own, inside and out of the house.” The global underwear market, which includes shapewear, is still expected to decline by 11 per cent in 2020 to $107 billion, according to Euromonitor, but that is a smaller decline than general apparel.
@@ -139,7 +139,7 @@ Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skim
 
 Most Popular
 
-- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -155,7 +155,7 @@ Events
 
 
 
-[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -165,7 +165,7 @@ Events
 
 By Vogue Business Team
 
-- [![Retail Executives Speak Out After Store Looting in Paris](https://assets.vogue.com/photos/6ad5377af740f89d4b29d83d/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+- [![How Vestiaire Collective Is Keeping Stolen Goods From Being Resold](https://assets.vogue.com/photos/6adb7f49539b866296e5c03f/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -175,23 +175,13 @@ By Vogue Business Team
 
 
 
-Business
+Sustainability
 
 
 
 
 
-[Retail Executives Speak Out After Store Looting in Paris](https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
-
-
-
-
-
-
-
-By Laure Guilbault
-
-- [![Seán McGirr Departs McQueen](https://assets.vogue.com/photos/6ad0dae76c0555e8b6841ba2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/sean-mcgirr-departs-mcqueen#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+[How Vestiaire Collective Is Keeping Stolen Goods From Being Resold](https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -199,15 +189,9 @@ By Laure Guilbault
 
 
 
+By Sophie Lou Wilson
 
-
-Creative Directors
-
-
-
-
-
-[Seán McGirr Departs McQueen](https://www.vogue.com/article/sean-mcgirr-departs-mcqueen#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+- [![Fashion Is Betting on Spooky Season](https://assets.vogue.com/photos/6adb6d98290d2be4fe80cee2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/fashion-is-betting-on-spooky-season#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -215,7 +199,23 @@ Creative Directors
 
 
 
-By Laure Guilbault
+
+
+Fashion Industry Trends
+
+
+
+
+
+[Fashion Is Betting on Spooky Season](https://www.vogue.com/article/fashion-is-betting-on-spooky-season#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+
+
+
+
+
+
+
+By Joe Bobowicz
 
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
@@ -236,7 +236,7 @@ The body-positivity movement has pushed [diversity and inclusion](https://www.mc
 
 Most Popular
 
-- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -252,7 +252,7 @@ Events
 
 
 
-[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -262,7 +262,7 @@ Events
 
 By Vogue Business Team
 
-- [![Retail Executives Speak Out After Store Looting in Paris](https://assets.vogue.com/photos/6ad5377af740f89d4b29d83d/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+- [![How Vestiaire Collective Is Keeping Stolen Goods From Being Resold](https://assets.vogue.com/photos/6adb7f49539b866296e5c03f/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -272,23 +272,13 @@ By Vogue Business Team
 
 
 
-Business
+Sustainability
 
 
 
 
 
-[Retail Executives Speak Out After Store Looting in Paris](https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
-
-
-
-
-
-
-
-By Laure Guilbault
-
-- [![Seán McGirr Departs McQueen](https://assets.vogue.com/photos/6ad0dae76c0555e8b6841ba2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/sean-mcgirr-departs-mcqueen#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+[How Vestiaire Collective Is Keeping Stolen Goods From Being Resold](https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -296,15 +286,9 @@ By Laure Guilbault
 
 
 
+By Sophie Lou Wilson
 
-
-Creative Directors
-
-
-
-
-
-[Seán McGirr Departs McQueen](https://www.vogue.com/article/sean-mcgirr-departs-mcqueen#intcid=f052883e-5d83-4a02-a9a3-8ffc64214831)
+- [![Fashion Is Betting on Spooky Season](https://assets.vogue.com/photos/6adb6d98290d2be4fe80cee2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/fashion-is-betting-on-spooky-season#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
 
 
 
@@ -312,7 +296,23 @@ Creative Directors
 
 
 
-By Laure Guilbault
+
+
+Fashion Industry Trends
+
+
+
+
+
+[Fashion Is Betting on Spooky Season](https://www.vogue.com/article/fashion-is-betting-on-spooky-season#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+
+
+
+
+
+
+
+By Joe Bobowicz
 
 
 In September, Skims was criticised on social media for launching maternity shapewear. “There were some people that didn’t understand what it was really trying to do,” says Kardashian West. “I wanted it to be extra comfortable and secure to provide support.”
@@ -347,34 +347,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://assets.vogue.com/photos/6aae97620b3dc4119d6d0dbb/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion#intcid=e469c737-29ba-4595-a912-396d8bc86061)
-
-Fashion Month
-
-[“Immerse Yourself in the Skims World”: Kim Kardashian and Jens Grede Talk Global Expansion](https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion#intcid=e469c737-29ba-4595-a912-396d8bc86061)
-
-By Lucy Maguire
-
-[![Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://assets.vogue.com/photos/6acd005f760cb71dd6d4bfb2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=e469c737-29ba-4595-a912-396d8bc86061)
+[![Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://assets.vogue.com/photos/6acd005f760cb71dd6d4bfb2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
 
 Companies
 
-[Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=e469c737-29ba-4595-a912-396d8bc86061)
+[Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
 
 By Madeleine Schulz
 
-[![Consumers Want Freaky Shoes. Brands Are Stepping It Up](https://assets.vogue.com/photos/6ac3e39cf8046983f88fc8d2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/consumers-want-freaky-shoes-brands-are-stepping-it-up#intcid=e469c737-29ba-4595-a912-396d8bc86061)
-
-Fashion Industry Trends
-
-[Consumers Want Freaky Shoes. Brands Are Stepping It Up](https://www.vogue.com/article/consumers-want-freaky-shoes-brands-are-stepping-it-up#intcid=e469c737-29ba-4595-a912-396d8bc86061)
-
-By Madeleine Schulz
-
-[![Inside the Dr. Martens Comeback](https://assets.vogue.com/photos/6ab183bb837fcebb54b0c845/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/inside-the-dr-martens-comeback#intcid=e469c737-29ba-4595-a912-396d8bc86061)
+[![The Vogue Business Spring/Summer 2027 Size Inclusivity Report](https://assets.vogue.com/photos/6ad25833eeb470219a506143/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-size-inclusivity-report#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
 
 Fashion Month
 
-[Inside the Dr. Martens Comeback](https://www.vogue.com/article/inside-the-dr-martens-comeback#intcid=e469c737-29ba-4595-a912-396d8bc86061)
+[The _Vogue Business_ Spring/Summer 2027 Size Inclusivity Report](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-size-inclusivity-report#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
 
 By Joe Bobowicz
+
+[![Consumers Want Freaky Shoes. Brands Are Stepping It Up](https://assets.vogue.com/photos/6ac3e39cf8046983f88fc8d2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/consumers-want-freaky-shoes-brands-are-stepping-it-up#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
+
+Fashion Industry Trends
+
+[Consumers Want Freaky Shoes. Brands Are Stepping It Up](https://www.vogue.com/article/consumers-want-freaky-shoes-brands-are-stepping-it-up#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
+
+By Madeleine Schulz
+
+[![Sheer Looks to Lingerie: Are GLP-1s Changing the Way We Dress?](https://assets.vogue.com/photos/6ad259b2e5ce533e10a202e2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/sheer-looks-to-lingerie-are-glp-1s-changing-the-way-we-dress#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
+
+Fashion
+
+[Sheer Looks to Lingerie: Are GLP-1s Changing the Way We Dress?](https://www.vogue.com/article/sheer-looks-to-lingerie-are-glp-1s-changing-the-way-we-dress#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
+
+By Rachael Akhidenor

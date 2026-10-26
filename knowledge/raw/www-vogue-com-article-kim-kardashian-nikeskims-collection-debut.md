@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-nikeskims-collection-debut
 source_type: vogue.com
 title: Kim Kardashian Introduces NikeSkims—And Shares Her Go-To Exercise, Workout Playlist, and Gym Essentials  | Vogue
-scraped_at: 2026-10-19T11:41:26.864120+00:00
+scraped_at: 2026-10-26T11:58:09.257193+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-nikeskims-collection-debut#main-content)
@@ -38,7 +38,7 @@ Photo: Hugh Wilson
 
 Most Popular
 
-- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://assets.vogue.com/photos/6ade1db4ad3b35326f9896f2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -48,13 +48,13 @@ Most Popular
 
 
 
-Celebrity Style
+Fashion
 
 
 
 
 
-[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -62,9 +62,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Ariana Grande Is Now Bobiana Grande](https://assets.vogue.com/photos/6adb304efcc5aba170b0f27c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -74,13 +74,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Ariana Grande Is Now Bobiana Grande](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -88,9 +88,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://assets.vogue.com/photos/6ada0efd2abbfa969547331a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -100,13 +100,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -114,14 +114,14 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Jacqueline Kilikita
 
 
 The seven different collections offer something for every customer. The Matte collection includes 21 matte-finish styles that feature mid-level compression; The Shine collection includes 11 stretchy styles with a subtle sheen finish; The Airy collection features breathable, mesh-inspired knit pieces. Other collections include the Vintage Seamless collection (featuring more worn-in, vintage-inspired pieces), and the Matte Tricot collection (featuring minimal track-inspired pieces). For Kardashian, it was important to create pieces that can fit into a busy lifestyle. “You can wear some of the pieces out at night and look really great, or there’s super casual pieces strictly for working out,” she says. “I wanted people to feel like there was something for everyone.”
 
 Most Popular
 
-- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://assets.vogue.com/photos/6ade1db4ad3b35326f9896f2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -131,13 +131,13 @@ Most Popular
 
 
 
-Celebrity Style
+Fashion
 
 
 
 
 
-[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -145,9 +145,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Ariana Grande Is Now Bobiana Grande](https://assets.vogue.com/photos/6adb304efcc5aba170b0f27c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -157,13 +157,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Ariana Grande Is Now Bobiana Grande](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -171,9 +171,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://assets.vogue.com/photos/6ada0efd2abbfa969547331a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -183,13 +183,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -197,7 +197,7 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Jacqueline Kilikita
 
 
 The top athletes that NikeSkims tapped for their debut campaign, meanwhile, also reflected this diverse range of needs and styles. The first campaign video, titled _Bodies at Work_, was directed by Janicza Bravo, and features more than 50 athletes from across Nike’s portfolio—including Serena Williams, Chloe Kim, Sha’Carri Richardson, Jordan Chiles, Madisen Skinner, and more, all of whom sport a variety of pieces, from the zip-up hoodies to the stretchy shorts. “I love the quality, and how it moves with me and supports me in all the right areas,” says American gymnast Jordan Chiles of the pieces. “I feel sleek, comfortable, and completely myself.” Snowboarding pro Chloe King adds, “You can definitely tell NikeSkims is made for women—I think that’s the biggest thing.”
@@ -209,7 +209,7 @@ Photo: Hugh Wilson
 
 Most Popular
 
-- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://assets.vogue.com/photos/6ade1db4ad3b35326f9896f2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -219,13 +219,13 @@ Most Popular
 
 
 
-Celebrity Style
+Fashion
 
 
 
 
 
-[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -233,9 +233,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Ariana Grande Is Now Bobiana Grande](https://assets.vogue.com/photos/6adb304efcc5aba170b0f27c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -245,13 +245,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Ariana Grande Is Now Bobiana Grande](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -259,9 +259,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://assets.vogue.com/photos/6ada0efd2abbfa969547331a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -271,13 +271,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -285,7 +285,7 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Jacqueline Kilikita
 
 
 With the official launch date coming up this Friday, consumers and Kardashian fans will soon have the opportunity to dress like a star athlete, too. Until then, Kardashian delves further into the inspiration for the brand below—and dishes on her go-to exercise, workout playlist, and what she herself wears to the gym.
@@ -300,7 +300,7 @@ We wanted to form a whole new brand together to make sure that it was a lasting 
 
 Most Popular
 
-- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://assets.vogue.com/photos/6ade1db4ad3b35326f9896f2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -310,13 +310,13 @@ Most Popular
 
 
 
-Celebrity Style
+Fashion
 
 
 
 
 
-[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -324,9 +324,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Ariana Grande Is Now Bobiana Grande](https://assets.vogue.com/photos/6adb304efcc5aba170b0f27c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -336,13 +336,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Ariana Grande Is Now Bobiana Grande](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -350,9 +350,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://assets.vogue.com/photos/6ada0efd2abbfa969547331a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -362,13 +362,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -376,7 +376,7 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Jacqueline Kilikita
 
 
 ![Madisen Skinner in NikeSkims](https://assets.vogue.com/photos/68d00eeb265201cbd41b73af/master/w_1600%2Cc_limit/RG11JH-P01_FA25_NikeSKIMS_HW__LOOKBOOK_Madisen_Currant_Look-28_0023_FINALS.jpg)
@@ -395,7 +395,7 @@ I always have these little cellulite tests that I do in my fittings—certain re
 
 Most Popular
 
-- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://assets.vogue.com/photos/6ade1db4ad3b35326f9896f2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -405,13 +405,13 @@ Most Popular
 
 
 
-Celebrity Style
+Fashion
 
 
 
 
 
-[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -419,9 +419,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Ariana Grande Is Now Bobiana Grande](https://assets.vogue.com/photos/6adb304efcc5aba170b0f27c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -431,13 +431,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Ariana Grande Is Now Bobiana Grande](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -445,9 +445,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://assets.vogue.com/photos/6ada0efd2abbfa969547331a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -457,13 +457,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -471,7 +471,7 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Jacqueline Kilikita
 
 
 **What do you personally like to wear to work out? Are there any pieces from the line you’ve been testing out?**
@@ -484,7 +484,7 @@ I definitely wanted pieces that I can wear to meetings. Sometimes, I don’t hav
 
 Most Popular
 
-- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://assets.vogue.com/photos/6ade1db4ad3b35326f9896f2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -494,13 +494,13 @@ Most Popular
 
 
 
-Celebrity Style
+Fashion
 
 
 
 
 
-[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -508,9 +508,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Ariana Grande Is Now Bobiana Grande](https://assets.vogue.com/photos/6adb304efcc5aba170b0f27c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -520,13 +520,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Ariana Grande Is Now Bobiana Grande](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -534,9 +534,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://assets.vogue.com/photos/6ada0efd2abbfa969547331a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -546,13 +546,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -560,7 +560,7 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Jacqueline Kilikita
 
 
 ![Beatriz Hatz in NikeSkims](https://assets.vogue.com/photos/68d00eebcf43c71ffde5ce5e/master/w_1600%2Cc_limit/RG11JH-P01_FA25_NikeSKIMS_HW__LOOKBOOK_Beatriz_DarkSepia_Look-39_0022_FINALS.jpg)
@@ -574,7 +574,7 @@ I’m a big weightlifter, so I do lots of weights. I’ve had some back issues, 
 
 Most Popular
 
-- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://assets.vogue.com/photos/6ade1db4ad3b35326f9896f2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -584,13 +584,13 @@ Most Popular
 
 
 
-Celebrity Style
+Fashion
 
 
 
 
 
-[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -598,9 +598,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Ariana Grande Is Now Bobiana Grande](https://assets.vogue.com/photos/6adb304efcc5aba170b0f27c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -610,13 +610,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Ariana Grande Is Now Bobiana Grande](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -624,9 +624,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://assets.vogue.com/photos/6ada0efd2abbfa969547331a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -636,13 +636,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -650,7 +650,7 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Jacqueline Kilikita
 
 
 **Are you a morning workout person, or evening?**
@@ -677,7 +677,7 @@ Any dancing workout. Honestly, I know I should get into hot yoga, but I did it o
 
 Most Popular
 
-- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://assets.vogue.com/photos/6ade1db4ad3b35326f9896f2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -687,13 +687,13 @@ Most Popular
 
 
 
-Celebrity Style
+Fashion
 
 
 
 
 
-[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -701,9 +701,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Ariana Grande Is Now Bobiana Grande](https://assets.vogue.com/photos/6adb304efcc5aba170b0f27c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -713,13 +713,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Ariana Grande Is Now Bobiana Grande](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -727,9 +727,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://assets.vogue.com/photos/6ada0efd2abbfa969547331a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -739,13 +739,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -753,7 +753,7 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Jacqueline Kilikita
 
 
 **There are so many amazing Olympians in your campaign, and I was wondering if there was a sport you could ever see yourself being good at, if you really trained at it?**
@@ -771,7 +771,7 @@ Photo: Hugh Wilson
 
 Most Popular
 
-- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://assets.vogue.com/photos/6ade1db4ad3b35326f9896f2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -781,13 +781,13 @@ Most Popular
 
 
 
-Celebrity Style
+Fashion
 
 
 
 
 
-[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -795,9 +795,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Ariana Grande Is Now Bobiana Grande](https://assets.vogue.com/photos/6adb304efcc5aba170b0f27c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -807,13 +807,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Ariana Grande Is Now Bobiana Grande](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -821,9 +821,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://assets.vogue.com/photos/6ada0efd2abbfa969547331a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -833,13 +833,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -847,7 +847,7 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Jacqueline Kilikita
 
 
 **Do you have any dream athletes to dress in your pieces in the future?**
@@ -894,7 +894,7 @@ NIKE](https://cna.st/p/51fk68Dsj97AZ15LYmGQKo663SuRDQF8kbj75P1F8q52hXB2LWWmSPWRd
 
 Most Popular
 
-- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://assets.vogue.com/photos/6ade1db4ad3b35326f9896f2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -904,13 +904,13 @@ Most Popular
 
 
 
-Celebrity Style
+Fashion
 
 
 
 
 
-[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -918,9 +918,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Ariana Grande Is Now Bobiana Grande](https://assets.vogue.com/photos/6adb304efcc5aba170b0f27c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -930,13 +930,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Ariana Grande Is Now Bobiana Grande](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -944,9 +944,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://assets.vogue.com/photos/6ada0efd2abbfa969547331a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -956,13 +956,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -970,7 +970,7 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Jacqueline Kilikita
 
 
 [![](https://assets.vogue.com/photos/68dbdffb09991603ebea29fc/3:4/w_748%2Cc_limit/image6.jpg)](https://cna.st/p/m1C6KgLs7ft5yUXVGuYDUYSZ1UEZKkdHAC833svWVKKy1YuSbrDj2BgwEp3gKiU8HMUqRY4TYehKgPUNwHKDPjhCn9n27eGeBZsDpVPLZrhXMbgAseBSdjPw62z7seHpFfm4X7CbioW8995so9DnxYiTE19pWttGMpoJ3khQ5vtefEawcbK3NT8qsNbcYudc43obET5J7W5VE3acWufoT26yf9JcMrV5ES1shLYSgDs7oirLFpXsLDceSchP8ewecefvxKAKB4c9cGNT2NaHF2UJznMtAT4gu88exFhCbo4hARMjw8SWYUKPf6JpRydZCBeN9cUZ8bqTNuh3Fqarg9tyPCD5E4kWAKaosZshHeso64V5b6rhTKMmT9SeMmYuqdaLAWFuTB6jxnWWAXDNkynkstHpkmKCRXe1x4MQMZUi4tBJjZ1bHbs6pMWefNyY2nAE2XjPwJg9bgv1JWY9K2uY3j1MzJkPJ7PFMyF3NhuRjEfhQHmvaZZZVgcVxMG1hGXJK1679MwMe6HUs57yjz2)
@@ -1035,7 +1035,7 @@ NIKE](https://cna.st/p/fvAuoSfwLjncQrimT8n2kGb6ZK4367WBFSQ1d66V6EhPWAWjVRyzZZ7AX
 
 Most Popular
 
-- [![The Best Dressed Stars From the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad41d0d4e2eaf5dbc019845/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://assets.vogue.com/photos/6ade1db4ad3b35326f9896f2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -1045,13 +1045,13 @@ Most Popular
 
 
 
-Celebrity Style
+Fashion
 
 
 
 
 
-[The Best Dressed Stars From the 2026 Academy Museum Gala](https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut](https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -1059,9 +1059,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://assets.vogue.com/photos/6ab2c6325b1cd174f17280cb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Ariana Grande Is Now Bobiana Grande](https://assets.vogue.com/photos/6adb304efcc5aba170b0f27c/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -1071,13 +1071,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[J Balvin Walked the Vogue World 2026: Milano Runway in Regal Dolce & Gabbana](https://www.vogue.com/article/j-balvin-vogue-world-milano-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Ariana Grande Is Now Bobiana Grande](https://www.vogue.com/article/ariana-grande-bob-haircut#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -1085,9 +1085,9 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Anna Cafolla
 
-- [![Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://assets.vogue.com/photos/6ad4288e81592635e6ba85ac/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+- [![Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://assets.vogue.com/photos/6ada0efd2abbfa969547331a/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -1097,13 +1097,13 @@ By Christian Allaire
 
 
 
-Celebrity Style
+Beauty
 
 
 
 
 
-[Taylor Swift Is Belle of the Ball in Dior at the 2026 Academy Museum Gala](https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026#intcid=e7ed3427-e344-4ee2-baaa-318a7b46d909)
+[Kate Middleton’s New Honey Hair Color Is Fall-Ready](https://www.vogue.com/article/kate-middletons-new-honey-hair-color-is-fall-ready#intcid=a93214bb-5217-4002-a3b3-1c1770280e13)
 
 
 
@@ -1111,7 +1111,7 @@ Celebrity Style
 
 
 
-By Christian Allaire
+By Jacqueline Kilikita
 
 
 [![](https://assets.vogue.com/photos/68dbdfed06c2c8d697e1852f/3:4/w_748%2Cc_limit/image4.jpg)](https://cna.st/p/3G1KErbfKLibgygSWYkViYwbnj7HZqxizBdRyVUh1G7GDWCDLbKL4K1gEGbtd3ffbYZSVZ5huGyjqaFZVFu7N74jCCAe3jNP74ZFwSA97x9A76CU92kXyCxauMbgDi4RUWemBp61WMk9QQkc4zkdGtteaV57pMGh3XRDwLvt9YhhaxtF193TYqeA2xdvu1vEE6mBbsrTqBdV2PAbddUtNvp7WS6WRG1rK7Zmn79P7uZgA1GbTMgfJznXwnSpP6TASCUDWt8QeHRp5JNVMgeJw7boM6dhGFVGgfLdmYFMzzwnWA4J9LPnC2Msi1QBu1Lq4qf2iu8HQ7ty9VhQMC6Auo3M58htTMJQ1aoDvRDMEeyeT9jaD1Ev4pssu8e4E88iaCM1EurBYP7zEXea95NiStf6Jadua2CMYyR3W1HGThkCFQBNKqj1KpJ3XZhmSWbB76hS4QvyH5XGkbDhDJf7vdF9qJWmmHaVXFU8XkG4LTGRooy6knmTtA6dYupcF2gtnhBXareWVfeUgFhv7bN42)

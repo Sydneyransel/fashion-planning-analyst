@@ -2,7 +2,7 @@
 url: https://skims.com/pages/about
 source_type: skims.com
 title: About | SKIMS
-scraped_at: 2026-10-19T11:40:47.609587+00:00
+scraped_at: 2026-10-26T11:57:30.206231+00:00
 ---
 
 [Skip to main content](https://skims.com/pages/about#main-content)
@@ -30,6 +30,8 @@ Shapewear
 Mens
 
 Accessories
+
+Kids
 
 Sale
 
@@ -74,17 +76,17 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![SEAMLESS SCULPT BRIEF BODYSUIT | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-BRF-3370-ONX_grande.jpg?v=1742584261&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/seamless-sculpt-brief-bodysuit-onyx "SEAMLESS SCULPT BRIEF BODYSUIT | ONYX")
+[![COTTON FLEECE STRAIGHT LEG PANT | LIGHT HEATHER GREY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-BO-STR-4003-LHG-2_4d0eeb73-4486-47e8-b634-21eef5671c01_grande.jpg?v=1735852680&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-straight-leg-pant-light-heather-grey "COTTON FLEECE STRAIGHT LEG PANT | LIGHT HEATHER GREY")
 
-[SEAMLESS SCULPT\\
+[COTTON FLEECE\\
 \\
-**BRIEF BODYSUIT**\\
+**STRAIGHT LEG PANT**\\
 \\
-$78](https://skims.com/products/seamless-sculpt-brief-bodysuit-onyx)
+$88](https://skims.com/products/cotton-fleece-straight-leg-pant-light-heather-grey)
 
 Color
 
-onyx
+light heather grey
 
 Select Size
 
@@ -92,71 +94,17 @@ Select Size
 
 Add to Bag
 
-[![SOFT LOUNGE LONG SLIP DRESS | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-DRS-0596-ONX-FL_grande.jpg?v=1708554715&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/soft-lounge-long-slip-dress-onyx "SOFT LOUNGE LONG SLIP DRESS | ONYX")
-
-[SOFT LOUNGE\\
-\\
-**LONG SLIP DRESS**\\
-\\
-$88](https://skims.com/products/soft-lounge-long-slip-dress-onyx)
-
-Color
-
-onyx
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![FITS EVERYBODY LACE TRIANGLE CAMI AND BOY SHORT SET | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-SET-9793W-ONX-FLT_grande.jpg?v=1773088674&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-triangle-cami-and-boy-short-set-onyx "FITS EVERYBODY LACE TRIANGLE CAMI AND BOY SHORT SET | ONYX")
-
-[FITS EVERYBODY LACE\\
-\\
-**TRIANGLE CAMI AND BOY SHORT SET**\\
-\\
-$74](https://skims.com/products/fits-everybody-lace-triangle-cami-and-boy-short-set-onyx)
-
-Color
-
-onyx
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![FITS EVERYBODY BOY SHORT | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/PN-BYS-0030-ONX-FL_grande.jpg?v=1620253345&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-boy-short-onyx "FITS EVERYBODY BOY SHORT | ONYX")
-
-[FITS EVERYBODY\\
-\\
-**BOY SHORT**\\
-\\
-$20](https://skims.com/products/fits-everybody-boy-short-onyx)
-
-Color
-
-onyx
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![EVERYDAY COTTON THONG | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10647W-ONX-FLT_de74e74b-0169-4881-a79c-8d9a0cc5dabc_grande.jpg?v=1774284532&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-thong-onyx "EVERYDAY COTTON THONG | ONYX")
+[![EVERYDAY COTTON STRING THONG | CURRANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10646W-CUR-FLT_grande.jpg?v=1789676053&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-string-thong-currant "EVERYDAY COTTON STRING THONG | CURRANT")
 
 [EVERYDAY COTTON\\
 \\
-**THONG**\\
+**STRING THONG**\\
 \\
-$18](https://skims.com/products/everyday-cotton-thong-onyx)
+$20](https://skims.com/products/everyday-cotton-string-thong-currant)
 
 Color
 
-onyx
+currant
 
 Select Size
 
@@ -164,35 +112,89 @@ Select Size
 
 Add to Bag
 
-[![FITS EVERYBODY T-SHIRT BRA | COCOA](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BRA-BR-UWR-2294-COA_grande.jpg?v=1711846750&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-t-shirt-bra-cocoa "FITS EVERYBODY T-SHIRT BRA | COCOA")
-
-[FITS EVERYBODY\\
-\\
-**T-SHIRT BRA**\\
-\\
-$54](https://skims.com/products/fits-everybody-t-shirt-bra-cocoa)
-
-Color
-
-cocoa
-
-Select Band Size
-
-Select Band Size
-
-Select Cup Size
-
-Select Cup Size
-
-Add to Bag
-
-[![LIGHTWEIGHT COTTON LOGO PICOT STRING BIKINI | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BK-BIK-5960W-STT-FLT_grande.jpg?v=1768611838&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-logo-picot-string-bikini-soot "LIGHTWEIGHT COTTON LOGO PICOT STRING BIKINI | SOOT")
+[![LIGHTWEIGHT COTTON STRING THONG | DELTA LEOPARD](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-8779W-DLP-SW_ac280a62-2ffc-4f6a-a457-645f0399c8c0_grande.jpg?v=1756930547&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-string-thong-delta-leopard "LIGHTWEIGHT COTTON STRING THONG | DELTA LEOPARD")
 
 [LIGHTWEIGHT COTTON\\
 \\
-**LOGO PICOT STRING BIKINI**\\
+**STRING THONG**\\
 \\
-$14](https://skims.com/products/lightweight-cotton-logo-picot-string-bikini-soot)
+$10$5](https://skims.com/products/lightweight-cotton-string-thong-delta-leopard)
+
+Color
+
+delta leopard
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![LIGHTWEIGHT COTTON POINTELLE SCOOP BRALETTE | VILLA EGRET RUNWAY STRIPE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BRL-11251W-VER-FLT_grande.jpg?v=1785776634&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-pointelle-scoop-bralette-villa-egret-runway-stripe "LIGHTWEIGHT COTTON POINTELLE SCOOP BRALETTE | VILLA EGRET RUNWAY STRIPE")
+
+[LIGHTWEIGHT COTTON\\
+\\
+**POINTELLE SCOOP BRALETTE**\\
+\\
+$24](https://skims.com/products/lightweight-cotton-pointelle-scoop-bralette-villa-egret-runway-stripe)
+
+Color
+
+villa egret runway stripe
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![FITS EVERYBODY LACE UNLINED SCOOP BRA | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9062-ESP-FLT_13f108b6-f327-43a8-b915-ed6b42871c09_grande.jpg?v=1787343636&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-espresso "FITS EVERYBODY LACE UNLINED SCOOP BRA | ESPRESSO")
+
+[FITS EVERYBODY LACE\\
+\\
+**UNLINED SCOOP BRA**\\
+\\
+$54](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-espresso)
+
+Color
+
+espresso
+
+Select Band Size
+
+Select Band Size
+
+Select Cup Size
+
+Select Cup Size
+
+Add to Bag
+
+[![COTTON FLEECE STRAIGHT LEG PANT WITH EMBOSSED LOGO | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BT-PNT-14071W-ESP-FLT_grande.jpg?v=1789604682&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-straight-leg-pant-with-embossed-logo-espresso "COTTON FLEECE STRAIGHT LEG PANT WITH EMBOSSED LOGO | ESPRESSO")
+
+[COTTON FLEECE\\
+\\
+**STRAIGHT LEG PANT WITH EMBOSSED LOGO**\\
+\\
+$88](https://skims.com/products/cotton-fleece-straight-leg-pant-with-embossed-logo-espresso)
+
+Color
+
+espresso
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![COTTON JERSEY LONG SLEEVE T-SHIRT | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-SOT-FLT_2781d3b4-eded-4093-ba43-0d16b1ad2c56_grande.jpg?v=1767136370&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot "COTTON JERSEY LONG SLEEVE T-SHIRT | SOOT")
+
+[COTTON JERSEY\\
+\\
+**LONG SLEEVE T-SHIRT**\\
+\\
+$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot)
 
 Color
 
@@ -204,57 +206,53 @@ Select Size
 
 Add to Bag
 
-[![SKIMS ULTIMATE BALCONETTE PUSH-UP BRA | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-BAL-5486W-CLY-FLT_grande.jpg?v=1739333853&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay "SKIMS ULTIMATE BALCONETTE PUSH-UP BRA | CLAY")
+[![FITS EVERYBODY LACE CAMI BODYSUIT | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BODYSUIT-BD-THG-2693-ONX_409519b7-d28c-4d64-af0b-6f2d41dc9b09_grande.jpg?v=1685752452&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-cami-bodysuit-onyx "FITS EVERYBODY LACE CAMI BODYSUIT | ONYX")
 
-[SKIMS ULTIMATE\\
+[FITS EVERYBODY LACE\\
 \\
-**BALCONETTE PUSH-UP BRA**\\
+**CAMI BODYSUIT**\\
 \\
-$64](https://skims.com/products/skims-ultimate-balconette-push-up-bra-clay)
-
-Color
-
-clay
-
-Select Band Size
-
-Select Band Size
-
-Select Cup Size
-
-Select Cup Size
-
-Add to Bag
-
-[![SEAMLESS SCULPT STRAPLESS SHORTIE BODYSUIT | CLAY](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-SHAPEWEAR-BD-MDT-2914-CLAY_grande.jpg?v=1740086909&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/seamless-sculpt-strapless-shortie-bodysuit-clay "SEAMLESS SCULPT STRAPLESS SHORTIE BODYSUIT | CLAY")
-
-[SEAMLESS SCULPT\\
-\\
-**STRAPLESS SHORTIE BODYSUIT**\\
-\\
-$78](https://skims.com/products/seamless-sculpt-strapless-shortie-bodysuit-clay)
-
-Color
-
-clay
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![SOFT LOUNGE SLEEP SET | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-SET-0600-ONX-COMPOSITE_grande.jpg?v=1773095503&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/soft-lounge-sleep-set-onyx "SOFT LOUNGE SLEEP SET | ONYX")
-
-[SOFT LOUNGE\\
-\\
-**SLEEP SET**\\
-\\
-$128](https://skims.com/products/soft-lounge-sleep-set-onyx)
+$64](https://skims.com/products/fits-everybody-lace-cami-bodysuit-onyx)
 
 Color
 
 onyx
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![SKIMS BODY UNDERWIRE THONG BODYSUIT | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SHAPEWEAR-BD-THG-3286-ONX_grande.jpg?v=1753894980&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-body-underwire-thong-bodysuit-onyx "SKIMS BODY UNDERWIRE THONG BODYSUIT | ONYX")
+
+[SKIMS BODY\\
+\\
+**UNDERWIRE THONG BODYSUIT**\\
+\\
+$138](https://skims.com/products/skims-body-underwire-thong-bodysuit-onyx)
+
+Color
+
+onyx
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![LIGHTWEIGHT COTTON LOGO PICOT THONG | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5958W-STT-FLT_grande.jpg?v=1739556586&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot "LIGHTWEIGHT COTTON LOGO PICOT THONG | SOOT")
+
+[LIGHTWEIGHT COTTON\\
+\\
+**LOGO PICOT THONG**\\
+\\
+$14](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot)
+
+Color
+
+soot
 
 Select Size
 
