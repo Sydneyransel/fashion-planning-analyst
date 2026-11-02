@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-10-26T11:58:04.271026+00:00
+scraped_at: 2026-11-02T14:20:35.002396+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -44,7 +44,7 @@ The expansion across product categories allows consumers to build a capsule of n
 
 Most Popular
 
-- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -60,7 +60,7 @@ Events
 
 
 
-[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -70,7 +70,7 @@ Events
 
 By Vogue Business Team
 
-- [![How Vestiaire Collective Is Keeping Stolen Goods From Being Resold](https://assets.vogue.com/photos/6adb7f49539b866296e5c03f/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+- [![Inside Kering’s First Water Resilience Lab in Italy](https://assets.vogue.com/photos/6ae4d0e748ca54045a0b179b/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-kerings-first-water-resilience-lab-in-italy#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -86,7 +86,7 @@ Sustainability
 
 
 
-[How Vestiaire Collective Is Keeping Stolen Goods From Being Resold](https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+[Inside Kering’s First Water Resilience Lab in Italy](https://www.vogue.com/article/inside-kerings-first-water-resilience-lab-in-italy#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -94,11 +94,9 @@ Sustainability
 
 
 
-By Sophie Lou Wilson
+By Bella Webb
 
-- [![Fashion Is Betting on Spooky Season](https://assets.vogue.com/photos/6adb6d98290d2be4fe80cee2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/fashion-is-betting-on-spooky-season#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
-
-
+- [![As Midterms Approach, US Consumer Anxiety Is High — But Fashion Is Set to Rally](https://assets.vogue.com/photos/6ae494e899832c71435a12de/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/as-midterms-approach-us-consumer-anxiety-is-high-but-fashion-is-set-to-rally#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -106,13 +104,15 @@ By Sophie Lou Wilson
 
 
 
-Fashion Industry Trends
+
+
+Business
 
 
 
 
 
-[Fashion Is Betting on Spooky Season](https://www.vogue.com/article/fashion-is-betting-on-spooky-season#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+[As Midterms Approach, US Consumer Anxiety Is High — But Fashion Is Set to Rally](https://www.vogue.com/article/as-midterms-approach-us-consumer-anxiety-is-high-but-fashion-is-set-to-rally#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -120,7 +120,7 @@ Fashion Industry Trends
 
 
 
-By Joe Bobowicz
+By Madeleine Schulz
 
 
 Nina Marston of Euromonitor says Skims is changing the shapewear market. “It’s ’leisurie’, lingerie or shapewear that you can wear under clothes or on their own, inside and out of the house.” The global underwear market, which includes shapewear, is still expected to decline by 11 per cent in 2020 to $107 billion, according to Euromonitor, but that is a smaller decline than general apparel.
@@ -139,7 +139,7 @@ Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skim
 
 Most Popular
 
-- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -155,7 +155,7 @@ Events
 
 
 
-[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -165,7 +165,7 @@ Events
 
 By Vogue Business Team
 
-- [![How Vestiaire Collective Is Keeping Stolen Goods From Being Resold](https://assets.vogue.com/photos/6adb7f49539b866296e5c03f/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+- [![Inside Kering’s First Water Resilience Lab in Italy](https://assets.vogue.com/photos/6ae4d0e748ca54045a0b179b/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-kerings-first-water-resilience-lab-in-italy#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -181,7 +181,7 @@ Sustainability
 
 
 
-[How Vestiaire Collective Is Keeping Stolen Goods From Being Resold](https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+[Inside Kering’s First Water Resilience Lab in Italy](https://www.vogue.com/article/inside-kerings-first-water-resilience-lab-in-italy#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -189,11 +189,9 @@ Sustainability
 
 
 
-By Sophie Lou Wilson
+By Bella Webb
 
-- [![Fashion Is Betting on Spooky Season](https://assets.vogue.com/photos/6adb6d98290d2be4fe80cee2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/fashion-is-betting-on-spooky-season#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
-
-
+- [![As Midterms Approach, US Consumer Anxiety Is High — But Fashion Is Set to Rally](https://assets.vogue.com/photos/6ae494e899832c71435a12de/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/as-midterms-approach-us-consumer-anxiety-is-high-but-fashion-is-set-to-rally#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -201,13 +199,15 @@ By Sophie Lou Wilson
 
 
 
-Fashion Industry Trends
+
+
+Business
 
 
 
 
 
-[Fashion Is Betting on Spooky Season](https://www.vogue.com/article/fashion-is-betting-on-spooky-season#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+[As Midterms Approach, US Consumer Anxiety Is High — But Fashion Is Set to Rally](https://www.vogue.com/article/as-midterms-approach-us-consumer-anxiety-is-high-but-fashion-is-set-to-rally#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -215,7 +215,7 @@ Fashion Industry Trends
 
 
 
-By Joe Bobowicz
+By Madeleine Schulz
 
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
@@ -236,7 +236,7 @@ The body-positivity movement has pushed [diversity and inclusion](https://www.mc
 
 Most Popular
 
-- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -252,7 +252,7 @@ Events
 
 
 
-[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -262,7 +262,7 @@ Events
 
 By Vogue Business Team
 
-- [![How Vestiaire Collective Is Keeping Stolen Goods From Being Resold](https://assets.vogue.com/photos/6adb7f49539b866296e5c03f/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+- [![Inside Kering’s First Water Resilience Lab in Italy](https://assets.vogue.com/photos/6ae4d0e748ca54045a0b179b/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-kerings-first-water-resilience-lab-in-italy#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -278,7 +278,7 @@ Sustainability
 
 
 
-[How Vestiaire Collective Is Keeping Stolen Goods From Being Resold](https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+[Inside Kering’s First Water Resilience Lab in Italy](https://www.vogue.com/article/inside-kerings-first-water-resilience-lab-in-italy#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -286,11 +286,9 @@ Sustainability
 
 
 
-By Sophie Lou Wilson
+By Bella Webb
 
-- [![Fashion Is Betting on Spooky Season](https://assets.vogue.com/photos/6adb6d98290d2be4fe80cee2/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/fashion-is-betting-on-spooky-season#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
-
-
+- [![As Midterms Approach, US Consumer Anxiety Is High — But Fashion Is Set to Rally](https://assets.vogue.com/photos/6ae494e899832c71435a12de/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/as-midterms-approach-us-consumer-anxiety-is-high-but-fashion-is-set-to-rally#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -298,13 +296,15 @@ By Sophie Lou Wilson
 
 
 
-Fashion Industry Trends
+
+
+Business
 
 
 
 
 
-[Fashion Is Betting on Spooky Season](https://www.vogue.com/article/fashion-is-betting-on-spooky-season#intcid=4df2384f-bab4-4281-8e3e-ce2c53cca02a)
+[As Midterms Approach, US Consumer Anxiety Is High — But Fashion Is Set to Rally](https://www.vogue.com/article/as-midterms-approach-us-consumer-anxiety-is-high-but-fashion-is-set-to-rally#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
 
 
 
@@ -312,7 +312,7 @@ Fashion Industry Trends
 
 
 
-By Joe Bobowicz
+By Madeleine Schulz
 
 
 In September, Skims was criticised on social media for launching maternity shapewear. “There were some people that didn’t understand what it was really trying to do,” says Kardashian West. “I wanted it to be extra comfortable and secure to provide support.”
@@ -347,34 +347,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://assets.vogue.com/photos/6acd005f760cb71dd6d4bfb2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
+[![Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://assets.vogue.com/photos/6acd005f760cb71dd6d4bfb2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
 
 Companies
 
-[Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
+[Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
 
 By Madeleine Schulz
 
-[![The Vogue Business Spring/Summer 2027 Size Inclusivity Report](https://assets.vogue.com/photos/6ad25833eeb470219a506143/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-size-inclusivity-report#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
+[![The Vogue Business Spring/Summer 2027 Size Inclusivity Report](https://assets.vogue.com/photos/6ad25833eeb470219a506143/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-size-inclusivity-report#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
 
 Fashion Month
 
-[The _Vogue Business_ Spring/Summer 2027 Size Inclusivity Report](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-size-inclusivity-report#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
+[The _Vogue Business_ Spring/Summer 2027 Size Inclusivity Report](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-size-inclusivity-report#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
 
 By Joe Bobowicz
 
-[![Consumers Want Freaky Shoes. Brands Are Stepping It Up](https://assets.vogue.com/photos/6ac3e39cf8046983f88fc8d2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/consumers-want-freaky-shoes-brands-are-stepping-it-up#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
+[![Consumers Want Freaky Shoes. Brands Are Stepping It Up](https://assets.vogue.com/photos/6ac3e39cf8046983f88fc8d2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/consumers-want-freaky-shoes-brands-are-stepping-it-up#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
 
 Fashion Industry Trends
 
-[Consumers Want Freaky Shoes. Brands Are Stepping It Up](https://www.vogue.com/article/consumers-want-freaky-shoes-brands-are-stepping-it-up#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
+[Consumers Want Freaky Shoes. Brands Are Stepping It Up](https://www.vogue.com/article/consumers-want-freaky-shoes-brands-are-stepping-it-up#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
 
 By Madeleine Schulz
 
-[![Sheer Looks to Lingerie: Are GLP-1s Changing the Way We Dress?](https://assets.vogue.com/photos/6ad259b2e5ce533e10a202e2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/sheer-looks-to-lingerie-are-glp-1s-changing-the-way-we-dress#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
+[![Hailey! Kendall! Bella! Inside Activewear’s Mega-Influencer Race](https://assets.vogue.com/photos/6ae24aa9ce216a575cc7fc10/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/hailey-kendall-bella-inside-activewears-mega-influencer-wars#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
 
 Fashion
 
-[Sheer Looks to Lingerie: Are GLP-1s Changing the Way We Dress?](https://www.vogue.com/article/sheer-looks-to-lingerie-are-glp-1s-changing-the-way-we-dress#intcid=654ef4c6-4a04-4d37-92d6-8532f6f05b88)
+[Hailey! Kendall! Bella! Inside Activewear’s Mega-Influencer Race](https://www.vogue.com/article/hailey-kendall-bella-inside-activewears-mega-influencer-wars#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
 
-By Rachael Akhidenor
+By Madeleine Schulz

@@ -2,7 +2,7 @@
 url: https://skims.com/pages/about
 source_type: skims.com
 title: About | SKIMS
-scraped_at: 2026-10-26T11:57:30.206231+00:00
+scraped_at: 2026-11-02T14:19:54.821230+00:00
 ---
 
 [Skip to main content](https://skims.com/pages/about#main-content)
@@ -14,6 +14,8 @@ scraped_at: 2026-10-26T11:57:30.206231+00:00
 We are setting new standards by providing solutions for every body. From technically constructed shapewear that enhances your curves to underwear that stretches to twice its size, our goal is to consistently innovate on the past and advance our industry for the future.
 
 New
+
+Holiday Shop
 
 ![NikeSKIMS](https://skims-sanity.imgix.net/images/hfqi0zm0/production/51437a950ecd84d8c67e674e013ae3222db6430c-212x32.svg?auto=format%2Ccompress&w=73&h=10&q=70)
 
@@ -76,17 +78,53 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![COTTON FLEECE STRAIGHT LEG PANT | LIGHT HEATHER GREY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-BO-STR-4003-LHG-2_4d0eeb73-4486-47e8-b634-21eef5671c01_grande.jpg?v=1735852680&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-straight-leg-pant-light-heather-grey "COTTON FLEECE STRAIGHT LEG PANT | LIGHT HEATHER GREY")
+[![COTTON JERSEY FOLDOVER PANT | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-ESP-FLT_bc4d69c4-febd-4b60-a1d0-7477893a2962_grande.jpg?v=1787781729&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-foldover-pant-espresso "COTTON JERSEY FOLDOVER PANT | ESPRESSO")
+
+[COTTON JERSEY\\
+\\
+**FOLDOVER PANT**\\
+\\
+$68](https://skims.com/products/cotton-jersey-foldover-pant-espresso)
+
+Color
+
+espresso
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![LIGHTWEIGHT COTTON LACE THONG | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5957W-STT-FLT_grande.jpg?v=1739556086&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-lace-thong-soot "LIGHTWEIGHT COTTON LACE THONG | SOOT")
+
+[LIGHTWEIGHT COTTON\\
+\\
+**LACE THONG**\\
+\\
+$14](https://skims.com/products/lightweight-cotton-lace-thong-soot)
+
+Color
+
+soot
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![COTTON FLEECE LOGO HOODIE | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14069W-ESP-FLT_grande.jpg?v=1789604686&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-logo-hoodie-espresso "COTTON FLEECE LOGO HOODIE | ESPRESSO")
 
 [COTTON FLEECE\\
 \\
-**STRAIGHT LEG PANT**\\
+**LOGO HOODIE**\\
 \\
-$88](https://skims.com/products/cotton-fleece-straight-leg-pant-light-heather-grey)
+$98](https://skims.com/products/cotton-fleece-logo-hoodie-espresso)
 
 Color
 
-light heather grey
+espresso
 
 Select Size
 
@@ -94,53 +132,17 @@ Select Size
 
 Add to Bag
 
-[![EVERYDAY COTTON STRING THONG | CURRANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10646W-CUR-FLT_grande.jpg?v=1789676053&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-string-thong-currant "EVERYDAY COTTON STRING THONG | CURRANT")
+[![COTTON FLEECE LOGO ZIP UP HOODIE | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14070W-ESP-FLT_grande.jpg?v=1789604690&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-logo-zip-up-hoodie-espresso "COTTON FLEECE LOGO ZIP UP HOODIE | ESPRESSO")
 
-[EVERYDAY COTTON\\
+[COTTON FLEECE\\
 \\
-**STRING THONG**\\
+**LOGO ZIP UP HOODIE**\\
 \\
-$20](https://skims.com/products/everyday-cotton-string-thong-currant)
+$98](https://skims.com/products/cotton-fleece-logo-zip-up-hoodie-espresso)
 
 Color
 
-currant
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![LIGHTWEIGHT COTTON STRING THONG | DELTA LEOPARD](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-8779W-DLP-SW_ac280a62-2ffc-4f6a-a457-645f0399c8c0_grande.jpg?v=1756930547&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-string-thong-delta-leopard "LIGHTWEIGHT COTTON STRING THONG | DELTA LEOPARD")
-
-[LIGHTWEIGHT COTTON\\
-\\
-**STRING THONG**\\
-\\
-$10$5](https://skims.com/products/lightweight-cotton-string-thong-delta-leopard)
-
-Color
-
-delta leopard
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![LIGHTWEIGHT COTTON POINTELLE SCOOP BRALETTE | VILLA EGRET RUNWAY STRIPE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BRL-11251W-VER-FLT_grande.jpg?v=1785776634&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-pointelle-scoop-bralette-villa-egret-runway-stripe "LIGHTWEIGHT COTTON POINTELLE SCOOP BRALETTE | VILLA EGRET RUNWAY STRIPE")
-
-[LIGHTWEIGHT COTTON\\
-\\
-**POINTELLE SCOOP BRALETTE**\\
-\\
-$24](https://skims.com/products/lightweight-cotton-pointelle-scoop-bralette-villa-egret-runway-stripe)
-
-Color
-
-villa egret runway stripe
+espresso
 
 Select Size
 
@@ -170,13 +172,13 @@ Select Cup Size
 
 Add to Bag
 
-[![COTTON FLEECE STRAIGHT LEG PANT WITH EMBOSSED LOGO | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BT-PNT-14071W-ESP-FLT_grande.jpg?v=1789604682&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-straight-leg-pant-with-embossed-logo-espresso "COTTON FLEECE STRAIGHT LEG PANT WITH EMBOSSED LOGO | ESPRESSO")
+[![COTTON FLEECE LOGO STRAIGHT LEG PANT | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BT-PNT-14071W-ESP-FLT_grande.jpg?v=1789604682&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-logo-straight-leg-pant-espresso "COTTON FLEECE LOGO STRAIGHT LEG PANT | ESPRESSO")
 
 [COTTON FLEECE\\
 \\
-**STRAIGHT LEG PANT WITH EMBOSSED LOGO**\\
+**LOGO STRAIGHT LEG PANT**\\
 \\
-$88](https://skims.com/products/cotton-fleece-straight-leg-pant-with-embossed-logo-espresso)
+$88](https://skims.com/products/cotton-fleece-logo-straight-leg-pant-espresso)
 
 Color
 
@@ -188,71 +190,71 @@ Select Size
 
 Add to Bag
 
-[![COTTON JERSEY LONG SLEEVE T-SHIRT | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-TSH-0647-SOT-FLT_2781d3b4-eded-4093-ba43-0d16b1ad2c56_grande.jpg?v=1767136370&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot "COTTON JERSEY LONG SLEEVE T-SHIRT | SOOT")
-
-[COTTON JERSEY\\
-\\
-**LONG SLEEVE T-SHIRT**\\
-\\
-$58](https://skims.com/products/cotton-jersey-long-sleeve-t-shirt-soot)
-
-Color
-
-soot
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![FITS EVERYBODY LACE CAMI BODYSUIT | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BODYSUIT-BD-THG-2693-ONX_409519b7-d28c-4d64-af0b-6f2d41dc9b09_grande.jpg?v=1685752452&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-cami-bodysuit-onyx "FITS EVERYBODY LACE CAMI BODYSUIT | ONYX")
-
-[FITS EVERYBODY LACE\\
-\\
-**CAMI BODYSUIT**\\
-\\
-$64](https://skims.com/products/fits-everybody-lace-cami-bodysuit-onyx)
-
-Color
-
-onyx
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![SKIMS BODY UNDERWIRE THONG BODYSUIT | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-SHAPEWEAR-BD-THG-3286-ONX_grande.jpg?v=1753894980&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-body-underwire-thong-bodysuit-onyx "SKIMS BODY UNDERWIRE THONG BODYSUIT | ONYX")
-
-[SKIMS BODY\\
-\\
-**UNDERWIRE THONG BODYSUIT**\\
-\\
-$138](https://skims.com/products/skims-body-underwire-thong-bodysuit-onyx)
-
-Color
-
-onyx
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![LIGHTWEIGHT COTTON LOGO PICOT THONG | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-TH-THG-5958W-STT-FLT_grande.jpg?v=1739556586&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot "LIGHTWEIGHT COTTON LOGO PICOT THONG | SOOT")
+[![LIGHTWEIGHT COTTON POINTELLE LACE BRIEF | SOOT TONAL](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BR-BRF-8499W-SOT_grande.jpg?v=1768612703&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-pointelle-lace-brief-soot-tonal "LIGHTWEIGHT COTTON POINTELLE LACE BRIEF | SOOT TONAL")
 
 [LIGHTWEIGHT COTTON\\
 \\
-**LOGO PICOT THONG**\\
+**POINTELLE LACE BRIEF**\\
 \\
-$14](https://skims.com/products/lightweight-cotton-logo-picot-thong-soot)
+$14](https://skims.com/products/lightweight-cotton-pointelle-lace-brief-soot-tonal)
 
 Color
 
-soot
+soot tonal
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![EVERYDAY COTTON SCOOP BRALETTE | LIGHT HEATHER GREY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BRL-10643W-LHG-FLT_grande.jpg?v=1771368259&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-scoop-bralette-light-heather-grey "EVERYDAY COTTON SCOOP BRALETTE | LIGHT HEATHER GREY")
+
+[EVERYDAY COTTON\\
+\\
+**SCOOP BRALETTE**\\
+\\
+$34](https://skims.com/products/everyday-cotton-scoop-bralette-light-heather-grey)
+
+Color
+
+light heather grey
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![FITS EVERYBODY LACE STRING THONG | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-PANTY-PN-TNG-2684-ONX_00fa50ec-f718-4a4d-9191-cec3206775ed_grande.jpg?v=1685752457&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-string-thong-onyx "FITS EVERYBODY LACE STRING THONG | ONYX")
+
+[FITS EVERYBODY LACE\\
+\\
+**STRING THONG**\\
+\\
+$20](https://skims.com/products/fits-everybody-lace-string-thong-onyx)
+
+Color
+
+onyx
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![FITS EVERYBODY SQUARE NECK BODYSUIT | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BODYSUIT-BS-SCN-0294-ONX-FL_824c09f6-9876-4bb4-a738-dbb8089db60b_grande.jpg?v=1773087468&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-square-neck-bodysuit-onyx "FITS EVERYBODY SQUARE NECK BODYSUIT | ONYX")
+
+[FITS EVERYBODY\\
+\\
+**SQUARE NECK BODYSUIT**\\
+\\
+$58](https://skims.com/products/fits-everybody-square-neck-bodysuit-onyx)
+
+Color
+
+onyx
 
 Select Size
 
