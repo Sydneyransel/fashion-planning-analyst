@@ -2,7 +2,7 @@
 url: https://skims.com/collections/dresses
 source_type: skims.com
 title: SKIMS | SKIMS
-scraped_at: 2026-11-02T14:20:24.038370+00:00
+scraped_at: 2026-11-09T14:47:38.654784+00:00
 ---
 
 [Skip to main content](https://skims.com/collections/dresses#main-content)
@@ -96,53 +96,111 @@ Select Size
 
 Add to Bag
 
-[![SWEATER KNIT LOGO ZIP UP MOCK NECK SWEATER | ONYX EGRET](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOGOSWEATERKNIT-TP-LSL-13536W-ONES-FLT_grande.jpg?v=1791236916&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/sweater-knit-logo-zip-up-mock-neck-sweater-onyx-egret "SWEATER KNIT LOGO ZIP UP MOCK NECK SWEATER | ONYX EGRET")
-
-[SWEATER KNIT\\
-\\
-**LOGO ZIP UP MOCK NECK SWEATER**\\
-\\
-$108](https://skims.com/products/sweater-knit-logo-zip-up-mock-neck-sweater-onyx-egret)
-
-Color
-
-onyx egret mini skims logo
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![NikeSKIMS FOOTWEAR RIFT MESH | CAVESTONE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-ACCESSORIES-SHOES-CHARCOAL-01-FLT_grande.jpg?v=1791837001&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/nikeskims-footwear-rift-mesh-cavestone "NikeSKIMS FOOTWEAR RIFT MESH | CAVESTONE")
-
-[NikeSKIMS FOOTWEAR\\
-\\
-**RIFT MESH**\\
-\\
-$150](https://skims.com/products/nikeskims-footwear-rift-mesh-cavestone)
-
-Color
-
-cavestone
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![FITS EVERYBODY LACE STRING THONG | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-PANTY-PN-TNG-2684-ONX_00fa50ec-f718-4a4d-9191-cec3206775ed_grande.jpg?v=1685752457&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-string-thong-onyx "FITS EVERYBODY LACE STRING THONG | ONYX")
+[![FITS EVERYBODY LACE TRIANGLE CAMI AND BOY SHORT SET | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-SET-9793W-ONX-FLT_grande.jpg?v=1773088674&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-triangle-cami-and-boy-short-set-onyx "FITS EVERYBODY LACE TRIANGLE CAMI AND BOY SHORT SET | ONYX")
 
 [FITS EVERYBODY LACE\\
 \\
-**STRING THONG**\\
+**TRIANGLE CAMI AND BOY SHORT SET**\\
 \\
-$20](https://skims.com/products/fits-everybody-lace-string-thong-onyx)
+$74](https://skims.com/products/fits-everybody-lace-triangle-cami-and-boy-short-set-onyx)
 
 Color
 
 onyx
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![COTTON JERSEY SCOOP NECK CAMI | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-TNK-10901W-SOT-FLT_281_29_grande.jpg?v=1767136374&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-scoop-neck-cami-soot "COTTON JERSEY SCOOP NECK CAMI | SOOT")
+
+[COTTON JERSEY\\
+\\
+**SCOOP NECK CAMI**\\
+\\
+$48$33](https://skims.com/products/cotton-jersey-scoop-neck-cami-soot)
+
+Color
+
+soot
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![FITS EVERYBODY LACE UNLINED SCOOP BRA | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9062-ESP-FLT_13f108b6-f327-43a8-b915-ed6b42871c09_grande.jpg?v=1787343636&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-espresso "FITS EVERYBODY LACE UNLINED SCOOP BRA | ESPRESSO")
+
+[FITS EVERYBODY LACE\\
+\\
+**UNLINED SCOOP BRA**\\
+\\
+$54](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-espresso)
+
+Color
+
+espresso
+
+Select Band Size
+
+Select Band Size
+
+Select Cup Size
+
+Select Cup Size
+
+Add to Bag
+
+[![TEDDY BOXY ZIP UP JACKET | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-12927W-ESP-FLT_7290654b-7706-4950-881c-c44b85ea67a7_grande.jpg?v=1791227214&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/teddy-boxy-zip-up-jacket-espresso "TEDDY BOXY ZIP UP JACKET | ESPRESSO")
+
+[TEDDY\\
+\\
+**BOXY ZIP UP JACKET**\\
+\\
+$168](https://skims.com/products/teddy-boxy-zip-up-jacket-espresso)
+
+Color
+
+espresso
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![COTTON FLEECE HOODIE | HALITE](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-PL-PLO-8365W-HLT-FLT_grande.jpg?v=1767136359&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-hoodie-halite "COTTON FLEECE HOODIE | HALITE")
+
+[COTTON FLEECE\\
+\\
+**HOODIE**\\
+\\
+$98$68](https://skims.com/products/cotton-fleece-hoodie-halite)
+
+Color
+
+halite
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![COTTON POPLIN MENS LOGO BAND BOXER | BUFF MINI MONTGOMERY CHECK](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BOXER-BX-BXS-8849M-UFFM-FLT_cf4a7469-c09b-40c2-9ed4-eb8c22f32285_grande.jpg?v=1792878475&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-poplin-mens-logo-band-boxer-buff-mini-montgomery-check "COTTON POPLIN MENS LOGO BAND BOXER | BUFF MINI MONTGOMERY CHECK")
+
+[COTTON POPLIN\\
+\\
+**MENS LOGO BAND BOXER**\\
+\\
+$28](https://skims.com/products/cotton-poplin-mens-logo-band-boxer-buff-mini-montgomery-check)
+
+Color
+
+buff mini montgomery check
 
 Select Size
 
@@ -168,71 +226,17 @@ Select Size
 
 Add to Bag
 
-[![FITS EVERYBODY LACE TRIANGLE CAMI AND BOY SHORT SET | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-SET-9793W-ONX-FLT_grande.jpg?v=1773088674&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-triangle-cami-and-boy-short-set-onyx "FITS EVERYBODY LACE TRIANGLE CAMI AND BOY SHORT SET | ONYX")
-
-[FITS EVERYBODY LACE\\
-\\
-**TRIANGLE CAMI AND BOY SHORT SET**\\
-\\
-$74](https://skims.com/products/fits-everybody-lace-triangle-cami-and-boy-short-set-onyx)
-
-Color
-
-onyx
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![FITS EVERYBODY LACE DIPPED THONG | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-PANTY-PN-TNG-2683-ONX_642013a9-1145-4417-839c-ca908601608c_grande.jpg?v=1685752456&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-dipped-thong-onyx "FITS EVERYBODY LACE DIPPED THONG | ONYX")
-
-[FITS EVERYBODY LACE\\
-\\
-**DIPPED THONG**\\
-\\
-$20](https://skims.com/products/fits-everybody-lace-dipped-thong-onyx)
-
-Color
-
-onyx
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![EVERYDAY COTTON STRING THONG | CURRANT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-UN-THG-10646W-CUR-FLT_grande.jpg?v=1789676053&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-string-thong-currant "EVERYDAY COTTON STRING THONG | CURRANT")
-
-[EVERYDAY COTTON\\
-\\
-**STRING THONG**\\
-\\
-$20](https://skims.com/products/everyday-cotton-string-thong-currant)
-
-Color
-
-currant
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![COTTON JERSEY FOLDOVER PANT | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-ESP-FLT_bc4d69c4-febd-4b60-a1d0-7477893a2962_grande.jpg?v=1787781729&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-foldover-pant-espresso "COTTON JERSEY FOLDOVER PANT | ESPRESSO")
+[![COTTON JERSEY TUBE TOP | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-TUB-9645W-SOT-FLT_433faa66-a57c-483f-a2a2-be5059010428_grande.jpg?v=1775253208&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-tube-top-soot "COTTON JERSEY TUBE TOP | SOOT")
 
 [COTTON JERSEY\\
 \\
-**FOLDOVER PANT**\\
+**TUBE TOP**\\
 \\
-$68](https://skims.com/products/cotton-jersey-foldover-pant-espresso)
+$48$33](https://skims.com/products/cotton-jersey-tube-top-soot)
 
 Color
 
-espresso
+soot
 
 Select Size
 
@@ -240,13 +244,13 @@ Select Size
 
 Add to Bag
 
-[![SOFT LOUNGE SLEEP SET | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-SET-0600-ONX-COMPOSITE_grande.jpg?v=1773095503&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/soft-lounge-sleep-set-onyx "SOFT LOUNGE SLEEP SET | ONYX")
+[![SKIMS BODY UNLINED PLUNGE THONG BODYSUIT | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BODYSUIT-BD-THG-3286-ONX_b4ff4bcf-9b9a-4670-b1db-4dd5bd1dc042_grande.jpg?v=1753895259&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-body-unlined-plunge-thong-bodysuit-onyx "SKIMS BODY UNLINED PLUNGE THONG BODYSUIT | ONYX")
 
-[SOFT LOUNGE\\
+[SKIMS BODY\\
 \\
-**SLEEP SET**\\
+**UNLINED PLUNGE THONG BODYSUIT**\\
 \\
-$128](https://skims.com/products/soft-lounge-sleep-set-onyx)
+$88](https://skims.com/products/skims-body-unlined-plunge-thong-bodysuit-onyx)
 
 Color
 

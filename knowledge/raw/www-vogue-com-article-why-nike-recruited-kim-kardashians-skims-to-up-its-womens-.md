@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game
 source_type: vogue.com
 title: Why Nike recruited Kim Kardashian to up its women's game | Vogue
-scraped_at: 2026-10-12T14:00:40.770594+00:00
+scraped_at: 2026-11-09T14:47:52.460445+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/why-nike-recruited-kim-kardashians-skims-to-up-its-womens-game#main-content)
@@ -18,34 +18,6 @@ On 18 February, Nike announced the launch of a collaborative sub-brand with Kard
 “We’re energised by the opportunity to build a new brand and shake things up for the next generation of athletes with NikeSkims,” Heidi O’Neill, president of consumer, product and brand, said in a press release. “We will invite even more athletes into sport and movement with product that makes them feel strong and sexy.”
 
 “This partnership is the culmination of that shared vision, delivering product that is meticulously designed to sculpt and perform for every body,” Kardashian said in the release. “Every single detail has been obsessed over and carefully considered. We’re incredibly excited to unveil our first collection this spring.”
-
-LATEST ON VOGUE
-
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6ac7aae58ca7c27db3af1b11/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Vogue Business Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615 "The Vogue Business Beauty Trend Tracker")
-
-[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6abd3963fe9901c003f6c227/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Vogue Business TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615 "The Vogue Business TikTok Trend Tracker")
-
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Vogue Business People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615 "The Vogue Business People Moves Tracker")
-
-[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Vogue Business AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615 "The Vogue Business AI Tracker")
-
-[![Anthony Vaccarello Bows Out at Saint Laurent](https://assets.vogue.com/photos/6ab3b1f1df91bde3537097a7/1:1/w_640%2Cc_limit/undefined)\\
-\\
-Anthony Vaccarello Bows Out at Saint Laurent](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615 "Anthony Vaccarello Bows Out at Saint Laurent")
-
-[![The Top 10 Most-Viewed SS27 Shows on Vogue Runway](https://assets.vogue.com/photos/6ac8d96a11ad75543eea75e1/1:1/w_640%2Cc_limit/undefined)\\
-\\
-The Top 10 Most-Viewed SS27 Shows on Vogue Runway](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615 "The Top 10 Most-Viewed SS27 Shows on Vogue Runway")
-
-ArrowArrow
 
 At first glance, the collaboration might read as antithetical to Hill’s North Star strategy of putting sport at the centre of everything. “Moving forward, we will lead with sport and put the athlete at the centre of every decision,” he [told investors](https://www.voguebusiness.com/story/companies/sport-as-our-north-star-new-nike-ceo-unveils-turnaround-plan) in December. Where does a partnership with one of the world’s biggest influencers fit in?
 
@@ -71,7 +43,33 @@ Earlier this month, Nike made its first major women’s splash under Hill, debut
 
 Most Popular
 
-- [![Anthony Vaccarello Bows Out at Saint Laurent](https://assets.vogue.com/photos/6ab3b1f1df91bde3537097a7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
+- [![What the “Ferritin Face” Trend Says About the Future of Beauty](https://assets.vogue.com/photos/6aec6f0f51640559622b7e61/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-the-ferritin-face-trend-says-about-the-future-of-beauty#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
+
+
+
+
+
+
+
+
+
+Beauty
+
+
+
+
+
+[What the “Ferritin Face” Trend Says About the Future of Beauty](https://www.vogue.com/article/what-the-ferritin-face-trend-says-about-the-future-of-beauty#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
+
+
+
+
+
+
+
+By Amy Francombe
+
+- [![Martine Rose Is the New Creative Director of Balenciaga](https://assets.vogue.com/photos/6aecf57c3b08cd2413ac4b60/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/martine-rose-is-the-new-creative-director-of-balenciaga#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
 
 
 
@@ -87,7 +85,7 @@ Creative Directors
 
 
 
-[Anthony Vaccarello Bows Out at Saint Laurent](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
+[Martine Rose Is the New Creative Director of Balenciaga](https://www.vogue.com/article/martine-rose-is-the-new-creative-director-of-balenciaga#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
 
 
 
@@ -95,35 +93,9 @@ Creative Directors
 
 
 
-By Luke Leitch
+By Lucy Maguire
 
-- [![The Top 10 Most-Viewed SS27 Shows on Vogue Runway](https://assets.vogue.com/photos/6ac8d96a11ad75543eea75e1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
-
-
-
-
-
-
-
-
-
-Runway
-
-
-
-
-
-[The Top 10 Most-Viewed SS27 Shows on _Vogue Runway_](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
-
-
-
-
-
-
-
-By Nicole Phelps
-
-- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
+- [![As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In](https://assets.vogue.com/photos/6aedf6f480ed9a4c0abe08f7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
 
 
 
@@ -133,13 +105,13 @@ By Nicole Phelps
 
 
 
-Events
+Fashion Industry Trends
 
 
 
 
 
-[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
+[As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In](https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
 
 
 
@@ -147,7 +119,7 @@ Events
 
 
 
-By Vogue Business Team
+By Lucy Maguire
 
 
 And it’s a bigger effort. Previous fashion collabs (Bode, Jacquemus, for instance) were incredibly hard to acquire. NikeSkims, as a standalone brand, promises to be a mass market play, widely accessible in owned and retailer locations. (Though the price point is still under wraps.) “This is the biggest sign in a long time that I’ve seen of Nike showing that it’s investing in its female consumer rather than talking about it,” says Daniel-Yaw Miller, author of the Sportsverse Substack and brand advisor.
@@ -161,7 +133,33 @@ It also signals Nike’s commitment to developing technical products for women. 
 
 Most Popular
 
-- [![Anthony Vaccarello Bows Out at Saint Laurent](https://assets.vogue.com/photos/6ab3b1f1df91bde3537097a7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
+- [![What the “Ferritin Face” Trend Says About the Future of Beauty](https://assets.vogue.com/photos/6aec6f0f51640559622b7e61/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-the-ferritin-face-trend-says-about-the-future-of-beauty#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
+
+
+
+
+
+
+
+
+
+Beauty
+
+
+
+
+
+[What the “Ferritin Face” Trend Says About the Future of Beauty](https://www.vogue.com/article/what-the-ferritin-face-trend-says-about-the-future-of-beauty#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
+
+
+
+
+
+
+
+By Amy Francombe
+
+- [![Martine Rose Is the New Creative Director of Balenciaga](https://assets.vogue.com/photos/6aecf57c3b08cd2413ac4b60/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/martine-rose-is-the-new-creative-director-of-balenciaga#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
 
 
 
@@ -177,7 +175,7 @@ Creative Directors
 
 
 
-[Anthony Vaccarello Bows Out at Saint Laurent](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
+[Martine Rose Is the New Creative Director of Balenciaga](https://www.vogue.com/article/martine-rose-is-the-new-creative-director-of-balenciaga#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
 
 
 
@@ -185,35 +183,9 @@ Creative Directors
 
 
 
-By Luke Leitch
+By Lucy Maguire
 
-- [![The Top 10 Most-Viewed SS27 Shows on Vogue Runway](https://assets.vogue.com/photos/6ac8d96a11ad75543eea75e1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
-
-
-
-
-
-
-
-
-
-Runway
-
-
-
-
-
-[The Top 10 Most-Viewed SS27 Shows on _Vogue Runway_](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
-
-
-
-
-
-
-
-By Nicole Phelps
-
-- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
+- [![As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In](https://assets.vogue.com/photos/6aedf6f480ed9a4c0abe08f7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
 
 
 
@@ -223,13 +195,13 @@ By Nicole Phelps
 
 
 
-Events
+Fashion Industry Trends
 
 
 
 
 
-[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
+[As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In](https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
 
 
 
@@ -237,7 +209,7 @@ Events
 
 
 
-By Vogue Business Team
+By Lucy Maguire
 
 
 These learnings are likely to bleed out beyond the sub-brand to Nike’s main women’s line, Miller adds. “Nike could use it to inform how it designs the rest of its products for women and take insights based on the data — they get to understand what works and what doesn’t.” (On the flip side, Skims will also gain access to Nike’s more technical activewear tech.)
@@ -252,7 +224,33 @@ These days, consumers want products that work, experts agree, so emphasis needs 
 
 Most Popular
 
-- [![Anthony Vaccarello Bows Out at Saint Laurent](https://assets.vogue.com/photos/6ab3b1f1df91bde3537097a7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
+- [![What the “Ferritin Face” Trend Says About the Future of Beauty](https://assets.vogue.com/photos/6aec6f0f51640559622b7e61/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-the-ferritin-face-trend-says-about-the-future-of-beauty#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
+
+
+
+
+
+
+
+
+
+Beauty
+
+
+
+
+
+[What the “Ferritin Face” Trend Says About the Future of Beauty](https://www.vogue.com/article/what-the-ferritin-face-trend-says-about-the-future-of-beauty#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
+
+
+
+
+
+
+
+By Amy Francombe
+
+- [![Martine Rose Is the New Creative Director of Balenciaga](https://assets.vogue.com/photos/6aecf57c3b08cd2413ac4b60/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/martine-rose-is-the-new-creative-director-of-balenciaga#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
 
 
 
@@ -268,7 +266,7 @@ Creative Directors
 
 
 
-[Anthony Vaccarello Bows Out at Saint Laurent](https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
+[Martine Rose Is the New Creative Director of Balenciaga](https://www.vogue.com/article/martine-rose-is-the-new-creative-director-of-balenciaga#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
 
 
 
@@ -276,35 +274,9 @@ Creative Directors
 
 
 
-By Luke Leitch
+By Lucy Maguire
 
-- [![The Top 10 Most-Viewed SS27 Shows on Vogue Runway](https://assets.vogue.com/photos/6ac8d96a11ad75543eea75e1/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
-
-
-
-
-
-
-
-
-
-Runway
-
-
-
-
-
-[The Top 10 Most-Viewed SS27 Shows on _Vogue Runway_](https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
-
-
-
-
-
-
-
-By Nicole Phelps
-
-- [![Register to Attend | The Vogue Business Fashion Month SS27 Lookback](https://assets.vogue.com/photos/6aa12921c42ecdfbd04b7dfe/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
+- [![As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In](https://assets.vogue.com/photos/6aedf6f480ed9a4c0abe08f7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
 
 
 
@@ -314,13 +286,13 @@ By Nicole Phelps
 
 
 
-Events
+Fashion Industry Trends
 
 
 
 
 
-[Register to Attend \| The _Vogue Business_ Fashion Month SS27 Lookback](https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback#intcid=378cb21b-43e7-4bc4-8dc6-f53ff68ec4b5)
+[As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In](https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in#intcid=8a30138a-2b8d-430d-9e48-9418a48d706a)
 
 
 
@@ -328,7 +300,7 @@ Events
 
 
 
-By Vogue Business Team
+By Lucy Maguire
 
 
 This will make or break NikeSkims, Walia says. To succeed the product needs compression and support that adapts to different body types; pieces that move seamlessly between performance and everyday wear (“there’s room to refine this for women, in a post-athleisure world,” she says); and marketing that puts function at the fore. “If the narrative leans too much into aesthetics, it risks being perceived as just another lifestyle brand,” Walia says.
@@ -353,34 +325,34 @@ _Comments, questions or feedback? Email us at_ _[feedback@voguebusiness.com](mai
 
 [Madeleine Schulz](https://www.vogue.com/contributor/madeleine-schulz) is the US Editor at _Vogue Business_, where she covers fashion news, trends, and industry shake-ups and crossovers. She was most recently a reporter and editorial associate at _Vogue Business_ and editorial assistant at _Flaunt_ magazine in Los Angeles. She is based in New York. ... [Read More](https://www.vogue.com/contributor/madeleine-schulz)
 
-[![The Vogue Business Beauty Trend Tracker](https://assets.vogue.com/photos/6ac7aae58ca7c27db3af1b11/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615)
+[![Hailey! Kendall! Bella! Inside Activewear’s Mega-Influencer Race](https://assets.vogue.com/photos/6ae24aa9ce216a575cc7fc10/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/hailey-kendall-bella-inside-activewears-mega-influencer-wars#intcid=edf4a4c6-fbea-4b5e-b3d6-4603e20f6f39)
 
-Beauty
+Fashion
 
-[The _Vogue Business_ Beauty Trend Tracker](https://www.vogue.com/article/the-vogue-business-beauty-tracker#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615)
+[Hailey! Kendall! Bella! Inside Activewear’s Mega-Influencer Race](https://www.vogue.com/article/hailey-kendall-bella-inside-activewears-mega-influencer-wars#intcid=edf4a4c6-fbea-4b5e-b3d6-4603e20f6f39)
 
-By Vogue Business Team
+By Madeleine Schulz
 
-[![The Vogue Business TikTok Trend Tracker](https://assets.vogue.com/photos/6abd3963fe9901c003f6c227/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615)
+[![Who Won Fashion Month SS27 on Social Media?](https://assets.vogue.com/photos/6acd232a1a2087292d73a3ce/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/who-won-fashion-month-ss27-on-social-media#intcid=edf4a4c6-fbea-4b5e-b3d6-4603e20f6f39)
 
-Future Edit
+Fashion
 
-[The _Vogue Business_ TikTok Trend Tracker](https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615)
+[Who Won Fashion Month SS27 on Social Media?](https://www.vogue.com/article/who-won-fashion-month-ss27-on-social-media#intcid=edf4a4c6-fbea-4b5e-b3d6-4603e20f6f39)
 
-By Lucy Maguire
+By Amy Francombe
 
-[![The Vogue Business People Moves Tracker](https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615)
+[![Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://assets.vogue.com/photos/6acd005f760cb71dd6d4bfb2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=edf4a4c6-fbea-4b5e-b3d6-4603e20f6f39)
 
 Companies
 
-[The _Vogue Business_ People Moves Tracker](https://www.vogue.com/article/the-vogue-business-people-moves-tracker#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615)
+[Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=edf4a4c6-fbea-4b5e-b3d6-4603e20f6f39)
 
-By Vogue Business Team
+By Madeleine Schulz
 
-[![The Vogue Business AI Tracker](https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615)
+[![Shanghai Designer Mark Gong’s Million-Dollar Moment](https://assets.vogue.com/photos/6ad20430c09ed190fefd3a16/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/shanghai-designer-mark-gongs-million-dollar-moment#intcid=edf4a4c6-fbea-4b5e-b3d6-4603e20f6f39)
 
-Technology
+Fashion
 
-[The _Vogue Business_ AI Tracker](https://www.vogue.com/story/technology/the-vogue-business-ai-tracker#intcid=014c5e9e-7a5b-4f60-ba32-6f76b713e615)
+[Shanghai Designer Mark Gong’s Million-Dollar Moment](https://www.vogue.com/article/shanghai-designer-mark-gongs-million-dollar-moment#intcid=edf4a4c6-fbea-4b5e-b3d6-4603e20f6f39)
 
-By Amy O’Brien
+By Ashley Ogawa Clarke

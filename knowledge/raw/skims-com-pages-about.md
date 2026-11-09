@@ -2,7 +2,7 @@
 url: https://skims.com/pages/about
 source_type: skims.com
 title: About | SKIMS
-scraped_at: 2026-11-02T14:19:54.821230+00:00
+scraped_at: 2026-11-09T14:47:12.526194+00:00
 ---
 
 [Skip to main content](https://skims.com/pages/about#main-content)
@@ -78,17 +78,143 @@ Shop Best Sellers
 
 ## EXPLORE MORE
 
-[![COTTON JERSEY FOLDOVER PANT | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-AP-PNT-0715-ESP-FLT_bc4d69c4-febd-4b60-a1d0-7477893a2962_grande.jpg?v=1787781729&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-foldover-pant-espresso "COTTON JERSEY FOLDOVER PANT | ESPRESSO")
+[![LIGHTWEIGHT COTTON LOGO PICOT STRING BIKINI | CAFE ARGYLE PRINT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BK-BIK-5960W-CAP-FLT_grande.jpg?v=1785776634&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-logo-picot-string-bikini-cafe-argyle-print "LIGHTWEIGHT COTTON LOGO PICOT STRING BIKINI | CAFE ARGYLE PRINT")
 
-[COTTON JERSEY\\
+[LIGHTWEIGHT COTTON\\
 \\
-**FOLDOVER PANT**\\
+**LOGO PICOT STRING BIKINI**\\
 \\
-$68](https://skims.com/products/cotton-jersey-foldover-pant-espresso)
+$14$7](https://skims.com/products/lightweight-cotton-logo-picot-string-bikini-cafe-argyle-print)
 
 Color
 
-espresso
+cafe argyle print
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![COTTON RIB HENLEY LONG SLEEVE | FOG](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-LSL-13400W-FOG-FLT_grande.jpg?v=1791924652&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-rib-henley-long-sleeve-fog "COTTON RIB HENLEY LONG SLEEVE | FOG")
+
+[COTTON RIB\\
+\\
+**HENLEY LONG SLEEVE**\\
+\\
+$64](https://skims.com/products/cotton-rib-henley-long-sleeve-fog)
+
+Color
+
+fog
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![SKIMS SLEEP LONG SLEEVE BUTTON UP SET | BRICK FROSTY CABIN](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-LON-13583W-BKFN-FLT-T-COMPOSITE_grande.jpg?v=1792879559&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-sleep-long-sleeve-button-up-set-brick-frosty-cabin "SKIMS SLEEP LONG SLEEVE BUTTON UP SET | BRICK FROSTY CABIN")
+
+[SKIMS SLEEP\\
+\\
+**LONG SLEEVE BUTTON UP SET**\\
+\\
+$98](https://skims.com/products/skims-sleep-long-sleeve-button-up-set-brick-frosty-cabin)
+
+Color
+
+brick frosty cabin
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![COTTON JERSEY V NECK LONG SLEEVE TOP  | SOOT](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-LSL-12805W-SOT-FLT_92adb8e9-2c42-468d-b152-96ae1416ae1e_grande.jpg?v=1787781733&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-jersey-v-neck-long-sleeve-top-soot "COTTON JERSEY V NECK LONG SLEEVE TOP  | SOOT")
+
+[COTTON JERSEY\\
+\\
+**V NECK LONG SLEEVE TOP**\\
+\\
+$64](https://skims.com/products/cotton-jersey-v-neck-long-sleeve-top-soot)
+
+Color
+
+soot
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![FITS EVERYBODY T-SHIRT | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-TSH-0649-ONX-FL_grande.jpg?v=1615492274&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-t-shirt-onyx "FITS EVERYBODY T-SHIRT | ONYX")
+
+[FITS EVERYBODY\\
+\\
+**T-SHIRT**\\
+\\
+$48](https://skims.com/products/fits-everybody-t-shirt-onyx)
+
+Color
+
+onyx
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![FITS EVERYBODY SCOOP BRALETTE | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/BR-SCN-0025-ONX-FL_grande.jpg?v=1711846398&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-scoop-bralette-onyx "FITS EVERYBODY SCOOP BRALETTE | ONYX")
+
+[FITS EVERYBODY\\
+\\
+**SCOOP BRALETTE**\\
+\\
+$34](https://skims.com/products/fits-everybody-scoop-bralette-onyx)
+
+Color
+
+onyx
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![COTTON FLEECE CREWNECK | CURRANT ARCHED SKIMS PLAID](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGWEAR-TP-LSL-13021W-CUR_grande.jpg?v=1785537929&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-crewneck-currant-arched-skims-plaid "COTTON FLEECE CREWNECK | CURRANT ARCHED SKIMS PLAID")
+
+[COTTON FLEECE\\
+\\
+**CREWNECK**\\
+\\
+$98](https://skims.com/products/cotton-fleece-crewneck-currant-arched-skims-plaid)
+
+Color
+
+currant arched skims plaid
+
+Select Size
+
+Select Size
+
+Add to Bag
+
+[![FITS EVERYBODY LACE TRIANGLE CAMI AND BOY SHORT SET | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-ST-SET-9793W-ONX-FLT_grande.jpg?v=1773088674&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-triangle-cami-and-boy-short-set-onyx "FITS EVERYBODY LACE TRIANGLE CAMI AND BOY SHORT SET | ONYX")
+
+[FITS EVERYBODY LACE\\
+\\
+**TRIANGLE CAMI AND BOY SHORT SET**\\
+\\
+$74](https://skims.com/products/fits-everybody-lace-triangle-cami-and-boy-short-set-onyx)
+
+Color
+
+onyx
 
 Select Size
 
@@ -114,143 +240,13 @@ Select Size
 
 Add to Bag
 
-[![COTTON FLEECE LOGO HOODIE | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14069W-ESP-FLT_grande.jpg?v=1789604686&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-logo-hoodie-espresso "COTTON FLEECE LOGO HOODIE | ESPRESSO")
+[![SKIMS BODY UNLINED PLUNGE THONG BODYSUIT | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BODYSUIT-BD-THG-3286-ONX_b4ff4bcf-9b9a-4670-b1db-4dd5bd1dc042_grande.jpg?v=1753895259&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/skims-body-unlined-plunge-thong-bodysuit-onyx "SKIMS BODY UNLINED PLUNGE THONG BODYSUIT | ONYX")
 
-[COTTON FLEECE\\
+[SKIMS BODY\\
 \\
-**LOGO HOODIE**\\
+**UNLINED PLUNGE THONG BODYSUIT**\\
 \\
-$98](https://skims.com/products/cotton-fleece-logo-hoodie-espresso)
-
-Color
-
-espresso
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![COTTON FLEECE LOGO ZIP UP HOODIE | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-TP-SCL-14070W-ESP-FLT_grande.jpg?v=1789604690&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-logo-zip-up-hoodie-espresso "COTTON FLEECE LOGO ZIP UP HOODIE | ESPRESSO")
-
-[COTTON FLEECE\\
-\\
-**LOGO ZIP UP HOODIE**\\
-\\
-$98](https://skims.com/products/cotton-fleece-logo-zip-up-hoodie-espresso)
-
-Color
-
-espresso
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![FITS EVERYBODY LACE UNLINED SCOOP BRA | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BA-DEM-9062-ESP-FLT_13f108b6-f327-43a8-b915-ed6b42871c09_grande.jpg?v=1787343636&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-espresso "FITS EVERYBODY LACE UNLINED SCOOP BRA | ESPRESSO")
-
-[FITS EVERYBODY LACE\\
-\\
-**UNLINED SCOOP BRA**\\
-\\
-$54](https://skims.com/products/fits-everybody-lace-unlined-scoop-bra-espresso)
-
-Color
-
-espresso
-
-Select Band Size
-
-Select Band Size
-
-Select Cup Size
-
-Select Cup Size
-
-Add to Bag
-
-[![COTTON FLEECE LOGO STRAIGHT LEG PANT | ESPRESSO](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-LOUNGEWEAR-BT-PNT-14071W-ESP-FLT_grande.jpg?v=1789604682&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/cotton-fleece-logo-straight-leg-pant-espresso "COTTON FLEECE LOGO STRAIGHT LEG PANT | ESPRESSO")
-
-[COTTON FLEECE\\
-\\
-**LOGO STRAIGHT LEG PANT**\\
-\\
-$88](https://skims.com/products/cotton-fleece-logo-straight-leg-pant-espresso)
-
-Color
-
-espresso
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![LIGHTWEIGHT COTTON POINTELLE LACE BRIEF | SOOT TONAL](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-PANTY-BR-BRF-8499W-SOT_grande.jpg?v=1768612703&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/lightweight-cotton-pointelle-lace-brief-soot-tonal "LIGHTWEIGHT COTTON POINTELLE LACE BRIEF | SOOT TONAL")
-
-[LIGHTWEIGHT COTTON\\
-\\
-**POINTELLE LACE BRIEF**\\
-\\
-$14](https://skims.com/products/lightweight-cotton-pointelle-lace-brief-soot-tonal)
-
-Color
-
-soot tonal
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![EVERYDAY COTTON SCOOP BRALETTE | LIGHT HEATHER GREY](https://skims.imgix.net/s/files/1/0259/5448/4284/files/SKIMS-BRA-BR-BRL-10643W-LHG-FLT_grande.jpg?v=1771368259&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/everyday-cotton-scoop-bralette-light-heather-grey "EVERYDAY COTTON SCOOP BRALETTE | LIGHT HEATHER GREY")
-
-[EVERYDAY COTTON\\
-\\
-**SCOOP BRALETTE**\\
-\\
-$34](https://skims.com/products/everyday-cotton-scoop-bralette-light-heather-grey)
-
-Color
-
-light heather grey
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![FITS EVERYBODY LACE STRING THONG | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-PANTY-PN-TNG-2684-ONX_00fa50ec-f718-4a4d-9191-cec3206775ed_grande.jpg?v=1685752457&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-lace-string-thong-onyx "FITS EVERYBODY LACE STRING THONG | ONYX")
-
-[FITS EVERYBODY LACE\\
-\\
-**STRING THONG**\\
-\\
-$20](https://skims.com/products/fits-everybody-lace-string-thong-onyx)
-
-Color
-
-onyx
-
-Select Size
-
-Select Size
-
-Add to Bag
-
-[![FITS EVERYBODY SQUARE NECK BODYSUIT | ONYX](https://skims.imgix.net/s/files/1/0259/5448/4284/products/SKIMS-BODYSUIT-BS-SCN-0294-ONX-FL_824c09f6-9876-4bb4-a738-dbb8089db60b_grande.jpg?v=1773087468&auto=format&q=70&ixlib=react-9.11.0)](https://skims.com/products/fits-everybody-square-neck-bodysuit-onyx "FITS EVERYBODY SQUARE NECK BODYSUIT | ONYX")
-
-[FITS EVERYBODY\\
-\\
-**SQUARE NECK BODYSUIT**\\
-\\
-$58](https://skims.com/products/fits-everybody-square-neck-bodysuit-onyx)
+$88](https://skims.com/products/skims-body-unlined-plunge-thong-bodysuit-onyx)
 
 Color
 

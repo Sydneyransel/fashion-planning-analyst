@@ -2,7 +2,7 @@
 url: https://www.vogue.com/article/kim-kardashian-west-on-shapewear
 source_type: vogue.com
 title: Kim Kardashian West: On shapewear | Vogue
-scraped_at: 2026-11-02T14:20:35.002396+00:00
+scraped_at: 2026-11-09T14:47:48.256975+00:00
 ---
 
 [Skip to main content](https://www.vogue.com/article/kim-kardashian-west-on-shapewear#main-content)
@@ -44,7 +44,7 @@ The expansion across product categories allows consumers to build a capsule of n
 
 Most Popular
 
-- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+- [![What the “Ferritin Face” Trend Says About the Future of Beauty](https://assets.vogue.com/photos/6aec6f0f51640559622b7e61/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-the-ferritin-face-trend-says-about-the-future-of-beauty#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -54,13 +54,13 @@ Most Popular
 
 
 
-Events
+Beauty
 
 
 
 
 
-[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+[What the “Ferritin Face” Trend Says About the Future of Beauty](https://www.vogue.com/article/what-the-ferritin-face-trend-says-about-the-future-of-beauty#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -68,9 +68,9 @@ Events
 
 
 
-By Vogue Business Team
+By Amy Francombe
 
-- [![Inside Kering’s First Water Resilience Lab in Italy](https://assets.vogue.com/photos/6ae4d0e748ca54045a0b179b/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-kerings-first-water-resilience-lab-in-italy#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+- [![Martine Rose Is the New Creative Director of Balenciaga](https://assets.vogue.com/photos/6aecf57c3b08cd2413ac4b60/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/martine-rose-is-the-new-creative-director-of-balenciaga#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -80,13 +80,13 @@ By Vogue Business Team
 
 
 
-Sustainability
+Creative Directors
 
 
 
 
 
-[Inside Kering’s First Water Resilience Lab in Italy](https://www.vogue.com/article/inside-kerings-first-water-resilience-lab-in-italy#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+[Martine Rose Is the New Creative Director of Balenciaga](https://www.vogue.com/article/martine-rose-is-the-new-creative-director-of-balenciaga#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -94,9 +94,9 @@ Sustainability
 
 
 
-By Bella Webb
+By Lucy Maguire
 
-- [![As Midterms Approach, US Consumer Anxiety Is High — But Fashion Is Set to Rally](https://assets.vogue.com/photos/6ae494e899832c71435a12de/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/as-midterms-approach-us-consumer-anxiety-is-high-but-fashion-is-set-to-rally#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+- [![As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In](https://assets.vogue.com/photos/6aedf6f480ed9a4c0abe08f7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -106,13 +106,13 @@ By Bella Webb
 
 
 
-Business
+Fashion Industry Trends
 
 
 
 
 
-[As Midterms Approach, US Consumer Anxiety Is High — But Fashion Is Set to Rally](https://www.vogue.com/article/as-midterms-approach-us-consumer-anxiety-is-high-but-fashion-is-set-to-rally#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+[As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In](https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -120,7 +120,7 @@ Business
 
 
 
-By Madeleine Schulz
+By Lucy Maguire
 
 
 Nina Marston of Euromonitor says Skims is changing the shapewear market. “It’s ’leisurie’, lingerie or shapewear that you can wear under clothes or on their own, inside and out of the house.” The global underwear market, which includes shapewear, is still expected to decline by 11 per cent in 2020 to $107 billion, according to Euromonitor, but that is a smaller decline than general apparel.
@@ -139,7 +139,7 @@ Gen Z TikTok star Addison Rae was one of many celebrities to feature in the Skim
 
 Most Popular
 
-- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+- [![What the “Ferritin Face” Trend Says About the Future of Beauty](https://assets.vogue.com/photos/6aec6f0f51640559622b7e61/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-the-ferritin-face-trend-says-about-the-future-of-beauty#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -149,13 +149,13 @@ Most Popular
 
 
 
-Events
+Beauty
 
 
 
 
 
-[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+[What the “Ferritin Face” Trend Says About the Future of Beauty](https://www.vogue.com/article/what-the-ferritin-face-trend-says-about-the-future-of-beauty#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -163,9 +163,9 @@ Events
 
 
 
-By Vogue Business Team
+By Amy Francombe
 
-- [![Inside Kering’s First Water Resilience Lab in Italy](https://assets.vogue.com/photos/6ae4d0e748ca54045a0b179b/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-kerings-first-water-resilience-lab-in-italy#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+- [![Martine Rose Is the New Creative Director of Balenciaga](https://assets.vogue.com/photos/6aecf57c3b08cd2413ac4b60/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/martine-rose-is-the-new-creative-director-of-balenciaga#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -175,13 +175,13 @@ By Vogue Business Team
 
 
 
-Sustainability
+Creative Directors
 
 
 
 
 
-[Inside Kering’s First Water Resilience Lab in Italy](https://www.vogue.com/article/inside-kerings-first-water-resilience-lab-in-italy#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+[Martine Rose Is the New Creative Director of Balenciaga](https://www.vogue.com/article/martine-rose-is-the-new-creative-director-of-balenciaga#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -189,9 +189,9 @@ Sustainability
 
 
 
-By Bella Webb
+By Lucy Maguire
 
-- [![As Midterms Approach, US Consumer Anxiety Is High — But Fashion Is Set to Rally](https://assets.vogue.com/photos/6ae494e899832c71435a12de/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/as-midterms-approach-us-consumer-anxiety-is-high-but-fashion-is-set-to-rally#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+- [![As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In](https://assets.vogue.com/photos/6aedf6f480ed9a4c0abe08f7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -201,13 +201,13 @@ By Bella Webb
 
 
 
-Business
+Fashion Industry Trends
 
 
 
 
 
-[As Midterms Approach, US Consumer Anxiety Is High — But Fashion Is Set to Rally](https://www.vogue.com/article/as-midterms-approach-us-consumer-anxiety-is-high-but-fashion-is-set-to-rally#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+[As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In](https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -215,7 +215,7 @@ Business
 
 
 
-By Madeleine Schulz
+By Lucy Maguire
 
 
 Whether or not it is a successful marketing gambit, Kardashian West insists the ultra-rapid sell-out of product has taken her by surprise. “It’s just honestly a demand issue, which is the best problem to have, obviously,” she says. “Every time we think that we order a big enough order, once people start receiving the products and feel the quality, by the time we restock, it sometimes sells out even quicker than the initial launch.” Skims has had over three million waitlist sign-ups since launch, according to the brand.
@@ -236,7 +236,7 @@ The body-positivity movement has pushed [diversity and inclusion](https://www.mc
 
 Most Popular
 
-- [![Join The Waitlist | Vogue Business Global Summit: New York](https://assets.vogue.com/photos/6a9fd814d37209a9e50e9780/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+- [![What the “Ferritin Face” Trend Says About the Future of Beauty](https://assets.vogue.com/photos/6aec6f0f51640559622b7e61/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/what-the-ferritin-face-trend-says-about-the-future-of-beauty#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -246,13 +246,13 @@ Most Popular
 
 
 
-Events
+Beauty
 
 
 
 
 
-[Join The Waitlist \| Vogue Business Global Summit: New York](https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+[What the “Ferritin Face” Trend Says About the Future of Beauty](https://www.vogue.com/article/what-the-ferritin-face-trend-says-about-the-future-of-beauty#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -260,9 +260,9 @@ Events
 
 
 
-By Vogue Business Team
+By Amy Francombe
 
-- [![Inside Kering’s First Water Resilience Lab in Italy](https://assets.vogue.com/photos/6ae4d0e748ca54045a0b179b/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/inside-kerings-first-water-resilience-lab-in-italy#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+- [![Martine Rose Is the New Creative Director of Balenciaga](https://assets.vogue.com/photos/6aecf57c3b08cd2413ac4b60/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/martine-rose-is-the-new-creative-director-of-balenciaga#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -272,13 +272,13 @@ By Vogue Business Team
 
 
 
-Sustainability
+Creative Directors
 
 
 
 
 
-[Inside Kering’s First Water Resilience Lab in Italy](https://www.vogue.com/article/inside-kerings-first-water-resilience-lab-in-italy#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+[Martine Rose Is the New Creative Director of Balenciaga](https://www.vogue.com/article/martine-rose-is-the-new-creative-director-of-balenciaga#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -286,9 +286,9 @@ Sustainability
 
 
 
-By Bella Webb
+By Lucy Maguire
 
-- [![As Midterms Approach, US Consumer Anxiety Is High — But Fashion Is Set to Rally](https://assets.vogue.com/photos/6ae494e899832c71435a12de/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/as-midterms-approach-us-consumer-anxiety-is-high-but-fashion-is-set-to-rally#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+- [![As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In](https://assets.vogue.com/photos/6aedf6f480ed9a4c0abe08f7/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -298,13 +298,13 @@ By Bella Webb
 
 
 
-Business
+Fashion Industry Trends
 
 
 
 
 
-[As Midterms Approach, US Consumer Anxiety Is High — But Fashion Is Set to Rally](https://www.vogue.com/article/as-midterms-approach-us-consumer-anxiety-is-high-but-fashion-is-set-to-rally#intcid=6a789a35-276d-4bd4-86cb-4c6ede22b00e)
+[As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In](https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in#intcid=9b421c34-abe0-4047-8cee-d979ca906595)
 
 
 
@@ -312,7 +312,7 @@ Business
 
 
 
-By Madeleine Schulz
+By Lucy Maguire
 
 
 In September, Skims was criticised on social media for launching maternity shapewear. “There were some people that didn’t understand what it was really trying to do,” says Kardashian West. “I wanted it to be extra comfortable and secure to provide support.”
@@ -347,34 +347,34 @@ _Comments, questions or feedback? Email us at_ [_feedback@voguebusiness.com_](ma
 - [Instagram](https://www.instagram.com/lucy_maguire_/?hl=en)
 - [LinkedIn](https://www.linkedin.com/in/lucy-maguire-174807118/?originalSubdomain=uk)
 
-[![Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://assets.vogue.com/photos/6acd005f760cb71dd6d4bfb2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
+[![Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://assets.vogue.com/photos/6acd005f760cb71dd6d4bfb2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=b96254b9-4d57-4b33-9bb2-78e7dee7627f)
 
 Companies
 
-[Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
+[Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?](https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next#intcid=b96254b9-4d57-4b33-9bb2-78e7dee7627f)
 
 By Madeleine Schulz
 
-[![The Vogue Business Spring/Summer 2027 Size Inclusivity Report](https://assets.vogue.com/photos/6ad25833eeb470219a506143/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-size-inclusivity-report#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
+[![The Vogue Business Spring/Summer 2027 Size Inclusivity Report](https://assets.vogue.com/photos/6ad25833eeb470219a506143/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-size-inclusivity-report#intcid=b96254b9-4d57-4b33-9bb2-78e7dee7627f)
 
 Fashion Month
 
-[The _Vogue Business_ Spring/Summer 2027 Size Inclusivity Report](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-size-inclusivity-report#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
+[The _Vogue Business_ Spring/Summer 2027 Size Inclusivity Report](https://www.vogue.com/article/the-vogue-business-spring-summer-2027-size-inclusivity-report#intcid=b96254b9-4d57-4b33-9bb2-78e7dee7627f)
 
 By Joe Bobowicz
 
-[![Consumers Want Freaky Shoes. Brands Are Stepping It Up](https://assets.vogue.com/photos/6ac3e39cf8046983f88fc8d2/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/consumers-want-freaky-shoes-brands-are-stepping-it-up#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
-
-Fashion Industry Trends
-
-[Consumers Want Freaky Shoes. Brands Are Stepping It Up](https://www.vogue.com/article/consumers-want-freaky-shoes-brands-are-stepping-it-up#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
-
-By Madeleine Schulz
-
-[![Hailey! Kendall! Bella! Inside Activewear’s Mega-Influencer Race](https://assets.vogue.com/photos/6ae24aa9ce216a575cc7fc10/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/hailey-kendall-bella-inside-activewears-mega-influencer-wars#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
+[![Hailey! Kendall! Bella! Inside Activewear’s Mega-Influencer Race](https://assets.vogue.com/photos/6ae24aa9ce216a575cc7fc10/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/hailey-kendall-bella-inside-activewears-mega-influencer-wars#intcid=b96254b9-4d57-4b33-9bb2-78e7dee7627f)
 
 Fashion
 
-[Hailey! Kendall! Bella! Inside Activewear’s Mega-Influencer Race](https://www.vogue.com/article/hailey-kendall-bella-inside-activewears-mega-influencer-wars#intcid=6e894cfc-e273-4e40-a1be-5f397dc044f7)
+[Hailey! Kendall! Bella! Inside Activewear’s Mega-Influencer Race](https://www.vogue.com/article/hailey-kendall-bella-inside-activewears-mega-influencer-wars#intcid=b96254b9-4d57-4b33-9bb2-78e7dee7627f)
 
 By Madeleine Schulz
+
+[![The Great Couture Comeback](https://assets.vogue.com/photos/6ae3479deb8cd13c6b34b1a1/1:1/w_640%2Cc_limit/undefined)](https://www.vogue.com/article/the-great-couture-comeback#intcid=b96254b9-4d57-4b33-9bb2-78e7dee7627f)
+
+Fashion
+
+[The Great Couture Comeback](https://www.vogue.com/article/the-great-couture-comeback#intcid=b96254b9-4d57-4b33-9bb2-78e7dee7627f)
+
+By Ashley Ogawa Clarke
